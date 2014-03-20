@@ -1,0 +1,209 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-20 09:39+0000\n"
+"PO-Revision-Date: 2014-03-17 17:34+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/files_cleaner/controller.php:24
+msgid "Files Cleaner"
+msgstr "Schonere bestanden"
+
+#: packages/files_cleaner/controller.php:31
+msgid "**USE AT YOUR OWN RISK**"
+msgstr "** GEBRUIK OP UW EIGEN RISICO **"
+
+#: packages/files_cleaner/controller.php:31
+msgid ""
+"Helps you removing temporary files & unuseful files (you’ll find it under "
+"Dashboard -> System & Settings -> Optimization -> Clear Files)."
+msgstr "Helpt u bij het verwijderen van tijdelijke bestanden & unuseful bestanden (u vindt het onder Dashboard-> systeem & instellingen-> optimalisatie-> duidelijk bestanden)."
+
+#: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:19
+#: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:24
+#: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:42
+#: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:47
+#, php-format
+msgid "Invalid parameter: %s"
+msgstr "Ongeldige parameter: %s"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:36
+#: packages/files_cleaner/libraries/clear_files_provider.php:58
+#: packages/files_cleaner/libraries/clear_files_providers/base/empty_folders.php:13
+#: packages/files_cleaner/libraries/clear_files_providers/base/old_files.php:17
+#: packages/files_cleaner/libraries/clear_files_providers/base/old_files.php:25
+#, php-format
+msgid "Method '%1$s' not implemented in class '%2$s'"
+msgstr "Methode '%1$ s' niet geïmplementeerd in de klasse '%2$ s'"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:99
+#, php-format
+msgid "Unable to open folder %s"
+msgstr "Niet in staat om map %s te openen"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:149
+#, php-format
+msgid "Error deleting folder %s"
+msgstr "Fout verwijderen map %s"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:159
+#, php-format
+msgid "Error deleting file %s"
+msgstr "Fout bij verwijderen van bestand %s"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:195
+#, php-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d jaar"
+msgstr[1] "%d jaren"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:195
+#, php-format
+msgid "%d years"
+msgstr "%d jaaren"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:196
+#: packages/files_cleaner/libraries/clear_files_provider.php:210
+#, php-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d maand"
+msgstr[1] "%d maanden"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:196
+#, php-format
+msgid "%d months"
+msgstr "%d maanden"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:197
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d dag"
+msgstr[1] "%d dagen"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:197
+#, php-format
+msgid "%d days"
+msgstr "%d dagen"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:198
+#, php-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d uur"
+msgstr[1] "%d uren"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:198
+#, php-format
+msgid "%d hours"
+msgstr "%d uuren"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:199
+#, php-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d minuut"
+msgstr[1] "%d minuten"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:199
+#, php-format
+msgid "%d minutes"
+msgstr "%d minuten"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:200
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d seconde"
+msgstr[1] "%d seconden"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:200
+#, php-format
+msgid "%d seconds"
+msgstr "%d seconden"
+
+#: packages/files_cleaner/libraries/clear_files_providers/base/deleted_files.php:8
+#: packages/files_cleaner/libraries/clear_files_providers/deleted_files.php:8
+msgid "Deleted files"
+msgstr "Verwijderde bestanden"
+
+#: packages/files_cleaner/libraries/clear_files_providers/base/old_files.php:9
+#, php-format
+msgid "We consider as \"old\" the files (created or modified) older than %s."
+msgstr "Wij beschouwen als \"oud\" de bestanden (gemaakt of gewijzigd) ouder dan %s."
+
+#: packages/files_cleaner/libraries/clear_files_providers/deleted_thumbnails.php:8
+msgid "Deleted thumbnails"
+msgstr "Verwijderde Miniaturen"
+
+#: packages/files_cleaner/libraries/clear_files_providers/old_c5_versions.php:6
+msgid "Previous concrete5 versions"
+msgstr "Oudere versies van de concrete5"
+
+#: packages/files_cleaner/libraries/clear_files_providers/old_temp_files.php:8
+msgid "Old temporary files"
+msgstr "Oude tijdelijke bestanden"
+
+#: packages/files_cleaner/libraries/clear_files_providers/old_trash_files.php:8
+msgid "Old trashed files"
+msgstr "Oude prullenbak bestanden"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:17
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:27
+msgid "Please wait"
+msgstr "Een ogenblik geduld"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:33
+msgid "Delete files/directories"
+msgstr "Verwijderen bestanden/directories"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:71
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:157
+msgid "Empty result!"
+msgstr "Leeg resultaat!"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:85
+msgid "Directories: "
+msgstr "Mappen: "
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:95
+msgid "Files: "
+msgstr "Bestanden: "
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:131
+msgid "Directories"
+msgstr "Mappen"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:131
+msgid "Files"
+msgstr "Bestanden"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:141
+msgid "Are you sure you want to proceed?"
+msgstr "Weet u zeker dat u wilt doorgaan?"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:260
+msgid "Clear Files"
+msgstr "Wissen bestanden"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:260
+msgid ""
+"This page allows you to clear potentially unuseful files. **USE AT YOUR OWN "
+"RISK**"
+msgstr "Deze pagina kunt u potentieel unuseful bestanden kunt wissen. ** GEBRUIK OP UW EIGEN RISICO **"

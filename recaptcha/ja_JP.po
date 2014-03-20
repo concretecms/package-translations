@@ -1,0 +1,49 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-06 15:13+0000\n"
+"PO-Revision-Date: 2014-03-17 17:29+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/concrete5-packages/language/ja_JP/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/recaptcha/controller.php:10 packages/recaptcha/controller.php:35
+msgid "reCAPTCHA"
+msgstr ""
+
+#: packages/recaptcha/controller.php:14
+msgid "Allow to use the reCAPTCHA captcha."
+msgstr ""
+
+#: packages/recaptcha/elements/system/captcha/recaptcha/form.php:11
+msgid "reCAPTCHA public key"
+msgstr ""
+
+#: packages/recaptcha/elements/system/captcha/recaptcha/form.php:17
+msgid "reCAPTCHA private key"
+msgstr ""
+
+#: packages/recaptcha/elements/system/captcha/recaptcha/form.php:24
+#, php-format
+msgid ""
+"You can get the public and private keys from <a target=\"_blank\" "
+"href=\"%s\">this page</a>."
+msgstr ""
+
+#: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:8
+msgid "Please type the letters and numbers shown in the image."
+msgstr ""
+
+#: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:15
+#: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:38
+msgid "Please specify the reCAPTCHA keys"
+msgstr ""

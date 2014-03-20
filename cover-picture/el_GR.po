@@ -1,0 +1,59 @@
+# 
+# Translators:
+# Vasilis Fotopoulos <bas_alba@yahoo.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"POT-Creation-Date: 2014-03-14 16:24+0100\n"
+"PO-Revision-Date: 2014-03-20 17:55+0000\n"
+"Last-Translator: Vasilis Fotopoulos <bas_alba@yahoo.com>\n"
+"Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: C:\\Work\\concrete5-cover-picture\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/controller.php:11
+msgid ""
+"Cover picture where you can add additional text that shows up when you hover"
+" the picture."
+msgstr "Κάλυψη εικόνας, όπου μπορείτε να προσθέσετε επιπλέον κείμενο που να εμφανίζεται όταν περνάτε πάνω από την εικόνα."
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/controller.php:15
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:8
+#: C:\Work\concrete5-cover-picture/controller.php:16
+msgid "Cover Picture"
+msgstr "Cover Picture"
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:11
+msgid "Picture"
+msgstr "Εικόνα"
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:16
+msgid "Text"
+msgstr "Κείμενο"
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:25
+msgid "Overlay Color"
+msgstr "Επικάλυψη Χρώματος"
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:33
+msgid "Overlay Opacity"
+msgstr "Αδιαφάνεια Επικάλυψης "
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_centered/view.php:8
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_on_top/view.php:8
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_slider/view.php:8
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/view.php:8
+msgid "No picture selected"
+msgstr "Δεν έχει επιλεγεί εικόνα"
+
+#: C:\Work\concrete5-cover-picture/controller.php:12
+msgid "Adds a text covered by a picture"
+msgstr "Προσθέτει ένα κείμενο που καλύπτεται από μια εικόνα"

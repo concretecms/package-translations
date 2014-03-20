@@ -1,0 +1,64 @@
+# 
+# Translators:
+# Michele Locati <michele@locati.it>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"POT-Creation-Date: 2014-03-14 16:15+0100\n"
+"PO-Revision-Date: 2014-03-14 15:26+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: C:\\Work\\concrete5-pagelist-attribute\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/controller.php:18
+msgid "Lists pages connected to the current page."
+msgstr "Elenca pagine collegate alla pagina attuale."
+
+#: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/controller.php:22
+msgid "Connected Page List"
+msgstr "Elenco pagine collegate"
+
+#: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/form_setup_html.php:9
+msgid "Attribute"
+msgstr "Attributo"
+
+#: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/form_setup_html.php:12
+msgid "Attribute to display"
+msgstr "Attributo da mostrare"
+
+#: C:\Work\concrete5-pagelist-attribute/controller.php:12
+msgid "Adds an attribute where you can select pages."
+msgstr "Aggiungi un attributo dove è possibile selezionare le pagine."
+
+#: C:\Work\concrete5-pagelist-attribute/controller.php:16
+msgid "Pagelist Attribute"
+msgstr "Attributo Elenco pagine"
+
+#: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/search.php:18
+msgid "All"
+msgstr "Tutto"
+
+#: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:7
+msgid "Select Options"
+msgstr "Opzioni selezione"
+
+#: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:10
+msgid "Page Type"
+msgstr "Tipo di pagina"
+
+#: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:26
+msgid "Display Drop-Down"
+msgstr "Mostra menù a discesa"
+
+#: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:32
+msgid "Always display drop down in search form."
+msgstr "Mostra sempre un menù a discesa nella maschera di ricerca."

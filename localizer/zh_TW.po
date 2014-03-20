@@ -1,0 +1,310 @@
+# 
+# Translators:
+# Wayne <wayne.cw.kao@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-05 12:51+0000\n"
+"PO-Revision-Date: 2014-03-17 17:37+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/concrete5-packages/language/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/localizer/controller.php:10 packages/localizer/controller.php:32
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:41
+msgid "Localizer"
+msgstr "在地化"
+
+#: packages/localizer/controller.php:14 packages/localizer/controller.php:32
+msgid "Allow localizing special items, for instance user and file attributes."
+msgstr "允許在地化特殊項目,  例如使用者和檔案屬性."
+
+#: packages/localizer/controller.php:35
+msgid ""
+"translate special items, translation, attribute names, attribute set names, "
+"attribute type names, permission names, permission descriptions, access "
+"entity type names"
+msgstr "翻譯特殊項目, 翻譯, 屬性名稱, 屬性組合名稱, 屬性類型名稱, 權限名稱, 權限描述, 存取實體類型名稱"
+
+#: packages/localizer/controller.php:41
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:6
+msgid "Localizer options"
+msgstr "在地化選項"
+
+#: packages/localizer/controller.php:41
+msgid "Set the Localizer options."
+msgstr "設定在地化選項"
+
+#: packages/localizer/controller.php:44
+msgid "localizer options, options localizer"
+msgstr "在地化選項, 選項在地化"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:272
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:7
+msgid "Attribute sets names"
+msgstr "屬性組合名稱"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:275
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:8
+msgid "Attribute key names"
+msgstr "屬性金鑰名稱"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:278
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:9
+msgid "Attribute type names"
+msgstr "屬性類型名稱"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:284
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:10
+msgid "Permission key names"
+msgstr "權限金鑰名稱"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:287
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:11
+msgid "Permission key descriptions"
+msgstr "權限金鑰描述"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:290
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:12
+msgid "Access entity type names"
+msgstr "存取實體類型名稱"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:293
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:13
+msgid "Job set names"
+msgstr "工作組合名稱"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:296
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:14
+msgid "User group names"
+msgstr "使用者名稱群組"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:299
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:15
+msgid "User group descriptions"
+msgstr "使用者群組描述"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:302
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:16
+msgid "User group set names"
+msgstr "使用者群組組合名稱"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:305
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:17
+msgid "Values of the select attributes"
+msgstr "選取屬性的數值"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:18
+msgid "Area names"
+msgstr "區域名稱"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:27
+msgid "Still in development"
+msgstr "仍然開發中"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:30
+#, php-format
+msgid "Available from concrete5 %s"
+msgstr "從 concrete5 %s 可用"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:49
+msgid "The options have been saved."
+msgstr "選項已被儲存"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:68
+msgid "Please enable at least one item class to be translated."
+msgstr "請啟用至少一個項目類別來被翻譯"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:65
+msgid "Page attributes"
+msgstr "頁面屬性"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:68
+msgid "User attributes"
+msgstr "使用者屬性"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:71
+msgid "File attributes"
+msgstr "檔案屬性"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:111
+msgid "Page"
+msgstr "頁面"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:114
+msgid "Single page"
+msgstr "單獨頁面"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:117
+msgid "Stack"
+msgstr "堆疊"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:120
+msgid "Composer page"
+msgstr "創作者頁面"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:123
+msgid "User"
+msgstr "使用者"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:126
+msgid "File set"
+msgstr "檔案組合"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:129
+msgid "File"
+msgstr "檔案"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:132
+msgid "Area"
+msgstr "區域"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:135
+msgid "Block type"
+msgstr "區塊類型"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:138
+msgid "Block"
+msgstr "區塊"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:141
+msgid "Administration"
+msgstr "管理"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:144
+msgid "Site map"
+msgstr "網站地圖"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:147
+msgid "MarketPlace newsflow"
+msgstr "市場新聞流傳"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:150
+msgid "Basic workflow"
+msgstr "基本的工作流程"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:281
+msgid "Area Names"
+msgstr "區域名稱"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:323
+msgid "The translations have been saved."
+msgstr "反意已被儲存."
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:334
+#, php-format
+msgid "Invalid locale identifier: '%s'"
+msgstr "無效的在地化識別符: '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:350
+#, php-format
+msgid "Unable to find the attribute set with id '%s'"
+msgstr "無法發現屬性組合用 id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:357
+#, php-format
+msgid "Unable to find the attribute key with id '%s'"
+msgstr "無法發現屬性金鑰用 id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:364
+#, php-format
+msgid "Unable to find the attribute type with id '%s'"
+msgstr "無法發現屬性類型用 id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:371
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:378
+#, php-format
+msgid "Unable to find the permission key with id '%s'"
+msgstr "無法發現權限金鑰用 id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:385
+#, php-format
+msgid "Unable to find the access entity type with id '%s'"
+msgstr "無法發現存取實體類型用 id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:392
+#, php-format
+msgid "Unable to find the job set with id '%s'"
+msgstr "無法發現工作組合用  id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:399
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:406
+#, php-format
+msgid "Unable to find the users group with id '%s'"
+msgstr "無法發現使用者群組用 id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:413
+#, php-format
+msgid "Unable to find the set of users group with id '%s'"
+msgstr "無法發現使用者群組組合用 id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:420
+#, php-format
+msgid "Unable to find the select option value with id '%s'"
+msgstr "無法發現選取選項數值用 id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:447
+#, php-format
+msgid "Unable to create folder %s"
+msgstr "無法建立資料夾 %s"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:455
+#, php-format
+msgid "Unable to save file %s"
+msgstr "無法儲存檔案 %s"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:493
+msgid "Same as English (US)"
+msgstr "和英文(美式)相同"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:12
+msgid "Which items to you want to be translated?"
+msgstr "哪個項目您要它被翻譯?"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:24
+msgid "enabled"
+msgstr "啟用"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:25
+msgid "disabled"
+msgstr "禁用"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:36
+msgid "Warning!"
+msgstr "警告!"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:37
+msgid "Disabled item classes causes translations to be lost!"
+msgstr "禁用項目類別造成翻譯被遺失!"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer.php:70
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:42
+msgid "Save"
+msgstr "儲存"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer.php:5
+msgid "Translate special items"
+msgstr "翻譯特殊項目"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer.php:8
+msgid "No locales defined."
+msgstr "沒有定義在地化"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer.php:30
+msgid "Items"
+msgstr "項目"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer.php:42
+msgid "Language"
+msgstr "語言"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer.php:69
+msgid "Options"
+msgstr "選項"

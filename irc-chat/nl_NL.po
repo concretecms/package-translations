@@ -1,0 +1,184 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-09 09:28+0000\n"
+"PO-Revision-Date: 2014-03-17 17:35+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:10
+#: packages/irc_chat/controller.php:10
+msgid "IRC Chat"
+msgstr "IRC Chat"
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:14
+msgid "Direct access to IRC channels."
+msgstr "Directe toegang tot IRC-kanalen."
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:41
+msgctxt "KiwiIrcTheme"
+msgid "Relaxed"
+msgstr "Relaxed"
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:42
+msgctxt "KiwiIrcTheme"
+msgid "Basic"
+msgstr "Basis"
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:43
+msgctxt "KiwiIrcTheme"
+msgid "CLI (Dark)"
+msgstr "CLI (donker)"
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:44
+msgctxt "KiwiIrcTheme"
+msgid "Mini (Small)"
+msgstr "Mini (klein)"
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:51
+msgid "Please specify the height."
+msgstr "Geef de hoogte op."
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:56
+msgid "The height must be a number greater than zero."
+msgstr "De hoogte moet een getal zijn, groter dan nul."
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:72
+msgid "Please specify the IRC network."
+msgstr "Specificeer het IRC-netwerk."
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:78
+msgid "The channel name contains invalid characters."
+msgstr "De naam bevat ongeldige karakters."
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:96
+msgid "The nickname contains invalid characters."
+msgstr "De nickname bevat ongeldige tekens."
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:37
+msgid "IRC"
+msgstr "IRC"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:38
+msgid "Appearance"
+msgstr "Uiterlijke verschijning"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:39
+msgid "Advanced options"
+msgstr "Geavanceerde opties"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:40
+msgid "About"
+msgstr "Over"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:62
+msgid "IRC network"
+msgstr "Internet Relay Chat"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:63
+msgid "Please select"
+msgstr "Maak een keuze"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:66
+msgid "Or enter a custom IRC network (in the form <i>host:port</i>)"
+msgstr "Of type hier een aangepaste IRC-netwerk (in de vorm <i>host: poort</i>)"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:71
+msgid "IRC channel"
+msgstr "IRC kanaal"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:76
+msgid "Nickname"
+msgstr "Nickname"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:81
+msgid "Suggest nickname from username of logged-in users"
+msgstr "Bijnaam van gebruikersnaam van de ingelogde gebruikers suggereren"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:87
+msgid "Height (in pixels)"
+msgstr "Hoogte (in pixels)"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:107
+msgid "Theme"
+msgstr "Thema"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:108
+msgctxt "KiwiIrcTheme"
+msgid "None/default"
+msgstr "Geen/standaard"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:111
+msgid "Or enter a custom theme"
+msgstr "Of geef een aangepaste thema op"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:115
+msgid "Device types"
+msgstr "Apparaattypen"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:118
+msgid "show only a link for mobile phones"
+msgstr "Toon alleen een link voor mobiele telefoons"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:122
+msgid "show only a link for tablets"
+msgstr "Toon alleen een link voor een tablet"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:128
+msgid "KiwiIRC server"
+msgstr "KiwiIRC server"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:130
+#, php-format
+msgid "Leave empty to use the default (%s)"
+msgstr "Laat leeg om de standaard te gebruiken (%s)"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:134
+msgid "Key for the IRC channel"
+msgstr "Toets voor het IRC kanaal"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:138
+msgid "Other options"
+msgstr "Andere opties"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:141
+msgid "connect to IRC network with SSL"
+msgstr "verbinding maken met IRC netwerk met SSL"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:145
+msgid "debug enabled"
+msgstr "foutopsporing ingeschakeld"
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:150
+msgid ""
+"This block uses <a href=\"https://kiwiirc.com/\" "
+"target=\"_blank\">KiwiIRC</a>."
+msgstr "Dit blok maakt gebruik van <a href=\"https://kiwiirc.com/\" target=\"_blank\">KiwiIRC</a>."
+
+#: packages/irc_chat/blocks/irc_chat/view.php:7
+msgid "IRC chat disabled in edit mode."
+msgstr "IRC chat uitgeschakeld de bewerkingsmodus."
+
+#: packages/irc_chat/blocks/irc_chat/view.php:27
+#: packages/irc_chat/blocks/irc_chat/view.php:32
+#, php-format
+msgid "To open the IRC chat <a href=\"%s\" target=\"_blank\">click here</a>."
+msgstr "Om de IRC chat te openen <a href=\"%s\" target=\"_blank\">klik hier</a>."
+
+#: packages/irc_chat/blocks/irc_chat/view.php:31
+msgid "Your browser does not support frames."
+msgstr "Uw browser ondersteunt geen frames."
+
+#: packages/irc_chat/controller.php:14
+msgid "Allow inserting a block in your website to partecipate to IRC chats."
+msgstr "Een blok invoegen in uw website te meehelpen aan IRC chats toestaan."

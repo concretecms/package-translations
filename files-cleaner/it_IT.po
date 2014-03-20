@@ -1,0 +1,210 @@
+# 
+# Translators:
+# Michele Locati <michele@locati.it>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-20 09:39+0000\n"
+"PO-Revision-Date: 2014-03-17 13:00+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/files_cleaner/controller.php:24
+msgid "Files Cleaner"
+msgstr "Elimina file"
+
+#: packages/files_cleaner/controller.php:31
+msgid "**USE AT YOUR OWN RISK**"
+msgstr "**USARE A PROPRIO RISCHIO**"
+
+#: packages/files_cleaner/controller.php:31
+msgid ""
+"Helps you removing temporary files & unuseful files (you’ll find it under "
+"Dashboard -> System & Settings -> Optimization -> Clear Files)."
+msgstr "Permette di rimuovere file temporanei e/o inutili (accessibile nel pannello di controllo, sotto Sistema e impostazioni -> Ottimizzazione -> Elimina file)."
+
+#: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:19
+#: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:24
+#: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:42
+#: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:47
+#, php-format
+msgid "Invalid parameter: %s"
+msgstr "Parametro non valido: %s"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:36
+#: packages/files_cleaner/libraries/clear_files_provider.php:58
+#: packages/files_cleaner/libraries/clear_files_providers/base/empty_folders.php:13
+#: packages/files_cleaner/libraries/clear_files_providers/base/old_files.php:17
+#: packages/files_cleaner/libraries/clear_files_providers/base/old_files.php:25
+#, php-format
+msgid "Method '%1$s' not implemented in class '%2$s'"
+msgstr "Il metodo '%1$s' non è implementato nella classe '%2$s'"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:99
+#, php-format
+msgid "Unable to open folder %s"
+msgstr "Impossibile aprile la cartella %s"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:149
+#, php-format
+msgid "Error deleting folder %s"
+msgstr "Errore durante l'eliminazione della cartella %s"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:159
+#, php-format
+msgid "Error deleting file %s"
+msgstr "Errore durante l'eliminazione del file %s"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:195
+#, php-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d anno"
+msgstr[1] "%d anni"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:195
+#, php-format
+msgid "%d years"
+msgstr "%d anni"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:196
+#: packages/files_cleaner/libraries/clear_files_provider.php:210
+#, php-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d mese"
+msgstr[1] "%d mesi"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:196
+#, php-format
+msgid "%d months"
+msgstr "%d mesi"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:197
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d giorno"
+msgstr[1] "%d giorni"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:197
+#, php-format
+msgid "%d days"
+msgstr "%d giorni"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:198
+#, php-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d ora"
+msgstr[1] "%d ore"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:198
+#, php-format
+msgid "%d hours"
+msgstr "%d ore"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:199
+#, php-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d minuto"
+msgstr[1] "%d minuti"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:199
+#, php-format
+msgid "%d minutes"
+msgstr "%d minuti"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:200
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d secondo"
+msgstr[1] "%d secondi"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:200
+#, php-format
+msgid "%d seconds"
+msgstr "%d secondi"
+
+#: packages/files_cleaner/libraries/clear_files_providers/base/deleted_files.php:8
+#: packages/files_cleaner/libraries/clear_files_providers/deleted_files.php:8
+msgid "Deleted files"
+msgstr "File rimossi"
+
+#: packages/files_cleaner/libraries/clear_files_providers/base/old_files.php:9
+#, php-format
+msgid "We consider as \"old\" the files (created or modified) older than %s."
+msgstr "Si considerano come \"vecchi\" i file più vecchi di %s."
+
+#: packages/files_cleaner/libraries/clear_files_providers/deleted_thumbnails.php:8
+msgid "Deleted thumbnails"
+msgstr "Miniature rimosse"
+
+#: packages/files_cleaner/libraries/clear_files_providers/old_c5_versions.php:6
+msgid "Previous concrete5 versions"
+msgstr "Versioni precedenti di concrete5"
+
+#: packages/files_cleaner/libraries/clear_files_providers/old_temp_files.php:8
+msgid "Old temporary files"
+msgstr "File temporanei vecchi"
+
+#: packages/files_cleaner/libraries/clear_files_providers/old_trash_files.php:8
+msgid "Old trashed files"
+msgstr "File vecchi presenti nel cestino"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:17
+msgid "Refresh"
+msgstr "Aggiorna"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:27
+msgid "Please wait"
+msgstr "Attendere"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:33
+msgid "Delete files/directories"
+msgstr "File/cartelle eliminati"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:71
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:157
+msgid "Empty result!"
+msgstr "Nessun risultato!"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:85
+msgid "Directories: "
+msgstr "Cartelle: "
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:95
+msgid "Files: "
+msgstr "File: "
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:131
+msgid "Directories"
+msgstr "Cartelle"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:131
+msgid "Files"
+msgstr "File"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:141
+msgid "Are you sure you want to proceed?"
+msgstr "Si è certi di voler procedere?"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:260
+msgid "Clear Files"
+msgstr "Pulizia file"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:260
+msgid ""
+"This page allows you to clear potentially unuseful files. **USE AT YOUR OWN "
+"RISK**"
+msgstr "Questa pagina permette di rimuovere file inutili. **USARE A PROPRIO RISCHIO E PERICOLO**"

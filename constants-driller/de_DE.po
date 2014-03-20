@@ -1,0 +1,161 @@
+# 
+# Translators:
+# Remo Laubacher <remo.laubacher@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-20 12:06+0000\n"
+"PO-Revision-Date: 2014-03-17 14:08+0000\n"
+"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/constants_driller/controller.php:10
+msgid "Deep analysis and report of PHP constants used by concrete5."
+msgstr "Analysiert Konstanten innerhalb eines concrete5 Projekts."
+
+#: packages/constants_driller/controller.php:14
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:211
+msgid "Constants Driller"
+msgstr "Konstanten Bohrer"
+
+#: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:77
+#: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:93
+#, php-format
+msgid "Invalid parameter: %s"
+msgstr "Ungültiger Parameter: %s"
+
+#: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:104
+msgid ""
+"You have to do a first-time scan (under the options pane available clicking "
+"the upper-right \"Option\" label)."
+msgstr "Sie müssen einen einmaligen Scan ausführen bevor Sie dieses Add-on nutzen können."
+
+#: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:175
+msgid "never accomplished"
+msgstr "nie ausgeführt"
+
+#: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:177
+#, php-format
+msgid "Last scan: %s"
+msgstr "Letzter Scan: %s"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:51
+msgid "Not defined"
+msgstr "Nicht definiert"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:105
+msgid "This operation may take a few minutes."
+msgstr "Dieser Vorgang kann einige Minuten dauern."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:105
+msgid "Do you want to proceed anyway?"
+msgstr "Wollen Sie trotzdem weiterfahren?"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:133
+#, php-format
+msgid "Constant %s defined in…"
+msgstr "Konstante %s definiert in..."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:133
+msgid "Defined in…"
+msgstr "Definiert in..."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:137
+#, php-format
+msgid "Constant %s used in…"
+msgstr "Konstante %s verwendet in..."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:137
+msgid "Used in…"
+msgstr "Verwendet in..."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:149
+msgid "Nowhere"
+msgstr "Nirgends"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
+msgid "File"
+msgstr "Datei"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
+msgid "Line"
+msgstr "Zeile"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:161
+msgid "Close"
+msgstr "Schließen"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
+msgid "We have to do a first-time scan to locate all the constants."
+msgstr "Die Konstanten müssen gesucht werden."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
+msgid "Do you want to do it now?"
+msgstr "Wollen Sie den Vorgang starten?"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
+msgid "PS: this may take a few minites."
+msgstr "Dies kann ein paar Minuten in Anspruch nehmen."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:211
+msgid ""
+"The Constants Driller allow you to inspect all the constants used or defined"
+" in your concrete5 installation."
+msgstr "Der Konstanten Bohrer erlaubt es, Konstanten innerhalb einer concrete5 Seite zu suchen."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:213
+msgid "Options"
+msgstr "Optionen"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:215
+msgid "Rescan"
+msgstr "Neu einlesen"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:223
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:252
+msgid "Constant"
+msgstr "Konstante"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:225
+msgid "Constant name"
+msgstr "Name der Konstante"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
+msgid "Defined or used in file"
+msgstr "Definiert oder verwendet in Datei"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
+msgid "Defined in file"
+msgstr "Definiert in Datei"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
+msgid "Used in file"
+msgstr "Verwendet in Datei"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:230
+msgid "File name"
+msgstr "Dateiname"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:233
+msgid "Search"
+msgstr "Suchen"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:243
+msgid "Exclude 3rd party libraries"
+msgstr "Bibliotheken von Dritten ausschliessen"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:253
+msgid "Current value"
+msgstr "Aktueller Wert"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:254
+msgid "Found in"
+msgstr "Gefunden in"

@@ -1,0 +1,309 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-05 12:51+0000\n"
+"PO-Revision-Date: 2014-03-17 17:37+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/localizer/controller.php:10 packages/localizer/controller.php:32
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:41
+msgid "Localizer"
+msgstr "Localizer"
+
+#: packages/localizer/controller.php:14 packages/localizer/controller.php:32
+msgid "Allow localizing special items, for instance user and file attributes."
+msgstr "Toestaan bijzondere posten, bijvoorbeeld gebruiker en bestandskenmerken lokaliseren."
+
+#: packages/localizer/controller.php:35
+msgid ""
+"translate special items, translation, attribute names, attribute set names, "
+"attribute type names, permission names, permission descriptions, access "
+"entity type names"
+msgstr "bijzondere posten, vertaling, kenmerknamen vertalen, kenmerk ingesteld namen, kenmerk typenamen toestemming namen, beschrijvingen van de toestemming, toegang entiteit typenamen"
+
+#: packages/localizer/controller.php:41
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:6
+msgid "Localizer options"
+msgstr "Localizer opties"
+
+#: packages/localizer/controller.php:41
+msgid "Set the Localizer options."
+msgstr "Stel de opties Localizer."
+
+#: packages/localizer/controller.php:44
+msgid "localizer options, options localizer"
+msgstr "Localizer opties, opties localizer"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:272
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:7
+msgid "Attribute sets names"
+msgstr "Attribuut stelt namen"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:275
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:8
+msgid "Attribute key names"
+msgstr "Kenmerk sleutelnamen"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:278
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:9
+msgid "Attribute type names"
+msgstr "Type kenmerknamen"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:284
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:10
+msgid "Permission key names"
+msgstr "Toestemming sleutelnamen"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:287
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:11
+msgid "Permission key descriptions"
+msgstr "Toestemming belangrijke beschrijvingen"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:290
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:12
+msgid "Access entity type names"
+msgstr "Entiteitsnamen type toegang"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:293
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:13
+msgid "Job set names"
+msgstr "Baan stel namen"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:296
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:14
+msgid "User group names"
+msgstr "Groep gebruikersnamen"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:299
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:15
+msgid "User group descriptions"
+msgstr "Gebruiker groep beschrijvingen"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:302
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:16
+msgid "User group set names"
+msgstr "Gebruikersgroep stel namen"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:305
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:17
+msgid "Values of the select attributes"
+msgstr "Waarden van de geselecteerde kenmerken"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:18
+msgid "Area names"
+msgstr "Gebied namen"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:27
+msgid "Still in development"
+msgstr "Nog in ontwikkeling"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:30
+#, php-format
+msgid "Available from concrete5 %s"
+msgstr "Beschikbaar vanaf concrete5 %s"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:49
+msgid "The options have been saved."
+msgstr "De opties zijn opgeslagen."
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:68
+msgid "Please enable at least one item class to be translated."
+msgstr "Activeer ten minste één artikelklasse worden vertaald."
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:65
+msgid "Page attributes"
+msgstr "Paginakenmerken"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:68
+msgid "User attributes"
+msgstr "Gebruikerskenmerken"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:71
+msgid "File attributes"
+msgstr "Bestandskenmerken"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:111
+msgid "Page"
+msgstr "Pagina"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:114
+msgid "Single page"
+msgstr "Enkele pagina"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:117
+msgid "Stack"
+msgstr "Stapel"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:120
+msgid "Composer page"
+msgstr "Componist pagina"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:123
+msgid "User"
+msgstr "Gebruiker"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:126
+msgid "File set"
+msgstr "Bestandenset"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:129
+msgid "File"
+msgstr "Bestand"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:132
+msgid "Area"
+msgstr "Gebied"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:135
+msgid "Block type"
+msgstr "Bloktype"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:138
+msgid "Block"
+msgstr "Blok"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:141
+msgid "Administration"
+msgstr "Administratie"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:144
+msgid "Site map"
+msgstr "Sitemap"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:147
+msgid "MarketPlace newsflow"
+msgstr "Markt-newsflow"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:150
+msgid "Basic workflow"
+msgstr "Basiswerkstroom"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:281
+msgid "Area Names"
+msgstr "Gebied namen"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:323
+msgid "The translations have been saved."
+msgstr "De vertalingen zijn opgeslagen."
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:334
+#, php-format
+msgid "Invalid locale identifier: '%s'"
+msgstr "Ongeldige landinstelling-id: '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:350
+#, php-format
+msgid "Unable to find the attribute set with id '%s'"
+msgstr "Kan niet vinden het kenmerk is ingesteld met id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:357
+#, php-format
+msgid "Unable to find the attribute key with id '%s'"
+msgstr "Kan niet vinden de kenmerk-sleutel met id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:364
+#, php-format
+msgid "Unable to find the attribute type with id '%s'"
+msgstr "Kan niet vinden het kenmerktype met id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:371
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:378
+#, php-format
+msgid "Unable to find the permission key with id '%s'"
+msgstr "Kan niet vinden de toestemming sleutel met id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:385
+#, php-format
+msgid "Unable to find the access entity type with id '%s'"
+msgstr "Kan niet vinden het toegangstype voor de entiteit met id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:392
+#, php-format
+msgid "Unable to find the job set with id '%s'"
+msgstr "Niet in staat om de baan instellen met id '%s' te vinden"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:399
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:406
+#, php-format
+msgid "Unable to find the users group with id '%s'"
+msgstr "Kan niet vinden van de gebruikersgroep met id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:413
+#, php-format
+msgid "Unable to find the set of users group with id '%s'"
+msgstr "Kan niet vinden de set van de gebruikersgroep met id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:420
+#, php-format
+msgid "Unable to find the select option value with id '%s'"
+msgstr "Kan niet vinden de Selecteer Optiewaarde met id '%s'"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:447
+#, php-format
+msgid "Unable to create folder %s"
+msgstr "Niet in staat om te maken map %s"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:455
+#, php-format
+msgid "Unable to save file %s"
+msgstr "Niet in staat om op te slaan bestand %s"
+
+#: packages/localizer/controllers/dashboard/system/basics/localizer.php:493
+msgid "Same as English (US)"
+msgstr "Hetzelfde als Engels (VS)"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:12
+msgid "Which items to you want to be translated?"
+msgstr "Welke items u wilt worden vertaald?"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:24
+msgid "enabled"
+msgstr "ingeschakeld"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:25
+msgid "disabled"
+msgstr "uitgeschakeld"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:36
+msgid "Warning!"
+msgstr "Waarschuwing!"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:37
+msgid "Disabled item classes causes translations to be lost!"
+msgstr "Uitgeschakeld item klassen zorgt ervoor dat vertalingen verloren gaan!"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer.php:70
+#: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:42
+msgid "Save"
+msgstr "Opslaan"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer.php:5
+msgid "Translate special items"
+msgstr "Translate bijzondere posten"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer.php:8
+msgid "No locales defined."
+msgstr "Geen locales gedefinieerd."
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer.php:30
+msgid "Items"
+msgstr "Artikelen"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer.php:42
+msgid "Language"
+msgstr "Taal"
+
+#: packages/localizer/single_pages/dashboard/system/basics/localizer.php:69
+msgid "Options"
+msgstr "Opties"

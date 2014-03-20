@@ -1,0 +1,158 @@
+# Translators:
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"Report-Msgid-Bugs-To: remo.laubacher@gmail.com\n"
+"POT-Creation-Date: 2014-03-17 13:45+0100\n"
+"PO-Revision-Date: 2014-03-18 19:33+0000\n"
+"Last-Translator: Pam Banis\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: C:\\Work\\concrete5-composer-list\n"
+
+#: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/add.php:2
+#: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/edit.php:2
+#: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/form.php:3
+#: C:\Work\concrete5-composer-list/elements/page_attributes.php:2
+msgid "Access Denied."
+msgstr "De toegang is geweigerd."
+
+#: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:16
+msgid "Adds a blocks which allows you to edit the page attributes."
+msgstr "Hiermee voegt u een blokken waarmee u de paginakenmerken van de bewerken."
+
+#: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:20
+msgid "Page Attributes"
+msgstr "Paginakenmerken"
+
+#: C:\Work\concrete5-composer-list/controller.php:13
+msgid "Composer List"
+msgstr "Componist lijst"
+
+#: C:\Work\concrete5-composer-list/controller.php:17
+msgid "Installs the Composer List Package."
+msgstr "Hiermee installeert u het pakket componist."
+
+#: C:\Work\concrete5-composer-list/controller.php:44
+msgid "List"
+msgstr "Lijst"
+
+#: C:\Work\concrete5-composer-list/controller.php:44
+msgid "List of Pages"
+msgstr "Lijst van pagina 's"
+
+#: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:55
+msgid "No entries found"
+msgstr "Geen items gevonden"
+
+#: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:125
+msgid "Page deleted."
+msgstr "Pagina verwijderd."
+
+#: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:128
+msgid "You don't have the right to delete this page!"
+msgstr "U hoeft niet het recht te verwijderen van deze pagina!"
+
+#: C:\Work\concrete5-composer-list/elements/page_attributes.php:49
+msgid "remove"
+msgstr "verwijderen"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:10
+#, php-format
+msgid "%s List"
+msgstr "%s lijst"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:10
+msgid "Shows a list of all pages editable by the composer."
+msgstr "Toont een lijst van alle pagina's bewerkbaar door de componist."
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:24
+msgid "Search"
+msgstr "Zoeken"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:28
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:35
+msgid "Customize Columns"
+msgstr "Kolommen aanpassen"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:72
+msgid "Edit"
+msgstr "Bewerken"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:73
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:75
+msgid "Are you sure you want to remove this page?"
+msgstr "Weet u zeker dat u wilt verwijderen van deze pagina?"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:134
+msgid "No pages found."
+msgstr "Geen pagina's gevonden."
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:138
+msgid "What type of page would you like to edit?"
+msgstr "Wat voor soort pagina zou u willen bewerken?"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:149
+msgid "You have not setup any page types for Composer."
+msgstr "U hebt alle pagina types niet ingesteld voor componist."
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:9
+msgid "Page Type"
+msgstr "Pagina Type"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:10
+msgid "Page Name"
+msgstr "Paginanaam"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:11
+msgid "Path"
+msgstr "Pad"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:12
+msgid "Date Created"
+msgstr "Datum gemaakt"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:13
+msgid "Date Modified"
+msgstr "Wijzigingsdatum"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:14
+msgid "Page Owner"
+msgstr "De eigenaar van de pagina"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:30
+msgid "Choose Headers"
+msgstr "Kies Headers"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:33
+msgid "Standard Properties"
+msgstr "Standaardeigenschappen"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:48
+msgid "Additional Attributes"
+msgstr "Extra kenmerken"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:64
+msgid "Column Order"
+msgstr "De volgorde van kolommen"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:83
+msgid "Save"
+msgstr "Opslaan"
+
+#~ msgid " "
+#~ msgstr " "
+
+#~ msgid "Composer Page List"
+#~ msgstr "Composer Seitenliste"

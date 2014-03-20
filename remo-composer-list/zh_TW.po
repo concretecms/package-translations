@@ -1,0 +1,159 @@
+# Translators:
+# Translators:
+# Wayne <wayne.cw.kao@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"Report-Msgid-Bugs-To: remo.laubacher@gmail.com\n"
+"POT-Creation-Date: 2014-03-17 13:45+0100\n"
+"PO-Revision-Date: 2014-03-18 06:38+0000\n"
+"Last-Translator: Wayne <wayne.cw.kao@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/concrete5-packages/language/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: C:\\Work\\concrete5-composer-list\n"
+
+#: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/add.php:2
+#: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/edit.php:2
+#: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/form.php:3
+#: C:\Work\concrete5-composer-list/elements/page_attributes.php:2
+msgid "Access Denied."
+msgstr "存取被拒"
+
+#: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:16
+msgid "Adds a blocks which allows you to edit the page attributes."
+msgstr "加入允許您編輯頁面屬性的一個區塊"
+
+#: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:20
+msgid "Page Attributes"
+msgstr "頁面屬性"
+
+#: C:\Work\concrete5-composer-list/controller.php:13
+msgid "Composer List"
+msgstr "創作者清單"
+
+#: C:\Work\concrete5-composer-list/controller.php:17
+msgid "Installs the Composer List Package."
+msgstr "安裝創作者清單套件"
+
+#: C:\Work\concrete5-composer-list/controller.php:44
+msgid "List"
+msgstr " 清單"
+
+#: C:\Work\concrete5-composer-list/controller.php:44
+msgid "List of Pages"
+msgstr "頁面清單"
+
+#: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:55
+msgid "No entries found"
+msgstr "未發現輸入值"
+
+#: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:125
+msgid "Page deleted."
+msgstr "已刪除的頁面"
+
+#: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:128
+msgid "You don't have the right to delete this page!"
+msgstr "您沒有權力刪除此頁面"
+
+#: C:\Work\concrete5-composer-list/elements/page_attributes.php:49
+msgid "remove"
+msgstr "移除"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:10
+#, php-format
+msgid "%s List"
+msgstr "%s 清單"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:10
+msgid "Shows a list of all pages editable by the composer."
+msgstr "顯示一個可以被創作者編輯的頁面清單"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:24
+msgid "Search"
+msgstr "搜尋"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:28
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:35
+msgid "Customize Columns"
+msgstr "自訂的欄位"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:72
+msgid "Edit"
+msgstr "編輯"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:73
+msgid "Delete"
+msgstr "刪除"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:75
+msgid "Are you sure you want to remove this page?"
+msgstr "您確定您要移除此頁面嗎?"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:134
+msgid "No pages found."
+msgstr "找不到頁面"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:138
+msgid "What type of page would you like to edit?"
+msgstr "您想要編輯什麼類型的頁面?"
+
+#: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:149
+msgid "You have not setup any page types for Composer."
+msgstr "您尚未為創作者安裝任何頁面類型."
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:9
+msgid "Page Type"
+msgstr "頁面類型"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:10
+msgid "Page Name"
+msgstr "頁面名稱"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:11
+msgid "Path"
+msgstr "路徑"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:12
+msgid "Date Created"
+msgstr "建立日期"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:13
+msgid "Date Modified"
+msgstr "修改日期"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:14
+msgid "Page Owner"
+msgstr "頁面擁有者"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:30
+msgid "Choose Headers"
+msgstr "選擇標頭"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:33
+msgid "Standard Properties"
+msgstr "標準的屬性"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:48
+msgid "Additional Attributes"
+msgstr "附加屬性"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:64
+msgid "Column Order"
+msgstr "欄次序"
+
+#: C:\Work\concrete5-composer-list/tools/customize_columns.php:83
+msgid "Save"
+msgstr "儲存"
+
+#~ msgid " "
+#~ msgstr " "
+
+#~ msgid "Composer Page List"
+#~ msgstr "Composer Seitenliste"

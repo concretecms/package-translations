@@ -1,0 +1,59 @@
+# 
+# Translators:
+# Wayne <wayne.cw.kao@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"POT-Creation-Date: 2014-03-14 16:24+0100\n"
+"PO-Revision-Date: 2014-03-18 06:23+0000\n"
+"Last-Translator: Wayne <wayne.cw.kao@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/concrete5-packages/language/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: C:\\Work\\concrete5-cover-picture\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/controller.php:11
+msgid ""
+"Cover picture where you can add additional text that shows up when you hover"
+" the picture."
+msgstr "封面圖片一個您可以加入額外的文字而當您把滑鼠停留在圖片上時則會顯示"
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/controller.php:15
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:8
+#: C:\Work\concrete5-cover-picture/controller.php:16
+msgid "Cover Picture"
+msgstr "封面圖片"
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:11
+msgid "Picture"
+msgstr "圖片"
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:16
+msgid "Text"
+msgstr "文字"
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:25
+msgid "Overlay Color"
+msgstr "重疊顏色"
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:33
+msgid "Overlay Opacity"
+msgstr "重疊不透明度"
+
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_centered/view.php:8
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_on_top/view.php:8
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_slider/view.php:8
+#: C:\Work\concrete5-cover-picture/blocks/cover_picture/view.php:8
+msgid "No picture selected"
+msgstr "未選取圖片"
+
+#: C:\Work\concrete5-cover-picture/controller.php:12
+msgid "Adds a text covered by a picture"
+msgstr "於被圖片覆蓋處加入文字"

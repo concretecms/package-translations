@@ -1,0 +1,210 @@
+# 
+# Translators:
+# Vasilis Fotopoulos <bas_alba@yahoo.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5-packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-20 09:39+0000\n"
+"PO-Revision-Date: 2014-03-18 10:26+0000\n"
+"Last-Translator: Vasilis Fotopoulos <bas_alba@yahoo.com>\n"
+"Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/files_cleaner/controller.php:24
+msgid "Files Cleaner"
+msgstr "Καθαριστής Αρχείων"
+
+#: packages/files_cleaner/controller.php:31
+msgid "**USE AT YOUR OWN RISK**"
+msgstr "** ΧΡΗΣΙΜΟΠΟΙΗΣΤΕ ΜΕ ΔΙΚΗ ΣΑΣ ΕΥΘΥΝΗ **"
+
+#: packages/files_cleaner/controller.php:31
+msgid ""
+"Helps you removing temporary files & unuseful files (you’ll find it under "
+"Dashboard -> System & Settings -> Optimization -> Clear Files)."
+msgstr "Σας βοηθάει να διαγράψετε προσωρινά αρχεία και αρχεία που δεν χρειάζεστε (θα το βρείτε στο Πίνακας Ελέγχου -> Σύστημα & Ρυθμίσεις -> Βελτιστοποίηση -> Καθάρισμα Αρχείων). "
+
+#: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:19
+#: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:24
+#: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:42
+#: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:47
+#, php-format
+msgid "Invalid parameter: %s"
+msgstr "Μη έγκυρη παράμετρος: %s"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:36
+#: packages/files_cleaner/libraries/clear_files_provider.php:58
+#: packages/files_cleaner/libraries/clear_files_providers/base/empty_folders.php:13
+#: packages/files_cleaner/libraries/clear_files_providers/base/old_files.php:17
+#: packages/files_cleaner/libraries/clear_files_providers/base/old_files.php:25
+#, php-format
+msgid "Method '%1$s' not implemented in class '%2$s'"
+msgstr "Η μέθοδος  '%1$s' δεν εφαρμόζεται στην κλάση '%2$s'"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:99
+#, php-format
+msgid "Unable to open folder %s"
+msgstr "Αδύνατο το άνοιγμα του φακέλου %s"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:149
+#, php-format
+msgid "Error deleting folder %s"
+msgstr "Παρουσιάστηκε Λάθος κατά την διαγραφή του φακέλου %s"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:159
+#, php-format
+msgid "Error deleting file %s"
+msgstr "Παρουσιάστηκε λάθος κατά την διαγραφή του Αρχείου %s"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:195
+#, php-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d χρόνο"
+msgstr[1] "%d χρόνια"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:195
+#, php-format
+msgid "%d years"
+msgstr "%d χρόνια"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:196
+#: packages/files_cleaner/libraries/clear_files_provider.php:210
+#, php-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d μήνας"
+msgstr[1] "%d μήνες"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:196
+#, php-format
+msgid "%d months"
+msgstr "%d μήνες"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:197
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d ημέρα"
+msgstr[1] "%d ημέρες"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:197
+#, php-format
+msgid "%d days"
+msgstr "%d ημέρες"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:198
+#, php-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d ώρα"
+msgstr[1] "%d ώρες"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:198
+#, php-format
+msgid "%d hours"
+msgstr "%d ώρες"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:199
+#, php-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d λεπτό"
+msgstr[1] "%d λεπτά"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:199
+#, php-format
+msgid "%d minutes"
+msgstr "%d λεπτά"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:200
+#, php-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d δευτερόλεπτο"
+msgstr[1] "%d δευτερόλεπτα"
+
+#: packages/files_cleaner/libraries/clear_files_provider.php:200
+#, php-format
+msgid "%d seconds"
+msgstr "%d δευτερόλεπτα"
+
+#: packages/files_cleaner/libraries/clear_files_providers/base/deleted_files.php:8
+#: packages/files_cleaner/libraries/clear_files_providers/deleted_files.php:8
+msgid "Deleted files"
+msgstr "Διαγραμμένα αρχεία"
+
+#: packages/files_cleaner/libraries/clear_files_providers/base/old_files.php:9
+#, php-format
+msgid "We consider as \"old\" the files (created or modified) older than %s."
+msgstr "Θεωρούμε ως \"παλιά\" τα αρχεία (δημιουργία ή επεξεργασία) παλιότερα από  %s."
+
+#: packages/files_cleaner/libraries/clear_files_providers/deleted_thumbnails.php:8
+msgid "Deleted thumbnails"
+msgstr "Διαγραμμένα εικονίδια"
+
+#: packages/files_cleaner/libraries/clear_files_providers/old_c5_versions.php:6
+msgid "Previous concrete5 versions"
+msgstr "Προηγούμενες εκδόσεις concrete5 "
+
+#: packages/files_cleaner/libraries/clear_files_providers/old_temp_files.php:8
+msgid "Old temporary files"
+msgstr "Παλιά προσωρινά αρχεία "
+
+#: packages/files_cleaner/libraries/clear_files_providers/old_trash_files.php:8
+msgid "Old trashed files"
+msgstr "Παλιά διαγραμμένα αρχεία"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:17
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:27
+msgid "Please wait"
+msgstr "Παρακαλώ περιμένετε"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:33
+msgid "Delete files/directories"
+msgstr "Διαγράψτε αρχεία / φακέλους "
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:71
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:157
+msgid "Empty result!"
+msgstr "Αποτέλεσμα κενό!"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:85
+msgid "Directories: "
+msgstr "Φάκελοι:"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:95
+msgid "Files: "
+msgstr "Αρχεία:"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:131
+msgid "Directories"
+msgstr "Φάκελοι "
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:131
+msgid "Files"
+msgstr "Αρχεία"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:141
+msgid "Are you sure you want to proceed?"
+msgstr "Είστε σίγουροι ότι θέλετε να συνεχίσετε; "
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:260
+msgid "Clear Files"
+msgstr "Εκκαθάριση Αρχείων"
+
+#: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:260
+msgid ""
+"This page allows you to clear potentially unuseful files. **USE AT YOUR OWN "
+"RISK**"
+msgstr "Αυτή η σελίδα σου επιτρέπει να καθαρίσεις πιθανά άχρηστα αρχεία. **Χρησιμοποιήστε με δικιά σας ευθύνη**"
