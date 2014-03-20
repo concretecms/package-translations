@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>concrete5 packages translations</title>
+<meta name="description" content="List of available translations for concrete5 packages">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top">
+	<div class="navbar-header">
+		<a href="javascript:void(0)" class="navbar-brand">concrete5 packages translations</a>
+	</div>
+</div>
+
+<div id="working"><div><div><div id="working-text" class="alert alert-info">Loading page components</div></div></div></div>
+
+<div class="hide-until-ready">
+	<div class="panel panel-default">
+		<div class="panel-heading">Search for packages</div>
+		<div class="panel-body">
+			<div class="input-group">
+				<input type="search" class="form-control" id="search" placeholder="Enter the package name/handle">
+				<span class="input-group-btn">
+				<span class="glyphicon glyphicon-search"></span>
+					<button class="btn btn-primary" type="button" id="search-do"><span class="glyphicon glyphicon-search"></span></button>
+				</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container hide-until-ready">
+	<table class="table table-hover">
+		<thead><tr>
+			<th>Package</th>
+			<th>Source URL</th>
+			<th>Download</th>
+			<th>Translation</th>
+		</tr></thead>
+		<tbody id="result"></tbody>
+	</table>
+</div>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/moment.min.js"></script>
+<script src="js/locale.js"></script>
+<script src="js/main.js"></script>
+
+<div class="hide-until-ready badge hidden-xs" id="update-date">Data last updated <time></time></div>
+
+</body>
+</html>
