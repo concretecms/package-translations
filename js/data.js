@@ -1,5 +1,5 @@
 {
-    "updated": 1395390615,
+    "updated": 1395477013,
     "packages": [
         {
             "handle": "constants-driller",
@@ -154,11 +154,11 @@
                     "perc": 100
                 },
                 "el_GR": {
-                    "translated": 4,
-                    "untranslated": 35,
+                    "translated": 7,
+                    "untranslated": 32,
                     "fuzzy": 0,
                     "total": 39,
-                    "perc": 10
+                    "perc": 17
                 },
                 "nl_NL": {
                     "translated": 39,
@@ -231,11 +231,11 @@
                     "perc": 100
                 },
                 "el_GR": {
-                    "translated": 33,
-                    "untranslated": 32,
+                    "translated": 65,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 65,
-                    "perc": 50
+                    "perc": 100
                 },
                 "nl_NL": {
                     "translated": 65,
