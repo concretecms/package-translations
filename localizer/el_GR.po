@@ -3,10 +3,10 @@
 # Vasilis Fotopoulos <bas_alba@yahoo.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-05 12:51+0000\n"
-"PO-Revision-Date: 2014-03-18 10:33+0000\n"
+"PO-Revision-Date: 2014-03-21 22:28+0000\n"
 "Last-Translator: Vasilis Fotopoulos <bas_alba@yahoo.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -99,28 +99,28 @@ msgstr "Ονόματα σετ ομάδων χρηστών"
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:305
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:17
 msgid "Values of the select attributes"
-msgstr ""
+msgstr "Τιμές των επιλεγμένων χαρακτηριστικών"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:18
 msgid "Area names"
-msgstr ""
+msgstr "Ονόματα Περιοχών"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:27
 msgid "Still in development"
-msgstr ""
+msgstr "Ακόμα στην ανάπτυξη"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:30
 #, php-format
 msgid "Available from concrete5 %s"
-msgstr ""
+msgstr "Διαθέσιμο από concrete5 %s"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:49
 msgid "The options have been saved."
-msgstr ""
+msgstr "Οι επιλογές έχουν αποθηκευτεί."
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:68
 msgid "Please enable at least one item class to be translated."
-msgstr ""
+msgstr "Παρακαλούμε ενεργοποιήστε τουλάχιστον ένα στοιχείο κλάσης που πρέπει να μεταφραστεί."
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:65
 msgid "Page attributes"
@@ -192,119 +192,119 @@ msgstr "Βασική Ροή Εργασιών"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:281
 msgid "Area Names"
-msgstr ""
+msgstr "Ονόματα Περιοχών"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:323
 msgid "The translations have been saved."
-msgstr ""
+msgstr "Οι μεταφράσεις έχουν αποθηκευτεί."
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:334
 #, php-format
 msgid "Invalid locale identifier: '%s'"
-msgstr ""
+msgstr "Μη έγκυρο αναγνωριστικό εντοπιότητας '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:350
 #, php-format
 msgid "Unable to find the attribute set with id '%s'"
-msgstr ""
+msgstr "Αδύνατη η εύρεση σετ χαρακτηριστικών με id '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:357
 #, php-format
 msgid "Unable to find the attribute key with id '%s'"
-msgstr ""
+msgstr "Αδύνατη η εύρεση κλειδιού χαρακτηριστικού με id '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:364
 #, php-format
 msgid "Unable to find the attribute type with id '%s'"
-msgstr ""
+msgstr "Αδύνατη η εύρεση τύπου χαρακτηριστικού με id '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:371
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:378
 #, php-format
 msgid "Unable to find the permission key with id '%s'"
-msgstr ""
+msgstr "Αδύνατη η εύρεση του κλειδιού άδειας με id '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:385
 #, php-format
 msgid "Unable to find the access entity type with id '%s'"
-msgstr ""
+msgstr "Αδύνατη η εύρεση τον τύπου οντότητας πρόσβασης με id '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:392
 #, php-format
 msgid "Unable to find the job set with id '%s'"
-msgstr ""
+msgstr "Αδύνατη η εύρεση σετ εργασιών με id '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:399
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:406
 #, php-format
 msgid "Unable to find the users group with id '%s'"
-msgstr ""
+msgstr "Αδύνατη η εύρεση της ομάδας χρηστών με id '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:413
 #, php-format
 msgid "Unable to find the set of users group with id '%s'"
-msgstr ""
+msgstr "Αδύνατη η εύρεση του σετ της ομάδας χρηστών με id '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:420
 #, php-format
 msgid "Unable to find the select option value with id '%s'"
-msgstr ""
+msgstr "Αδύνατη η εύρεση της τιμής της επιλεγμένης δυνατότητας με id '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:447
 #, php-format
 msgid "Unable to create folder %s"
-msgstr ""
+msgstr "Δεν είναι δυνατή η δημιουργία του φακέλου %s"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:455
 #, php-format
 msgid "Unable to save file %s"
-msgstr ""
+msgstr "Δεν είναι δυνατή η αποθήκευση του αρχείου %s"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:493
 msgid "Same as English (US)"
-msgstr ""
+msgstr "Ίδια όπως στα Αγγλικά (ΗΠΑ)"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:12
 msgid "Which items to you want to be translated?"
-msgstr ""
+msgstr "Ποια στοιχεία θέλετε να μεταφραστούν;"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:24
 msgid "enabled"
-msgstr ""
+msgstr "ενεργοποιημένη"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:25
 msgid "disabled"
-msgstr ""
+msgstr "απενεργοποιημένη"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:36
 msgid "Warning!"
-msgstr ""
+msgstr "Προσοχή!"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:37
 msgid "Disabled item classes causes translations to be lost!"
-msgstr ""
+msgstr "Απενεργοποιημένα στοιχεία κλάσεων προκαλούν το χάσιμο  μεταφράσεων!"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:70
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:42
 msgid "Save"
-msgstr ""
+msgstr "Αποθήκευση"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:5
 msgid "Translate special items"
-msgstr ""
+msgstr "Μετάφραση ειδικών στοιχίων"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:8
 msgid "No locales defined."
-msgstr ""
+msgstr "Δεν έχουν οριστεί τοπικοποιητές"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:30
 msgid "Items"
-msgstr ""
+msgstr "Στοιχεία "
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:42
 msgid "Language"
-msgstr ""
+msgstr "Γλώσσα"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:69
 msgid "Options"
-msgstr ""
+msgstr "Επιλογές"

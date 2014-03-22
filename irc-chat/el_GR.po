@@ -3,10 +3,10 @@
 # Vasilis Fotopoulos <bas_alba@yahoo.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 09:28+0000\n"
-"PO-Revision-Date: 2014-03-20 18:26+0000\n"
+"PO-Revision-Date: 2014-03-21 22:31+0000\n"
 "Last-Translator: Vasilis Fotopoulos <bas_alba@yahoo.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgstr "Άμεση πρόσβαση στα κανάλια IRC."
 #: packages/irc_chat/blocks/irc_chat/controller.php:41
 msgctxt "KiwiIrcTheme"
 msgid "Relaxed"
-msgstr ""
+msgstr "Χαλαρά"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:42
 msgctxt "KiwiIrcTheme"
@@ -44,11 +44,11 @@ msgstr "CLI (Dark)"
 #: packages/irc_chat/blocks/irc_chat/controller.php:44
 msgctxt "KiwiIrcTheme"
 msgid "Mini (Small)"
-msgstr ""
+msgstr "Μίνι (Μικρό)"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:51
 msgid "Please specify the height."
-msgstr ""
+msgstr "Παρακαλώ προσδιορίστε το ύψος."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:56
 msgid "The height must be a number greater than zero."
