@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-07 21:04+0100\n"
+"PO-Revision-Date: 2014-03-24 20:17+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl_SI\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: C:\\Users\\Remo Laubacher\\Documents\\SubVersion\\concrete5-zoom-image\\zoom_image\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: controller.php:3 blocks/zoom_image/add.php:3
+#: blocks/zoom_image/controller.php:4 blocks/zoom_image/edit.php:2
+#: blocks/zoom_image/view.php:2
+msgid "Access Denied."
+msgstr ""
+
+#: controller.php:12 blocks/zoom_image/controller.php:15
+msgid "Adds images and onstates from the library to pages."
+msgstr ""
+
+#: controller.php:16 blocks/zoom_image/controller.php:19
+msgid "Zoom Image"
+msgstr ""
+
+#: blocks/zoom_image/controller.php:24
+msgid "You must select an image."
+msgstr ""
+
+#: blocks/zoom_image/form.php:2
+msgid "Image"
+msgstr ""
+
+#: blocks/zoom_image/form.php:3
+msgid "Choose Image"
+msgstr ""
+
+#: blocks/zoom_image/form.php:7
+msgid "Alt Text"
+msgstr ""
+
+#: blocks/zoom_image/form.php:10
+msgid "Display as sub title"
+msgstr ""
+
+#: blocks/zoom_image/form.php:15
+msgid "Max Thumbnail Width"
+msgstr ""
+
+#: blocks/zoom_image/form.php:20
+msgid "Max Thumbnail Height"
+msgstr ""

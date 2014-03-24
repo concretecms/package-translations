@@ -1,11 +1,13 @@
 # 
 # Translators:
+# appliculture <mikhael.minisini@gmail.com>, 2014
+# nebuleu, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:24+0100\n"
-"PO-Revision-Date: 2014-03-19 15:32+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-24 21:08+0000\n"
+"Last-Translator: nebuleu\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,11 +34,11 @@ msgstr ""
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:11
 msgid "Picture"
-msgstr ""
+msgstr "Image"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:16
 msgid "Text"
-msgstr ""
+msgstr "Texte"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:25
 msgid "Overlay Color"
@@ -51,7 +53,7 @@ msgstr ""
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_slider/view.php:8
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/view.php:8
 msgid "No picture selected"
-msgstr ""
+msgstr "Aucune image sélectionnée"
 
 #: C:\Work\concrete5-cover-picture/controller.php:12
 msgid "Adds a text covered by a picture"

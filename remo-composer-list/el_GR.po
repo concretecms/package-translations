@@ -1,12 +1,13 @@
 # Translators:
 # Translators:
+# Vasilis Fotopoulos <bas_alba@yahoo.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: remo.laubacher@gmail.com\n"
 "POT-Creation-Date: 2014-03-17 13:45+0100\n"
-"PO-Revision-Date: 2014-03-17 17:28+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-03-24 20:28+0000\n"
+"Last-Translator: Vasilis Fotopoulos <bas_alba@yahoo.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,133 +24,133 @@ msgstr ""
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/form.php:3
 #: C:\Work\concrete5-composer-list/elements/page_attributes.php:2
 msgid "Access Denied."
-msgstr ""
+msgstr "Δεν επιτρέπεται η πρόσβαση."
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:16
 msgid "Adds a blocks which allows you to edit the page attributes."
-msgstr ""
+msgstr "Προσθέτει ένα μπλοκ που σας επιτρέπει να επεξεργαστείτε τα χαρακτηριστικά της σελίδας."
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:20
 msgid "Page Attributes"
-msgstr ""
+msgstr "Τα Χαρακτηριστικά της Σελίδας"
 
 #: C:\Work\concrete5-composer-list/controller.php:13
 msgid "Composer List"
-msgstr ""
+msgstr "Λίστα συνθέτη"
 
 #: C:\Work\concrete5-composer-list/controller.php:17
 msgid "Installs the Composer List Package."
-msgstr ""
+msgstr "Εγκαθιστά το πακέτο Composer List."
 
 #: C:\Work\concrete5-composer-list/controller.php:44
 msgid "List"
-msgstr ""
+msgstr "Λίστα"
 
 #: C:\Work\concrete5-composer-list/controller.php:44
 msgid "List of Pages"
-msgstr ""
+msgstr "Λίστα Σελίδων"
 
 #: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:55
 msgid "No entries found"
-msgstr ""
+msgstr "Δεν βρέθηκαν εγγραφές"
 
 #: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:125
 msgid "Page deleted."
-msgstr ""
+msgstr "Η Σελίδα διαγράφτηκε."
 
 #: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:128
 msgid "You don't have the right to delete this page!"
-msgstr ""
+msgstr "Δεν έχετε το δικαίωμα να διαγράψει αυτή τη σελίδα!"
 
 #: C:\Work\concrete5-composer-list/elements/page_attributes.php:49
 msgid "remove"
-msgstr ""
+msgstr "αφαιρέστε"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:10
 #, php-format
 msgid "%s List"
-msgstr ""
+msgstr "%s Λίστα"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:10
 msgid "Shows a list of all pages editable by the composer."
-msgstr ""
+msgstr "Εμφανίζει μια λίστα με όλες τις επεξεργάσιμες σελίδες από τον συνθέτη."
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:24
 msgid "Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:28
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:35
 msgid "Customize Columns"
-msgstr ""
+msgstr "Προσαρμογή Στηλών"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:72
 msgid "Edit"
-msgstr ""
+msgstr "Επεξεργασία"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:73
 msgid "Delete"
-msgstr ""
+msgstr "Διαγραφή"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:75
 msgid "Are you sure you want to remove this page?"
-msgstr ""
+msgstr "Είστε βέβαιοι ότι θέλετε να καταργήσετε αυτή τη σελίδα;"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:134
 msgid "No pages found."
-msgstr ""
+msgstr "Δεν βρέθηκαν σελίδες."
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:138
 msgid "What type of page would you like to edit?"
-msgstr ""
+msgstr "Τι είδος σελίδας θα θέλατε να επεξεργαστείτε;"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:149
 msgid "You have not setup any page types for Composer."
-msgstr ""
+msgstr "Δεν έχετε εγκαταστήσει τύπους σελίδων για τον Συνθέτη."
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:9
 msgid "Page Type"
-msgstr ""
+msgstr "Τύπος σελίδας"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:10
 msgid "Page Name"
-msgstr ""
+msgstr "Όνομα Σελίδας"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:11
 msgid "Path"
-msgstr ""
+msgstr "Διαδρομή"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:12
 msgid "Date Created"
-msgstr ""
+msgstr "Ημερομηνία Δημιουργίας"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:13
 msgid "Date Modified"
-msgstr ""
+msgstr "Ημερομηνία Τροποποίησης"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:14
 msgid "Page Owner"
-msgstr ""
+msgstr "Ιδιοκτήτης της σελίδας"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:30
 msgid "Choose Headers"
-msgstr ""
+msgstr "Επιλέξτε Κεφαλίδες"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:33
 msgid "Standard Properties"
-msgstr ""
+msgstr "Τυπικές Ιδιότητες"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:48
 msgid "Additional Attributes"
-msgstr ""
+msgstr "Πρόσθετα Χαρακτηριστικά"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:64
 msgid "Column Order"
-msgstr ""
+msgstr "Τάξυνόμηση ανά στήλη"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:83
 msgid "Save"
-msgstr ""
+msgstr "Αποθήκευση"
 
 #~ msgid " "
 #~ msgstr " "

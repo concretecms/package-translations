@@ -1,12 +1,13 @@
 # 
 # Translators:
+# appliculture <mikhael.minisini@gmail.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-20 12:06+0000\n"
-"PO-Revision-Date: 2014-03-19 15:32+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-24 19:35+0000\n"
+"Last-Translator: appliculture <mikhael.minisini@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -48,7 +49,7 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:51
 msgid "Not defined"
-msgstr ""
+msgstr "Non défini"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:105
 msgid "This operation may take a few minutes."
@@ -78,19 +79,19 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:149
 msgid "Nowhere"
-msgstr ""
+msgstr "Nulle part"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
 msgid "File"
-msgstr ""
+msgstr "Fichier"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
 msgid "Line"
-msgstr ""
+msgstr "Ligne"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:161
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
 msgid "We have to do a first-time scan to locate all the constants."
@@ -112,40 +113,40 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:213
 msgid "Options"
-msgstr ""
+msgstr "Options"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:215
 msgid "Rescan"
-msgstr ""
+msgstr "Re-scanner"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:223
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:252
 msgid "Constant"
-msgstr ""
+msgstr "Constante"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:225
 msgid "Constant name"
-msgstr ""
+msgstr "Nom de la constante"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
 msgid "Defined or used in file"
-msgstr ""
+msgstr "Défini ou utilisé dans le fichier"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
 msgid "Defined in file"
-msgstr ""
+msgstr "Défini dans le fichier"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
 msgid "Used in file"
-msgstr ""
+msgstr "Utilisé dans le fichier"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:230
 msgid "File name"
-msgstr ""
+msgstr "Nom du fichier"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:233
 msgid "Search"
-msgstr ""
+msgstr "Rechercher"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:243
 msgid "Exclude 3rd party libraries"
@@ -153,7 +154,7 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:253
 msgid "Current value"
-msgstr ""
+msgstr "Valeur actuelle"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:254
 msgid "Found in"

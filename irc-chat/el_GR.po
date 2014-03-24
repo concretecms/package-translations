@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 09:28+0000\n"
-"PO-Revision-Date: 2014-03-21 22:31+0000\n"
+"PO-Revision-Date: 2014-03-24 20:03+0000\n"
 "Last-Translator: Vasilis Fotopoulos <bas_alba@yahoo.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -52,47 +52,47 @@ msgstr "Παρακαλώ προσδιορίστε το ύψος."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:56
 msgid "The height must be a number greater than zero."
-msgstr ""
+msgstr "Το Ύψος πρέπει να είναι ένας αριθμός μεγαλύτερος του μηδέν."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:72
 msgid "Please specify the IRC network."
-msgstr ""
+msgstr "Παρακαλούμε να προσδιορίσετε το δίκτυο IRC."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:78
 msgid "The channel name contains invalid characters."
-msgstr ""
+msgstr "Το όνομα του καναλιού περιέχει μη έγκυρους χαρακτήρες."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:96
 msgid "The nickname contains invalid characters."
-msgstr ""
+msgstr "Το ψευδώνυμο περιέχει μη έγκυρους χαρακτήρες."
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:37
 msgid "IRC"
-msgstr ""
+msgstr "IRC"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:38
 msgid "Appearance"
-msgstr ""
+msgstr "Εμφάνιση"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:39
 msgid "Advanced options"
-msgstr ""
+msgstr "Επιλογές για προχωρημένους"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:40
 msgid "About"
-msgstr ""
+msgstr "Σχετικά με"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:62
 msgid "IRC network"
-msgstr ""
+msgstr "Δίκτυο IRC "
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:63
 msgid "Please select"
-msgstr ""
+msgstr "Παρακαλώ επιλέξτε"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:66
 msgid "Or enter a custom IRC network (in the form <i>host:port</i>)"
-msgstr ""
+msgstr "'Η πληκτρολογήστε ένα προσαρμοσμένο IRC δίκτυο (της μορφής <i>host:port</i>)"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:71
 msgid "IRC channel"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# appliculture <mikhael.minisini@gmail.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-05 12:51+0000\n"
-"PO-Revision-Date: 2014-03-19 15:32+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-24 19:40+0000\n"
+"Last-Translator: appliculture <mikhael.minisini@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -171,7 +172,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:138
 msgid "Block"
-msgstr ""
+msgstr "Bloc"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:141
 msgid "Administration"
@@ -179,7 +180,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:144
 msgid "Site map"
-msgstr ""
+msgstr "Plan du site"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:147
 msgid "MarketPlace newsflow"
@@ -187,20 +188,20 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:150
 msgid "Basic workflow"
-msgstr ""
+msgstr "Flux de travail basique"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:281
 msgid "Area Names"
-msgstr ""
+msgstr "Noms de la zone"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:323
 msgid "The translations have been saved."
-msgstr ""
+msgstr "Les traductions ont étés sauvegardées."
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:334
 #, php-format
 msgid "Invalid locale identifier: '%s'"
-msgstr ""
+msgstr "Identifiant local invalide: '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:350
 #, php-format
@@ -269,24 +270,24 @@ msgstr ""
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:24
 msgid "enabled"
-msgstr ""
+msgstr "activé"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:25
 msgid "disabled"
-msgstr ""
+msgstr "désactivé"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:36
 msgid "Warning!"
-msgstr ""
+msgstr "Attention!"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:37
 msgid "Disabled item classes causes translations to be lost!"
-msgstr ""
+msgstr "Désactiver les classes de l'objet entraine la perte des traductions!"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:70
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:42
 msgid "Save"
-msgstr ""
+msgstr "Enregistrer"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:5
 msgid "Translate special items"
@@ -302,7 +303,7 @@ msgstr ""
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:42
 msgid "Language"
-msgstr ""
+msgstr "Langue"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:69
 msgid "Options"

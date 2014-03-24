@@ -1,0 +1,184 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-09 09:28+0000\n"
+"PO-Revision-Date: 2014-03-24 18:54+0000\n"
+"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:10
+#: packages/irc_chat/controller.php:10
+msgid "IRC Chat"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:14
+msgid "Direct access to IRC channels."
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:41
+msgctxt "KiwiIrcTheme"
+msgid "Relaxed"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:42
+msgctxt "KiwiIrcTheme"
+msgid "Basic"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:43
+msgctxt "KiwiIrcTheme"
+msgid "CLI (Dark)"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:44
+msgctxt "KiwiIrcTheme"
+msgid "Mini (Small)"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:51
+msgid "Please specify the height."
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:56
+msgid "The height must be a number greater than zero."
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:72
+msgid "Please specify the IRC network."
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:78
+msgid "The channel name contains invalid characters."
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/controller.php:96
+msgid "The nickname contains invalid characters."
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:37
+msgid "IRC"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:38
+msgid "Appearance"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:39
+msgid "Advanced options"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:40
+msgid "About"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:62
+msgid "IRC network"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:63
+msgid "Please select"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:66
+msgid "Or enter a custom IRC network (in the form <i>host:port</i>)"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:71
+msgid "IRC channel"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:76
+msgid "Nickname"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:81
+msgid "Suggest nickname from username of logged-in users"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:87
+msgid "Height (in pixels)"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:107
+msgid "Theme"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:108
+msgctxt "KiwiIrcTheme"
+msgid "None/default"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:111
+msgid "Or enter a custom theme"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:115
+msgid "Device types"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:118
+msgid "show only a link for mobile phones"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:122
+msgid "show only a link for tablets"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:128
+msgid "KiwiIRC server"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:130
+#, php-format
+msgid "Leave empty to use the default (%s)"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:134
+msgid "Key for the IRC channel"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:138
+msgid "Other options"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:141
+msgid "connect to IRC network with SSL"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:145
+msgid "debug enabled"
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/edit.php:150
+msgid ""
+"This block uses <a href=\"https://kiwiirc.com/\" "
+"target=\"_blank\">KiwiIRC</a>."
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/view.php:7
+msgid "IRC chat disabled in edit mode."
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/view.php:27
+#: packages/irc_chat/blocks/irc_chat/view.php:32
+#, php-format
+msgid "To open the IRC chat <a href=\"%s\" target=\"_blank\">click here</a>."
+msgstr ""
+
+#: packages/irc_chat/blocks/irc_chat/view.php:31
+msgid "Your browser does not support frames."
+msgstr ""
+
+#: packages/irc_chat/controller.php:14
+msgid "Allow inserting a block in your website to partecipate to IRC chats."
+msgstr ""

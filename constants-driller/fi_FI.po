@@ -1,0 +1,161 @@
+# 
+# Translators:
+# Hypocrite, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-20 12:06+0000\n"
+"PO-Revision-Date: 2014-03-24 19:04+0000\n"
+"Last-Translator: Hypocrite\n"
+"Language-Team: Finnish (Finland) (http://www.transifex.com/projects/p/concrete5-packages/language/fi_FI/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/constants_driller/controller.php:10
+msgid "Deep analysis and report of PHP constants used by concrete5."
+msgstr "Concrete5:n käyttämien PHP konstanttien syväanalyysi ja raportti."
+
+#: packages/constants_driller/controller.php:14
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:211
+msgid "Constants Driller"
+msgstr "Konstanttiporaaja"
+
+#: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:77
+#: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:93
+#, php-format
+msgid "Invalid parameter: %s"
+msgstr "Virheellinen parametri: %s"
+
+#: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:104
+msgid ""
+"You have to do a first-time scan (under the options pane available clicking "
+"the upper-right \"Option\" label)."
+msgstr "Sinun täytyy tehdä ensimmäinen skannaus (asetuspaneelin alapuolella, joka löytyy klikkaamalla oikean ylänurkan \"Asetukset\"-kohtaa)."
+
+#: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:175
+msgid "never accomplished"
+msgstr "ei suoritettu koskaan"
+
+#: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:177
+#, php-format
+msgid "Last scan: %s"
+msgstr "Viimeisin skannaus: %s"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:51
+msgid "Not defined"
+msgstr "Ei määritelty"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:105
+msgid "This operation may take a few minutes."
+msgstr "Tämä toiminto voi kestää muutaman minuutin."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:105
+msgid "Do you want to proceed anyway?"
+msgstr "Haluatko jatkaa siitä huolimatta?"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:133
+#, php-format
+msgid "Constant %s defined in…"
+msgstr "Konstantti  %s määritelty..."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:133
+msgid "Defined in…"
+msgstr "Määritelty..."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:137
+#, php-format
+msgid "Constant %s used in…"
+msgstr "Konstanttia %s käytetään..."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:137
+msgid "Used in…"
+msgstr "Käytetään..."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:149
+msgid "Nowhere"
+msgstr "Ei missään"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
+msgid "File"
+msgstr "Tiedosto"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
+msgid "Line"
+msgstr "Rivi"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:161
+msgid "Close"
+msgstr "Sulje"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
+msgid "We have to do a first-time scan to locate all the constants."
+msgstr "Meidän täytyy tehdä ensimmäinen skannaus kaikkien konstattien löytämiseksi."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
+msgid "Do you want to do it now?"
+msgstr "Haluatko tehdä sen nyt?"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
+msgid "PS: this may take a few minites."
+msgstr "PS: Tämä voi kestää muutaman minuutin."
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:211
+msgid ""
+"The Constants Driller allow you to inspect all the constants used or defined"
+" in your concrete5 installation."
+msgstr ""
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:213
+msgid "Options"
+msgstr "Asetukset"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:215
+msgid "Rescan"
+msgstr "Skannaa uudestaan"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:223
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:252
+msgid "Constant"
+msgstr ""
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:225
+msgid "Constant name"
+msgstr "Konstantin nimi"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
+msgid "Defined or used in file"
+msgstr "Määritelty tai käytetty tiedostossa"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
+msgid "Defined in file"
+msgstr "Määritelty tiedostossa"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
+msgid "Used in file"
+msgstr "Käytetty tiedostossa"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:230
+msgid "File name"
+msgstr "Tiedostonimi"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:233
+msgid "Search"
+msgstr "Haku"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:243
+msgid "Exclude 3rd party libraries"
+msgstr "Jätä huomiotta 3. osapuolien kirjastot"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:253
+msgid "Current value"
+msgstr "Nykyinen arvo"
+
+#: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:254
+msgid "Found in"
+msgstr "Löytyi"

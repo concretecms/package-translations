@@ -1,0 +1,50 @@
+# 
+# Translators:
+# Hypocrite, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-06 15:13+0000\n"
+"PO-Revision-Date: 2014-03-24 19:08+0000\n"
+"Last-Translator: Hypocrite\n"
+"Language-Team: Finnish (Finland) (http://www.transifex.com/projects/p/concrete5-packages/language/fi_FI/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/recaptcha/controller.php:10 packages/recaptcha/controller.php:35
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: packages/recaptcha/controller.php:14
+msgid "Allow to use the reCAPTCHA captcha."
+msgstr "Salli reCAPTCHAN captchan käyttö."
+
+#: packages/recaptcha/elements/system/captcha/recaptcha/form.php:11
+msgid "reCAPTCHA public key"
+msgstr "reCAPTCHA:n julkinen avain"
+
+#: packages/recaptcha/elements/system/captcha/recaptcha/form.php:17
+msgid "reCAPTCHA private key"
+msgstr "reCAPTCHA:n yksityinen avain"
+
+#: packages/recaptcha/elements/system/captcha/recaptcha/form.php:24
+#, php-format
+msgid ""
+"You can get the public and private keys from <a target=\"_blank\" "
+"href=\"%s\">this page</a>."
+msgstr "Voit hankkia julkisen ja yksityisen avaimen <a target=\"_blank\" href=\"%s\">tältä sivulta</a>."
+
+#: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:8
+msgid "Please type the letters and numbers shown in the image."
+msgstr "Ole hyvä ja kirjoita kuvassa näkyvät kirjaimet ja numerot."
+
+#: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:15
+#: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:38
+msgid "Please specify the reCAPTCHA keys"
+msgstr "Ole hyvä ja määrittele reCAPTCHAN avaimet"
