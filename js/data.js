@@ -1,5 +1,5 @@
 {
-    "updated": 1395697868,
+    "updated": 1395736227,
     "packages": [
         {
             "handle": "constants-driller",
@@ -160,6 +160,13 @@
                     "total": 85,
                     "perc": 98
                 },
+                "lt_LT": {
+                    "translated": 18,
+                    "untranslated": 67,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 21
+                },
                 "sv_SE": {
                     "translated": 85,
                     "untranslated": 0,
@@ -265,6 +272,13 @@
                     "total": 39,
                     "perc": 100
                 },
+                "sv_SE": {
+                    "translated": 39,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 39,
+                    "perc": 100
+                },
                 "el_GR": {
                     "translated": 18,
                     "untranslated": 21,
@@ -285,6 +299,13 @@
                     "fuzzy": 0,
                     "total": 39,
                     "perc": 100
+                },
+                "vi_VN": {
+                    "translated": 17,
+                    "untranslated": 22,
+                    "fuzzy": 0,
+                    "total": 39,
+                    "perc": 43
                 },
                 "zh_TW": {
                     "translated": 39,
@@ -308,6 +329,13 @@
                     "perc": 100
                 },
                 "it_IT": {
+                    "translated": 34,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 100
+                },
+                "sv_SE": {
                     "translated": 34,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -357,6 +385,13 @@
                     "perc": 100
                 },
                 "it_IT": {
+                    "translated": 65,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 65,
+                    "perc": 100
+                },
+                "sv_SE": {
                     "translated": 65,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -419,6 +454,13 @@
                     "total": 7,
                     "perc": 100
                 },
+                "sv_SE": {
+                    "translated": 7,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 7,
+                    "perc": 100
+                },
                 "el_GR": {
                     "translated": 7,
                     "untranslated": 0,
@@ -441,6 +483,13 @@
                     "perc": 100
                 },
                 "nl_NL": {
+                    "translated": 7,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 7,
+                    "perc": 100
+                },
+                "vi_VN": {
                     "translated": 7,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -476,6 +525,13 @@
                     "perc": 100
                 },
                 "it_IT": {
+                    "translated": 32,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 32,
+                    "perc": 100
+                },
+                "sv_SE": {
                     "translated": 32,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -538,6 +594,13 @@
                     "total": 11,
                     "perc": 45
                 },
+                "sv_SE": {
+                    "translated": 11,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 11,
+                    "perc": 100
+                },
                 "fi_FI": {
                     "translated": 11,
                     "untranslated": 0,
@@ -593,6 +656,13 @@
                     "fuzzy": 0,
                     "total": 10,
                     "perc": 40
+                },
+                "sv_SE": {
+                    "translated": 10,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 10,
+                    "perc": 100
                 },
                 "el_GR": {
                     "translated": 10,
