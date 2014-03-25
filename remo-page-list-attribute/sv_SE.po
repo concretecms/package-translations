@@ -1,11 +1,12 @@
 # 
 # Translators:
+# MrLindau <fredrik@fxlindau.se>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:15+0100\n"
-"PO-Revision-Date: 2014-03-24 18:54+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-24 22:56+0000\n"
+"Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,44 +21,44 @@ msgstr ""
 
 #: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/controller.php:18
 msgid "Lists pages connected to the current page."
-msgstr ""
+msgstr "Listar sidor som är kopplade till den aktuella sidan."
 
 #: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/controller.php:22
 msgid "Connected Page List"
-msgstr ""
+msgstr "Lista med kopplade sidor"
 
 #: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/form_setup_html.php:9
 msgid "Attribute"
-msgstr ""
+msgstr "Egenskap"
 
 #: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/form_setup_html.php:12
 msgid "Attribute to display"
-msgstr ""
+msgstr "Egenskap att visa"
 
 #: C:\Work\concrete5-pagelist-attribute/controller.php:12
 msgid "Adds an attribute where you can select pages."
-msgstr ""
+msgstr "Lägger till en egenskap där du kan välja sidor."
 
 #: C:\Work\concrete5-pagelist-attribute/controller.php:16
 msgid "Pagelist Attribute"
-msgstr ""
+msgstr "Sidegenskap"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/search.php:18
 msgid "All"
-msgstr ""
+msgstr "Alla"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:7
 msgid "Select Options"
-msgstr ""
+msgstr "Alternativ för val"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:10
 msgid "Page Type"
-msgstr ""
+msgstr "Sidtyp"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:26
 msgid "Display Drop-Down"
-msgstr ""
+msgstr "Visa rullgardin"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:32
 msgid "Always display drop down in search form."
-msgstr ""
+msgstr "Visa alltid rullgardin i sökformuläret."

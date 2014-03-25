@@ -1,11 +1,12 @@
 # 
 # Translators:
+# MrLindau <fredrik@fxlindau.se>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-01 10:48+0100\n"
-"PO-Revision-Date: 2014-03-24 18:54+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-24 22:14+0000\n"
+"Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,138 +22,138 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/controller.php:15
 msgid "Displays a list of files from a file set."
-msgstr ""
+msgstr "Visa en lista på filer från en filgrupp."
 
 #: ../blocks/list_files_from_set/controller.php:19
 msgid "List Files From Set"
-msgstr ""
+msgstr "Lista filer från grupp."
 
 #: ../blocks/list_files_from_set/controller.php:23
 #: ../blocks/list_files_from_set/controller.php:29
 msgid "You must select a file set."
-msgstr ""
+msgstr "Du måste välja en filgrupp."
 
 #: ../blocks/list_files_from_set/edit.php:8
 #: ../blocks/list_files_from_set/edit.php:25
 msgid "Select File Set"
-msgstr ""
+msgstr "Välj filgrupp."
 
 #: ../blocks/list_files_from_set/edit.php:19
 msgid "Display"
-msgstr ""
+msgstr "Visa"
 
 #: ../blocks/list_files_from_set/edit.php:20
 msgid "files from:"
-msgstr ""
+msgstr "filer från:"
 
 #: ../blocks/list_files_from_set/edit.php:41
 msgid "(leave blank or enter zero for all files in set)"
-msgstr ""
+msgstr "(lämna tomt eller skriv in noll för att visa alla filer i en grupp)"
 
 #: ../blocks/list_files_from_set/edit.php:45
 msgid "Ordering"
-msgstr ""
+msgstr "Sortering"
 
 #: ../blocks/list_files_from_set/edit.php:47
 msgid "Date added (newest first)"
-msgstr ""
+msgstr "Datum tillagd (senaste först)"
 
 #: ../blocks/list_files_from_set/edit.php:48
 msgid "Date added (oldest first)"
-msgstr ""
+msgstr "Datum tillagd (tidigaste först)"
 
 #: ../blocks/list_files_from_set/edit.php:49
 msgid "Alphabetical"
-msgstr ""
+msgstr "Alfabetisk"
 
 #: ../blocks/list_files_from_set/edit.php:50
 msgid "Alphabetical (reversed)"
-msgstr ""
+msgstr "Alfabetisk (omvänd)"
 
 #: ../blocks/list_files_from_set/edit.php:51
 msgid "Set order"
-msgstr ""
+msgstr "Gruppordning"
 
 #: ../blocks/list_files_from_set/edit.php:52
 msgid "Set order (reversed)"
-msgstr ""
+msgstr "Gruppordning (omvänd)"
 
 #: ../blocks/list_files_from_set/edit.php:56
 msgid "Display options"
-msgstr ""
+msgstr "Visa alternativ"
 
 #: ../blocks/list_files_from_set/edit.php:58
 msgid "Display name of set"
-msgstr ""
+msgstr "Visa namn på grupp"
 
 #: ../blocks/list_files_from_set/edit.php:60
 msgid "Replace underscores in titles with spaces"
-msgstr ""
+msgstr "Byt ut understrykning med mellanslag"
 
 #: ../blocks/list_files_from_set/edit.php:62
 msgid "Uppercase first letter of title (lowercase rest)"
-msgstr ""
+msgstr "Sätt stor bokstav först på titel (små bokstäver på resten)"
 
 #: ../blocks/list_files_from_set/edit.php:64
 msgid "Display file size"
-msgstr ""
+msgstr "Visa filstorlek"
 
 #: ../blocks/list_files_from_set/edit.php:66
 msgid "Display date added"
-msgstr ""
+msgstr "Visa datum för tilläggning"
 
 #: ../blocks/list_files_from_set/edit.php:69
 msgid "File extension:"
-msgstr ""
+msgstr "Filändelse:"
 
 #: ../blocks/list_files_from_set/edit.php:71
 msgid "Leave in title (if present)"
-msgstr ""
+msgstr "Lämna i titel (om tillgänglig)"
 
 #: ../blocks/list_files_from_set/edit.php:72
 msgid "Hide"
-msgstr ""
+msgstr "Dölj"
 
 #: ../blocks/list_files_from_set/edit.php:73
 msgid "Always show (in brackets / column)"
-msgstr ""
+msgstr "Visa alltid (inom parentes / kolumn)"
 
 #: ../blocks/list_files_from_set/edit.php:78
 msgid "Empty file set message (optional)"
-msgstr ""
+msgstr "Töm meddelande för filgrupp (valfritt)"
 
 #: ../blocks/list_files_from_set/edit.php:83
 msgid "Title Override  (optional)"
-msgstr ""
+msgstr "Åsidosätt rubrik (valfritt)"
 
 #: ../blocks/list_files_from_set/edit.php:85
 msgid "(will replace title/filename, e.g. 'latest file')"
-msgstr ""
+msgstr "(kommer ersätta rubrik/filnamn, t.ex. \"senaste filen\")"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:22
 msgid "File"
-msgstr ""
+msgstr "Fil"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:26
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:30
 msgid "Size"
-msgstr ""
+msgstr "Storlek"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:35
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: ../controller.php:5
 msgid "Access Denied."
-msgstr ""
+msgstr "Åtkomst nekad."
 
 #: ../controller.php:14
 msgid "A block to display a list of files from a file set."
-msgstr ""
+msgstr "Ett block för att visa en lista av filer från en filgrupp."
 
 #: ../controller.php:18
 msgid "List files from set"
-msgstr ""
+msgstr "Lista filer från grupp"

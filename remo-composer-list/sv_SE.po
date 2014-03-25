@@ -1,12 +1,13 @@
 # Translators:
 # Translators:
+# MrLindau <fredrik@fxlindau.se>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: remo.laubacher@gmail.com\n"
 "POT-Creation-Date: 2014-03-17 13:45+0100\n"
-"PO-Revision-Date: 2014-03-24 18:54+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-24 22:53+0000\n"
+"Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,133 +24,133 @@ msgstr ""
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/form.php:3
 #: C:\Work\concrete5-composer-list/elements/page_attributes.php:2
 msgid "Access Denied."
-msgstr ""
+msgstr "Åtkomst nekad."
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:16
 msgid "Adds a blocks which allows you to edit the page attributes."
-msgstr ""
+msgstr "Lägger till ett block som låter dig redigera sidans egenskaper."
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:20
 msgid "Page Attributes"
-msgstr ""
+msgstr "Sidegenskaper"
 
 #: C:\Work\concrete5-composer-list/controller.php:13
 msgid "Composer List"
-msgstr ""
+msgstr "Composer Lista"
 
 #: C:\Work\concrete5-composer-list/controller.php:17
 msgid "Installs the Composer List Package."
-msgstr ""
+msgstr "Installerar Composers Listningspaket."
 
 #: C:\Work\concrete5-composer-list/controller.php:44
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 #: C:\Work\concrete5-composer-list/controller.php:44
 msgid "List of Pages"
-msgstr ""
+msgstr "Lista med sidor"
 
 #: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:55
 msgid "No entries found"
-msgstr ""
+msgstr "Inga poster hittades"
 
 #: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:125
 msgid "Page deleted."
-msgstr ""
+msgstr "Sidan borttagen."
 
 #: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:128
 msgid "You don't have the right to delete this page!"
-msgstr ""
+msgstr "Du saknar rättigheter att ta bort denna sida!"
 
 #: C:\Work\concrete5-composer-list/elements/page_attributes.php:49
 msgid "remove"
-msgstr ""
+msgstr "ta bort"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:10
 #, php-format
 msgid "%s List"
-msgstr ""
+msgstr "%s Lista"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:10
 msgid "Shows a list of all pages editable by the composer."
-msgstr ""
+msgstr "Visa en lista på alla sidor som går att redigera i Composer."
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:24
 msgid "Search"
-msgstr ""
+msgstr "Sök"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:28
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:35
 msgid "Customize Columns"
-msgstr ""
+msgstr "Anpassa kolumner"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:72
 msgid "Edit"
-msgstr ""
+msgstr "Redigera"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:73
 msgid "Delete"
-msgstr ""
+msgstr "Ta bort"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:75
 msgid "Are you sure you want to remove this page?"
-msgstr ""
+msgstr "Är du säker på att du vill ta bort denna sida?"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:134
 msgid "No pages found."
-msgstr ""
+msgstr "Inga sidor hittades."
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:138
 msgid "What type of page would you like to edit?"
-msgstr ""
+msgstr "Vilken typ av sida vill du redigera?"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:149
 msgid "You have not setup any page types for Composer."
-msgstr ""
+msgstr "Du har ännu inte gjort några sidtyper för Compser."
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:9
 msgid "Page Type"
-msgstr ""
+msgstr "Sidtyp"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:10
 msgid "Page Name"
-msgstr ""
+msgstr "Sidnamn"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:11
 msgid "Path"
-msgstr ""
+msgstr "Sökväg"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:12
 msgid "Date Created"
-msgstr ""
+msgstr "Skapad den"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:13
 msgid "Date Modified"
-msgstr ""
+msgstr "Ändrad den"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:14
 msgid "Page Owner"
-msgstr ""
+msgstr "Sidägare"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:30
 msgid "Choose Headers"
-msgstr ""
+msgstr "Välj HTTP-huvuden"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:33
 msgid "Standard Properties"
-msgstr ""
+msgstr "Standardegenskaper"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:48
 msgid "Additional Attributes"
-msgstr ""
+msgstr "Ytterligare egenskaper"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:64
 msgid "Column Order"
-msgstr ""
+msgstr "Kolumnordning"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:83
 msgid "Save"
-msgstr ""
+msgstr "Spara"
 
 #~ msgid " "
 #~ msgstr " "

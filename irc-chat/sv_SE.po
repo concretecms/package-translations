@@ -1,12 +1,13 @@
 # 
 # Translators:
+# MrLindau <fredrik@fxlindau.se>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 09:28+0000\n"
-"PO-Revision-Date: 2014-03-24 18:54+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-24 22:03+0000\n"
+"Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,166 +20,166 @@ msgstr ""
 #: packages/irc_chat/blocks/irc_chat/controller.php:10
 #: packages/irc_chat/controller.php:10
 msgid "IRC Chat"
-msgstr ""
+msgstr "IRC-chat"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:14
 msgid "Direct access to IRC channels."
-msgstr ""
+msgstr "Direkt åtkomst till IRC-kanaler."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:41
 msgctxt "KiwiIrcTheme"
 msgid "Relaxed"
-msgstr ""
+msgstr "Avslappnad"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:42
 msgctxt "KiwiIrcTheme"
 msgid "Basic"
-msgstr ""
+msgstr "Grundläggande"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:43
 msgctxt "KiwiIrcTheme"
 msgid "CLI (Dark)"
-msgstr ""
+msgstr "CLI (Mörk)"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:44
 msgctxt "KiwiIrcTheme"
 msgid "Mini (Small)"
-msgstr ""
+msgstr "Mini (Liten)"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:51
 msgid "Please specify the height."
-msgstr ""
+msgstr "Var vänlig ange höjd."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:56
 msgid "The height must be a number greater than zero."
-msgstr ""
+msgstr "Höjden måste vara en siffra större än noll."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:72
 msgid "Please specify the IRC network."
-msgstr ""
+msgstr "Var vänlig specificera IRC-nätverk."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:78
 msgid "The channel name contains invalid characters."
-msgstr ""
+msgstr "Kanalnamnet innehåller ogiltiga tecken."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:96
 msgid "The nickname contains invalid characters."
-msgstr ""
+msgstr "Smeknament innehåller ogiltiga tecken."
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:37
 msgid "IRC"
-msgstr ""
+msgstr "IRC"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:38
 msgid "Appearance"
-msgstr ""
+msgstr "Utseende"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:39
 msgid "Advanced options"
-msgstr ""
+msgstr "Avancerade alternativ"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:40
 msgid "About"
-msgstr ""
+msgstr "Om"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:62
 msgid "IRC network"
-msgstr ""
+msgstr "IRC-nätverk"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:63
 msgid "Please select"
-msgstr ""
+msgstr "Var vänlig välj"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:66
 msgid "Or enter a custom IRC network (in the form <i>host:port</i>)"
-msgstr ""
+msgstr "Eller ange ett anpassat IRC-nätverk (i form av <i>host:port</i>)"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:71
 msgid "IRC channel"
-msgstr ""
+msgstr "IRC-kanal"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:76
 msgid "Nickname"
-msgstr ""
+msgstr "Smeknamn"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:81
 msgid "Suggest nickname from username of logged-in users"
-msgstr ""
+msgstr "Föreslå smeknamn från användarnamn på inloggade användare"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:87
 msgid "Height (in pixels)"
-msgstr ""
+msgstr "Höjd (i pixlar)"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:107
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:108
 msgctxt "KiwiIrcTheme"
 msgid "None/default"
-msgstr ""
+msgstr "Inget/Standard"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:111
 msgid "Or enter a custom theme"
-msgstr ""
+msgstr "Eller ange ett anpassat tema"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:115
 msgid "Device types"
-msgstr ""
+msgstr "Enhetstyper"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:118
 msgid "show only a link for mobile phones"
-msgstr ""
+msgstr "visa endast en länk för mobiltelefoner"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:122
 msgid "show only a link for tablets"
-msgstr ""
+msgstr "visa endast en länk för surfplattor"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:128
 msgid "KiwiIRC server"
-msgstr ""
+msgstr "KiwiIRC-server"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:130
 #, php-format
 msgid "Leave empty to use the default (%s)"
-msgstr ""
+msgstr "Lämna tomt för att användea standard (%s)"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:134
 msgid "Key for the IRC channel"
-msgstr ""
+msgstr "Nyckel för IRC-kanal"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:138
 msgid "Other options"
-msgstr ""
+msgstr "Övriga alternativ"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:141
 msgid "connect to IRC network with SSL"
-msgstr ""
+msgstr "anslut till IRC-nätverk med SSL"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:145
 msgid "debug enabled"
-msgstr ""
+msgstr "debug aktiverad"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:150
 msgid ""
 "This block uses <a href=\"https://kiwiirc.com/\" "
 "target=\"_blank\">KiwiIRC</a>."
-msgstr ""
+msgstr "Detta block använder <a href=\"https://kiwiirc.com/\" target=\"_blank\">KiwiIRC</a>."
 
 #: packages/irc_chat/blocks/irc_chat/view.php:7
 msgid "IRC chat disabled in edit mode."
-msgstr ""
+msgstr "IRC-chat avaktiverad i redigeringsläge."
 
 #: packages/irc_chat/blocks/irc_chat/view.php:27
 #: packages/irc_chat/blocks/irc_chat/view.php:32
 #, php-format
 msgid "To open the IRC chat <a href=\"%s\" target=\"_blank\">click here</a>."
-msgstr ""
+msgstr "För att öppna IRC-chatt <a href=\"%s\" target=\"_blank\">klicka här</a>."
 
 #: packages/irc_chat/blocks/irc_chat/view.php:31
 msgid "Your browser does not support frames."
-msgstr ""
+msgstr "Din webbläsare stödjer inte frames/ramar."
 
 #: packages/irc_chat/controller.php:14
 msgid "Allow inserting a block in your website to partecipate to IRC chats."
-msgstr ""
+msgstr "Tillåt att sätta in ett block i din webbplats för att delta på IRC-chattar."
