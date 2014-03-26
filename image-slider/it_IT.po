@@ -1,0 +1,182 @@
+# 
+# Translators:
+# Andrea Martini <andrea.martini@me.com>, 2014
+# Michele Locati <michele@locati.it>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"POT-Creation-Date: 2014-03-25 16:33+0100\n"
+"PO-Revision-Date: 2014-03-25 20:54+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: C:\\Work\\addon_image_slider\n"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/add.php:2
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:2
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/edit.php:2
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/fileset_row_include.php:1
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:2
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/image_row_include.php:1
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/view.php:1
+#: C:\Work\addon_image_slider/packages/image_slider/controller.php:3
+msgid "Access Denied."
+msgstr "Accesso negato."
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:30
+msgid "Display a group of images in a slider."
+msgstr "Mostra un gruppo di immagini in uno slider."
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:34
+#: C:\Work\addon_image_slider/packages/image_slider/controller.php:16
+msgid "Image Slider"
+msgstr "Slider di immagini"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:39
+msgid "Choose Image/File"
+msgstr "Seleziona immagine/file"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:40
+msgid "Please choose at least two images."
+msgstr "Selezionare almeno due immagini."
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:41
+msgid "Please choose a file set."
+msgstr "Selezionare un set di file."
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:18
+msgid "Choose Images"
+msgstr "Seleziona immagini"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:19
+msgid "Options"
+msgstr "Opzioni"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:24
+msgid "Looping"
+msgstr "Ripetizione"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:25
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:34
+msgid "The images should:"
+msgstr "Le immagini devono:"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:27
+msgid "loop continuously"
+msgstr "ripetersi continuamente"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:28
+msgid "have a beginning and an end"
+msgstr "avere un inizio e una fine"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:33
+msgid "Transition Type"
+msgstr "Tipo di transizione"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:36
+msgid "fade between images"
+msgstr "dissolvenza tra immagini"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:37
+msgid "scroll horizontally"
+msgstr "scorrimento orizzontale"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:38
+msgid "scroll vertically"
+msgstr "scorrimento verticale"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:43
+msgid "Playback Controls"
+msgstr "Controlli riproduzione"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:49
+msgid "None"
+msgstr "Nessuno"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:56
+msgid "Arrows on Edges"
+msgstr "Frecce sui bordi"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:63
+msgid "Movie-Style Controls, in"
+msgstr "Controlli in stile video, nell'angolo"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:65
+msgid "Upper Left Corner"
+msgstr "in alto a sinistra"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:66
+msgid "Lower Left Corner"
+msgstr "in basso a sinistra"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:67
+msgid "Upper Right Corner"
+msgstr "in alto a destra"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:68
+msgid "Lower Right Corner"
+msgstr "in basso a destra"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:76
+msgid "Include play/pause button."
+msgstr "Mostra il pulsante riproduci/pausa."
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:92
+msgid "Autoplay"
+msgstr "Riproduci automaticamente"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:93
+msgid "No"
+msgstr "No"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:94
+msgid "Yes"
+msgstr "Sì"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:99
+msgid "Display Duration"
+msgstr "Mostra durata"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:104
+#, php-format
+msgid "While playing, display each image for %s seconds."
+msgstr "Durante la riproduzione mostra ogni immagine per %s secondi."
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:118
+msgid "Type"
+msgstr "Tipo"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:120
+msgid "Custom Slider"
+msgstr "Slider personalizzato"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:121
+msgid "Images from File Set"
+msgstr "Immagini da set di file"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:125
+msgid "Order"
+msgstr "Ordine"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:127
+msgid "Display Order"
+msgstr "Ordine di visualizzazione"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:128
+msgid "Random"
+msgstr "Casuale"
+
+#: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:136
+msgid "Add Image"
+msgstr "Aggiungi immagine"
+
+#: C:\Work\addon_image_slider/packages/image_slider/controller.php:12
+msgid "Provides a full-featured image slider."
+msgstr "Fornisce uno slider di immagini completo."

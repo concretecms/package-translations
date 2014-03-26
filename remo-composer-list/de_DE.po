@@ -3,7 +3,7 @@
 # Remo Laubacher <remo.laubacher@gmail.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: remo.laubacher@gmail.com\n"
 "POT-Creation-Date: 2014-03-17 13:45+0100\n"
 "PO-Revision-Date: 2014-03-17 12:47+0000\n"

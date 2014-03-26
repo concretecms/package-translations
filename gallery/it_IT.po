@@ -1,0 +1,156 @@
+# 
+# Translators:
+# Andrea Martini <andrea.martini@me.com>, 2014
+# Michele Locati <michele@locati.it>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"POT-Creation-Date: 2014-03-25 16:33+0100\n"
+"PO-Revision-Date: 2014-03-25 20:57+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: C:\\Work\\addon_gallery\n"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/add.php:2
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:2
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/edit.php:2
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:1
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:2
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:1
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/view.php:1
+#: C:\Work\addon_gallery/packages/gallery/controller.php:3
+msgid "Access Denied."
+msgstr "Accesso negato."
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:25
+msgid "Display a gallery of images."
+msgstr "Mostra una galleria di immagini."
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:29
+#: C:\Work\addon_gallery/packages/gallery/controller.php:16
+msgid "Gallery"
+msgstr "Galleria"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:34
+msgid "Choose Image/File"
+msgstr "Scegli immagine/file"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:35
+msgid "Please choose at least two images."
+msgstr "Scegliere almeno due immagini."
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:36
+msgid "Please choose a file set."
+msgstr "Scegliere un set di file."
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:8
+msgid "File Set"
+msgstr "Set di file"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:14
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:14
+msgid "Duration"
+msgstr "Durata"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:16
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:16
+msgid "Fade Duration"
+msgstr "Durata transizione"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:21
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:35
+msgid "Also Display"
+msgstr "Mostra anche"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:21
+msgid "Gallery Type"
+msgstr "Tipo di galleria"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:22
+msgid "Options"
+msgstr "Opzioni"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:29
+msgid "Thumbnail Width"
+msgstr "Larghezza miniatura"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:35
+msgid "Thumbnail Height"
+msgstr "Altezza miniatura"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:41
+msgid "Thumbnails Per Row"
+msgstr "Miniature per riga"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:47
+msgid "Max Number of Thumbnails"
+msgstr "Numero massimo di miniature"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:60
+#, php-format
+msgid "File Attribute: %s"
+msgstr "Attributo file: %s"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:65
+msgid "** Default"
+msgstr "** Predefinito"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:70
+msgid "Thumbnail to Use"
+msgstr "Miniatura da utilizzare"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:80
+msgid "Type"
+msgstr "Tipo"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:82
+msgid "Custom Gallery"
+msgstr "Galleria personalizzata"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:83
+msgid "Pictures from File Set"
+msgstr "Immagini da set di file"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:88
+msgid "Playback"
+msgstr "Riproduzione"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:90
+msgid "Display Order"
+msgstr "Ordine di visualizzazione"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:91
+msgid "Random (But keep sets together)"
+msgstr "Casuale (ma mantieni i set uniti)"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:92
+msgid "Completely Random"
+msgstr "Completamente casuale"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:101
+msgid "Add Image"
+msgstr "Aggiungi immagine"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:18
+msgid "Set Number"
+msgstr "Imposta numero"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:24
+msgid "Link URL (optional)"
+msgstr "Collega a URL (facoltativo)"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:25
+msgid "Caption (optional)"
+msgstr "Didascalia (opzionale)"
+
+#: C:\Work\addon_gallery/packages/gallery/controller.php:12
+msgid "Provides a simple photo gallery."
+msgstr "Fornisce una semplice galleria di immagini."

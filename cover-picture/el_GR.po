@@ -3,7 +3,7 @@
 # Vasilis Fotopoulos <bas_alba@yahoo.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:24+0100\n"
 "PO-Revision-Date: 2014-03-20 17:55+0000\n"
 "Last-Translator: Vasilis Fotopoulos <bas_alba@yahoo.com>\n"

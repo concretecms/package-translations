@@ -1,0 +1,74 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"POT-Creation-Date: 2014-03-25 16:30+0100\n"
+"PO-Revision-Date: 2014-03-25 15:30+0000\n"
+"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"Language-Team: Vietnamese (Viet Nam) (http://www.transifex.com/projects/p/concrete5-packages/language/vi_VN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: C:\\Work\\addon_sample_content_generator\n"
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:3
+msgid "Access Denied."
+msgstr ""
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:12
+msgid ""
+"Allows a user to generate installation data for a concrete5 site or add-on."
+msgstr ""
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:16
+msgid "Sample Content and Install Generator"
+msgstr ""
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:2
+msgid "Generate Installation Data"
+msgstr ""
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:6
+msgid "Files"
+msgstr ""
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:8
+msgid "Download all file manager files."
+msgstr ""
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:11
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:20
+msgid "Back"
+msgstr ""
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:16
+msgid "Data"
+msgstr ""
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:24
+msgid "Archive Files."
+msgstr ""
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:25
+msgid "Generate a zip of all files in this site."
+msgstr ""
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:27
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:35
+msgid "Go"
+msgstr ""
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:32
+msgid "Generate content.xml from current website."
+msgstr ""
+
+#: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:33
+msgid ""
+"Once you generate this file you can include it in a custom starting point."
+msgstr ""

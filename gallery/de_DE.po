@@ -1,0 +1,155 @@
+# 
+# Translators:
+# Remo Laubacher <remo.laubacher@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"POT-Creation-Date: 2014-03-25 16:33+0100\n"
+"PO-Revision-Date: 2014-03-25 15:44+0000\n"
+"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: C:\\Work\\addon_gallery\n"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/add.php:2
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:2
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/edit.php:2
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:1
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:2
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:1
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/view.php:1
+#: C:\Work\addon_gallery/packages/gallery/controller.php:3
+msgid "Access Denied."
+msgstr "Zugriff verweigert."
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:25
+msgid "Display a gallery of images."
+msgstr "Zeigt Bilder als Galerie."
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:29
+#: C:\Work\addon_gallery/packages/gallery/controller.php:16
+msgid "Gallery"
+msgstr "Galerie"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:34
+msgid "Choose Image/File"
+msgstr "Datei/Bild wählen"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:35
+msgid "Please choose at least two images."
+msgstr "Bitte wählen Sie mindestens 2 Bilder aus."
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:36
+msgid "Please choose a file set."
+msgstr "Bitte wählen Sie eine Dateisammlung aus."
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:8
+msgid "File Set"
+msgstr "Datei-Album"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:14
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:14
+msgid "Duration"
+msgstr "Anzeige-Dauer"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:16
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:16
+msgid "Fade Duration"
+msgstr "Überblendungsdauer"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:21
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:35
+msgid "Also Display"
+msgstr ""
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:21
+msgid "Gallery Type"
+msgstr "Galerietyp"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:22
+msgid "Options"
+msgstr "Optionen"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:29
+msgid "Thumbnail Width"
+msgstr "Vorschaubildbreite"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:35
+msgid "Thumbnail Height"
+msgstr "Vorschaubildhöhe"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:41
+msgid "Thumbnails Per Row"
+msgstr "Vorschaubilder pro Zeile"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:47
+msgid "Max Number of Thumbnails"
+msgstr "Maximale Anzahl Vorschaubilder"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:60
+#, php-format
+msgid "File Attribute: %s"
+msgstr "Datei Attribute: %s"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:65
+msgid "** Default"
+msgstr "Standard"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:70
+msgid "Thumbnail to Use"
+msgstr "Vorschaubild verwenden"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:80
+msgid "Type"
+msgstr "Typ"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:82
+msgid "Custom Gallery"
+msgstr "Benutzerdefinierte Galerie"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:83
+msgid "Pictures from File Set"
+msgstr "Bilder aus der Dateisammlung"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:88
+msgid "Playback"
+msgstr "Wiedergabe"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:90
+msgid "Display Order"
+msgstr "Anzeigeordnung"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:91
+msgid "Random (But keep sets together)"
+msgstr "Zufällig (aber Alben zusammenhalten)"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:92
+msgid "Completely Random"
+msgstr "Ganz zufällig"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:101
+msgid "Add Image"
+msgstr "Bild einfügen"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:18
+msgid "Set Number"
+msgstr "Sammlungsnummer"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:24
+msgid "Link URL (optional)"
+msgstr "Verweis auf eine Adresse (optional)"
+
+#: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:25
+msgid "Caption (optional)"
+msgstr "Titel (optional)"
+
+#: C:\Work\addon_gallery/packages/gallery/controller.php:12
+msgid "Provides a simple photo gallery."
+msgstr "Einfache Bildergalerie."

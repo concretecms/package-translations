@@ -1,0 +1,390 @@
+# 
+# Translators:
+# MrLindau <fredrik@fxlindau.se>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-25 08:55+0000\n"
+"PO-Revision-Date: 2014-03-25 13:50+0000\n"
+"Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
+"Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/multilingual/blocks/switch_language/controller.php:13
+msgid "Adds a front-end language switcher to your website."
+msgstr "Lägger till en front-end språkväljare till din webbplats."
+
+#: packages/multilingual/blocks/switch_language/controller.php:17
+msgid "Switch Language"
+msgstr "Byt språk"
+
+#: packages/multilingual/blocks/switch_language/controller.php:25
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
+msgid "Choose Language"
+msgstr "Välj språk"
+
+#: packages/multilingual/blocks/switch_language/form.php:3
+msgid "Label"
+msgstr "Ettikett "
+
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
+msgid "Remember my choice on this computer."
+msgstr "Kom ihåg mitt val på denna datorn."
+
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
+msgid "Save"
+msgstr "Spara"
+
+#: packages/multilingual/controller.php:10
+msgid "Translate your site with this free multilingual solution."
+msgstr "Översätt din webbplats med denna flerspråkslösning."
+
+#: packages/multilingual/controller.php:14
+msgid "Internationalization"
+msgstr "Internationalisering"
+
+#: packages/multilingual/controller.php:80
+msgid "Multilingual Pages"
+msgstr "Flerspråkiga sidor"
+
+#: packages/multilingual/controller.php:106
+msgid "Multilingual"
+msgstr "Flerspråkig"
+
+#: packages/multilingual/controller.php:106
+msgid "Translate your site."
+msgstr "Översätt din webbplats."
+
+#: packages/multilingual/controller.php:111
+msgid "Setup"
+msgstr "Inställningar"
+
+#: packages/multilingual/controller.php:116
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:5
+msgid "Page Report"
+msgstr "Sidorapport"
+
+#: packages/multilingual/controller.php:123
+#: packages/multilingual/controller.php:164
+msgid "Exclude from Internationalization Copy"
+msgstr "Exkludera från internationaliseringskopia"
+
+#: packages/multilingual/controllers/dashboard/multilingual/page_report.php:84
+msgid "You cannot assign this page to itself."
+msgstr "Du kan inte tilldela den här sidan till sig själv."
+
+#: packages/multilingual/controllers/dashboard/multilingual/page_report.php:104
+msgid ""
+"The destination page doesn't appear to be in a valid multilingual section."
+msgstr "Destinationssidan verkar inte vara i en giltigt språksektion."
+
+#: packages/multilingual/controllers/dashboard/multilingual/page_report.php:115
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:121
+msgid "Ignored"
+msgstr "Ignorerad"
+
+#: packages/multilingual/controllers/dashboard/multilingual/page_report.php:154
+msgid "Insufficient permissions."
+msgstr "Otillräckliga behörigheter."
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:18
+msgid "** Choose a Language"
+msgstr "** Välj ett språk"
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:64
+msgid ""
+"You must have admin privileges on the destination page to perform this "
+"action."
+msgstr "Du måste ha administratörsbehörighet på destinationssidan för att utföra den här åtgärden."
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:67
+msgid "You cannot read the original page."
+msgstr "Du kan inte läsa den ursprungliga sidan."
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:116
+msgid "You must choose two separate, valid language sections."
+msgstr "Du måste välja två separata, giltiga språksektioner."
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:162
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:42
+msgid "None"
+msgstr "Ingen"
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:171
+msgid "Multilingual content enabled"
+msgstr "Flerspråkigt innehåll aktiverat"
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:176
+msgid "Multilingual content updated"
+msgstr "Flerspråkigt innehåll uppdaterat"
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:181
+msgid "Multilingual tree copied."
+msgstr "Flerspråkig träd kopieras."
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:186
+msgid "Language section removed."
+msgstr "Språksektionen borttagen."
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:191
+msgid "Default language settings updated."
+msgstr "Inställningarna för standardspråk uppdaterade."
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:206
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:223
+msgid "Invalid language section"
+msgstr "Ogiltig språksektion"
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:234
+msgid "You must specify a page for this multilingual content section."
+msgstr "Du måste ange en sida för detta flerspråkiga innehåll."
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:242
+msgid "A language section page at this location already exists."
+msgstr "En sida för språksektionen på den här platsen finns redan."
+
+#: packages/multilingual/controllers/dashboard/multilingual/setup.php:251
+msgid "This language/region combination already exists."
+msgstr "Denna språk/region kombination finns redan."
+
+#: packages/multilingual/jobs/generate_multilingual_sitemap.php:9
+msgid "Generate multilingual sitemap.xml File"
+msgstr "Generera flerspråkig sitemap.xml"
+
+#: packages/multilingual/jobs/generate_multilingual_sitemap.php:14
+msgid ""
+"Generate the sitemap.xml file that search engines use to crawl your site "
+"with additional multilingual directives."
+msgstr "Generera sitemap.xml som sökmotorerna använder för att genomsöka din webbplats med ytterligare flerspråkiga direktiv."
+
+#: packages/multilingual/jobs/generate_multilingual_sitemap.php:19
+msgid ""
+"This job is disabled because it may cause excessive load depending on the "
+"size of your site.  To enable this job, you must define the constant "
+"ENABLE_MULTILINGUAL_SITEMAPXML as true."
+msgstr "Det här jobbet är inaktiverad eftersom det kan orsaka överdriven belastning, beroende på storleken på din webbplats. För att aktivera det här jobbet måste du definiera konstanten ENABLE_MULTILINGUAL_SITEMAPXML som sann."
+
+#: packages/multilingual/jobs/generate_multilingual_sitemap.php:56
+#, php-format
+msgid "Cannot open file %s"
+msgstr "Kan inte öppna fil %s"
+
+#: packages/multilingual/jobs/generate_multilingual_sitemap.php:149
+#, php-format
+msgid "Sitemap XML File Saved.(%d pages)"
+msgstr "sitemap.xml sparad. (%d sidor)"
+
+#: packages/multilingual/jobs/generate_multilingual_sitemap.php:152
+#, php-format
+msgid "The file %s is not writable"
+msgstr "Filen %s är inte skrivbar."
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:11
+msgid "Choose Source"
+msgstr "Välj källa"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:19
+msgid "Choose Targets"
+msgstr "Välj mål"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:46
+msgid "Display"
+msgstr "Visa"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:54
+msgid "Only Missing Pages"
+msgstr "Endast saknade sidor"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:60
+msgid "All Pages"
+msgstr "Alla sidor"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:68
+msgid "Filter Pages"
+msgstr "Filtrera sidor"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:69
+msgid "By Name"
+msgstr "På namn"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:74
+msgid "Go"
+msgstr "OK"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:130
+msgid "Re-Map"
+msgstr "Gör om karta"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:132
+msgid "Map"
+msgstr "Karta"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:138
+msgid "Create"
+msgstr "Skapa"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:142
+msgid "Ignore"
+msgstr "Ignorera"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:148
+msgid "Create the parent page first."
+msgstr "Skapa överordnad sidan först."
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:158
+msgid "No pages found."
+msgstr "Inga sidor hittades."
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:187
+msgid "Choose A Page"
+msgstr "Välj en sida"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:210
+msgid "You have not defined any multilingual sections for your site yet."
+msgstr "Du har inte definierat några flerspråkiga sektioner för din webbplats ännu."
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:3
+msgid "Multilingual Content Setup"
+msgstr "Inställningar för flerspråkigt innehåll"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:5
+msgid "Content Sections"
+msgstr "Innehållssektioner"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:12
+msgid "Name"
+msgstr "Namn"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:13
+msgid "Language"
+msgstr "Språk"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:14
+msgid "Path"
+msgstr "Sökväg"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:30
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:120
+msgid "You have not created any multilingual content sections yet."
+msgstr "Du har inte skapat några flerspråkiga innehållssektioner ännu."
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:33
+msgid "Add a Language"
+msgstr "Lägg till ett språk"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:41
+msgid "Language Icon"
+msgstr "Språkikon"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:45
+msgid "Choose a Parent Page"
+msgstr " en överordnad sida"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:54
+msgid "Add Content Section"
+msgstr "Lägg till innehållssektion"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:78
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:135
+msgid "Copy Language Tree"
+msgstr "Kopiera språkträd"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:98
+msgid ""
+"Copy all pages from a language to another section. This will only copy pages"
+" that have not been associated. It will not replace or remove any pages from"
+" the destination section."
+msgstr "Kopiera alla sidor från ett språk till en annan sektion. Detta kommer bara att kopiera sidor som inte blivit associerade. Det kommer inte att ersätta eller ta bort några sidor från destinationssektionen."
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:100
+msgid "Copy From"
+msgstr "Kopiera från"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:105
+msgctxt "Destination"
+msgid "To"
+msgstr "Till"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:113
+msgid "Copy Tree"
+msgstr "Kopiera träd"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:118
+msgid "You must have more than one multilingual section to use this tool."
+msgstr "Du måste ha mer än ett flerspråkigt avsnitt för att använda detta verktyg."
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:140
+msgid "You must choose two separate multilingual sections to copy from/to"
+msgstr "Du måste välja två olika flerspråkiga sektioner för att kopiera från/till"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:151
+msgid "Only the super user may copy language trees."
+msgstr "Endast superanvändaren kan kopiera språkträd."
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:153
+msgid ""
+"Since one of your multilingual sections is the home page, you may not "
+"duplicate your site tree using this tool. You must manually assign pages "
+"using the page report."
+msgstr "Eftersom en av dina flerspråkiga sektioner är hemsidan, får du inte kopiera ditt webbplats-träd med hjälp av detta verktyg. Du måste tilldela sidor manuellt med hjälp av sidrapporten."
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:158
+msgid "** None Set"
+msgstr "** Inga inställningar"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:170
+msgid "Multilingual Settings"
+msgstr "Flerspråksinställningar"
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:174
+msgid "Default Language"
+msgstr "Standardspråk "
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:186
+msgid "Attempt to use visitor's language based on their browser information."
+msgstr "Försök att använda besökarens språk baserat på webbläsarinformationen."
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:192
+msgid "Redirect home page to default language section."
+msgstr "Dirigera hemsidan till det språk som är satt som standard."
+
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:201
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: packages/multilingual/tools/switch_language_for_page.php:44
+#, php-format
+msgid "%s: %s"
+msgstr "%s: %s"
+
+#: packages/multilingual/tools/switch_language_for_page.php:47
+#, php-format
+msgid "Currently Viewing: %s"
+msgstr "Visar just nu: %s"
+
+#: packages/multilingual/tools/switch_language_for_page.php:48
+#, php-format
+msgid "%s: None Created"
+msgstr "%s: Ingen skapad"
+
+#: packages/multilingual/blocks/switch_language/templates/flags
+msgctxt "TemplateFileName"
+msgid "Flags"
+msgstr "Flaggor"
+
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default
+msgctxt "TemplateFileName"
+msgid "Flags Set Default"
+msgstr "Standardflaggor"
+
+#: packages/multilingual/blocks/switch_language/templates/seo_flags
+msgctxt "TemplateFileName"
+msgid "Seo Flags"
+msgstr "Seo flaggor"

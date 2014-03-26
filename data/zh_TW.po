@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Wayne <wayne.cw.kao@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-24 19:45+0100\n"
-"PO-Revision-Date: 2014-03-24 20:56+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-26 06:32+0000\n"
+"Last-Translator: Wayne <wayne.cw.kao@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/concrete5-packages/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,31 +21,31 @@ msgstr ""
 #: c:\meschgit\work\data/src/data/controller.php:11
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/view.php:2
 msgid "Data"
-msgstr ""
+msgstr "資料"
 
 #: c:\meschgit\work\data/src/data/controller.php:15
 msgid "Data for concrete5"
-msgstr ""
+msgstr "concrete5 的資料"
 
 #: c:\meschgit\work\data/src/data/controller.php:60
 msgid "Data Simple Association"
-msgstr ""
+msgstr "Data Simple Association"
 
 #: c:\meschgit\work\data/src/data/controller.php:61
 msgid "Data Single Child Association"
-msgstr ""
+msgstr "Data Single Child Association"
 
 #: c:\meschgit\work\data/src/data/controller.php:126
 #: c:\meschgit\work\data/src/data/controller.php:127
 msgid "View Data Type"
-msgstr ""
+msgstr "檢視資料類型"
 
 #: c:\meschgit\work\data/src/data/controller.php:130
 #: c:\meschgit\work\data/src/data/controller.php:131
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/delete.php:2
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/edit.php:2
 msgid "Edit Data Type"
-msgstr ""
+msgstr "編輯資料類型"
 
 #: c:\meschgit\work\data/src/data/controller.php:134
 #: c:\meschgit\work\data/src/data/controller.php:135

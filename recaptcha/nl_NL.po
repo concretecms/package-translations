@@ -3,7 +3,7 @@
 # Pam Banis, 2013
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-06 15:13+0000\n"
 "PO-Revision-Date: 2014-03-17 17:39+0000\n"

@@ -3,7 +3,7 @@
 # Wayne <wayne.cw.kao@gmail.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-05 12:51+0000\n"
 "PO-Revision-Date: 2014-03-17 17:37+0000\n"

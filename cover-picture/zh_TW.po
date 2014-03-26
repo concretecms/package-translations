@@ -3,7 +3,7 @@
 # Wayne <wayne.cw.kao@gmail.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:24+0100\n"
 "PO-Revision-Date: 2014-03-18 06:23+0000\n"
 "Last-Translator: Wayne <wayne.cw.kao@gmail.com>\n"

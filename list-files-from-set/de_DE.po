@@ -3,7 +3,7 @@
 # Torsten Silbermann <mail@tsilbermann.de>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-01 10:48+0100\n"
 "PO-Revision-Date: 2014-03-17 19:51+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"

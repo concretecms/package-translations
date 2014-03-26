@@ -4,7 +4,7 @@
 # Torsten Silbermann <mail@tsilbermann.de>, 2013
 msgid ""
 msgstr ""
-"Project-Id-Version: concrete5-packages\n"
+"Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-20 09:39+0000\n"
 "PO-Revision-Date: 2014-03-17 12:59+0000\n"

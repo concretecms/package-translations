@@ -23,7 +23,7 @@ msgstr ""
 msgid ""
 "Cover picture where you can add additional text that shows up when you hover"
 " the picture."
-msgstr "Cover picture där du kan lägga till ytterligare text som visas när du hovrar över bilden."
+msgstr "Täckbild där du kan lägga till ytterligare text som visas när du hovrar över bilden."
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/controller.php:15
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:8
