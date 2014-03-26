@@ -1,6 +1,34 @@
 {
-    "updated": 1395736227,
+    "updated": 1395818504,
     "packages": [
+        {
+            "handle": "addthis",
+            "name": "Add This",
+            "sourceURL": "https://github.com/concrete5/addon_addthis",
+            "locales": {
+                "de_DE": {
+                    "translated": 5,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 5,
+                    "perc": 100
+                },
+                "it_IT": {
+                    "translated": 5,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 5,
+                    "perc": 100
+                },
+                "fr_FR": {
+                    "translated": 5,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 5,
+                    "perc": 100
+                }
+            }
+        },
         {
             "handle": "constants-driller",
             "name": "Constants Driller",
@@ -194,6 +222,20 @@
                     "fuzzy": 0,
                     "total": 85,
                     "perc": 100
+                },
+                "zh_TW": {
+                    "translated": 6,
+                    "untranslated": 79,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 7
+                },
+                "fa_IR": {
+                    "translated": 7,
+                    "untranslated": 78,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 8
                 }
             }
         },
@@ -249,6 +291,48 @@
                     "untranslated": 0,
                     "fuzzy": 0,
                     "total": 37,
+                    "perc": 100
+                }
+            }
+        },
+        {
+            "handle": "gallery",
+            "name": "Gallery",
+            "sourceURL": "https://github.com/concrete5/addon_gallery",
+            "locales": {
+                "de_DE": {
+                    "translated": 30,
+                    "untranslated": 1,
+                    "fuzzy": 0,
+                    "total": 31,
+                    "perc": 96
+                },
+                "it_IT": {
+                    "translated": 31,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 31,
+                    "perc": 100
+                }
+            }
+        },
+        {
+            "handle": "image-slider",
+            "name": "Image Slider",
+            "sourceURL": "https://github.com/concrete5/addon_image_slider",
+            "locales": {
+                "de_DE": {
+                    "translated": 15,
+                    "untranslated": 23,
+                    "fuzzy": 0,
+                    "total": 38,
+                    "perc": 39
+                },
+                "it_IT": {
+                    "translated": 38,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 38,
                     "perc": 100
                 }
             }
@@ -432,6 +516,69 @@
                     "fuzzy": 0,
                     "total": 65,
                     "perc": 100
+                }
+            }
+        },
+        {
+            "handle": "multilingual",
+            "name": "Internationalization",
+            "sourceURL": "https://github.com/concrete5/addon_internationalization",
+            "locales": {
+                "de_DE": {
+                    "translated": 79,
+                    "untranslated": 6,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 92
+                },
+                "it_IT": {
+                    "translated": 85,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 100
+                },
+                "sv_SE": {
+                    "translated": 85,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 100
+                },
+                "fi_FI": {
+                    "translated": 85,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 100
+                },
+                "fr_FR": {
+                    "translated": 83,
+                    "untranslated": 2,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 97
+                },
+                "ru_RU": {
+                    "translated": 79,
+                    "untranslated": 6,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 92
+                },
+                "ja_JP": {
+                    "translated": 85,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 100
+                },
+                "da_DK": {
+                    "translated": 62,
+                    "untranslated": 23,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 72
                 }
             }
         },
@@ -627,6 +774,27 @@
                     "untranslated": 0,
                     "fuzzy": 0,
                     "total": 11,
+                    "perc": 100
+                }
+            }
+        },
+        {
+            "handle": "sample-content-generator",
+            "name": "Sample Content Generator",
+            "sourceURL": "https://github.com/concrete5/addon_sample_content_generator",
+            "locales": {
+                "de_DE": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 100
+                },
+                "it_IT": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
                     "perc": 100
                 }
             }
