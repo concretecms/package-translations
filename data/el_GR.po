@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-24 19:45+0100\n"
-"PO-Revision-Date: 2014-03-24 21:29+0000\n"
+"PO-Revision-Date: 2014-03-26 08:17+0000\n"
 "Last-Translator: Vasilis Fotopoulos <bas_alba@yahoo.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -256,7 +256,7 @@ msgstr "Η Χειρολαβή είναι απαραίτητο"
 #: c:\meschgit\work\data/src/data/models/data_type.php:124
 #, php-format
 msgid "Name already in use by %s"
-msgstr ""
+msgstr "Το Όνομα αυτό χρησιμοποιήται ήδη από %s"
 
 #: c:\meschgit\work\data/src/data/models/data_type.php:131
 #, php-format

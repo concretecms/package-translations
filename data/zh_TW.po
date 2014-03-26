@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-24 19:45+0100\n"
-"PO-Revision-Date: 2014-03-26 06:32+0000\n"
+"PO-Revision-Date: 2014-03-26 08:16+0000\n"
 "Last-Translator: Wayne <wayne.cw.kao@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/concrete5-packages/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -50,38 +50,38 @@ msgstr "編輯資料類型"
 #: c:\meschgit\work\data/src/data/controller.php:134
 #: c:\meschgit\work\data/src/data/controller.php:135
 msgid "Delete Data Type"
-msgstr ""
+msgstr "刪除資料類型"
 
 #: c:\meschgit\work\data/src/data/controller.php:138
 #: c:\meschgit\work\data/src/data/controller.php:139
 msgid "Edit Data Type Permissions"
-msgstr ""
+msgstr "編輯資料類型權限"
 
 #: c:\meschgit\work\data/src/data/controller.php:142
 #: c:\meschgit\work\data/src/data/controller.php:143
 msgid "Edit Data"
-msgstr ""
+msgstr "編輯資料"
 
 #: c:\meschgit\work\data/src/data/controller.php:146
 #: c:\meschgit\work\data/src/data/controller.php:147
 msgid "Delete Data"
-msgstr ""
+msgstr "刪除資料"
 
 #: c:\meschgit\work\data/src/data/controller.php:150
 #: c:\meschgit\work\data/src/data/controller.php:151
 msgid "Create Data"
-msgstr ""
+msgstr "建立資料"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:27
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:45
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:120
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:201
 msgid "Data Types"
-msgstr ""
+msgstr "資料類型"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:76
 msgid "Data Type Created"
-msgstr ""
+msgstr "已建立資料類型"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:86
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:132
@@ -92,26 +92,26 @@ msgstr ""
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:126
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/management/controller.php:15
 msgid "Data Type Not Found"
-msgstr ""
+msgstr "找不到資料類型"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:91
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:137
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/management/controller.php:22
 msgid "Access Denied"
-msgstr ""
+msgstr "存取被拒"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:107
 msgid "Data Type Updated"
-msgstr ""
+msgstr "已更新資料類型"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:121
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:151
 msgid "View"
-msgstr ""
+msgstr "檢視"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:143
 msgid "Data Type Deleted"
-msgstr ""
+msgstr "已刪除資料類型"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:150
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/management/controller.php:153
@@ -119,20 +119,20 @@ msgstr ""
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/search.php:19
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/view.php:22
 msgid "Edit"
-msgstr ""
+msgstr "編輯"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:178
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:184
 msgid "Invalid File"
-msgstr ""
+msgstr "無效的檔案."
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:188
 msgid "File must be .xml"
-msgstr ""
+msgstr "檔案必須是 .xml"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/controller.php:196
 msgid "Data Type Imported"
-msgstr ""
+msgstr "已匯入資料類型"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:27
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:117
@@ -142,35 +142,35 @@ msgstr ""
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/view.php:2
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/view.php:5
 msgid "Data Type"
-msgstr ""
+msgstr "資料類型"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:45
 msgid "Attribute Type Not Found"
-msgstr ""
+msgstr "未發現屬性類別"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:56
 msgid "Attribute Added"
-msgstr ""
+msgstr "已加入屬性"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:59
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:95
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/management/controller.php:144
 msgid "Unknown Error"
-msgstr ""
+msgstr "未知的錯誤"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:61
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:98
 msgid "** None"
-msgstr ""
+msgstr "** 無"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:86
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:130
 msgid "Attribute Key Not Found"
-msgstr ""
+msgstr "未發現屬性金鑰"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:92
 msgid "Attribute Updated"
-msgstr ""
+msgstr "已更新屬性"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:118
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:143
@@ -178,11 +178,11 @@ msgstr ""
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/view.php:36
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/view.php:6
 msgid "Attributes"
-msgstr ""
+msgstr "屬性"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/administration/attributes/controller.php:135
 msgid "Attribute Deleted"
-msgstr ""
+msgstr "已刪除屬性"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/management/controller.php:29
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/management/controller.php:66
@@ -190,19 +190,19 @@ msgstr ""
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/management/controller.php:152
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/search.php:7
 msgid "Search"
-msgstr ""
+msgstr "搜尋"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/management/controller.php:61
 msgid "Data Created"
-msgstr ""
+msgstr "已建立資料"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/management/controller.php:107
 msgid "Data Updated"
-msgstr ""
+msgstr "已更新資料"
 
 #: c:\meschgit\work\data/src/data/controllers/dashboard/data/management/controller.php:141
 msgid "Data Deleted"
-msgstr ""
+msgstr "已刪除資料"
 
 #: c:\meschgit\work\data/src/data/elements/permission/lists/data_type.php:31
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/create.php:13
@@ -213,71 +213,71 @@ msgstr ""
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/delete.php:12
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/edit.php:13
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: c:\meschgit\work\data/src/data/elements/permission/lists/data_type.php:32
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/edit.php:12
 msgid "Save"
-msgstr ""
+msgstr "儲存"
 
 #: c:\meschgit\work\data/src/data/models/data.php:157
 #: c:\meschgit\work\data/src/data/models/data_type.php:62
 msgid "Invalid Element"
-msgstr ""
+msgstr "無效的元素"
 
 #: c:\meschgit\work\data/src/data/models/data.php:161
 msgid "DataType handle dtHandle not found"
-msgstr ""
+msgstr "未發現資料類型句柄 dtHandle"
 
 #: c:\meschgit\work\data/src/data/models/data.php:165
 msgid "DataType not found"
-msgstr ""
+msgstr "未發現資料類型"
 
 #: c:\meschgit\work\data/src/data/models/data_type.php:101
 msgid "Maximum Name length is 255 characters"
-msgstr ""
+msgstr "名稱最大長度為 255 字元"
 
 #: c:\meschgit\work\data/src/data/models/data_type.php:104
 msgid "Maximum Handle length is 255 characters"
-msgstr ""
+msgstr "句柄最大長度為 255 字元"
 
 #: c:\meschgit\work\data/src/data/models/data_type.php:107
 msgid "Handle can only contain a-z 0-9 and _"
-msgstr ""
+msgstr "句柄僅能含有 a-z 0-9 和 _"
 
 #: c:\meschgit\work\data/src/data/models/data_type.php:110
 msgid "Name is required"
-msgstr ""
+msgstr "名稱是必須的"
 
 #: c:\meschgit\work\data/src/data/models/data_type.php:113
 msgid "Handle is required"
-msgstr ""
+msgstr "句柄是必須的"
 
 #: c:\meschgit\work\data/src/data/models/data_type.php:124
 #, php-format
 msgid "Name already in use by %s"
-msgstr ""
+msgstr "名稱已經被使用於 %s"
 
 #: c:\meschgit\work\data/src/data/models/data_type.php:131
 #, php-format
 msgid "Handle already in use by %s"
-msgstr ""
+msgstr "句柄已經被使用於 %s"
 
 #: c:\meschgit\work\data/src/data/models/attribute/types/data_simple_association/type_form.php:3
 msgid "Simple Association"
-msgstr ""
+msgstr "Simple Association"
 
 #: c:\meschgit\work\data/src/data/models/attribute/types/data_simple_association/type_form.php:12
 msgid "Allow Mutliple Associations"
-msgstr ""
+msgstr "Allow Mutliple Associations"
 
 #: c:\meschgit\work\data/src/data/models/attribute/types/data_single_child_association/type_form.php:3
 msgid "Single Child Association"
-msgstr ""
+msgstr "Single Child Association"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/create.php:2
 msgid "Create Data Type"
-msgstr ""
+msgstr "建立資料類型"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/create.php:5
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/edit.php:7
@@ -286,7 +286,7 @@ msgstr ""
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/create.php:11
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/edit.php:11
 msgid "Handle"
-msgstr ""
+msgstr "句柄"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/create.php:7
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/edit.php:5
@@ -298,7 +298,7 @@ msgstr ""
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/search.php:15
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/view.php:9
 msgid "Name"
-msgstr ""
+msgstr "名稱"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/create.php:12
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/search.php:5
@@ -306,7 +306,7 @@ msgstr ""
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/create.php:11
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/search.php:29
 msgid "Create"
-msgstr ""
+msgstr "建立"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/delete.php:9
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/edit.php:13
@@ -315,140 +315,140 @@ msgstr ""
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/delete.php:11
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/edit.php:12
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/import.php:2
 msgid "Import Data Type"
-msgstr ""
+msgstr "匯入資料類型"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/import.php:9
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/search.php:6
 msgid "Import"
-msgstr ""
+msgstr "匯入"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/search.php:2
 msgid "Data Type Administration"
-msgstr ""
+msgstr "資料類型管理"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/search.php:15
 msgid "No Data Types found"
-msgstr ""
+msgstr "未發現資料類型"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/view.php:11
 msgid "Type"
-msgstr ""
+msgstr "類型"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/view.php:14
 msgid "No attributes found"
-msgstr ""
+msgstr "未發現屬性"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/view.php:31
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Permissions"
-msgstr ""
+msgstr "權限"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Metadata"
-msgstr ""
+msgstr "中繼資料"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Export"
-msgstr ""
+msgstr "匯出"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/create.php:3
 #, php-format
 msgid "Add %s Attribute"
-msgstr ""
+msgstr "加入 %s 屬性"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/create.php:8
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/edit.php:8
 #, php-format
 msgid "%s: Basic Details"
-msgstr ""
+msgstr "%s: 基本詳細資料"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/create.php:25
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/edit.php:25
 msgid "Set"
-msgstr ""
+msgstr "組合"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/create.php:32
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/edit.php:32
 msgid "Searchable"
-msgstr ""
+msgstr "可被搜尋"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/create.php:35
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/edit.php:35
 msgid "Content included in data keyword search."
-msgstr ""
+msgstr "內容包含於資料關鍵字搜尋"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/create.php:36
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/edit.php:36
 msgid "Field available in Dashboard data search."
-msgstr ""
+msgstr "在控制面板資料搜尋可用的欄位"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/delete.php:3
 #, php-format
 msgid "Delete %s Attribute"
-msgstr ""
+msgstr "刪除 %s 屬性"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/delete.php:6
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/delete.php:6
 msgid "Warning"
-msgstr ""
+msgstr "警告"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/delete.php:7
 #, php-format
 msgid "You are about to delete the attribute%s%s. There is no undo."
-msgstr ""
+msgstr "您將要刪除屬性 %s%s. 此無法復原."
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/edit.php:3
 #, php-format
 msgid "Edit %s Attribute"
-msgstr ""
+msgstr "編輯 %s 屬性"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/edit.php:49
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/edit.php:11
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/view.php:2
 #, php-format
 msgid "%s Attributes"
-msgstr ""
+msgstr " %s 屬性"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/view.php:11
 msgid "Add Attribute"
-msgstr ""
+msgstr "加入屬性"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/view.php:14
 msgid "Add"
-msgstr ""
+msgstr "加入"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/administration/attributes/view.php:21
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/data_types.php:2
 msgid "Data Type Management"
-msgstr ""
+msgstr "資料類型管理"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/delete.php:3
 msgid "Delete Attribute"
-msgstr ""
+msgstr "刪除屬性"
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/delete.php:7
 #, php-format
 msgid "You are about to delete the %s%s%s. There is no undo."
-msgstr ""
+msgstr "您將要刪除 %s%s%s. 此無法復原."
 
 #: c:\meschgit\work\data/src/data/single_pages/dashboard/data/management/view.php:10
 msgid "Value"
-msgstr ""
+msgstr "數值"
 
 #: c:\meschgit\work\data/tests/install/packages/data_test/controller.php:9
 msgid "Data Test"
-msgstr ""
+msgstr "資料測試"
 
 #: c:\meschgit\work\data/tests/install/packages/data_test/controller.php:13
 msgid "Data test sample content"
-msgstr ""
+msgstr "資料測試樣品內容"
