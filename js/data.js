@@ -1,5 +1,5 @@
 {
-    "updated": 1395822625,
+    "updated": 1395911236,
     "packages": [
         {
             "handle": "addthis",
@@ -27,7 +27,21 @@
                     "total": 5,
                     "perc": 100
                 },
+                "fi_FI": {
+                    "translated": 5,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 5,
+                    "perc": 100
+                },
                 "fr_FR": {
+                    "translated": 5,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 5,
+                    "perc": 100
+                },
+                "zh_TW": {
                     "translated": 5,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -182,66 +196,73 @@
             "sourceURL": "https://github.com/mkly/Data/",
             "locales": {
                 "de_DE": {
-                    "translated": 85,
-                    "untranslated": 0,
+                    "translated": 81,
+                    "untranslated": 2,
                     "fuzzy": 0,
-                    "total": 85,
-                    "perc": 100
+                    "total": 83,
+                    "perc": 97
                 },
                 "it_IT": {
-                    "translated": 84,
+                    "translated": 82,
                     "untranslated": 1,
                     "fuzzy": 0,
-                    "total": 85,
+                    "total": 83,
                     "perc": 98
                 },
                 "lt_LT": {
                     "translated": 18,
-                    "untranslated": 67,
+                    "untranslated": 65,
                     "fuzzy": 0,
-                    "total": 85,
+                    "total": 83,
                     "perc": 21
                 },
                 "sv_SE": {
-                    "translated": 85,
-                    "untranslated": 0,
+                    "translated": 81,
+                    "untranslated": 2,
                     "fuzzy": 0,
-                    "total": 85,
-                    "perc": 100
+                    "total": 83,
+                    "perc": 97
                 },
                 "el_GR": {
-                    "translated": 46,
-                    "untranslated": 39,
+                    "translated": 83,
+                    "untranslated": 0,
                     "fuzzy": 0,
-                    "total": 85,
-                    "perc": 54
+                    "total": 83,
+                    "perc": 100
                 },
                 "fr_FR": {
                     "translated": 5,
-                    "untranslated": 80,
+                    "untranslated": 78,
                     "fuzzy": 0,
-                    "total": 85,
-                    "perc": 5
+                    "total": 83,
+                    "perc": 6
                 },
                 "nl_NL": {
-                    "translated": 85,
-                    "untranslated": 0,
+                    "translated": 81,
+                    "untranslated": 2,
                     "fuzzy": 0,
-                    "total": 85,
-                    "perc": 100
+                    "total": 83,
+                    "perc": 97
+                },
+                "ja_JP": {
+                    "translated": 81,
+                    "untranslated": 2,
+                    "fuzzy": 0,
+                    "total": 83,
+                    "perc": 97
                 },
                 "zh_TW": {
-                    "translated": 85,
+                    "translated": 83,
                     "untranslated": 0,
                     "fuzzy": 0,
-                    "total": 85,
+                    "total": 83,
                     "perc": 100
                 },
                 "fa_IR": {
                     "translated": 7,
-                    "untranslated": 78,
+                    "untranslated": 76,
                     "fuzzy": 0,
-                    "total": 85,
+                    "total": 83,
                     "perc": 8
                 }
             }
@@ -320,6 +341,34 @@
                     "fuzzy": 0,
                     "total": 31,
                     "perc": 100
+                },
+                "el_GR": {
+                    "translated": 31,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 31,
+                    "perc": 100
+                },
+                "fi_FI": {
+                    "translated": 31,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 31,
+                    "perc": 100
+                },
+                "ru_RU": {
+                    "translated": 30,
+                    "untranslated": 1,
+                    "fuzzy": 0,
+                    "total": 31,
+                    "perc": 96
+                },
+                "zh_TW": {
+                    "translated": 31,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 31,
+                    "perc": 100
                 }
             }
         },
@@ -336,6 +385,27 @@
                     "perc": 39
                 },
                 "it_IT": {
+                    "translated": 38,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 38,
+                    "perc": 100
+                },
+                "el_GR": {
+                    "translated": 38,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 38,
+                    "perc": 100
+                },
+                "fi_FI": {
+                    "translated": 38,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 38,
+                    "perc": 100
+                },
+                "zh_TW": {
                     "translated": 38,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -371,11 +441,11 @@
                     "perc": 100
                 },
                 "el_GR": {
-                    "translated": 18,
-                    "untranslated": 21,
+                    "translated": 39,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 39,
-                    "perc": 46
+                    "perc": 100
                 },
                 "fr_FR": {
                     "translated": 4,
@@ -552,6 +622,13 @@
                     "total": 85,
                     "perc": 100
                 },
+                "el_GR": {
+                    "translated": 85,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 100
+                },
                 "fi_FI": {
                     "translated": 85,
                     "untranslated": 0,
@@ -567,11 +644,11 @@
                     "perc": 97
                 },
                 "ru_RU": {
-                    "translated": 79,
-                    "untranslated": 6,
+                    "translated": 82,
+                    "untranslated": 3,
                     "fuzzy": 0,
                     "total": 85,
-                    "perc": 92
+                    "perc": 96
                 },
                 "ja_JP": {
                     "translated": 85,
@@ -586,6 +663,13 @@
                     "fuzzy": 0,
                     "total": 85,
                     "perc": 72
+                },
+                "zh_TW": {
+                    "translated": 85,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 100
                 }
             }
         },
@@ -637,6 +721,13 @@
                     "perc": 100
                 },
                 "nl_NL": {
+                    "translated": 7,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 7,
+                    "perc": 100
+                },
+                "ru_RU": {
                     "translated": 7,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -755,6 +846,13 @@
                     "total": 11,
                     "perc": 100
                 },
+                "el_GR": {
+                    "translated": 11,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 11,
+                    "perc": 100
+                },
                 "fi_FI": {
                     "translated": 11,
                     "untranslated": 0,
@@ -798,6 +896,34 @@
                     "perc": 100
                 },
                 "it_IT": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 100
+                },
+                "el_GR": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 100
+                },
+                "fi_FI": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 100
+                },
+                "ru_RU": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 100
+                },
+                "zh_TW": {
                     "translated": 13,
                     "untranslated": 0,
                     "fuzzy": 0,
