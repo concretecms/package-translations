@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Wayne <wayne.cw.kao@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-03-25 08:45+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-26 14:32+0000\n"
+"Last-Translator: Wayne <wayne.cw.kao@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/concrete5-packages/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,372 +19,372 @@ msgstr ""
 
 #: packages/multilingual/blocks/switch_language/controller.php:13
 msgid "Adds a front-end language switcher to your website."
-msgstr ""
+msgstr "加入一個前端語言切換器到您的網站"
 
 #: packages/multilingual/blocks/switch_language/controller.php:17
 msgid "Switch Language"
-msgstr ""
+msgstr "切換語言"
 
 #: packages/multilingual/blocks/switch_language/controller.php:25
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
 msgid "Choose Language"
-msgstr ""
+msgstr "選擇語言"
 
 #: packages/multilingual/blocks/switch_language/form.php:3
 msgid "Label"
-msgstr ""
+msgstr "標籤"
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
 msgid "Remember my choice on this computer."
-msgstr ""
+msgstr "記住我在這台電腦的選擇"
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
 msgid "Save"
-msgstr ""
+msgstr "儲存"
 
 #: packages/multilingual/controller.php:10
 msgid "Translate your site with this free multilingual solution."
-msgstr ""
+msgstr "用這個免費的多國語言解決方案來翻譯您的網站"
 
 #: packages/multilingual/controller.php:14
 msgid "Internationalization"
-msgstr ""
+msgstr "國際化"
 
 #: packages/multilingual/controller.php:80
 msgid "Multilingual Pages"
-msgstr ""
+msgstr "多國語言頁面"
 
 #: packages/multilingual/controller.php:106
 msgid "Multilingual"
-msgstr ""
+msgstr "多國語言"
 
 #: packages/multilingual/controller.php:106
 msgid "Translate your site."
-msgstr ""
+msgstr "翻譯您的網站"
 
 #: packages/multilingual/controller.php:111
 msgid "Setup"
-msgstr ""
+msgstr "安裝"
 
 #: packages/multilingual/controller.php:116
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:5
 msgid "Page Report"
-msgstr ""
+msgstr "頁面報告"
 
 #: packages/multilingual/controller.php:123
 #: packages/multilingual/controller.php:164
 msgid "Exclude from Internationalization Copy"
-msgstr ""
+msgstr "從國際化副本排除"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:84
 msgid "You cannot assign this page to itself."
-msgstr ""
+msgstr "您不可以指定此頁面到它自己"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:104
 msgid ""
 "The destination page doesn't appear to be in a valid multilingual section."
-msgstr ""
+msgstr "目的頁面無法顯示於一個有效的多國語言章節"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:115
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:121
 msgid "Ignored"
-msgstr ""
+msgstr "已忽略的"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:154
 msgid "Insufficient permissions."
-msgstr ""
+msgstr "權限不足"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:18
 msgid "** Choose a Language"
-msgstr ""
+msgstr "** 選擇一種語言"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:64
 msgid ""
 "You must have admin privileges on the destination page to perform this "
 "action."
-msgstr ""
+msgstr "在目的頁面執行此動作您必須具有管理員權限"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:67
 msgid "You cannot read the original page."
-msgstr ""
+msgstr "您不能讀取原始頁面"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:116
 msgid "You must choose two separate, valid language sections."
-msgstr ""
+msgstr "您必須選擇兩個個別的, 有效的語言章節"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:162
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:42
 msgid "None"
-msgstr ""
+msgstr "無"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:171
 msgid "Multilingual content enabled"
-msgstr ""
+msgstr "已啟用多國語言內容"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:176
 msgid "Multilingual content updated"
-msgstr ""
+msgstr "已更新多國語言內容"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:181
 msgid "Multilingual tree copied."
-msgstr ""
+msgstr "已複製多國語言樹狀"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:186
 msgid "Language section removed."
-msgstr ""
+msgstr "已移除語言章節"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:191
 msgid "Default language settings updated."
-msgstr ""
+msgstr "已更新預設語言設定值"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:206
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:223
 msgid "Invalid language section"
-msgstr ""
+msgstr "無效的語言章節"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:234
 msgid "You must specify a page for this multilingual content section."
-msgstr ""
+msgstr "您必須為此多國語言內容章節指定一個頁面"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:242
 msgid "A language section page at this location already exists."
-msgstr ""
+msgstr "一種語言章節頁面在此位置已經存在了"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:251
 msgid "This language/region combination already exists."
-msgstr ""
+msgstr "此語言/地區組合已經存在了"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:9
 msgid "Generate multilingual sitemap.xml File"
-msgstr ""
+msgstr "產生奪國語言 sitemap.xml 檔案"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:14
 msgid ""
 "Generate the sitemap.xml file that search engines use to crawl your site "
 "with additional multilingual directives."
-msgstr ""
+msgstr "產生搜尋引擎用額外多國語言偵測而來抓取您的網站的 sitemap.xml 檔案"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:19
 msgid ""
 "This job is disabled because it may cause excessive load depending on the "
 "size of your site.  To enable this job, you must define the constant "
 "ENABLE_MULTILINGUAL_SITEMAPXML as true."
-msgstr ""
+msgstr "此工作已被禁用因為它將導致過度負載取決於您的網站的大小. 要啟用此工作, 您必須定義常數 ENABLE_MULTILINGUAL_SITEMAPXML 為真的"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:56
 #, php-format
 msgid "Cannot open file %s"
-msgstr ""
+msgstr "無法開啟檔案 %s"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:149
 #, php-format
 msgid "Sitemap XML File Saved.(%d pages)"
-msgstr ""
+msgstr "Sitemap XML 檔案已儲存.(%d 頁面)"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:152
 #, php-format
 msgid "The file %s is not writable"
-msgstr ""
+msgstr "檔案 %s 為不可寫入的"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:11
 msgid "Choose Source"
-msgstr ""
+msgstr "選擇來源"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:19
 msgid "Choose Targets"
-msgstr ""
+msgstr "選擇目標"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:46
 msgid "Display"
-msgstr ""
+msgstr "顯示"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:54
 msgid "Only Missing Pages"
-msgstr ""
+msgstr "僅有遺失頁面"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:60
 msgid "All Pages"
-msgstr ""
+msgstr "所有頁面"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:68
 msgid "Filter Pages"
-msgstr ""
+msgstr "過濾器頁面"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:69
 msgid "By Name"
-msgstr ""
+msgstr "以名稱"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:74
 msgid "Go"
-msgstr ""
+msgstr "前住"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:130
 msgid "Re-Map"
-msgstr ""
+msgstr "重新置入地圖"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:132
 msgid "Map"
-msgstr ""
+msgstr "地圖"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:138
 msgid "Create"
-msgstr ""
+msgstr "建立"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:142
 msgid "Ignore"
-msgstr ""
+msgstr "忽略"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:148
 msgid "Create the parent page first."
-msgstr ""
+msgstr "建立父頁面優先"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:158
 msgid "No pages found."
-msgstr ""
+msgstr "找不到頁面"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:187
 msgid "Choose A Page"
-msgstr ""
+msgstr "選擇一種頁面"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:210
 msgid "You have not defined any multilingual sections for your site yet."
-msgstr ""
+msgstr "您尚未為您的網站定義任何多國語言章節"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:3
 msgid "Multilingual Content Setup"
-msgstr ""
+msgstr "多國語言內容安裝"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:5
 msgid "Content Sections"
-msgstr ""
+msgstr "內容章節"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:12
 msgid "Name"
-msgstr ""
+msgstr "名稱"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:13
 msgid "Language"
-msgstr ""
+msgstr "語言"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:14
 msgid "Path"
-msgstr ""
+msgstr "路徑"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:30
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:120
 msgid "You have not created any multilingual content sections yet."
-msgstr ""
+msgstr "您尚未建立任何多國語言內容章節"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:33
 msgid "Add a Language"
-msgstr ""
+msgstr "加入一種語言"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:41
 msgid "Language Icon"
-msgstr ""
+msgstr "語言圖示"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:45
 msgid "Choose a Parent Page"
-msgstr ""
+msgstr "選擇一個父頁面"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:54
 msgid "Add Content Section"
-msgstr ""
+msgstr "加入內容章節"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:78
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:135
 msgid "Copy Language Tree"
-msgstr ""
+msgstr "複製語言樹狀"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:98
 msgid ""
 "Copy all pages from a language to another section. This will only copy pages"
 " that have not been associated. It will not replace or remove any pages from"
 " the destination section."
-msgstr ""
+msgstr "從一種語言複製所有頁面到另一個章節. 此將僅複製沒有被關連的頁面. 他將不會從目的章節置換或移除任何的頁面"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:100
 msgid "Copy From"
-msgstr ""
+msgstr "複製從"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:105
 msgctxt "Destination"
 msgid "To"
-msgstr ""
+msgstr "到"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:113
 msgid "Copy Tree"
-msgstr ""
+msgstr "複製樹狀"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:118
 msgid "You must have more than one multilingual section to use this tool."
-msgstr ""
+msgstr "您必須有多於一種的多國語言章節來使用於此工具"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:140
 msgid "You must choose two separate multilingual sections to copy from/to"
-msgstr ""
+msgstr "您必須選擇兩個個別的多國語言章節來複製從/到"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:151
 msgid "Only the super user may copy language trees."
-msgstr ""
+msgstr "僅有超及使用者可以複製語言樹狀"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:153
 msgid ""
 "Since one of your multilingual sections is the home page, you may not "
 "duplicate your site tree using this tool. You must manually assign pages "
 "using the page report."
-msgstr ""
+msgstr "由於您的一種多國語言章節是您的首頁, 您不可以使用此工具來複製您的網站樹狀. 您必須使用頁面報告手動地指定頁面."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:158
 msgid "** None Set"
-msgstr ""
+msgstr "** 沒有任何組合"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:170
 msgid "Multilingual Settings"
-msgstr ""
+msgstr "多國語言設定值"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:174
 msgid "Default Language"
-msgstr ""
+msgstr "預設的語言"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:186
 msgid "Attempt to use visitor's language based on their browser information."
-msgstr ""
+msgstr "基於他們的瀏覽器資訊嘗試使用訪客的語言"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:192
 msgid "Redirect home page to default language section."
-msgstr ""
+msgstr "重新導向首頁到預設的語言章節"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:201
 msgid "Save Settings"
-msgstr ""
+msgstr "儲存設定值"
 
 #: packages/multilingual/tools/switch_language_for_page.php:44
 #, php-format
 msgid "%s: %s"
-msgstr ""
+msgstr "%s: %s"
 
 #: packages/multilingual/tools/switch_language_for_page.php:47
 #, php-format
 msgid "Currently Viewing: %s"
-msgstr ""
+msgstr "現正檢視: %s"
 
 #: packages/multilingual/tools/switch_language_for_page.php:48
 #, php-format
 msgid "%s: None Created"
-msgstr ""
+msgstr "%s: 沒有任何被建立"
 
 #: packages/multilingual/blocks/switch_language/templates/flags
 msgctxt "TemplateFileName"
 msgid "Flags"
-msgstr ""
+msgstr "旗標"
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default
 msgctxt "TemplateFileName"
 msgid "Flags Set Default"
-msgstr ""
+msgstr "預設旗標組合"
 
 #: packages/multilingual/blocks/switch_language/templates/seo_flags
 msgctxt "TemplateFileName"
 msgid "Seo Flags"
-msgstr ""
+msgstr "優化搜尋引擎旗標"

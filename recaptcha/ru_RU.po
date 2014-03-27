@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Count_Raven <cravener@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-06 15:13+0000\n"
-"PO-Revision-Date: 2014-03-17 13:10+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-03-26 18:47+0000\n"
+"Last-Translator: Count_Raven <cravener@gmail.com>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/concrete5-packages/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,32 +19,32 @@ msgstr ""
 
 #: packages/recaptcha/controller.php:10 packages/recaptcha/controller.php:35
 msgid "reCAPTCHA"
-msgstr ""
+msgstr "reCAPTCHA"
 
 #: packages/recaptcha/controller.php:14
 msgid "Allow to use the reCAPTCHA captcha."
-msgstr ""
+msgstr "Позволяет использовать капчу reCAPTCHA от Google."
 
 #: packages/recaptcha/elements/system/captcha/recaptcha/form.php:11
 msgid "reCAPTCHA public key"
-msgstr ""
+msgstr "Открытый ключ reCAPTCHA"
 
 #: packages/recaptcha/elements/system/captcha/recaptcha/form.php:17
 msgid "reCAPTCHA private key"
-msgstr ""
+msgstr "Закрытый ключ reCAPTCHA"
 
 #: packages/recaptcha/elements/system/captcha/recaptcha/form.php:24
 #, php-format
 msgid ""
 "You can get the public and private keys from <a target=\"_blank\" "
 "href=\"%s\">this page</a>."
-msgstr ""
+msgstr "Вы можете получить открытый и закрытый ключи на <a target=\"_blank\" href=\"%s\">этой странице</a>."
 
 #: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:8
 msgid "Please type the letters and numbers shown in the image."
-msgstr ""
+msgstr "Пожалуйста, введите буквы и цифры, показанные на картинке."
 
 #: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:15
 #: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:38
 msgid "Please specify the reCAPTCHA keys"
-msgstr ""
+msgstr "Пожалуйста назначьте ключи reCAPTCHA"

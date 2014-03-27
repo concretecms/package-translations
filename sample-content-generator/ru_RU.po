@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Count_Raven <cravener@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:30+0100\n"
-"PO-Revision-Date: 2014-03-25 15:30+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-26 18:53+0000\n"
+"Last-Translator: Count_Raven <cravener@gmail.com>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/concrete5-packages/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,56 +20,56 @@ msgstr ""
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Доступ запрещен."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:12
 msgid ""
 "Allows a user to generate installation data for a concrete5 site or add-on."
-msgstr ""
+msgstr "Позволяет пользователю генерировать контент для сайта на Concrete5 или для определенного дополнения."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:16
 msgid "Sample Content and Install Generator"
-msgstr ""
+msgstr "Генератор демонстрационного контента и пакета установки Concrete5"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:2
 msgid "Generate Installation Data"
-msgstr ""
+msgstr "Генерировать информацию для установки"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:6
 msgid "Files"
-msgstr ""
+msgstr "Файлы"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:8
 msgid "Download all file manager files."
-msgstr ""
+msgstr "Скачать все файлы из менеджера файлов"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:11
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:20
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:16
 msgid "Data"
-msgstr ""
+msgstr "Информация"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:24
 msgid "Archive Files."
-msgstr ""
+msgstr "Архивировать файлы"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:25
 msgid "Generate a zip of all files in this site."
-msgstr ""
+msgstr "Создать ZIP-архив всех файлов этого сайта."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:27
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:35
 msgid "Go"
-msgstr ""
+msgstr "Пуск"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:32
 msgid "Generate content.xml from current website."
-msgstr ""
+msgstr "Создать context.xml из данного сайта."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:33
 msgid ""
 "Once you generate this file you can include it in a custom starting point."
-msgstr ""
+msgstr "После того, как вы создадите этот файл, вы можете подключить его в нужном месте."

@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 09:28+0000\n"
-"PO-Revision-Date: 2014-03-24 20:03+0000\n"
+"PO-Revision-Date: 2014-03-26 17:04+0000\n"
 "Last-Translator: Vasilis Fotopoulos <bas_alba@yahoo.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -96,90 +96,90 @@ msgstr "'Η πληκτρολογήστε ένα προσαρμοσμένο IRC �
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:71
 msgid "IRC channel"
-msgstr ""
+msgstr "Κανάλι IRC"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:76
 msgid "Nickname"
-msgstr ""
+msgstr "Παρατσούκλι"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:81
 msgid "Suggest nickname from username of logged-in users"
-msgstr ""
+msgstr "Προτείνετε ψευδώνυμο από το όνομα χρήστη των συνδεδεμένων χρηστών"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:87
 msgid "Height (in pixels)"
-msgstr ""
+msgstr "Ύψος (σε pixels)"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:107
 msgid "Theme"
-msgstr ""
+msgstr "Θέμα"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:108
 msgctxt "KiwiIrcTheme"
 msgid "None/default"
-msgstr ""
+msgstr "Κανένας / προεπιλογή"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:111
 msgid "Or enter a custom theme"
-msgstr ""
+msgstr "Ή πληκτρολογήστε ένα προσαρμοσμένο θέμα"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:115
 msgid "Device types"
-msgstr ""
+msgstr "Τύποι Συσκευών"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:118
 msgid "show only a link for mobile phones"
-msgstr ""
+msgstr "εμφάνηση μόνο ένός συνδέσμου για κινητά τηλέφωνα"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:122
 msgid "show only a link for tablets"
-msgstr ""
+msgstr "εμφάνηση μόνο ένός συνδέσμουο για ταμπλέτες"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:128
 msgid "KiwiIRC server"
-msgstr ""
+msgstr "KiwiIRC server"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:130
 #, php-format
 msgid "Leave empty to use the default (%s)"
-msgstr ""
+msgstr "Αφήστε το κενό για να χρησιμοποιήσετε το προεπιλεγμένο (%s)"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:134
 msgid "Key for the IRC channel"
-msgstr ""
+msgstr "Κλειδί για το κανάλι IRC"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:138
 msgid "Other options"
-msgstr ""
+msgstr "Άλλες επιλογές"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:141
 msgid "connect to IRC network with SSL"
-msgstr ""
+msgstr "συνδεθείτε στο IRC δίκτυο με SSL"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:145
 msgid "debug enabled"
-msgstr ""
+msgstr "αποσφαλμάτωσης ενεργοποιημένη"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:150
 msgid ""
 "This block uses <a href=\"https://kiwiirc.com/\" "
 "target=\"_blank\">KiwiIRC</a>."
-msgstr ""
+msgstr "Αυτό το μπλοκ χρησιμοποιεί <a href=\"https://kiwiirc.com/\" target=\"_blank\">KiwiIRC</a>."
 
 #: packages/irc_chat/blocks/irc_chat/view.php:7
 msgid "IRC chat disabled in edit mode."
-msgstr ""
+msgstr "Η Συνομιλία IRC είναι απενεργοποιημένη σε κατάσταση επεξεργασίας."
 
 #: packages/irc_chat/blocks/irc_chat/view.php:27
 #: packages/irc_chat/blocks/irc_chat/view.php:32
 #, php-format
 msgid "To open the IRC chat <a href=\"%s\" target=\"_blank\">click here</a>."
-msgstr ""
+msgstr "Για να ανοίξετε τη συνομιλία IRC <a href=\"%s\" target=\"_blank\"κάντε κλικ εδώ</a>."
 
 #: packages/irc_chat/blocks/irc_chat/view.php:31
 msgid "Your browser does not support frames."
-msgstr ""
+msgstr "Ο browser σας δεν υποστηρίζει πλαίσια."
 
 #: packages/irc_chat/controller.php:14
 msgid "Allow inserting a block in your website to partecipate to IRC chats."
-msgstr ""
+msgstr "Επιτρέψτε την εισαγωγή ενός μπλοκ στην ιστοσελίδα σας, για να συμμετάσχουν σε chats IRC."

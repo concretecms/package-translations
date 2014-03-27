@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Hypocrite, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:32+0100\n"
-"PO-Revision-Date: 2014-03-25 15:32+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-26 11:18+0000\n"
+"Last-Translator: Hypocrite\n"
 "Language-Team: Finnish (Finland) (http://www.transifex.com/projects/p/concrete5-packages/language/fi_FI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,24 +25,24 @@ msgstr ""
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/view.php:2
 #: C:\Work\addon_addthis/packages/addthis/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Pääsy estetty."
 
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/controller.php:18
 #: C:\Work\addon_addthis/packages/addthis/controller.php:12
 msgid ""
 "Makes it easy for your visitors to bookmark and share your content with "
 "others."
-msgstr ""
+msgstr "Vierailijasi voivat helposti lisätä kirjanmerkiksi ja jakaa sisältöäsi muille."
 
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/controller.php:22
 #: C:\Work\addon_addthis/packages/addthis/controller.php:16
 msgid "AddThis"
-msgstr ""
+msgstr "AddThis"
 
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/form_setup_html.php:9
 msgid "AddThis User Name (optional)"
-msgstr ""
+msgstr "AddThis käyttäjätunnus (vapaaehtoinen)"
 
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/form_setup_html.php:13
 msgid "Sign up for an account at"
-msgstr ""
+msgstr "Rekisteröi tili sivustolla"
