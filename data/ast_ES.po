@@ -1,18 +1,17 @@
 # 
 # Translators:
-# MrLindau <fredrik@fxlindau.se>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2014-03-27 19:21+0000\n"
-"Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
-"Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
+"PO-Revision-Date: 2014-03-27 19:39+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Asturian (Spain) (http://www.transifex.com/projects/p/concrete5-packages/language/ast_ES/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sv_SE\n"
+"Language: ast_ES\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -20,49 +19,49 @@ msgstr ""
 #: packages/data/controller.php:11
 #: packages/data/single_pages/dashboard/data/management/view.php:2
 msgid "Data"
-msgstr "Data"
+msgstr ""
 
 #: packages/data/controller.php:15
 msgid "Data for concrete5"
-msgstr "Data för concrete5"
+msgstr ""
 
 #: packages/data/controller.php:60
 msgid "Data Simple Association"
-msgstr "Data enkel assosiation "
+msgstr ""
 
 #: packages/data/controller.php:61
 msgid "Data Single Child Association"
-msgstr "Data association till ensamt barn"
+msgstr ""
 
 #: packages/data/controller.php:126 packages/data/controller.php:127
 msgid "View Data Type"
-msgstr "Visa datatyp"
+msgstr ""
 
 #: packages/data/controller.php:130 packages/data/controller.php:131
 #: packages/data/single_pages/dashboard/data/administration/delete.php:2
 #: packages/data/single_pages/dashboard/data/administration/edit.php:2
 msgid "Edit Data Type"
-msgstr "Redigera datatyp"
+msgstr ""
 
 #: packages/data/controller.php:134 packages/data/controller.php:135
 msgid "Delete Data Type"
-msgstr "Ta bort datatyp"
+msgstr ""
 
 #: packages/data/controller.php:138 packages/data/controller.php:139
 msgid "Edit Data Type Permissions"
-msgstr "Redigera behörigheter för datatyp"
+msgstr ""
 
 #: packages/data/controller.php:142 packages/data/controller.php:143
 msgid "Edit Data"
-msgstr "Redigera data"
+msgstr ""
 
 #: packages/data/controller.php:146 packages/data/controller.php:147
 msgid "Delete Data"
-msgstr "Ta bort data"
+msgstr ""
 
 #: packages/data/controller.php:150 packages/data/controller.php:151
 msgid "Create Data"
-msgstr "Skapa data"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:12
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:40
@@ -73,7 +72,7 @@ msgstr "Skapa data"
 #: packages/data/controllers/dashboard/data/administration/controller.php:163
 #: packages/data/controllers/dashboard/data/management/controller.php:15
 msgid "Data Type Not Found"
-msgstr "Kunde inte hitta datatyp"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:27
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:117
@@ -83,35 +82,35 @@ msgstr "Kunde inte hitta datatyp"
 #: packages/data/single_pages/dashboard/data/administration/view.php:2
 #: packages/data/single_pages/dashboard/data/management/view.php:5
 msgid "Data Type"
-msgstr "Datatyp"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:45
 msgid "Attribute Type Not Found"
-msgstr "Egenskapstyp kunde inte hittas"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:56
 msgid "Attribute Added"
-msgstr "Egenskap tillagt"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:59
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:95
 #: packages/data/controllers/dashboard/data/management/controller.php:144
 msgid "Unknown Error"
-msgstr "Okänt fel"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:61
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:98
 msgid "** None"
-msgstr "** Ingen"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:86
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:130
 msgid "Attribute Key Not Found"
-msgstr "Egenskapsnyckel kunde inte hittas"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:92
 msgid "Attribute Updated"
-msgstr "Egenskap uppdaterad"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:118
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:143
@@ -119,41 +118,41 @@ msgstr "Egenskap uppdaterad"
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 #: packages/data/single_pages/dashboard/data/management/view.php:6
 msgid "Attributes"
-msgstr "Egenskaper"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:135
 msgid "Attribute Deleted"
-msgstr "Egenskaper borttaget"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:27
 #: packages/data/controllers/dashboard/data/administration/controller.php:45
 #: packages/data/controllers/dashboard/data/administration/controller.php:120
 #: packages/data/controllers/dashboard/data/administration/controller.php:201
 msgid "Data Types"
-msgstr "Datatyper"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:76
 msgid "Data Type Created"
-msgstr "Datatyp skapad"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:91
 #: packages/data/controllers/dashboard/data/administration/controller.php:137
 #: packages/data/controllers/dashboard/data/management/controller.php:22
 msgid "Access Denied"
-msgstr "Behörighet nekad"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:107
 msgid "Data Type Updated"
-msgstr "Datatyp uppdaterad"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:121
 #: packages/data/controllers/dashboard/data/administration/controller.php:151
 msgid "View"
-msgstr "Visa"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:143
 msgid "Data Type Deleted"
-msgstr "Datatyp borttagen"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:150
 #: packages/data/controllers/dashboard/data/management/controller.php:153
@@ -161,20 +160,20 @@ msgstr "Datatyp borttagen"
 #: packages/data/single_pages/dashboard/data/management/search.php:19
 #: packages/data/single_pages/dashboard/data/management/view.php:22
 msgid "Edit"
-msgstr "Redigera"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:178
 #: packages/data/controllers/dashboard/data/administration/controller.php:184
 msgid "Invalid File"
-msgstr "Ogiltig fil"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:188
 msgid "File must be .xml"
-msgstr "Filen måste vara .xml"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:196
 msgid "Data Type Imported"
-msgstr "Datatyp importerad"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/management/controller.php:29
 #: packages/data/controllers/dashboard/data/management/controller.php:66
@@ -182,19 +181,19 @@ msgstr "Datatyp importerad"
 #: packages/data/controllers/dashboard/data/management/controller.php:152
 #: packages/data/single_pages/dashboard/data/management/search.php:7
 msgid "Search"
-msgstr "Sök"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/management/controller.php:61
 msgid "Data Created"
-msgstr "Data skapat"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/management/controller.php:107
 msgid "Data Updated"
-msgstr "Data uppdaterad"
+msgstr ""
 
 #: packages/data/controllers/dashboard/data/management/controller.php:141
 msgid "Data Deleted"
-msgstr "Data borttaget"
+msgstr ""
 
 #: packages/data/elements/permission/lists/data_type.php:31
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:50
@@ -205,77 +204,77 @@ msgstr "Data borttaget"
 #: packages/data/single_pages/dashboard/data/management/delete.php:12
 #: packages/data/single_pages/dashboard/data/management/edit.php:13
 msgid "Cancel"
-msgstr "Avbryt"
+msgstr ""
 
 #: packages/data/elements/permission/lists/data_type.php:32
 #: packages/data/single_pages/dashboard/data/administration/edit.php:12
 msgid "Save"
-msgstr "Spara"
+msgstr ""
 
 #: packages/data/models/attribute/types/data_simple_association/type_form.php:3
 msgid "Simple Association"
-msgstr "Enkel association"
+msgstr ""
 
 #: packages/data/models/attribute/types/data_simple_association/type_form.php:12
 msgid "Allow Mutliple Associations"
-msgstr "Tillåt multipla associationer"
+msgstr ""
 
 #: packages/data/models/attribute/types/data_single_child_association/type_form.php:3
 msgid "Single Child Association"
-msgstr "Association till ensamt barn"
+msgstr ""
 
 #: packages/data/models/data.php:157 packages/data/models/data_type.php:86
 msgid "Invalid Element"
-msgstr "Ogiltigt element"
+msgstr ""
 
 #: packages/data/models/data.php:161
 msgid "DataType handle dtHandle not found"
-msgstr "Datatyp handtag dtHandle kunde inte hittas"
+msgstr ""
 
 #: packages/data/models/data.php:165
 msgid "DataType not found"
-msgstr "Datatyp kunde inte hittas"
+msgstr ""
 
 #: packages/data/models/data_type.php:125
 msgid "Maximum Name length is 255 characters"
-msgstr "Maximal längd på namn är 255 tecken"
+msgstr ""
 
 #: packages/data/models/data_type.php:128
 msgid "Maximum Handle length is 255 characters"
-msgstr "Maximal längd på handtag är 255 tecken"
+msgstr ""
 
 #: packages/data/models/data_type.php:131
 msgid "Handle can only contain a-z 0-9 and _"
-msgstr "Handtag kan endast innehålla a-z 0-9 och _"
+msgstr ""
 
 #: packages/data/models/data_type.php:134
 msgid "Name is required"
-msgstr "Namn måste anges"
+msgstr ""
 
 #: packages/data/models/data_type.php:137
 msgid "Handle is required"
-msgstr "Handtag måste anges"
+msgstr ""
 
 #: packages/data/models/data_type.php:148
 #, php-format
 msgid "Name already in use by %s"
-msgstr "Namn används redan av %s"
+msgstr ""
 
 #: packages/data/models/data_type.php:155
 #, php-format
 msgid "Handle already in use by %s"
-msgstr "Handtag används redan av %s"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:3
 #, php-format
 msgid "Add %s Attribute"
-msgstr "Lägg till %s egenskaper"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:8
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:8
 #, php-format
 msgid "%s: Basic Details"
-msgstr "%s: Grundläggande information"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:11
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:11
@@ -284,7 +283,7 @@ msgstr "%s: Grundläggande information"
 #: packages/data/single_pages/dashboard/data/administration/view.php:5
 #: packages/data/single_pages/dashboard/data/administration/view.php:10
 msgid "Handle"
-msgstr "Handtag"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:18
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:18
@@ -296,27 +295,27 @@ msgstr "Handtag"
 #: packages/data/single_pages/dashboard/data/management/search.php:15
 #: packages/data/single_pages/dashboard/data/management/view.php:9
 msgid "Name"
-msgstr "Namn"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:25
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:25
 msgid "Set"
-msgstr "Uppsättning"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:32
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:32
 msgid "Searchable"
-msgstr "Sökbar"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:35
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:35
 msgid "Content included in data keyword search."
-msgstr "Innehållet inkluderat i nyckelord för datasökning."
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:36
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:36
 msgid "Field available in Dashboard data search."
-msgstr "Fältet tillgängligt för sökning i kontrollpanelen."
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:49
 #: packages/data/single_pages/dashboard/data/administration/create.php:12
@@ -324,23 +323,23 @@ msgstr "Fältet tillgängligt för sökning i kontrollpanelen."
 #: packages/data/single_pages/dashboard/data/management/create.php:11
 #: packages/data/single_pages/dashboard/data/management/search.php:29
 msgid "Create"
-msgstr "Skapa"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:3
 #, php-format
 msgid "Delete %s Attribute"
-msgstr "Ta bort %s egenskaper"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:6
 #: packages/data/single_pages/dashboard/data/management/delete.php:6
 msgid "Warning"
-msgstr "Varning"
+msgstr ""
 
 #. %s is an attribute name
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:7
 #, php-format
 msgid "You are about to delete the attribute \"%s\". There is no undo."
-msgstr "Du håller på att ta bort egenskapen \"%s\". Det finns inget sätt att ångra detta."
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:11
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:50
@@ -349,91 +348,91 @@ msgstr "Du håller på att ta bort egenskapen \"%s\". Det finns inget sätt att 
 #: packages/data/single_pages/dashboard/data/management/delete.php:11
 #: packages/data/single_pages/dashboard/data/management/edit.php:12
 msgid "Delete"
-msgstr "Ta bort"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:3
 #, php-format
 msgid "Edit %s Attribute"
-msgstr "Redigera %s egenskaper"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:49
 #: packages/data/single_pages/dashboard/data/management/edit.php:11
 msgid "Update"
-msgstr "Uppdatera"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:2
 #, php-format
 msgid "%s Attributes"
-msgstr "%s egenskaper"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:11
 msgid "Add Attribute"
-msgstr "Lägg till egenskap"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:14
 msgid "Add"
-msgstr "Lägg till"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:21
 msgid "Done"
-msgstr "Klart"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/create.php:2
 msgid "Create Data Type"
-msgstr "Skapa Datatyp"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/import.php:2
 msgid "Import Data Type"
-msgstr "Importera datatyp"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/import.php:9
 #: packages/data/single_pages/dashboard/data/administration/search.php:6
 msgid "Import"
-msgstr "Import"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/search.php:2
 msgid "Data Type Administration"
-msgstr "Administrera datatyper"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/search.php:15
 msgid "No Data Types found"
-msgstr "Inga datatyper hittades"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:11
 msgid "Type"
-msgstr "Typ"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:14
 msgid "No attributes found"
-msgstr "Inga egenskaper hittades"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:31
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Permissions"
-msgstr "Behörighet"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Metadata"
-msgstr "Metadata"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Export"
-msgstr "Export"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/management/data_types.php:2
 msgid "Data Type Management"
-msgstr "Administrering av datatyper"
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/management/delete.php:3
 msgid "Delete Attribute"
-msgstr "Ta bort egenskap"
+msgstr ""
 
 #. %s is a DataType Name and a Data Name
 #: packages/data/single_pages/dashboard/data/management/delete.php:7
 #, php-format
 msgid "You are about to delete %s. There is no undo."
-msgstr "Du håller på att ta bort %s. Det finns inget sätt att ångra detta."
+msgstr ""
 
 #: packages/data/single_pages/dashboard/data/management/view.php:10
 msgid "Value"
-msgstr "Värde"
+msgstr ""

@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:30+0100\n"
-"PO-Revision-Date: 2014-03-25 15:30+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-27 23:07+0000\n"
+"Last-Translator: Pam Banis\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,56 +19,56 @@ msgstr ""
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Toegang Geweigerd."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:12
 msgid ""
 "Allows a user to generate installation data for a concrete5 site or add-on."
-msgstr ""
+msgstr "Hiermee kan een gebruiker om installatie gegevens genereren voor een concrete5 site of add-on."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:16
 msgid "Sample Content and Install Generator"
-msgstr ""
+msgstr "Voorbeeld Content en Installatie Genereren"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:2
 msgid "Generate Installation Data"
-msgstr ""
+msgstr "Genereer Installatie Data"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:6
 msgid "Files"
-msgstr ""
+msgstr "Bestanden"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:8
 msgid "Download all file manager files."
-msgstr ""
+msgstr "Download alle bestanden van de manager."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:11
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:20
 msgid "Back"
-msgstr ""
+msgstr "Terug"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:16
 msgid "Data"
-msgstr ""
+msgstr "Gegevens"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:24
 msgid "Archive Files."
-msgstr ""
+msgstr "Archiefbestanden."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:25
 msgid "Generate a zip of all files in this site."
-msgstr ""
+msgstr "Genereren een zip van alle bestanden in deze site."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:27
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:35
 msgid "Go"
-msgstr ""
+msgstr "Gaan"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:32
 msgid "Generate content.xml from current website."
-msgstr ""
+msgstr "Content.xml van huidige website genereren."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:33
 msgid ""
 "Once you generate this file you can include it in a custom starting point."
-msgstr ""
+msgstr "Zodra u dit bestand genereert kunt u opnemen in een aangepaste uitgangspunt."

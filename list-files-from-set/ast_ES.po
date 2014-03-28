@@ -1,0 +1,158 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"POT-Creation-Date: 2014-03-01 10:48+0100\n"
+"PO-Revision-Date: 2014-03-27 19:39+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Asturian (Spain) (http://www.transifex.com/projects/p/concrete5-packages/language/ast_ES/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ast_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: ../blocks/list_files_from_set/controller.php:15
+msgid "Displays a list of files from a file set."
+msgstr ""
+
+#: ../blocks/list_files_from_set/controller.php:19
+msgid "List Files From Set"
+msgstr ""
+
+#: ../blocks/list_files_from_set/controller.php:23
+#: ../blocks/list_files_from_set/controller.php:29
+msgid "You must select a file set."
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:8
+#: ../blocks/list_files_from_set/edit.php:25
+msgid "Select File Set"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:19
+msgid "Display"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:20
+msgid "files from:"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:41
+msgid "(leave blank or enter zero for all files in set)"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:45
+msgid "Ordering"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:47
+msgid "Date added (newest first)"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:48
+msgid "Date added (oldest first)"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:49
+msgid "Alphabetical"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:50
+msgid "Alphabetical (reversed)"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:51
+msgid "Set order"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:52
+msgid "Set order (reversed)"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:56
+msgid "Display options"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:58
+msgid "Display name of set"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:60
+msgid "Replace underscores in titles with spaces"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:62
+msgid "Uppercase first letter of title (lowercase rest)"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:64
+msgid "Display file size"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:66
+msgid "Display date added"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:69
+msgid "File extension:"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:71
+msgid "Leave in title (if present)"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:72
+msgid "Hide"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:73
+msgid "Always show (in brackets / column)"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:78
+msgid "Empty file set message (optional)"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:83
+msgid "Title Override  (optional)"
+msgstr ""
+
+#: ../blocks/list_files_from_set/edit.php:85
+msgid "(will replace title/filename, e.g. 'latest file')"
+msgstr ""
+
+#: ../blocks/list_files_from_set/templates/table_layout.php:22
+msgid "File"
+msgstr ""
+
+#: ../blocks/list_files_from_set/templates/table_layout.php:26
+msgid "Type"
+msgstr ""
+
+#: ../blocks/list_files_from_set/templates/table_layout.php:30
+msgid "Size"
+msgstr ""
+
+#: ../blocks/list_files_from_set/templates/table_layout.php:35
+msgid "Date"
+msgstr ""
+
+#: ../controller.php:5
+msgid "Access Denied."
+msgstr ""
+
+#: ../controller.php:14
+msgid "A block to display a list of files from a file set."
+msgstr ""
+
+#: ../controller.php:18
+msgid "List files from set"
+msgstr ""

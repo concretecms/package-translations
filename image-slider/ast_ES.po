@@ -1,17 +1,16 @@
 # 
 # Translators:
-# MrLindau <fredrik@fxlindau.se>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:33+0100\n"
-"PO-Revision-Date: 2014-03-27 19:11+0000\n"
-"Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
-"Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
+"PO-Revision-Date: 2014-03-27 19:39+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Asturian (Spain) (http://www.transifex.com/projects/p/concrete5-packages/language/ast_ES/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sv_SE\n"
+"Language: ast_ES\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.6.4\n"
 "X-Poedit-Basepath: .\n"
@@ -27,155 +26,155 @@ msgstr ""
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/view.php:1
 #: C:\Work\addon_image_slider/packages/image_slider/controller.php:3
 msgid "Access Denied."
-msgstr "Åtkomst nekad."
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:30
 msgid "Display a group of images in a slider."
-msgstr "Visa en grupp bilder i ett bildspel."
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:34
 #: C:\Work\addon_image_slider/packages/image_slider/controller.php:16
 msgid "Image Slider"
-msgstr "Bildspel"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:39
 msgid "Choose Image/File"
-msgstr "Välj bild/fil"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:40
 msgid "Please choose at least two images."
-msgstr "Välj åtminstone två bilder."
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:41
 msgid "Please choose a file set."
-msgstr "Välj en filgrupp."
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:18
 msgid "Choose Images"
-msgstr "Välj bilder"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:19
 msgid "Options"
-msgstr "Alternativ"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:24
 msgid "Looping"
-msgstr "Loopande"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:25
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:34
 msgid "The images should:"
-msgstr "Bilderna ska:"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:27
 msgid "loop continuously"
-msgstr "loopa kontinuerligt"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:28
 msgid "have a beginning and an end"
-msgstr "ha en början och ett slut"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:33
 msgid "Transition Type"
-msgstr "Övergångstyp"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:36
 msgid "fade between images"
-msgstr "tona mellan bilder"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:37
 msgid "scroll horizontally"
-msgstr "rulla horisontellt"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:38
 msgid "scroll vertically"
-msgstr "rulla vertikalt"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:43
 msgid "Playback Controls"
-msgstr "Uppspelningskontroller"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:49
 msgid "None"
-msgstr "Inga"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:56
 msgid "Arrows on Edges"
-msgstr "Pilar på sidorna"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:63
 msgid "Movie-Style Controls, in"
-msgstr "Filmliknande kontroller, i"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:65
 msgid "Upper Left Corner"
-msgstr "övre vänstra hörnet"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:66
 msgid "Lower Left Corner"
-msgstr "nedre vänstra hörnet"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:67
 msgid "Upper Right Corner"
-msgstr "övre högra hörnet"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:68
 msgid "Lower Right Corner"
-msgstr "nedre högra hörnet"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:76
 msgid "Include play/pause button."
-msgstr "Inkludera spela upp/paus knapp."
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:92
 msgid "Autoplay"
-msgstr "Autospela"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:93
 msgid "No"
-msgstr "Nej"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:94
 msgid "Yes"
-msgstr "Ja"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:99
 msgid "Display Duration"
-msgstr "Visa varaktighet"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:104
 #, php-format
 msgid "While playing, display each image for %s seconds."
-msgstr "Under uppspelning, visa varje bild i %s sekunder."
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:118
 msgid "Type"
-msgstr "Typ"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:120
 msgid "Custom Slider"
-msgstr "Eget bildspel"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:121
 msgid "Images from File Set"
-msgstr "Bilder från filgrupp"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:125
 msgid "Order"
-msgstr "Sortering"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:127
 msgid "Display Order"
-msgstr "Visningsordning"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:128
 msgid "Random"
-msgstr "Slumpmässig"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:136
 msgid "Add Image"
-msgstr "Lägg till bild"
+msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/controller.php:12
 msgid "Provides a full-featured image slider."
-msgstr "Ger ett fullt utrustat bildspel."
+msgstr ""

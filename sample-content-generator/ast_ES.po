@@ -1,18 +1,17 @@
 # 
 # Translators:
-# 佐々木 多生 <tao@xross-cube.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:30+0100\n"
-"PO-Revision-Date: 2014-03-27 23:10+0000\n"
-"Last-Translator: 佐々木 多生 <tao@xross-cube.com>\n"
-"Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/concrete5-packages/language/ja_JP/)\n"
+"PO-Revision-Date: 2014-03-27 19:39+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Asturian (Spain) (http://www.transifex.com/projects/p/concrete5-packages/language/ast_ES/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ja_JP\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ast_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.6.4\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-KeywordsList: t\n"
@@ -33,7 +32,7 @@ msgstr ""
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:2
 msgid "Generate Installation Data"
-msgstr "インストール時の初期コンテンツデータを作成します。"
+msgstr ""
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:6
 msgid "Files"
@@ -41,7 +40,7 @@ msgstr ""
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:8
 msgid "Download all file manager files."
-msgstr "ファイルマネージャーの全てのファイルを圧縮してダウンロード"
+msgstr ""
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:11
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:20
