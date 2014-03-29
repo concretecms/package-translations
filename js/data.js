@@ -1,5 +1,5 @@
 {
-    "updated": 1395995431,
+    "updated": 1396081823,
     "packages": [
         {
             "handle": "addthis",
@@ -54,6 +54,20 @@
                     "fuzzy": 0,
                     "total": 5,
                     "perc": 100
+                },
+                "sl_SI": {
+                    "translated": 5,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 5,
+                    "perc": 100
+                },
+                "ast_ES": {
+                    "translated": 1,
+                    "untranslated": 4,
+                    "fuzzy": 0,
+                    "total": 5,
+                    "perc": 20
                 },
                 "zh_TW": {
                     "translated": 5,
@@ -112,6 +126,13 @@
                     "perc": 45
                 },
                 "nl_NL": {
+                    "translated": 33,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 33,
+                    "perc": 100
+                },
+                "sl_SI": {
                     "translated": 33,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -195,6 +216,13 @@
                     "total": 8,
                     "perc": 100
                 },
+                "sl_SI": {
+                    "translated": 8,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 8,
+                    "perc": 100
+                },
                 "zh_TW": {
                     "translated": 8,
                     "untranslated": 0,
@@ -252,6 +280,13 @@
                     "perc": 6
                 },
                 "nl_NL": {
+                    "translated": 83,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 83,
+                    "perc": 100
+                },
+                "sl_SI": {
                     "translated": 83,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -328,6 +363,13 @@
                     "total": 37,
                     "perc": 100
                 },
+                "sl_SI": {
+                    "translated": 37,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 37,
+                    "perc": 100
+                },
                 "zh_TW": {
                     "translated": 37,
                     "untranslated": 0,
@@ -391,6 +433,20 @@
                     "total": 31,
                     "perc": 96
                 },
+                "sl_SI": {
+                    "translated": 31,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 31,
+                    "perc": 100
+                },
+                "ast_ES": {
+                    "translated": 14,
+                    "untranslated": 17,
+                    "fuzzy": 0,
+                    "total": 31,
+                    "perc": 45
+                },
                 "zh_TW": {
                     "translated": 31,
                     "untranslated": 0,
@@ -447,6 +503,13 @@
                     "total": 38,
                     "perc": 100
                 },
+                "sl_SI": {
+                    "translated": 38,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 38,
+                    "perc": 100
+                },
                 "zh_TW": {
                     "translated": 38,
                     "untranslated": 0,
@@ -497,6 +560,13 @@
                     "perc": 10
                 },
                 "nl_NL": {
+                    "translated": 39,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 39,
+                    "perc": 100
+                },
+                "sl_SI": {
                     "translated": 39,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -566,6 +636,13 @@
                     "total": 34,
                     "perc": 100
                 },
+                "sl_SI": {
+                    "translated": 34,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 100
+                },
                 "zh_TW": {
                     "translated": 34,
                     "untranslated": 0,
@@ -616,6 +693,13 @@
                     "perc": 18
                 },
                 "nl_NL": {
+                    "translated": 65,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 65,
+                    "perc": 100
+                },
+                "sl_SI": {
                     "translated": 65,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -698,6 +782,20 @@
                     "fuzzy": 0,
                     "total": 85,
                     "perc": 96
+                },
+                "sl_SI": {
+                    "translated": 85,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 100
+                },
+                "ast_ES": {
+                    "translated": 4,
+                    "untranslated": 81,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 4
                 },
                 "ja_JP": {
                     "translated": 85,
@@ -783,6 +881,13 @@
                     "total": 7,
                     "perc": 100
                 },
+                "sl_SI": {
+                    "translated": 7,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 7,
+                    "perc": 100
+                },
                 "vi_VN": {
                     "translated": 7,
                     "untranslated": 0,
@@ -847,6 +952,13 @@
                     "perc": 100
                 },
                 "nl_NL": {
+                    "translated": 32,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 32,
+                    "perc": 100
+                },
+                "sl_SI": {
                     "translated": 32,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -923,6 +1035,13 @@
                     "total": 11,
                     "perc": 100
                 },
+                "sl_SI": {
+                    "translated": 11,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 11,
+                    "perc": 100
+                },
                 "zh_TW": {
                     "translated": 11,
                     "untranslated": 0,
@@ -985,6 +1104,20 @@
                     "fuzzy": 0,
                     "total": 13,
                     "perc": 100
+                },
+                "sl_SI": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 100
+                },
+                "ast_ES": {
+                    "translated": 6,
+                    "untranslated": 7,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 46
                 },
                 "ja_JP": {
                     "translated": 2,
@@ -1064,6 +1197,13 @@
                     "perc": 100
                 },
                 "ru_RU": {
+                    "translated": 10,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 10,
+                    "perc": 100
+                },
+                "sl_SI": {
                     "translated": 10,
                     "untranslated": 0,
                     "fuzzy": 0,
