@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Ales Drinovec <ales.drinovec@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-05 12:51+0000\n"
-"PO-Revision-Date: 2014-03-24 20:17+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-03-28 19:36+0000\n"
+"Last-Translator: Ales Drinovec <ales.drinovec@gmail.com>\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,291 +20,291 @@ msgstr ""
 #: packages/localizer/controller.php:10 packages/localizer/controller.php:32
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:41
 msgid "Localizer"
-msgstr ""
+msgstr "Lokalizator"
 
 #: packages/localizer/controller.php:14 packages/localizer/controller.php:32
 msgid "Allow localizing special items, for instance user and file attributes."
-msgstr ""
+msgstr "Dovoli lokalizacijo posebnih elementov, na primer uporabniških in datotečnih atributov."
 
 #: packages/localizer/controller.php:35
 msgid ""
 "translate special items, translation, attribute names, attribute set names, "
 "attribute type names, permission names, permission descriptions, access "
 "entity type names"
-msgstr ""
+msgstr "prevod posebnih elementov, prevod, imena atributov, imena naborov atributov, imena tipov atributov, imena dovoljenj, opisi dovoljenj, imena tipov dostopnih vsebin"
 
 #: packages/localizer/controller.php:41
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:6
 msgid "Localizer options"
-msgstr ""
+msgstr "Možnosti lokalizatorja"
 
 #: packages/localizer/controller.php:41
 msgid "Set the Localizer options."
-msgstr ""
+msgstr "Nastavitev možnosti lokalizatorja."
 
 #: packages/localizer/controller.php:44
 msgid "localizer options, options localizer"
-msgstr ""
+msgstr "možnosti lokalizatorja, lokalizator možnosti"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:272
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:7
 msgid "Attribute sets names"
-msgstr ""
+msgstr "Imena naborov atributov"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:275
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:8
 msgid "Attribute key names"
-msgstr ""
+msgstr "Imena ključev atributov"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:278
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:9
 msgid "Attribute type names"
-msgstr ""
+msgstr "Imena tipov atributov"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:284
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:10
 msgid "Permission key names"
-msgstr ""
+msgstr "Imena ključev atributov"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:287
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:11
 msgid "Permission key descriptions"
-msgstr ""
+msgstr "Opisi ključev dovoljenj"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:290
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:12
 msgid "Access entity type names"
-msgstr ""
+msgstr "Imena tipov dostopnih vsebin"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:293
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:13
 msgid "Job set names"
-msgstr ""
+msgstr "Imena naborov opravil"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:296
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:14
 msgid "User group names"
-msgstr ""
+msgstr "Imena uporabniških skupin"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:299
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:15
 msgid "User group descriptions"
-msgstr ""
+msgstr "Opisi uporabniških skupin"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:302
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:16
 msgid "User group set names"
-msgstr ""
+msgstr "Imena naborov uporabniških skupin"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:305
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:17
 msgid "Values of the select attributes"
-msgstr ""
+msgstr "Vrednosti izbirnih atributov"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:18
 msgid "Area names"
-msgstr ""
+msgstr "Imena področij"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:27
 msgid "Still in development"
-msgstr ""
+msgstr "Še vedno v razvoju"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:30
 #, php-format
 msgid "Available from concrete5 %s"
-msgstr ""
+msgstr "Na voljo od concrete5 %s"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:49
 msgid "The options have been saved."
-msgstr ""
+msgstr "Možnosti so bile shranjene."
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:68
 msgid "Please enable at least one item class to be translated."
-msgstr ""
+msgstr "Omogočite vsaj en element razreda za prevod."
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:65
 msgid "Page attributes"
-msgstr ""
+msgstr "Tipi strani"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:68
 msgid "User attributes"
-msgstr ""
+msgstr "Uporabniški atributi"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:71
 msgid "File attributes"
-msgstr ""
+msgstr "Datotečni atributi"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:111
 msgid "Page"
-msgstr ""
+msgstr "Stran"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:114
 msgid "Single page"
-msgstr ""
+msgstr "Samostojna stran"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:117
 msgid "Stack"
-msgstr ""
+msgstr "Sklad"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:120
 msgid "Composer page"
-msgstr ""
+msgstr "Urejevalna stran"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:123
 msgid "User"
-msgstr ""
+msgstr "Uporabnik"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:126
 msgid "File set"
-msgstr ""
+msgstr "Nabor datotek"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:129
 msgid "File"
-msgstr ""
+msgstr "Datoteka"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:132
 msgid "Area"
-msgstr ""
+msgstr "Območje"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:135
 msgid "Block type"
-msgstr ""
+msgstr "Tip bloka"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:138
 msgid "Block"
-msgstr ""
+msgstr "Blok"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:141
 msgid "Administration"
-msgstr ""
+msgstr "Administracija"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:144
 msgid "Site map"
-msgstr ""
+msgstr "Kazalo spletnega mesta"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:147
 msgid "MarketPlace newsflow"
-msgstr ""
+msgstr "Pretok novic tržnice"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:150
 msgid "Basic workflow"
-msgstr ""
+msgstr "Osnovni delovni tok"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:281
 msgid "Area Names"
-msgstr ""
+msgstr "Območna imena"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:323
 msgid "The translations have been saved."
-msgstr ""
+msgstr "Prevodi so bili shranjeni."
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:334
 #, php-format
 msgid "Invalid locale identifier: '%s'"
-msgstr ""
+msgstr "Napačna lokalna spremenljivka: '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:350
 #, php-format
 msgid "Unable to find the attribute set with id '%s'"
-msgstr ""
+msgstr "Ne morem najti nabora atributov z ID '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:357
 #, php-format
 msgid "Unable to find the attribute key with id '%s'"
-msgstr ""
+msgstr "Ne morem najti ključa atributa z ID '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:364
 #, php-format
 msgid "Unable to find the attribute type with id '%s'"
-msgstr ""
+msgstr "Ne morem najti tipa atributa z ID '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:371
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:378
 #, php-format
 msgid "Unable to find the permission key with id '%s'"
-msgstr ""
+msgstr "Ne morem najti ključa dovoljenja z ID '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:385
 #, php-format
 msgid "Unable to find the access entity type with id '%s'"
-msgstr ""
+msgstr "Ne morem najti tipa dostopne vsebine z ID '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:392
 #, php-format
 msgid "Unable to find the job set with id '%s'"
-msgstr ""
+msgstr "Ne morem najti nabora opravil z ID '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:399
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:406
 #, php-format
 msgid "Unable to find the users group with id '%s'"
-msgstr ""
+msgstr "Ne morem najti uporabniške skupine z ID '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:413
 #, php-format
 msgid "Unable to find the set of users group with id '%s'"
-msgstr ""
+msgstr "Ne morem najti nabora uporabniških skupin z ID '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:420
 #, php-format
 msgid "Unable to find the select option value with id '%s'"
-msgstr ""
+msgstr "Ne morem najti vrednosti izbirne možnosti z ID '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:447
 #, php-format
 msgid "Unable to create folder %s"
-msgstr ""
+msgstr "Ne morem ustvariti mape %s"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:455
 #, php-format
 msgid "Unable to save file %s"
-msgstr ""
+msgstr "Ne morem shraniti datoteke %s"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:493
 msgid "Same as English (US)"
-msgstr ""
+msgstr "Isto kot Angleško (US)"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:12
 msgid "Which items to you want to be translated?"
-msgstr ""
+msgstr "Katere elemente bi radi prevedli?"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:24
 msgid "enabled"
-msgstr ""
+msgstr "omogočeno"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:25
 msgid "disabled"
-msgstr ""
+msgstr "onemogočeno"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:36
 msgid "Warning!"
-msgstr ""
+msgstr "Opozorilo!"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:37
 msgid "Disabled item classes causes translations to be lost!"
-msgstr ""
+msgstr "Onemogočeni razredi elementov povzročijo izgubo prevoda!"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:70
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:42
 msgid "Save"
-msgstr ""
+msgstr "Shrani"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:5
 msgid "Translate special items"
-msgstr ""
+msgstr "Prevod posebnih elementov"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:8
 msgid "No locales defined."
-msgstr ""
+msgstr "Ni definiranih lokalnosti."
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:30
 msgid "Items"
-msgstr ""
+msgstr "Elementi"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:42
 msgid "Language"
-msgstr ""
+msgstr "Jezik"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:69
 msgid "Options"
-msgstr ""
+msgstr "Možnosti"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Ales Drinovec <ales.drinovec@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-20 12:06+0000\n"
-"PO-Revision-Date: 2014-03-24 20:17+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-03-28 16:58+0000\n"
+"Last-Translator: Ales Drinovec <ales.drinovec@gmail.com>\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,143 +19,143 @@ msgstr ""
 
 #: packages/constants_driller/controller.php:10
 msgid "Deep analysis and report of PHP constants used by concrete5."
-msgstr ""
+msgstr "Temeljita analiza in poročilo o PHP konstantah, ki jih uporablja concrete5."
 
 #: packages/constants_driller/controller.php:14
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:211
 msgid "Constants Driller"
-msgstr ""
+msgstr "Raziskovalec konstant"
 
 #: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:77
 #: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:93
 #, php-format
 msgid "Invalid parameter: %s"
-msgstr ""
+msgstr "Nepravilen parameter: %s"
 
 #: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:104
 msgid ""
 "You have to do a first-time scan (under the options pane available clicking "
 "the upper-right \"Option\" label)."
-msgstr ""
+msgstr "Opraviti morate prvo skeniranje (kliknite na zgornjo-desno oznako \"Možnosti\" v oknu možnosti)."
 
 #: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:175
 msgid "never accomplished"
-msgstr ""
+msgstr "nikoli izvedeno"
 
 #: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:177
 #, php-format
 msgid "Last scan: %s"
-msgstr ""
+msgstr "Zadnji pregled: %s"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:51
 msgid "Not defined"
-msgstr ""
+msgstr "Ni definirano"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:105
 msgid "This operation may take a few minutes."
-msgstr ""
+msgstr "To opravilo lahko traja nekaj minut."
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:105
 msgid "Do you want to proceed anyway?"
-msgstr ""
+msgstr "Ali želite vseeno nadaljevati?"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:133
 #, php-format
 msgid "Constant %s defined in…"
-msgstr ""
+msgstr "Konstanta %s je definirana v ..."
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:133
 msgid "Defined in…"
-msgstr ""
+msgstr "Definirano v..."
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:137
 #, php-format
 msgid "Constant %s used in…"
-msgstr ""
+msgstr "Konstanta %s uporabljena v..."
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:137
 msgid "Used in…"
-msgstr ""
+msgstr "Uporabljeno v..."
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:149
 msgid "Nowhere"
-msgstr ""
+msgstr "Nikjer"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
 msgid "File"
-msgstr ""
+msgstr "Datoteka"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
 msgid "Line"
-msgstr ""
+msgstr "Vrstica"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:161
 msgid "Close"
-msgstr ""
+msgstr "Zapri"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
 msgid "We have to do a first-time scan to locate all the constants."
-msgstr ""
+msgstr "Opraviti moramo prvi pregled za lociranje vseh konstant."
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
 msgid "Do you want to do it now?"
-msgstr ""
+msgstr "Ali ga želite opraviti sedaj?"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
 msgid "PS: this may take a few minites."
-msgstr ""
+msgstr "PS: To lahko traja nekaj minut."
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:211
 msgid ""
 "The Constants Driller allow you to inspect all the constants used or defined"
 " in your concrete5 installation."
-msgstr ""
+msgstr "Raziskovalec konstant vam omogoča pregled vseh konstant uporabljenih ali definiranih v namestitvi concrete5."
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:213
 msgid "Options"
-msgstr ""
+msgstr "Možnosti"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:215
 msgid "Rescan"
-msgstr ""
+msgstr "Ponovni pregled"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:223
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:252
 msgid "Constant"
-msgstr ""
+msgstr "Konstanta"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:225
 msgid "Constant name"
-msgstr ""
+msgstr "Ime konstante"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
 msgid "Defined or used in file"
-msgstr ""
+msgstr "Definirano ali uporabljeno v datoteki"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
 msgid "Defined in file"
-msgstr ""
+msgstr "Definirano v datoteki"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
 msgid "Used in file"
-msgstr ""
+msgstr "Uporabljeno v datoteki"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:230
 msgid "File name"
-msgstr ""
+msgstr "Ime datoteke"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:233
 msgid "Search"
-msgstr ""
+msgstr "Iskanje"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:243
 msgid "Exclude 3rd party libraries"
-msgstr ""
+msgstr "Izključi knjižnice drugih ponudnikov."
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:253
 msgid "Current value"
-msgstr ""
+msgstr "Trenutna vrednost"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:254
 msgid "Found in"
-msgstr ""
+msgstr "Najdeno v "

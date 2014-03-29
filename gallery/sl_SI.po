@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Ales Drinovec <ales.drinovec@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:33+0100\n"
-"PO-Revision-Date: 2014-03-25 15:34+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-03-28 18:41+0000\n"
+"Last-Translator: Ales Drinovec <ales.drinovec@gmail.com>\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,129 +27,129 @@ msgstr ""
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/view.php:1
 #: C:\Work\addon_gallery/packages/gallery/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Dostop je zavrnjen."
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:25
 msgid "Display a gallery of images."
-msgstr ""
+msgstr "Prikaz galerije slik."
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:29
 #: C:\Work\addon_gallery/packages/gallery/controller.php:16
 msgid "Gallery"
-msgstr ""
+msgstr "Galerija"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:34
 msgid "Choose Image/File"
-msgstr ""
+msgstr "Izbor slike/datoteke"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:35
 msgid "Please choose at least two images."
-msgstr ""
+msgstr "Izberite vsaj dve sliki."
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:36
 msgid "Please choose a file set."
-msgstr ""
+msgstr "Izberite nabor datotek."
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:8
 msgid "File Set"
-msgstr ""
+msgstr "Nabor datotek"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:14
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:14
 msgid "Duration"
-msgstr ""
+msgstr "Trajanje"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:16
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:16
 msgid "Fade Duration"
-msgstr ""
+msgstr "Trajanje prehoda"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:21
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:35
 msgid "Also Display"
-msgstr ""
+msgstr "Pokaži tudi"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:21
 msgid "Gallery Type"
-msgstr ""
+msgstr "Tip galerije"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:22
 msgid "Options"
-msgstr ""
+msgstr "Možnosti"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:29
 msgid "Thumbnail Width"
-msgstr ""
+msgstr "Širina sličic"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:35
 msgid "Thumbnail Height"
-msgstr ""
+msgstr "Višina sličic"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:41
 msgid "Thumbnails Per Row"
-msgstr ""
+msgstr "Število sličic v vrsti"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:47
 msgid "Max Number of Thumbnails"
-msgstr ""
+msgstr "Največje število sličic"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:60
 #, php-format
 msgid "File Attribute: %s"
-msgstr ""
+msgstr "Atribut datoteke: %s"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:65
 msgid "** Default"
-msgstr ""
+msgstr "** Privzeto"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:70
 msgid "Thumbnail to Use"
-msgstr ""
+msgstr "Uporabi sličico"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:80
 msgid "Type"
-msgstr ""
+msgstr "Tip"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:82
 msgid "Custom Gallery"
-msgstr ""
+msgstr "Galerija po meri"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:83
 msgid "Pictures from File Set"
-msgstr ""
+msgstr "Slike iz nabora datotek"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:88
 msgid "Playback"
-msgstr ""
+msgstr "Predvajanje"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:90
 msgid "Display Order"
-msgstr ""
+msgstr "Vrstni red prikazovanja"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:91
 msgid "Random (But keep sets together)"
-msgstr ""
+msgstr "Naključno (vendar v okviru nabora)"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:92
 msgid "Completely Random"
-msgstr ""
+msgstr "Povsem naključno"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:101
 msgid "Add Image"
-msgstr ""
+msgstr "Dodajanje slik"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:18
 msgid "Set Number"
-msgstr ""
+msgstr "Nastavljanje števila"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:24
 msgid "Link URL (optional)"
-msgstr ""
+msgstr "Povezava URL (opcijsko)"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:25
 msgid "Caption (optional)"
-msgstr ""
+msgstr "Naslovni napis (opcijsko)"
 
 #: C:\Work\addon_gallery/packages/gallery/controller.php:12
 msgid "Provides a simple photo gallery."
-msgstr ""
+msgstr "Enostavna galerija slik."

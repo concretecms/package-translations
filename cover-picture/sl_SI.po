@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Ales Drinovec <ales.drinovec@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:24+0100\n"
-"PO-Revision-Date: 2014-03-24 20:17+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-03-28 17:03+0000\n"
+"Last-Translator: Ales Drinovec <ales.drinovec@gmail.com>\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,37 +23,37 @@ msgstr ""
 msgid ""
 "Cover picture where you can add additional text that shows up when you hover"
 " the picture."
-msgstr ""
+msgstr "Naslovna slika, kjer lahko dodate dodatno besedilo, ki se pojavi, ko ste z miško nad sliko."
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/controller.php:15
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:8
 #: C:\Work\concrete5-cover-picture/controller.php:16
 msgid "Cover Picture"
-msgstr ""
+msgstr "Naslovna slika"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:11
 msgid "Picture"
-msgstr ""
+msgstr "Slika"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:16
 msgid "Text"
-msgstr ""
+msgstr "Besedilo"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:25
 msgid "Overlay Color"
-msgstr ""
+msgstr "Barva plasti"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:33
 msgid "Overlay Opacity"
-msgstr ""
+msgstr "Prosojnost plasti"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_centered/view.php:8
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_on_top/view.php:8
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_slider/view.php:8
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/view.php:8
 msgid "No picture selected"
-msgstr ""
+msgstr "Ni izbrane slike"
 
 #: C:\Work\concrete5-cover-picture/controller.php:12
 msgid "Adds a text covered by a picture"
-msgstr ""
+msgstr "Doda besedilo prekrito s sliko"

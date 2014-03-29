@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:15+0100\n"
-"PO-Revision-Date: 2014-03-24 20:17+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-03-28 16:43+0000\n"
+"Last-Translator: Ales Drinovec <ales.drinovec@gmail.com>\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,44 +20,44 @@ msgstr ""
 
 #: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/controller.php:18
 msgid "Lists pages connected to the current page."
-msgstr ""
+msgstr "Izpiše strani povezane s trenutno stranjo."
 
 #: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/controller.php:22
 msgid "Connected Page List"
-msgstr ""
+msgstr "Spisek povezanih strani"
 
 #: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/form_setup_html.php:9
 msgid "Attribute"
-msgstr ""
+msgstr "Atribut"
 
 #: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/form_setup_html.php:12
 msgid "Attribute to display"
-msgstr ""
+msgstr "Atribut za prikaz"
 
 #: C:\Work\concrete5-pagelist-attribute/controller.php:12
 msgid "Adds an attribute where you can select pages."
-msgstr ""
+msgstr "Doda atribut kjer lahko izberete strani."
 
 #: C:\Work\concrete5-pagelist-attribute/controller.php:16
 msgid "Pagelist Attribute"
-msgstr ""
+msgstr "Atribut spiska strani"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/search.php:18
 msgid "All"
-msgstr ""
+msgstr "Vse"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:7
 msgid "Select Options"
-msgstr ""
+msgstr "Izbor možnosti"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:10
 msgid "Page Type"
-msgstr ""
+msgstr "Tip strani"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:26
 msgid "Display Drop-Down"
-msgstr ""
+msgstr "Prikaz spustnega menija"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:32
 msgid "Always display drop down in search form."
-msgstr ""
+msgstr "Vedno prikaži spustni meni v iskalnih obrazcih."

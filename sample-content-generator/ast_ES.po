@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Tornes Llume <l.lumex03.tornes@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:30+0100\n"
-"PO-Revision-Date: 2014-03-27 19:39+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-03-28 20:57+0000\n"
+"Last-Translator: Tornes Llume <l.lumex03.tornes@gmail.com>\n"
 "Language-Team: Asturian (Spain) (http://www.transifex.com/projects/p/concrete5-packages/language/ast_ES/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +25,7 @@ msgstr ""
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:12
 msgid ""
 "Allows a user to generate installation data for a concrete5 site or add-on."
-msgstr ""
+msgstr "Permíte-y al usuariu xenerar datos d'instlación pa un sitiu concrete5 o estensión."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:16
 msgid "Sample Content and Install Generator"
@@ -32,11 +33,11 @@ msgstr ""
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:2
 msgid "Generate Installation Data"
-msgstr ""
+msgstr "Xenerar datos d'instalación"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:6
 msgid "Files"
-msgstr ""
+msgstr "Ficheros"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:8
 msgid "Download all file manager files."
@@ -57,16 +58,16 @@ msgstr ""
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:25
 msgid "Generate a zip of all files in this site."
-msgstr ""
+msgstr "Xenerar zip de tolos ficheros d'esti sitiu."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:27
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:35
 msgid "Go"
-msgstr ""
+msgstr "Dir"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:32
 msgid "Generate content.xml from current website."
-msgstr ""
+msgstr "Xenerar content.xml d'esti sitiu."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:33
 msgid ""

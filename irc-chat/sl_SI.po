@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Ales Drinovec <ales.drinovec@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 09:28+0000\n"
-"PO-Revision-Date: 2014-03-24 20:17+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-03-28 18:33+0000\n"
+"Last-Translator: Ales Drinovec <ales.drinovec@gmail.com>\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,166 +20,166 @@ msgstr ""
 #: packages/irc_chat/blocks/irc_chat/controller.php:10
 #: packages/irc_chat/controller.php:10
 msgid "IRC Chat"
-msgstr ""
+msgstr "IRC klepet"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:14
 msgid "Direct access to IRC channels."
-msgstr ""
+msgstr "Direktni dostop do IRC kanalov."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:41
 msgctxt "KiwiIrcTheme"
 msgid "Relaxed"
-msgstr ""
+msgstr "Sproščen"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:42
 msgctxt "KiwiIrcTheme"
 msgid "Basic"
-msgstr ""
+msgstr "Osnovni"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:43
 msgctxt "KiwiIrcTheme"
 msgid "CLI (Dark)"
-msgstr ""
+msgstr "CLI (temen)"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:44
 msgctxt "KiwiIrcTheme"
 msgid "Mini (Small)"
-msgstr ""
+msgstr "Mini (majhen)"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:51
 msgid "Please specify the height."
-msgstr ""
+msgstr "Določite višino."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:56
 msgid "The height must be a number greater than zero."
-msgstr ""
+msgstr "Višina mora biti število večje od nič."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:72
 msgid "Please specify the IRC network."
-msgstr ""
+msgstr "Določite IRC omrežje."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:78
 msgid "The channel name contains invalid characters."
-msgstr ""
+msgstr "Ime kanala vsebuje nepravilne znake."
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:96
 msgid "The nickname contains invalid characters."
-msgstr ""
+msgstr "Vzdevek vsebuje nepravilne znake."
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:37
 msgid "IRC"
-msgstr ""
+msgstr "IRC"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:38
 msgid "Appearance"
-msgstr ""
+msgstr "Izgled"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:39
 msgid "Advanced options"
-msgstr ""
+msgstr "Napredne možnosti"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:40
 msgid "About"
-msgstr ""
+msgstr "O"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:62
 msgid "IRC network"
-msgstr ""
+msgstr "IRC omrežje"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:63
 msgid "Please select"
-msgstr ""
+msgstr "Označite"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:66
 msgid "Or enter a custom IRC network (in the form <i>host:port</i>)"
-msgstr ""
+msgstr "Ali vnesite IRC omrežje po meri (v obliki <i>host:port</i>)"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:71
 msgid "IRC channel"
-msgstr ""
+msgstr "IRC kanal"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:76
 msgid "Nickname"
-msgstr ""
+msgstr "Vzdevek"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:81
 msgid "Suggest nickname from username of logged-in users"
-msgstr ""
+msgstr "Predlagaj vzdevek iz uporabniškega imena prijavljenega uporabnika"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:87
 msgid "Height (in pixels)"
-msgstr ""
+msgstr "Višina (v pixlih)"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:107
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:108
 msgctxt "KiwiIrcTheme"
 msgid "None/default"
-msgstr ""
+msgstr "Nič/privzeto"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:111
 msgid "Or enter a custom theme"
-msgstr ""
+msgstr "Ali vnesite temo po meri"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:115
 msgid "Device types"
-msgstr ""
+msgstr "Tipi naprav"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:118
 msgid "show only a link for mobile phones"
-msgstr ""
+msgstr "pokaži le povezavo za prenosne telefone"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:122
 msgid "show only a link for tablets"
-msgstr ""
+msgstr "pokaži le povezave za tabele"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:128
 msgid "KiwiIRC server"
-msgstr ""
+msgstr "KiwiIRC strežnik"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:130
 #, php-format
 msgid "Leave empty to use the default (%s)"
-msgstr ""
+msgstr "Pustite prazno za privzeto vrednost (%s)"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:134
 msgid "Key for the IRC channel"
-msgstr ""
+msgstr "Ključ za IRC kanal"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:138
 msgid "Other options"
-msgstr ""
+msgstr "Druge možnosti"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:141
 msgid "connect to IRC network with SSL"
-msgstr ""
+msgstr "poveži se na IRC omrežje z SSL"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:145
 msgid "debug enabled"
-msgstr ""
+msgstr "razhroščevanje je omogočeno"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:150
 msgid ""
 "This block uses <a href=\"https://kiwiirc.com/\" "
 "target=\"_blank\">KiwiIRC</a>."
-msgstr ""
+msgstr "Ta blok uporablja <a href=\"https://kiwiirc.com/\" target=\"_blank\">KiwiIRC</a>."
 
 #: packages/irc_chat/blocks/irc_chat/view.php:7
 msgid "IRC chat disabled in edit mode."
-msgstr ""
+msgstr "IRC klepet je onemogočen v načinu urejanja."
 
 #: packages/irc_chat/blocks/irc_chat/view.php:27
 #: packages/irc_chat/blocks/irc_chat/view.php:32
 #, php-format
 msgid "To open the IRC chat <a href=\"%s\" target=\"_blank\">click here</a>."
-msgstr ""
+msgstr "Za odprtje IRC klepeta <a href=\"%s\" target=\"_blank\">kliknite tule</a>."
 
 #: packages/irc_chat/blocks/irc_chat/view.php:31
 msgid "Your browser does not support frames."
-msgstr ""
+msgstr "Vaš spletni raziskovalec ne podpira okvirjev."
 
 #: packages/irc_chat/controller.php:14
 msgid "Allow inserting a block in your website to partecipate to IRC chats."
-msgstr ""
+msgstr "Dovolite vstavljanje bloka v spletno stran za sodelovanje v IRC klepetih."

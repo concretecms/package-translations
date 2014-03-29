@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Tornes Llume <l.lumex03.tornes@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-03-27 19:39+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-03-28 21:53+0000\n"
+"Last-Translator: Tornes Llume <l.lumex03.tornes@gmail.com>\n"
 "Language-Team: Asturian (Spain) (http://www.transifex.com/projects/p/concrete5-packages/language/ast_ES/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -203,19 +204,19 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:60
 msgid "All Pages"
-msgstr ""
+msgstr "Toles páxines"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:68
 msgid "Filter Pages"
-msgstr ""
+msgstr "Filtriar páxines"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:69
 msgid "By Name"
-msgstr ""
+msgstr "Pel nome"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:74
 msgid "Go"
-msgstr ""
+msgstr "Dir"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:130
 msgid "Re-Map"
