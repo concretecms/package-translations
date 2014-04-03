@@ -1,5 +1,5 @@
 {
-    "updated": 1396423823,
+    "updated": 1396510217,
     "packages": [
         {
             "handle": "addthis",
@@ -56,6 +56,13 @@
                     "perc": 100
                 },
                 "sl_SI": {
+                    "translated": 5,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 5,
+                    "perc": 100
+                },
+                "vi_VN": {
                     "translated": 5,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -796,6 +803,13 @@
                     "fuzzy": 0,
                     "total": 85,
                     "perc": 100
+                },
+                "vi_VN": {
+                    "translated": 15,
+                    "untranslated": 70,
+                    "fuzzy": 0,
+                    "total": 85,
+                    "perc": 17
                 },
                 "ast_ES": {
                     "translated": 4,
