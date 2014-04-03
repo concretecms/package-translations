@@ -1,12 +1,13 @@
 # 
 # Translators:
+# khuongdt <khuongdt@hotmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-03-25 08:45+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-04-03 07:13+0000\n"
+"Last-Translator: khuongdt <khuongdt@hotmail.com>\n"
 "Language-Team: Vietnamese (Viet Nam) (http://www.transifex.com/projects/p/concrete5-packages/language/vi_VN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,66 +19,66 @@ msgstr ""
 
 #: packages/multilingual/blocks/switch_language/controller.php:13
 msgid "Adds a front-end language switcher to your website."
-msgstr ""
+msgstr "Thêm chuyển đổi ngôn ngữ ở phía ngoài cho trang của bạn."
 
 #: packages/multilingual/blocks/switch_language/controller.php:17
 msgid "Switch Language"
-msgstr ""
+msgstr "Thay ngôn ngữ"
 
 #: packages/multilingual/blocks/switch_language/controller.php:25
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
 msgid "Choose Language"
-msgstr ""
+msgstr "Chọn ngôn ngữ"
 
 #: packages/multilingual/blocks/switch_language/form.php:3
 msgid "Label"
-msgstr ""
+msgstr "Nhãn"
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
 msgid "Remember my choice on this computer."
-msgstr ""
+msgstr "Ghi nhớ lựa chọn của tôi trên máy này."
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
 msgid "Save"
-msgstr ""
+msgstr "Lưu"
 
 #: packages/multilingual/controller.php:10
 msgid "Translate your site with this free multilingual solution."
-msgstr ""
+msgstr "Dịch trang của bạn với giải pháp đa ngôn ngữ miễn phí này."
 
 #: packages/multilingual/controller.php:14
 msgid "Internationalization"
-msgstr ""
+msgstr "Quốc tế"
 
 #: packages/multilingual/controller.php:80
 msgid "Multilingual Pages"
-msgstr ""
+msgstr "Các trang đa ngôn ngữ"
 
 #: packages/multilingual/controller.php:106
 msgid "Multilingual"
-msgstr ""
+msgstr "Đa ngôn ngữ"
 
 #: packages/multilingual/controller.php:106
 msgid "Translate your site."
-msgstr ""
+msgstr "Dịch trang của bạn."
 
 #: packages/multilingual/controller.php:111
 msgid "Setup"
-msgstr ""
+msgstr "Cài đặt"
 
 #: packages/multilingual/controller.php:116
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:5
 msgid "Page Report"
-msgstr ""
+msgstr "Trang báo cáo"
 
 #: packages/multilingual/controller.php:123
 #: packages/multilingual/controller.php:164
 msgid "Exclude from Internationalization Copy"
-msgstr ""
+msgstr "Loại khỏi bản sao quốc tế"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:84
 msgid "You cannot assign this page to itself."
-msgstr ""
+msgstr "Bạn không thể gán trang này cho chính nó."
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:104
 msgid ""
