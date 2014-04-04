@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Remo Laubacher <remo.laubacher@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2014-03-26 13:54+0000\n"
+"PO-Revision-Date: 2014-04-03 14:55+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -339,7 +340,7 @@ msgstr "Warnung"
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:7
 #, php-format
 msgid "You are about to delete the attribute \"%s\". There is no undo."
-msgstr ""
+msgstr "Wollen Sie das Attribut %s wirklich löschen? Dieser Vorgang kann nicht rückgängig gemacht werden!"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:11
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:50
@@ -431,7 +432,7 @@ msgstr "Attribut löschen"
 #: packages/data/single_pages/dashboard/data/management/delete.php:7
 #, php-format
 msgid "You are about to delete %s. There is no undo."
-msgstr ""
+msgstr "Wollen Sie %s wirklich löschen? Dieser Vorgang kann nicht rückgängig gemacht werden!"
 
 #: packages/data/single_pages/dashboard/data/management/view.php:10
 msgid "Value"

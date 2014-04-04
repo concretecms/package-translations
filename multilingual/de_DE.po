@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Remo Laubacher <remo.laubacher@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-03-25 08:47+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-04-03 14:55+0000\n"
+"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -178,7 +179,7 @@ msgstr "Die Datei %s kann nicht geöffnet werden"
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:149
 #, php-format
 msgid "Sitemap XML File Saved.(%d pages)"
-msgstr ""
+msgstr "Sitemap XML Datei gespeichert (%d Seiten)"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:152
 #, php-format
@@ -207,11 +208,11 @@ msgstr "Alle Seiten"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:68
 msgid "Filter Pages"
-msgstr ""
+msgstr "Seiten-Filter"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:69
 msgid "By Name"
-msgstr ""
+msgstr "nach Name"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:74
 msgid "Go"
@@ -376,14 +377,14 @@ msgstr "%s: Keine erstellt"
 #: packages/multilingual/blocks/switch_language/templates/flags
 msgctxt "TemplateFileName"
 msgid "Flags"
-msgstr ""
+msgstr "Flagge"
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default
 msgctxt "TemplateFileName"
 msgid "Flags Set Default"
-msgstr ""
+msgstr "Standard Flaggen"
 
 #: packages/multilingual/blocks/switch_language/templates/seo_flags
 msgctxt "TemplateFileName"
 msgid "Seo Flags"
-msgstr ""
+msgstr "SEO Flaggen"
