@@ -1,5 +1,5 @@
 {
-    "updated": 1396510217,
+    "updated": 1396596619,
     "packages": [
         {
             "handle": "addthis",
@@ -245,11 +245,11 @@
             "sourceURL": "https://github.com/mkly/Data/",
             "locales": {
                 "de_DE": {
-                    "translated": 81,
-                    "untranslated": 2,
+                    "translated": 83,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 83,
-                    "perc": 97
+                    "perc": 100
                 },
                 "it_IT": {
                     "translated": 83,
@@ -742,11 +742,11 @@
             "sourceURL": "https://github.com/concrete5/addon_internationalization",
             "locales": {
                 "de_DE": {
-                    "translated": 79,
-                    "untranslated": 6,
+                    "translated": 85,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 85,
-                    "perc": 92
+                    "perc": 100
                 },
                 "it_IT": {
                     "translated": 85,
