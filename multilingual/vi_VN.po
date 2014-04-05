@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-04-03 07:13+0000\n"
+"PO-Revision-Date: 2014-04-05 05:19+0000\n"
 "Last-Translator: khuongdt <khuongdt@hotmail.com>\n"
 "Language-Team: Vietnamese (Viet Nam) (http://www.transifex.com/projects/p/concrete5-packages/language/vi_VN/)\n"
 "MIME-Version: 1.0\n"
@@ -83,308 +83,308 @@ msgstr "Bạn không thể gán trang này cho chính nó."
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:104
 msgid ""
 "The destination page doesn't appear to be in a valid multilingual section."
-msgstr ""
+msgstr "Trang đến không được hiển đúng trong phần đa ngôn ngữ."
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:115
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:121
 msgid "Ignored"
-msgstr ""
+msgstr "Bỏ qua"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:154
 msgid "Insufficient permissions."
-msgstr ""
+msgstr "Thiếu quyền."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:18
 msgid "** Choose a Language"
-msgstr ""
+msgstr "** Chọn một Ngôn Ngữ"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:64
 msgid ""
 "You must have admin privileges on the destination page to perform this "
 "action."
-msgstr ""
+msgstr "Bạn phải có đặc quyền quản trị trên trang đích để thực hiện hành động này."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:67
 msgid "You cannot read the original page."
-msgstr ""
+msgstr "Bạn không thể đọc trang nguyên bản."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:116
 msgid "You must choose two separate, valid language sections."
-msgstr ""
+msgstr "Bạn phải chọn hai khu ngôn ngữ đúng và riêng biệt."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:162
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:42
 msgid "None"
-msgstr ""
+msgstr "Trống không"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:171
 msgid "Multilingual content enabled"
-msgstr ""
+msgstr "Bật nội dung đã ngữ."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:176
 msgid "Multilingual content updated"
-msgstr ""
+msgstr "Nội dung đã ngữ đã được cập nhật"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:181
 msgid "Multilingual tree copied."
-msgstr ""
+msgstr "Cây đa ngữ đã được sao chép"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:186
 msgid "Language section removed."
-msgstr ""
+msgstr "Khu ngôn ngữ đã xóa"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:191
 msgid "Default language settings updated."
-msgstr ""
+msgstr "Thiết lập ngôn ngữ mặc định đã cập nhật."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:206
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:223
 msgid "Invalid language section"
-msgstr ""
+msgstr "Khu ngôn ngữ không hợp lệ."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:234
 msgid "You must specify a page for this multilingual content section."
-msgstr ""
+msgstr "Bạn phải chỉ rõ một trang cho khu nội dung đa ngữ."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:242
 msgid "A language section page at this location already exists."
-msgstr ""
+msgstr "Trang của khu ngôn ngữ tại khu vực này đã tồn tại."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:251
 msgid "This language/region combination already exists."
-msgstr ""
+msgstr "Sự kết hợp ngôn ngữ/vùng này đã tồn tại."
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:9
 msgid "Generate multilingual sitemap.xml File"
-msgstr ""
+msgstr "Sinh ra tệp đa ngữ sitemap.xml."
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:14
 msgid ""
 "Generate the sitemap.xml file that search engines use to crawl your site "
 "with additional multilingual directives."
-msgstr ""
+msgstr "Sinh ra tệp sitemap.xml để các máy tìm kiếm sử dụng để lấy trang của bạn với các hướng dẫn đa ngữ bổ sung."
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:19
 msgid ""
 "This job is disabled because it may cause excessive load depending on the "
 "size of your site.  To enable this job, you must define the constant "
 "ENABLE_MULTILINGUAL_SITEMAPXML as true."
-msgstr ""
+msgstr "Việc này bị vô hiệu hóa bởi vì nó có thể gây ra quá tải tùy thuộc vào kích thước của trang web của bạn. Để kích hoạt công việc này, bạn phải xác định hằng số ENABLE_MULTILINGUAL_SITEMAPXML là TRUE."
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:56
 #, php-format
 msgid "Cannot open file %s"
-msgstr ""
+msgstr "Không thể mở tệp: %s"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:149
 #, php-format
 msgid "Sitemap XML File Saved.(%d pages)"
-msgstr ""
+msgstr "Tệp Sitemap XML đã được lưu. (%d trang)"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:152
 #, php-format
 msgid "The file %s is not writable"
-msgstr ""
+msgstr "Tệp %s là không được ghi"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:11
 msgid "Choose Source"
-msgstr ""
+msgstr "Chọn Nguồn"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:19
 msgid "Choose Targets"
-msgstr ""
+msgstr "Chọn Đích"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:46
 msgid "Display"
-msgstr ""
+msgstr "Hiển thị"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:54
 msgid "Only Missing Pages"
-msgstr ""
+msgstr "Chỉ các trang thiếu"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:60
 msgid "All Pages"
-msgstr ""
+msgstr "Tất cả trang"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:68
 msgid "Filter Pages"
-msgstr ""
+msgstr "Các trang lọc"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:69
 msgid "By Name"
-msgstr ""
+msgstr "Theo Tên"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:74
 msgid "Go"
-msgstr ""
+msgstr "Đi"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:130
 msgid "Re-Map"
-msgstr ""
+msgstr "Ánh xạ lại"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:132
 msgid "Map"
-msgstr ""
+msgstr "Bản đồ"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:138
 msgid "Create"
-msgstr ""
+msgstr "Tạo"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:142
 msgid "Ignore"
-msgstr ""
+msgstr "Bỏ qua"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:148
 msgid "Create the parent page first."
-msgstr ""
+msgstr "Tạo trang chứa trước."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:158
 msgid "No pages found."
-msgstr ""
+msgstr "Không tìm thấy trang nào."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:187
 msgid "Choose A Page"
-msgstr ""
+msgstr "Chọn Một Trang"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:210
 msgid "You have not defined any multilingual sections for your site yet."
-msgstr ""
+msgstr "Bạn chưa hề định nghĩa một khu đa ngữ nào cho trang của bạn."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:3
 msgid "Multilingual Content Setup"
-msgstr ""
+msgstr "Thết lập nội dung đa ngữ."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:5
 msgid "Content Sections"
-msgstr ""
+msgstr "Khu Nội Dung"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:12
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:13
 msgid "Language"
-msgstr ""
+msgstr "Ngôn ngữ"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:14
 msgid "Path"
-msgstr ""
+msgstr "Đường dẫn"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:30
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:120
 msgid "You have not created any multilingual content sections yet."
-msgstr ""
+msgstr "Bạn không hề tạo một khu nội dung đã ngữ nào."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:33
 msgid "Add a Language"
-msgstr ""
+msgstr "Thêm một ngôn ngữ"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:41
 msgid "Language Icon"
-msgstr ""
+msgstr "Biểu tượng ngôn ngữ"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:45
 msgid "Choose a Parent Page"
-msgstr ""
+msgstr "Chọn trang cha"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:54
 msgid "Add Content Section"
-msgstr ""
+msgstr "Thêm khu nội dung"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:78
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:135
 msgid "Copy Language Tree"
-msgstr ""
+msgstr "Sao chép cây ngôn ngữ"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:98
 msgid ""
 "Copy all pages from a language to another section. This will only copy pages"
 " that have not been associated. It will not replace or remove any pages from"
 " the destination section."
-msgstr ""
+msgstr "Sao toàn bộ các trong từ một ngôn ngữ đến một khu vực khác. Việc này sẽ sao chép các trang không được liên kết. Nó sẽ không thay thế hoặc loại bỏ bất kỳ trang nào từ khu vực đích đến."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:100
 msgid "Copy From"
-msgstr ""
+msgstr "Sao chép Từ "
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:105
 msgctxt "Destination"
 msgid "To"
-msgstr ""
+msgstr "Đến"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:113
 msgid "Copy Tree"
-msgstr ""
+msgstr "Sao chép Cây"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:118
 msgid "You must have more than one multilingual section to use this tool."
-msgstr ""
+msgstr "Bạn phải có  nhiều hơn một khu đa ngôn ngữ để sử dụng công cụ này."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:140
 msgid "You must choose two separate multilingual sections to copy from/to"
-msgstr ""
+msgstr "Bạn phải chọn hai khu đa ngữ riêng biệt để sao chép từ/đến"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:151
 msgid "Only the super user may copy language trees."
-msgstr ""
+msgstr "Chỉ có siêu người dùng mới có thể sao chép cây ngôn ngữ."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:153
 msgid ""
 "Since one of your multilingual sections is the home page, you may not "
 "duplicate your site tree using this tool. You must manually assign pages "
 "using the page report."
-msgstr ""
+msgstr "Từ một trong khu đao ngữ của bạn là trang chủ, bạn không thể nhân bản cây vị trí của bạn khi sử dụng công cụ này. Bạn phải gán thủ công các trang bằng việc sử dụng trang báo cáo."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:158
 msgid "** None Set"
-msgstr ""
+msgstr "**Không có tập hợp"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:170
 msgid "Multilingual Settings"
-msgstr ""
+msgstr "Thiết lập Đa ngữ"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:174
 msgid "Default Language"
-msgstr ""
+msgstr "Ngôn ngữ mặc định"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:186
 msgid "Attempt to use visitor's language based on their browser information."
-msgstr ""
+msgstr "Cố gắng sử dụng ngôn ngữ của khách dựa trên thông tin trình duyệt của họ."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:192
 msgid "Redirect home page to default language section."
-msgstr ""
+msgstr "Đổi hướng trang chủ đến khu ngôn ngữ mặc định."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:201
 msgid "Save Settings"
-msgstr ""
+msgstr "Lưu Thiết Lập"
 
 #: packages/multilingual/tools/switch_language_for_page.php:44
 #, php-format
 msgid "%s: %s"
-msgstr ""
+msgstr "%s. %s"
 
 #: packages/multilingual/tools/switch_language_for_page.php:47
 #, php-format
 msgid "Currently Viewing: %s"
-msgstr ""
+msgstr "Đang xem: %s"
 
 #: packages/multilingual/tools/switch_language_for_page.php:48
 #, php-format
 msgid "%s: None Created"
-msgstr ""
+msgstr "%s: Không tạo ra"
 
 #: packages/multilingual/blocks/switch_language/templates/flags
 msgctxt "TemplateFileName"
 msgid "Flags"
-msgstr ""
+msgstr "Cờ"
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default
 msgctxt "TemplateFileName"
 msgid "Flags Set Default"
-msgstr ""
+msgstr "Các cờ gán mặc định"
 
 #: packages/multilingual/blocks/switch_language/templates/seo_flags
 msgctxt "TemplateFileName"
 msgid "Seo Flags"
-msgstr ""
+msgstr "Cờ SEO"
