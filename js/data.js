@@ -1,5 +1,5 @@
 {
-    "updated": 1396630163,
+    "updated": 1396683020,
     "packages": [
         {
             "handle": "addthis",
@@ -245,6 +245,13 @@
             "sourceURL": "https://github.com/akodde/d3_block_wrapper",
             "locales": {
                 "it_IT": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 100
+                },
+                "el_GR": {
                     "translated": 13,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -826,11 +833,11 @@
                     "perc": 100
                 },
                 "vi_VN": {
-                    "translated": 15,
-                    "untranslated": 70,
+                    "translated": 85,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 85,
-                    "perc": 17
+                    "perc": 100
                 },
                 "ast_ES": {
                     "translated": 4,
