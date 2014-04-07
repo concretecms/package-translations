@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Ales Drinovec <ales.drinovec@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-04 14:07+0000\n"
-"PO-Revision-Date: 2014-04-04 14:31+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-04-06 07:48+0000\n"
+"Last-Translator: Ales Drinovec <ales.drinovec@gmail.com>\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,57 +19,57 @@ msgstr ""
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:18
 msgid "Meant to wrap blocks in an HTML-element"
-msgstr ""
+msgstr "Namenjeno za ovijanje blokov v HTML-elementu"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:22
 #: packages/d3_block_wrapper/controller.php:15
 msgid "Block Wrapper"
-msgstr ""
+msgstr "Ovojnica bloka"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:11
 msgid "Select template"
-msgstr ""
+msgstr "Označite predlogo"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:42
 msgid "Block Title (Optional)"
-msgstr ""
+msgstr "Naslov bloka (opcijsko)"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:53
 msgid "Extra CSS classes"
-msgstr ""
+msgstr "Extra CSS razredi"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:64
 msgid "Extra HTML attribute"
-msgstr ""
+msgstr "Extra HTML atribut"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:75
 msgid "Link to page"
-msgstr ""
+msgstr "Povezava na stran"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php:7
 msgid "Close Wrapper"
-msgstr ""
+msgstr "Zaključi ovojnico"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php:13
 msgid "Open Wrapper"
-msgstr ""
+msgstr "Začni ovojnico"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/view.php:4
 msgid ""
 "Please select a custom template for this block to either open or close the "
 "wrapper"
-msgstr ""
+msgstr "Za ta blok označite predlogo po izbiri, bodisi za začetek ali zaključek ovojnice."
 
 #: packages/d3_block_wrapper/controller.php:11
 msgid "Installs a block called 'Block Wrapper'"
-msgstr ""
+msgstr "Namesti blok 'Ovojnica blokov'"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php
 msgctxt "TemplateFileName"
 msgid "Close"
-msgstr ""
+msgstr "Zapri"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php
 msgctxt "TemplateFileName"
 msgid "Open"
-msgstr ""
+msgstr "Odpri"
