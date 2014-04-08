@@ -1,5 +1,5 @@
 {
-    "updated": 1396855819,
+    "updated": 1396942230,
     "packages": [
         {
             "handle": "addthis",
@@ -270,6 +270,27 @@
                     "untranslated": 0,
                     "fuzzy": 0,
                     "total": 13,
+                    "perc": 100
+                }
+            }
+        },
+        {
+            "handle": "d3-social-sharing",
+            "name": "Social Sharing",
+            "sourceURL": "https://github.com/akodde/d3_social_sharing",
+            "locales": {
+                "it_IT": {
+                    "translated": 11,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 11,
+                    "perc": 100
+                },
+                "el_GR": {
+                    "translated": 11,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 11,
                     "perc": 100
                 }
             }
