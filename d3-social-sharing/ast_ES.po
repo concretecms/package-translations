@@ -1,0 +1,61 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-07 08:39+0000\n"
+"PO-Revision-Date: 2014-04-07 09:28+0000\n"
+"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"Language-Team: Asturian (Spain) (http://www.transifex.com/projects/p/concrete5-packages/language/ast_ES/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ast_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:16
+msgid "Network"
+msgstr ""
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:23
+msgid "Maximum width"
+msgstr ""
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:32
+msgid "Icon Image"
+msgstr ""
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:33
+msgid "Choose file"
+msgstr ""
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:39
+msgid "CSS Classes"
+msgstr ""
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:46
+msgid "Tooltip"
+msgstr ""
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:52
+msgid "Show number of likes or tweets if available"
+msgstr ""
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/view.php:30
+msgid "No valid icon image has been selected"
+msgstr ""
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/view.php:35
+msgid "No icon image has been selected"
+msgstr ""
+
+#: packages/d3_social_sharing/controller.php:16
+msgid "Displays social sharing icons"
+msgstr ""
+
+#: packages/d3_social_sharing/controller.php:20
+msgid "Social Sharing"
+msgstr ""

@@ -1,0 +1,62 @@
+# 
+# Translators:
+# Vasilis Fotopoulos <basalba@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-07 08:39+0000\n"
+"PO-Revision-Date: 2014-04-07 17:45+0000\n"
+"Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
+"Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:16
+msgid "Network"
+msgstr "Δίκτυο "
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:23
+msgid "Maximum width"
+msgstr "Μέγιστο Πλάτος"
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:32
+msgid "Icon Image"
+msgstr "Eικονίδιο Εικόνας"
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:33
+msgid "Choose file"
+msgstr "Επιλέξτε αρχείο"
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:39
+msgid "CSS Classes"
+msgstr "CSS Κλάσεις "
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:46
+msgid "Tooltip"
+msgstr "Αναδυόμενη Συμβουλή"
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:52
+msgid "Show number of likes or tweets if available"
+msgstr "Εμφάνιση αριθμού των likes ή tweets εάν υπάρχουν"
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/view.php:30
+msgid "No valid icon image has been selected"
+msgstr "Επιλέχτηκε μη έγκυρο εικονίδιο εικόνας"
+
+#: packages/d3_social_sharing/blocks/d3_social_sharing/view.php:35
+msgid "No icon image has been selected"
+msgstr "Δεν έχει επιλεγεί εικονίδιο εικόνας"
+
+#: packages/d3_social_sharing/controller.php:16
+msgid "Displays social sharing icons"
+msgstr "Εμφανίζει εικονίδια κοινωνικής δικτύωσης"
+
+#: packages/d3_social_sharing/controller.php:20
+msgid "Social Sharing"
+msgstr "Κοινωνική Δικτύωση"
