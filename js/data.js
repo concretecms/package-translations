@@ -1,5 +1,5 @@
 {
-    "updated": 1396942230,
+    "updated": 1397027550,
     "packages": [
         {
             "handle": "addthis",
@@ -244,6 +244,13 @@
             "name": "Block Wrapper",
             "sourceURL": "https://github.com/akodde/d3_block_wrapper",
             "locales": {
+                "de_DE": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 100
+                },
                 "it_IT": {
                     "translated": 13,
                     "untranslated": 0,
@@ -279,6 +286,13 @@
             "name": "Social Sharing",
             "sourceURL": "https://github.com/akodde/d3_social_sharing",
             "locales": {
+                "de_DE": {
+                    "translated": 11,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 11,
+                    "perc": 100
+                },
                 "it_IT": {
                     "translated": 11,
                     "untranslated": 0,
@@ -287,6 +301,20 @@
                     "perc": 100
                 },
                 "el_GR": {
+                    "translated": 11,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 11,
+                    "perc": 100
+                },
+                "fr_FR": {
+                    "translated": 11,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 11,
+                    "perc": 100
+                },
+                "vi_VN": {
                     "translated": 11,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -448,11 +476,11 @@
             "sourceURL": "https://github.com/concrete5/addon_gallery",
             "locales": {
                 "de_DE": {
-                    "translated": 30,
-                    "untranslated": 1,
+                    "translated": 31,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 31,
-                    "perc": 96
+                    "perc": 100
                 },
                 "it_IT": {
                     "translated": 31,
@@ -532,11 +560,11 @@
             "sourceURL": "https://github.com/concrete5/addon_image_slider",
             "locales": {
                 "de_DE": {
-                    "translated": 15,
-                    "untranslated": 23,
+                    "translated": 38,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 39
+                    "perc": 100
                 },
                 "it_IT": {
                     "translated": 38,
@@ -1225,81 +1253,81 @@
             "sourceURL": "https://github.com/Remo/concrete5-zoom-image",
             "locales": {
                 "de_DE": {
-                    "translated": 10,
+                    "translated": 11,
                     "untranslated": 0,
                     "fuzzy": 0,
-                    "total": 10,
+                    "total": 11,
                     "perc": 100
                 },
                 "it_IT": {
-                    "translated": 10,
+                    "translated": 11,
                     "untranslated": 0,
                     "fuzzy": 0,
-                    "total": 10,
+                    "total": 11,
                     "perc": 100
                 },
                 "lt_LT": {
-                    "translated": 4,
-                    "untranslated": 6,
+                    "translated": 3,
+                    "untranslated": 8,
                     "fuzzy": 0,
-                    "total": 10,
-                    "perc": 40
+                    "total": 11,
+                    "perc": 27
                 },
                 "sv_SE": {
-                    "translated": 10,
-                    "untranslated": 0,
+                    "translated": 9,
+                    "untranslated": 2,
                     "fuzzy": 0,
-                    "total": 10,
-                    "perc": 100
+                    "total": 11,
+                    "perc": 81
                 },
                 "el_GR": {
-                    "translated": 10,
+                    "translated": 11,
                     "untranslated": 0,
                     "fuzzy": 0,
-                    "total": 10,
+                    "total": 11,
                     "perc": 100
                 },
                 "fi_FI": {
-                    "translated": 10,
-                    "untranslated": 0,
+                    "translated": 9,
+                    "untranslated": 2,
                     "fuzzy": 0,
-                    "total": 10,
-                    "perc": 100
+                    "total": 11,
+                    "perc": 81
                 },
                 "fr_FR": {
-                    "translated": 10,
-                    "untranslated": 0,
+                    "translated": 9,
+                    "untranslated": 2,
                     "fuzzy": 0,
-                    "total": 10,
-                    "perc": 100
+                    "total": 11,
+                    "perc": 81
                 },
                 "nl_NL": {
-                    "translated": 10,
-                    "untranslated": 0,
+                    "translated": 9,
+                    "untranslated": 2,
                     "fuzzy": 0,
-                    "total": 10,
-                    "perc": 100
+                    "total": 11,
+                    "perc": 81
                 },
                 "ru_RU": {
-                    "translated": 10,
-                    "untranslated": 0,
+                    "translated": 9,
+                    "untranslated": 2,
                     "fuzzy": 0,
-                    "total": 10,
-                    "perc": 100
+                    "total": 11,
+                    "perc": 81
                 },
                 "sl_SI": {
-                    "translated": 10,
-                    "untranslated": 0,
+                    "translated": 9,
+                    "untranslated": 2,
                     "fuzzy": 0,
-                    "total": 10,
-                    "perc": 100
+                    "total": 11,
+                    "perc": 81
                 },
                 "zh_TW": {
-                    "translated": 10,
-                    "untranslated": 0,
+                    "translated": 9,
+                    "untranslated": 2,
                     "fuzzy": 0,
-                    "total": 10,
-                    "perc": 100
+                    "total": 11,
+                    "perc": 81
                 }
             }
         }
