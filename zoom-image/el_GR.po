@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-07 12:32+0000\n"
-"PO-Revision-Date: 2014-04-08 10:17+0000\n"
+"POT-Creation-Date: 2014-04-08 19:44+0000\n"
+"PO-Revision-Date: 2014-04-09 07:19+0000\n"
 "Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -63,3 +63,7 @@ msgstr "Επιλογές"
 #: packages/zoom_image/blocks/zoom_image/form.php:28
 msgid "Hide original image when zoomed"
 msgstr "Απόκρυψη αρχικής εικόνας όταν γίνετε μεγέθυνση "
+
+#: packages/zoom_image/blocks/zoom_image/form.php:32
+msgid "Limit max zoom to window size"
+msgstr "Περιορισμός μέγιστης μεγέθυνσης στα όρια του παράθυρου"
