@@ -1,14 +1,12 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# Remo Laubacher <remo.laubacher@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-07 21:04+0100\n"
-"PO-Revision-Date: 2014-03-17 12:40+0000\n"
+"POT-Creation-Date: 2014-04-07 12:32+0000\n"
+"PO-Revision-Date: 2014-04-08 11:42+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -16,50 +14,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.6.4\n"
-"X-Poedit-Basepath: C:\\Users\\Remo Laubacher\\Documents\\SubVersion\\concrete5-zoom-image\\zoom_image\n"
-"X-Poedit-KeywordsList: t\n"
-"X-Poedit-SearchPath-0: .\n"
-"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
-#: controller.php:3 blocks/zoom_image/add.php:3
-#: blocks/zoom_image/controller.php:4 blocks/zoom_image/edit.php:2
-#: blocks/zoom_image/view.php:2
-msgid "Access Denied."
-msgstr "Zugriff verweigert."
-
-#: controller.php:12 blocks/zoom_image/controller.php:15
+#: packages/zoom_image/blocks/zoom_image/controller.php:17
+#: packages/zoom_image/controller.php:12
 msgid "Adds images and onstates from the library to pages."
 msgstr "Bilder von der Bibliothek hinzufügen."
 
-#: controller.php:16 blocks/zoom_image/controller.php:19
+#: packages/zoom_image/blocks/zoom_image/controller.php:21
+#: packages/zoom_image/controller.php:16
 msgid "Zoom Image"
 msgstr "Zoom Image"
 
-#: blocks/zoom_image/controller.php:24
+#: packages/zoom_image/blocks/zoom_image/controller.php:26
 msgid "You must select an image."
 msgstr "Bild muss ausgewählt werden."
 
-#: blocks/zoom_image/form.php:2
+#: packages/zoom_image/blocks/zoom_image/form.php:2
 msgid "Image"
 msgstr "Bild"
 
-#: blocks/zoom_image/form.php:3
+#: packages/zoom_image/blocks/zoom_image/form.php:3
 msgid "Choose Image"
 msgstr "Bild auswählen"
 
-#: blocks/zoom_image/form.php:7
+#: packages/zoom_image/blocks/zoom_image/form.php:7
 msgid "Alt Text"
 msgstr "Alternativtext"
 
-#: blocks/zoom_image/form.php:10
+#: packages/zoom_image/blocks/zoom_image/form.php:10
 msgid "Display as sub title"
 msgstr "Als Untertitel anzeigen"
 
-#: blocks/zoom_image/form.php:15
+#: packages/zoom_image/blocks/zoom_image/form.php:15
 msgid "Max Thumbnail Width"
 msgstr "Maximale Vorschaubildbreite"
 
-#: blocks/zoom_image/form.php:20
+#: packages/zoom_image/blocks/zoom_image/form.php:20
 msgid "Max Thumbnail Height"
 msgstr "Maximale Vorschaubildhöhe"
+
+#: packages/zoom_image/blocks/zoom_image/form.php:25
+msgid "Options"
+msgstr "Optionen"
+
+#: packages/zoom_image/blocks/zoom_image/form.php:28
+msgid "Hide original image when zoomed"
+msgstr "Originalbild ausblenden wenn geöffnet"
