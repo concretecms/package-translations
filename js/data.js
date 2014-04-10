@@ -1,5 +1,5 @@
 {
-    "updated": 1397028624,
+    "updated": 1397115024,
     "packages": [
         {
             "handle": "addthis",
@@ -1253,11 +1253,11 @@
             "sourceURL": "https://github.com/Remo/concrete5-zoom-image",
             "locales": {
                 "de_DE": {
-                    "translated": 11,
-                    "untranslated": 1,
+                    "translated": 12,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 12,
-                    "perc": 91
+                    "perc": 100
                 },
                 "it_IT": {
                     "translated": 12,
