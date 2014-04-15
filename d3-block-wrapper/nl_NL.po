@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-04 14:07+0000\n"
-"PO-Revision-Date: 2014-04-04 14:31+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-04-15 06:39+0000\n"
+"Last-Translator: Pam Banis\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,16 +18,16 @@ msgstr ""
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:18
 msgid "Meant to wrap blocks in an HTML-element"
-msgstr "Bedoeld om andere blokken of elementen te 'wraken'"
+msgstr "Bedoeld om te laten teruglopen van blokken in een HTML-element"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:22
 #: packages/d3_block_wrapper/controller.php:15
 msgid "Block Wrapper"
-msgstr "Block Wrapper"
+msgstr "Blok Wrapper"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:11
 msgid "Select template"
-msgstr "Selecteer template"
+msgstr "Selecteer sjabloon"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:42
 msgid "Block Title (Optional)"
@@ -35,11 +35,11 @@ msgstr "Blok titel (optioneel)"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:53
 msgid "Extra CSS classes"
-msgstr "Extra CSS classes"
+msgstr "Extra CSS-klassen"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:64
 msgid "Extra HTML attribute"
-msgstr "Extra HTML attribuut"
+msgstr "Extra HTML-kenmerk"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:75
 msgid "Link to page"
@@ -47,28 +47,28 @@ msgstr "Link naar pagina"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php:7
 msgid "Close Wrapper"
-msgstr "Sluit Blok"
+msgstr "Sluit Wrapper"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php:13
 msgid "Open Wrapper"
-msgstr "Open Blok"
+msgstr "Open Wrapper"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/view.php:4
 msgid ""
 "Please select a custom template for this block to either open or close the "
 "wrapper"
-msgstr "Selecteer een template om het blok te openen of te sluiten"
+msgstr "Selecteer een aangepaste template voor dit blok te openen of te sluiten de wrapper"
 
 #: packages/d3_block_wrapper/controller.php:11
 msgid "Installs a block called 'Block Wrapper'"
-msgstr "Installeert een blok genaamd 'Block Wrapper'"
+msgstr "Installeert een blok genaamd 'Blok Wrapper'"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php
 msgctxt "TemplateFileName"
 msgid "Close"
-msgstr ""
+msgstr "Sluiten"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php
 msgctxt "TemplateFileName"
 msgid "Open"
-msgstr ""
+msgstr "Open"

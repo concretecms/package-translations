@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-07 08:39+0000\n"
-"PO-Revision-Date: 2014-04-07 09:28+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-04-15 06:44+0000\n"
+"Last-Translator: Pam Banis\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,44 +18,44 @@ msgstr ""
 
 #: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:16
 msgid "Network"
-msgstr ""
+msgstr "Netwerk"
 
 #: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:23
 msgid "Maximum width"
-msgstr ""
+msgstr "Maximale breedte"
 
 #: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:32
 msgid "Icon Image"
-msgstr ""
+msgstr "Pictogramafbeelding"
 
 #: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:33
 msgid "Choose file"
-msgstr ""
+msgstr "Kies bestand"
 
 #: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:39
 msgid "CSS Classes"
-msgstr ""
+msgstr "CSS-klassen"
 
 #: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:46
 msgid "Tooltip"
-msgstr ""
+msgstr "Tooltip"
 
 #: packages/d3_social_sharing/blocks/d3_social_sharing/edit.php:52
 msgid "Show number of likes or tweets if available"
-msgstr ""
+msgstr "Toon likes of tweets indien beschikbaar"
 
 #: packages/d3_social_sharing/blocks/d3_social_sharing/view.php:30
 msgid "No valid icon image has been selected"
-msgstr ""
+msgstr "Geen geldige pictogramafbeelding is geselecteerd"
 
 #: packages/d3_social_sharing/blocks/d3_social_sharing/view.php:35
 msgid "No icon image has been selected"
-msgstr ""
+msgstr "Er is  geen pictogramafbeelding geselecteerd"
 
 #: packages/d3_social_sharing/controller.php:16
 msgid "Displays social sharing icons"
-msgstr ""
+msgstr "Toon  social delen pictogrammen"
 
 #: packages/d3_social_sharing/controller.php:20
 msgid "Social Sharing"
-msgstr ""
+msgstr "Sociale delen"
