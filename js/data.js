@@ -1,5 +1,5 @@
 {
-    "updated": 1397806219,
+    "updated": 1397850180,
     "packages": [
         {
             "handle": "addthis",
@@ -236,6 +236,20 @@
                     "fuzzy": 0,
                     "total": 8,
                     "perc": 100
+                }
+            }
+        },
+        {
+            "handle": "cu3er",
+            "name": "Cu3er Slideshow",
+            "sourceURL": "http://www.concrete5.org/download_file/-/49820/0/",
+            "locales": {
+                "it_IT": {
+                    "translated": 30,
+                    "untranslated": 8,
+                    "fuzzy": 0,
+                    "total": 38,
+                    "perc": 78
                 }
             }
         },
@@ -690,6 +704,34 @@
                     "untranslated": 0,
                     "fuzzy": 0,
                     "total": 39,
+                    "perc": 100
+                }
+            }
+        },
+        {
+            "handle": "jb-google-adsense-free",
+            "name": "Google AdSense FREE",
+            "sourceURL": "http://www.concrete5.org/download_file/-/59452/0/",
+            "locales": {
+                "it_IT": {
+                    "translated": 8,
+                    "untranslated": 11,
+                    "fuzzy": 0,
+                    "total": 19,
+                    "perc": 42
+                }
+            }
+        },
+        {
+            "handle": "jb-youtubebackground-free",
+            "name": "YouTube Background FREE",
+            "sourceURL": "http://www.concrete5.org/download_file/-/61116/0/",
+            "locales": {
+                "it_IT": {
+                    "translated": 6,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 6,
                     "perc": 100
                 }
             }
