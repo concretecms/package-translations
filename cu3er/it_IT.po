@@ -1,0 +1,177 @@
+# 
+# Translators:
+# Michele Locati <michele@locati.it>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-18 19:27+0000\n"
+"PO-Revision-Date: 2014-04-18 19:39+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/cu3er/blocks/cu3er/controller.php:34
+msgid "Display a Flash-based slideshow with 3D transitions."
+msgstr "Mostra una presentazione basata su Flash con transizioni 3D"
+
+#: packages/cu3er/blocks/cu3er/controller.php:38
+#: packages/cu3er/controller.php:18
+msgid "Cu3er Slideshow"
+msgstr "Presentazione Cu3er"
+
+#: packages/cu3er/blocks/cu3er/controller.php:43
+msgid "Choose Image/File"
+msgstr "Seleziona immagine/file"
+
+#: packages/cu3er/blocks/cu3er/controller.php:44
+msgid "Please choose at least two images."
+msgstr "Selezionare almeno due immagini"
+
+#: packages/cu3er/blocks/cu3er/controller.php:45
+msgid "Please choose a file set."
+msgstr "Selezionare un set di file"
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:5
+#: packages/cu3er/blocks/cu3er/image_row_include.php:12
+msgid "Duration"
+msgstr "Durata"
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:7
+#: packages/cu3er/blocks/cu3er/image_row_include.php:14
+msgid "Number of Slices"
+msgstr ""
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:9
+#: packages/cu3er/blocks/cu3er/image_row_include.php:16
+msgid "Slice"
+msgstr ""
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:10
+msgid "Vertical"
+msgstr "Verticale"
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:11
+msgid "Horizontal"
+msgstr "Orizzontale"
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:14
+#: packages/cu3er/blocks/cu3er/image_row_include.php:21
+msgid "Direction"
+msgstr "Direzione"
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:16
+msgid "Left"
+msgstr "Sinistra"
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:17
+msgid "Right"
+msgstr "Destra"
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:18
+msgid "Up"
+msgstr "Su"
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:19
+msgid "Down"
+msgstr "Giù"
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:21
+#: packages/cu3er/blocks/cu3er/image_row_include.php:28
+msgid "Shader"
+msgstr ""
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:23
+msgid "None"
+msgstr "Nessuno"
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:24
+msgid "Flat"
+msgstr "Piatto"
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:25
+msgid "Phong"
+msgstr ""
+
+#: packages/cu3er/blocks/cu3er/fileset_row_include.php:28
+#: packages/cu3er/blocks/cu3er/image_row_include.php:34
+msgid "Z Multiplier"
+msgstr "Moltiplicatore Z"
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:34
+msgid "Type"
+msgstr "Tipo"
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:36
+msgid "Custom Slideshow"
+msgstr "Presentazione personalizzata"
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:37
+msgid "Pictures from File Set"
+msgstr "Immagini da set di file"
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:41
+msgid "Playback"
+msgstr ""
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:43
+msgid "Display Order"
+msgstr "Ordine di visualizzazione"
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:44
+msgid "Random (But keep sets together)"
+msgstr "Casuale (ma mantieni uniti i set)"
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:45
+msgid "Completely Random"
+msgstr "Completamente casuale"
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:51
+msgid "Width/Height (px)"
+msgstr "Larghezza/altezza (px)"
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:56
+msgid "Cube Colour"
+msgstr "Colore cubo"
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:62
+msgid "Hide Nav Buttons"
+msgstr "Nascondi pulsanti nav"
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:66
+msgid "Duration Before Transition"
+msgstr "Durata tra transizioni"
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:72
+msgid "Select Fallback Image"
+msgstr ""
+
+#: packages/cu3er/blocks/cu3er/form_setup_html.php:83
+msgid "Add Image"
+msgstr "Aggiungi immagine"
+
+#: packages/cu3er/blocks/cu3er/image_row_include.php:33
+msgid "Delay"
+msgstr ""
+
+#: packages/cu3er/blocks/cu3er/image_row_include.php:37
+msgid "Link URL (optional)"
+msgstr ""
+
+#: packages/cu3er/blocks/cu3er/image_row_include.php:39
+msgid "Caption Heading"
+msgstr "Intestazione didascalia"
+
+#: packages/cu3er/blocks/cu3er/image_row_include.php:41
+msgid "Caption Body"
+msgstr "Corpo didascalia"
+
+#: packages/cu3er/controller.php:22
+msgid "Converts static images into 3D Flash-based slideshow"
+msgstr "Converte immagini statiche in una presentazione 3D basata su Flash"
