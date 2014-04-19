@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2014-04-18 19:39+0000\n"
+"PO-Revision-Date: 2014-04-18 20:00+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
@@ -46,12 +46,12 @@ msgstr "Durata"
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:7
 #: packages/cu3er/blocks/cu3er/image_row_include.php:14
 msgid "Number of Slices"
-msgstr ""
+msgstr "Numero di fette"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:9
 #: packages/cu3er/blocks/cu3er/image_row_include.php:16
 msgid "Slice"
-msgstr ""
+msgstr "Fetta"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:10
 msgid "Vertical"
@@ -85,7 +85,7 @@ msgstr "Giù"
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:21
 #: packages/cu3er/blocks/cu3er/image_row_include.php:28
 msgid "Shader"
-msgstr ""
+msgstr "Shader"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:23
 msgid "None"
@@ -97,7 +97,7 @@ msgstr "Piatto"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:25
 msgid "Phong"
-msgstr ""
+msgstr "Phong"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:28
 #: packages/cu3er/blocks/cu3er/image_row_include.php:34
@@ -118,7 +118,7 @@ msgstr "Immagini da set di file"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:41
 msgid "Playback"
-msgstr ""
+msgstr "Riproduzione"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:43
 msgid "Display Order"
@@ -150,7 +150,7 @@ msgstr "Durata tra transizioni"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:72
 msgid "Select Fallback Image"
-msgstr ""
+msgstr "Seleziona immagine di ripiego"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:83
 msgid "Add Image"
@@ -158,11 +158,11 @@ msgstr "Aggiungi immagine"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:33
 msgid "Delay"
-msgstr ""
+msgstr "Ritardo"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:37
 msgid "Link URL (optional)"
-msgstr ""
+msgstr "URL collegamento (opzionale)"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:39
 msgid "Caption Heading"

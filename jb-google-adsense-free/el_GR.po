@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Vasilis Fotopoulos <basalba@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:28+0000\n"
-"PO-Revision-Date: 2014-04-18 19:31+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-04-19 05:10+0000\n"
+"Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,24 +19,24 @@ msgstr ""
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/controller.php:15
 msgid "Adds Google Ads anywhere you want."
-msgstr ""
+msgstr "Προσθέτει Google Ads οπουδήποτε θέλετε."
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/controller.php:19
 #: packages/jb_google_adsense_free/controller.php:16
 msgid "Google AdSense FREE"
-msgstr ""
+msgstr "Google AdSense FREE"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/controller.php:24
 msgid "Please enter Publisher ID."
-msgstr ""
+msgstr "Παρακαλούμε, εισάγετε Publisher ID Αναγνωριστικό εκδότη."
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/controller.php:25
 msgid "Please select Ad Layout."
-msgstr ""
+msgstr "Παρακαλώ επιλέξτε Layout διαφήμισης."
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:8
 msgid "Ad Details"
-msgstr ""
+msgstr "Στοιχεία Καταχώρησης"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:9
 msgid "Style"

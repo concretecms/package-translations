@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:28+0000\n"
-"PO-Revision-Date: 2014-04-18 19:40+0000\n"
+"PO-Revision-Date: 2014-04-18 20:07+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
@@ -19,24 +19,24 @@ msgstr ""
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/controller.php:15
 msgid "Adds Google Ads anywhere you want."
-msgstr ""
+msgstr "Aggiunge annunci di Google ovunque tu voglia."
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/controller.php:19
 #: packages/jb_google_adsense_free/controller.php:16
 msgid "Google AdSense FREE"
-msgstr ""
+msgstr "Google AdSense GRATIS"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/controller.php:24
 msgid "Please enter Publisher ID."
-msgstr ""
+msgstr "Inserire l’ID publisher"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/controller.php:25
 msgid "Please select Ad Layout."
-msgstr ""
+msgstr "Selezionare il layout dell’annuncio"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:8
 msgid "Ad Details"
-msgstr ""
+msgstr "Dettagli dell’annuncio"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:9
 msgid "Style"
@@ -44,23 +44,23 @@ msgstr "Stile"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:17
 msgid "Ad Publisher ID"
-msgstr ""
+msgstr "ID publisher degli annunci"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:25
 msgid "Ad Channel ID"
-msgstr ""
+msgstr "ID canale degli annunci"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:32
 msgid "Ad Type"
-msgstr ""
+msgstr "Tipo di annuncio"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:44
 msgid "Ad Layout"
-msgstr ""
+msgstr "Layout dell’annuncio"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:49
 msgid "Backup ads from another URL"
-msgstr ""
+msgstr "Backup degli annunci da un altro URL"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:51
 msgid "Example: http://www.mysite.com/ad.html"
@@ -92,4 +92,4 @@ msgstr "Colore URL"
 
 #: packages/jb_google_adsense_free/controller.php:12
 msgid "Add Google ads anywhere you want."
-msgstr ""
+msgstr "Aggiungi annunci di Google ovunque tu voglia."
