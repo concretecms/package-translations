@@ -1,5 +1,5 @@
 {
-    "updated": 1397850180,
+    "updated": 1397892622,
     "packages": [
         {
             "handle": "addthis",
@@ -245,11 +245,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/49820/0/",
             "locales": {
                 "it_IT": {
-                    "translated": 30,
-                    "untranslated": 8,
+                    "translated": 38,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 78
+                    "perc": 100
                 }
             }
         },
@@ -714,11 +714,18 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/59452/0/",
             "locales": {
                 "it_IT": {
-                    "translated": 8,
-                    "untranslated": 11,
+                    "translated": 19,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 42
+                    "perc": 100
+                },
+                "el_GR": {
+                    "translated": 5,
+                    "untranslated": 14,
+                    "fuzzy": 0,
+                    "total": 19,
+                    "perc": 26
                 }
             }
         },
