@@ -1,5 +1,5 @@
 {
-    "updated": 1397892622,
+    "updated": 1397979035,
     "packages": [
         {
             "handle": "addthis",
@@ -84,6 +84,11 @@
                     "perc": 100
                 }
             }
+        },
+        {
+            "handle": "automatic-email-obfuscator",
+            "name": "Automatic Email Obfuscator",
+            "sourceURL": "http://www.concrete5.org/download_file/-/39975/0/"
         },
         {
             "handle": "constants-driller",
@@ -429,6 +434,20 @@
             }
         },
         {
+            "handle": "db-case-sensitivity",
+            "name": "Database Case Sensitivity Migration (MySQL)",
+            "sourceURL": "http://www.concrete5.org/download_file/-/35853/0/",
+            "locales": {
+                "ja_JP": {
+                    "translated": 22,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 22,
+                    "perc": 100
+                }
+            }
+        },
+        {
             "handle": "files-cleaner",
             "name": "Files Cleaner",
             "sourceURL": "https://github.com/mlocati/concrete5-files-cleaner",
@@ -490,6 +509,11 @@
                     "perc": 100
                 }
             }
+        },
+        {
+            "handle": "free-cookies-disclosure",
+            "name": "Free Cookies Disclosure",
+            "sourceURL": "http://www.concrete5.org/download_file/-/60201/0/"
         },
         {
             "handle": "gallery",
@@ -1120,6 +1144,13 @@
                     "perc": 100
                 },
                 "sl_SI": {
+                    "translated": 32,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 32,
+                    "perc": 100
+                },
+                "ja_JP": {
                     "translated": 32,
                     "untranslated": 0,
                     "fuzzy": 0,
