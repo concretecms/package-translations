@@ -1,0 +1,212 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-19 13:06+0000\n"
+"PO-Revision-Date: 2014-04-19 13:11+0000\n"
+"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"Language-Team: Persian (Iran) (http://www.transifex.com/projects/p/concrete5-packages/language/fa_IR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:11
+msgid "User action form for cookies disclosure."
+msgstr ""
+
+#: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:15
+msgid "Cookies Disclosure Form"
+msgstr ""
+
+#: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:21
+#: packages/free_cookies_disclosure/elements/cookies_disclosure.php:27
+msgid "I accept cookies from this site"
+msgstr ""
+
+#: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:22
+#: packages/free_cookies_disclosure/elements/cookies_disclosure.php:28
+msgid "Allow Cookies"
+msgstr ""
+
+#: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:6
+msgid "Options"
+msgstr ""
+
+#: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:10
+msgid "Show Checkbox"
+msgstr ""
+
+#: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:11
+msgid "AJAX Submit"
+msgstr ""
+
+#: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:17
+msgid "Accept Text"
+msgstr ""
+
+#: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:20
+msgid "Leave empty if you don't want to show this"
+msgstr ""
+
+#: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:26
+msgid "Button Text"
+msgstr ""
+
+#: packages/free_cookies_disclosure/controller.php:11
+msgid "Free Cookies Disclosure"
+msgstr ""
+
+#: packages/free_cookies_disclosure/controller.php:15
+msgid "Notify your users about EU Cookie Law."
+msgstr ""
+
+#: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:16
+msgid "Dark"
+msgstr ""
+
+#: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:16
+msgid "Light"
+msgstr ""
+
+#: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:23
+msgid "Custom"
+msgstr ""
+
+#: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:47
+msgid "Hide interval must be greater than zero!"
+msgstr ""
+
+#: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:65
+msgid "Cookies disclosure settings saved."
+msgstr ""
+
+#: packages/free_cookies_disclosure/elements/cookies_disclosure.php:21
+msgid ""
+"This site uses cookies. Some of the cookies we use are essential for parts "
+"of the site to operate and have already been set. You may delete and block "
+"all cookies from this site, but parts of the site will not work."
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:5
+msgid "Cookies Disclosure Settings"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:9
+msgid "Display Settings"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:11
+msgid "Alignment"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:13
+msgid "Top of the Page"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:13
+msgid "Bottom of the Page"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:17
+msgid "Color Profile"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:25
+msgid "CSS Suffix for Color Profile"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:28
+msgid ""
+"CSS file named cookies_disclosure_SUFFIX.css will be loaded from your "
+"{root}/css directory."
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:34
+msgid "Hide Interval"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:37
+msgid "In seconds (leave empty if you don't want to hide the notification)"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:42
+msgid "Debug"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:46
+msgid "Enable Debug Mode"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:49
+msgid ""
+"When debug mode is enabled, the notification is visible although user "
+"would've already allowed cookies."
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:50
+msgid "This is handy when styling the debug notification box for your theme."
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:56
+msgid "Customize Notification Content"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:58
+msgid "Cookies Disclosure - LANG"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:58
+#, php-format
+msgid ""
+"If you want to customize the notification message, just create a stack for "
+"each language named: \"%s\" and add your content there."
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:59
+msgid ""
+"Replace the \"LANG\" with the 2-letter language code in uppercase you want "
+"to show the notification to."
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:60
+msgid ""
+"For example, if you're running your site in English and Finnish, create the "
+"following stacks:"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:62
+msgid "Cookies Disclosure - EN"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:63
+msgid "Cookies Disclosure - FI"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:66
+msgid "Cookies Disclosure"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:66
+#, php-format
+msgid ""
+"If you want to customize the notification message, just create a stack named"
+" \"%s\" and add your content there."
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:68
+msgid "Go to Stacks &raquo;"
+msgstr ""
+
+#: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:72
+msgid "Save"
+msgstr ""
+
+#: packages/free_cookies_disclosure/tools/disclosure_i18n_js.php:4
+msgid "You need to allow cookies for this site!"
+msgstr ""
