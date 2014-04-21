@@ -1,5 +1,5 @@
 {
-    "updated": 1397979035,
+    "updated": 1398065423,
     "packages": [
         {
             "handle": "addthis",
@@ -438,6 +438,13 @@
             "name": "Database Case Sensitivity Migration (MySQL)",
             "sourceURL": "http://www.concrete5.org/download_file/-/35853/0/",
             "locales": {
+                "el_GR": {
+                    "translated": 4,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 22,
+                    "perc": 18
+                },
                 "ja_JP": {
                     "translated": 22,
                     "untranslated": 0,
@@ -513,7 +520,16 @@
         {
             "handle": "free-cookies-disclosure",
             "name": "Free Cookies Disclosure",
-            "sourceURL": "http://www.concrete5.org/download_file/-/60201/0/"
+            "sourceURL": "http://www.concrete5.org/download_file/-/60201/0/",
+            "locales": {
+                "el_GR": {
+                    "translated": 25,
+                    "untranslated": 19,
+                    "fuzzy": 0,
+                    "total": 44,
+                    "perc": 56
+                }
+            }
         },
         {
             "handle": "gallery",
@@ -759,6 +775,13 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/61116/0/",
             "locales": {
                 "it_IT": {
+                    "translated": 6,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 6,
+                    "perc": 100
+                },
+                "el_GR": {
                     "translated": 6,
                     "untranslated": 0,
                     "fuzzy": 0,
