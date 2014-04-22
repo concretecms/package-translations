@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:30+0100\n"
-"PO-Revision-Date: 2014-03-25 15:30+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Vietnamese (Viet Nam) (http://www.transifex.com/projects/p/concrete5-packages/language/vi_VN/)\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Truy cập bị từ chối."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:12
 msgid ""
@@ -36,7 +36,7 @@ msgstr ""
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:6
 msgid "Files"
-msgstr ""
+msgstr "Tệp"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:8
 msgid "Download all file manager files."
@@ -45,7 +45,7 @@ msgstr ""
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:11
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:20
 msgid "Back"
-msgstr ""
+msgstr "Quay lại"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:16
 msgid "Data"
@@ -62,7 +62,7 @@ msgstr ""
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:27
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:35
 msgid "Go"
-msgstr ""
+msgstr "Đi"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:32
 msgid "Generate content.xml from current website."

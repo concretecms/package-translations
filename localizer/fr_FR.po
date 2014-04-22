@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-05 12:51+0000\n"
-"PO-Revision-Date: 2014-03-24 19:40+0000\n"
+"PO-Revision-Date: 2014-04-21 14:13+0000\n"
 "Last-Translator: appliculture <mikhael.minisini@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -136,7 +136,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:111
 msgid "Page"
-msgstr ""
+msgstr "Page"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:114
 msgid "Single page"
@@ -144,7 +144,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:117
 msgid "Stack"
-msgstr ""
+msgstr "Pile"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:120
 msgid "Composer page"
@@ -152,7 +152,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:123
 msgid "User"
-msgstr ""
+msgstr "Utilisateur"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:126
 msgid "File set"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:129
 msgid "File"
-msgstr ""
+msgstr "Fichier"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:132
 msgid "Area"
@@ -307,4 +307,4 @@ msgstr "Langue"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:69
 msgid "Options"
-msgstr ""
+msgstr "Options"

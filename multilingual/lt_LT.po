@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-03-25 08:45+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
 msgid "Save"
-msgstr ""
+msgstr "Saugoti"
 
 #: packages/multilingual/controller.php:10
 msgid "Translate your site with this free multilingual solution."
@@ -114,7 +114,7 @@ msgstr ""
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:162
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:42
 msgid "None"
-msgstr ""
+msgstr "Nerodyti"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:171
 msgid "Multilingual content enabled"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:46
 msgid "Display"
-msgstr ""
+msgstr "Rodyti"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:54
 msgid "Only Missing Pages"
@@ -227,7 +227,7 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:138
 msgid "Create"
-msgstr ""
+msgstr "Kurti"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:142
 msgid "Ignore"
@@ -259,7 +259,7 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:12
 msgid "Name"
-msgstr ""
+msgstr "Vardas"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:13
 msgid "Language"

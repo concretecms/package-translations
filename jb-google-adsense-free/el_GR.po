@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:28+0000\n"
-"PO-Revision-Date: 2014-04-19 05:10+0000\n"
+"PO-Revision-Date: 2014-04-21 17:29+0000\n"
 "Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -40,56 +40,56 @@ msgstr "Στοιχεία Καταχώρησης"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:9
 msgid "Style"
-msgstr ""
+msgstr "Στυλ"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:17
 msgid "Ad Publisher ID"
-msgstr ""
+msgstr "Ταυτότητα Ad Publisher ID"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:25
 msgid "Ad Channel ID"
-msgstr ""
+msgstr "Ταυτότητα Ad Channel ID"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:32
 msgid "Ad Type"
-msgstr ""
+msgstr "Τύπος Αγγελίας"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:44
 msgid "Ad Layout"
-msgstr ""
+msgstr "Διάταξη Αγγελίας"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:49
 msgid "Backup ads from another URL"
-msgstr ""
+msgstr "Δημιουργία αντιγράφων ασφαλείας αγγελιών από άλλη διεύθυνση URL"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:51
 msgid "Example: http://www.mysite.com/ad.html"
-msgstr ""
+msgstr "Παράδειγμα: http://www.mysite.com/ad.html"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:60
 msgid "Corner Style"
-msgstr ""
+msgstr "Στυλ Γωνία"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:66
 msgid "Background Color"
-msgstr ""
+msgstr "Χρώμα Φόντου"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:73
 msgid "Border Color"
-msgstr ""
+msgstr "Χρώμα Περιγράμματος"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:79
 msgid "Title Color"
-msgstr ""
+msgstr "Χρώμα Τίτλου"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:85
 msgid "Text Color"
-msgstr ""
+msgstr "Χρώμα Κειμένου"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:91
 msgid "URL Color"
-msgstr ""
+msgstr "Χρώμα διεύθυνσης URL"
 
 #: packages/jb_google_adsense_free/controller.php:12
 msgid "Add Google ads anywhere you want."
-msgstr ""
+msgstr "Προσθήκη διαφημίσεων Google οπουδήποτε θέλετε."

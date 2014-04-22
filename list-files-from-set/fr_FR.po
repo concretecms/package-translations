@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-01 10:48+0100\n"
-"PO-Revision-Date: 2014-03-24 19:41+0000\n"
+"PO-Revision-Date: 2014-04-21 14:13+0000\n"
 "Last-Translator: appliculture <mikhael.minisini@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/edit.php:19
 msgid "Display"
-msgstr ""
+msgstr "Afficher"
 
 #: ../blocks/list_files_from_set/edit.php:20
 msgid "files from:"
@@ -52,7 +52,7 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/edit.php:45
 msgid "Ordering"
-msgstr ""
+msgstr "Tri"
 
 #: ../blocks/list_files_from_set/edit.php:47
 msgid "Date added (newest first)"
@@ -64,7 +64,7 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/edit.php:49
 msgid "Alphabetical"
-msgstr ""
+msgstr "Alphabétique"
 
 #: ../blocks/list_files_from_set/edit.php:50
 msgid "Alphabetical (reversed)"
@@ -136,7 +136,7 @@ msgstr "Fichier"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:26
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:30
 msgid "Size"
@@ -148,7 +148,7 @@ msgstr "Date"
 
 #: ../controller.php:5
 msgid "Access Denied."
-msgstr ""
+msgstr "Accès refusé."
 
 #: ../controller.php:14
 msgid "A block to display a list of files from a file set."

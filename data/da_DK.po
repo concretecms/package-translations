@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2014-03-26 13:54+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Danish (Denmark) (http://www.transifex.com/projects/p/concrete5-packages/language/da_DK/)\n"
 "MIME-Version: 1.0\n"
@@ -96,12 +96,12 @@ msgstr ""
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:95
 #: packages/data/controllers/dashboard/data/management/controller.php:144
 msgid "Unknown Error"
-msgstr ""
+msgstr "Ukendt fejl"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:61
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:98
 msgid "** None"
-msgstr ""
+msgstr "** Ingen"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:86
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:130
@@ -118,7 +118,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 #: packages/data/single_pages/dashboard/data/management/view.php:6
 msgid "Attributes"
-msgstr ""
+msgstr "Attributter"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:135
 msgid "Attribute Deleted"
@@ -139,7 +139,7 @@ msgstr ""
 #: packages/data/controllers/dashboard/data/administration/controller.php:137
 #: packages/data/controllers/dashboard/data/management/controller.php:22
 msgid "Access Denied"
-msgstr ""
+msgstr "Adgang Nægtet"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:107
 msgid "Data Type Updated"
@@ -148,7 +148,7 @@ msgstr ""
 #: packages/data/controllers/dashboard/data/administration/controller.php:121
 #: packages/data/controllers/dashboard/data/administration/controller.php:151
 msgid "View"
-msgstr ""
+msgstr "Vis"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:143
 msgid "Data Type Deleted"
@@ -160,7 +160,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/search.php:19
 #: packages/data/single_pages/dashboard/data/management/view.php:22
 msgid "Edit"
-msgstr ""
+msgstr "Rediger"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:178
 #: packages/data/controllers/dashboard/data/administration/controller.php:184
@@ -181,7 +181,7 @@ msgstr ""
 #: packages/data/controllers/dashboard/data/management/controller.php:152
 #: packages/data/single_pages/dashboard/data/management/search.php:7
 msgid "Search"
-msgstr ""
+msgstr "Søg"
 
 #: packages/data/controllers/dashboard/data/management/controller.php:61
 msgid "Data Created"
@@ -204,12 +204,12 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/delete.php:12
 #: packages/data/single_pages/dashboard/data/management/edit.php:13
 msgid "Cancel"
-msgstr ""
+msgstr "Annuller"
 
 #: packages/data/elements/permission/lists/data_type.php:32
 #: packages/data/single_pages/dashboard/data/administration/edit.php:12
 msgid "Save"
-msgstr ""
+msgstr "Gem"
 
 #: packages/data/models/attribute/types/data_simple_association/type_form.php:3
 msgid "Simple Association"
@@ -249,7 +249,7 @@ msgstr ""
 
 #: packages/data/models/data_type.php:134
 msgid "Name is required"
-msgstr ""
+msgstr "Navn er påkrævet"
 
 #: packages/data/models/data_type.php:137
 msgid "Handle is required"
@@ -274,7 +274,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:8
 #, php-format
 msgid "%s: Basic Details"
-msgstr ""
+msgstr "%s: Basis Detaljer"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:11
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:11
@@ -283,7 +283,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/view.php:5
 #: packages/data/single_pages/dashboard/data/administration/view.php:10
 msgid "Handle"
-msgstr ""
+msgstr "Kaldenavn"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:18
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:18
@@ -295,17 +295,17 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/search.php:15
 #: packages/data/single_pages/dashboard/data/management/view.php:9
 msgid "Name"
-msgstr ""
+msgstr "Navn"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:25
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:25
 msgid "Set"
-msgstr ""
+msgstr "Sæt"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:32
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:32
 msgid "Searchable"
-msgstr ""
+msgstr "Søgbar"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:35
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:35
@@ -323,7 +323,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/create.php:11
 #: packages/data/single_pages/dashboard/data/management/search.php:29
 msgid "Create"
-msgstr ""
+msgstr "Opret"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:3
 #, php-format
@@ -348,7 +348,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/delete.php:11
 #: packages/data/single_pages/dashboard/data/management/edit.php:12
 msgid "Delete"
-msgstr ""
+msgstr "Slet"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:3
 #, php-format
@@ -358,7 +358,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:49
 #: packages/data/single_pages/dashboard/data/management/edit.php:11
 msgid "Update"
-msgstr ""
+msgstr "Opdater"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:2
 #, php-format
@@ -367,11 +367,11 @@ msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:11
 msgid "Add Attribute"
-msgstr ""
+msgstr "Tilføj attribut"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:14
 msgid "Add"
-msgstr ""
+msgstr "Tilføj"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:21
 msgid "Done"
@@ -400,7 +400,7 @@ msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:11
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:14
 msgid "No attributes found"
@@ -409,7 +409,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/view.php:31
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Permissions"
-msgstr ""
+msgstr "Rettigheder"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Metadata"
@@ -417,7 +417,7 @@ msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Export"
-msgstr ""
+msgstr "Eksporter"
 
 #: packages/data/single_pages/dashboard/data/management/data_types.php:2
 msgid "Data Type Management"
@@ -425,7 +425,7 @@ msgstr ""
 
 #: packages/data/single_pages/dashboard/data/management/delete.php:3
 msgid "Delete Attribute"
-msgstr ""
+msgstr "Slet attribut"
 
 #. %s is a DataType Name and a Data Name
 #: packages/data/single_pages/dashboard/data/management/delete.php:7

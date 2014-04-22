@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:15+0100\n"
-"PO-Revision-Date: 2014-03-25 08:56+0000\n"
+"PO-Revision-Date: 2014-04-21 14:13+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Persian (Iran) (http://www.transifex.com/projects/p/concrete5-packages/language/fa_IR/)\n"
 "MIME-Version: 1.0\n"
@@ -44,15 +44,15 @@ msgstr ""
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/search.php:18
 msgid "All"
-msgstr ""
+msgstr "همه"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:7
 msgid "Select Options"
-msgstr ""
+msgstr "انتخاب گزینه"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:10
 msgid "Page Type"
-msgstr ""
+msgstr "نوع صفحه"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:26
 msgid "Display Drop-Down"

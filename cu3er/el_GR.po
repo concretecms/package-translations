@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Vasilis Fotopoulos <basalba@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2014-04-18 19:33+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-04-21 09:58+0000\n"
+"Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,159 +19,159 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/controller.php:34
 msgid "Display a Flash-based slideshow with 3D transitions."
-msgstr ""
+msgstr "Εμφάνιση μιας παρουσίασης βασισμένης σε Flash με 3D μεταβάσεις."
 
 #: packages/cu3er/blocks/cu3er/controller.php:38
 #: packages/cu3er/controller.php:18
 msgid "Cu3er Slideshow"
-msgstr ""
+msgstr "Παρουσίαση Cu3er"
 
 #: packages/cu3er/blocks/cu3er/controller.php:43
 msgid "Choose Image/File"
-msgstr ""
+msgstr "Επιλέξτε Εικόνα / Αρχείο"
 
 #: packages/cu3er/blocks/cu3er/controller.php:44
 msgid "Please choose at least two images."
-msgstr ""
+msgstr "Παρακαλώ, επιλέξτε τουλάχιστον δυο εικόνες."
 
 #: packages/cu3er/blocks/cu3er/controller.php:45
 msgid "Please choose a file set."
-msgstr ""
+msgstr "Παρακαλώ, επιλέξτε ένα Σετ Αρχείων."
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:5
 #: packages/cu3er/blocks/cu3er/image_row_include.php:12
 msgid "Duration"
-msgstr ""
+msgstr "Διάρκεια"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:7
 #: packages/cu3er/blocks/cu3er/image_row_include.php:14
 msgid "Number of Slices"
-msgstr ""
+msgstr "Αριθμός Κομματιών"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:9
 #: packages/cu3er/blocks/cu3er/image_row_include.php:16
 msgid "Slice"
-msgstr ""
+msgstr "Κομάτια"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:10
 msgid "Vertical"
-msgstr ""
+msgstr "Κάθετα"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:11
 msgid "Horizontal"
-msgstr ""
+msgstr "Οριζόντια"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:14
 #: packages/cu3er/blocks/cu3er/image_row_include.php:21
 msgid "Direction"
-msgstr ""
+msgstr "Κατεύθυνση "
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:16
 msgid "Left"
-msgstr ""
+msgstr "Αριστερά"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:17
 msgid "Right"
-msgstr ""
+msgstr "Δεξιά"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:18
 msgid "Up"
-msgstr ""
+msgstr "Επάνω"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:19
 msgid "Down"
-msgstr ""
+msgstr "Κάτω"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:21
 #: packages/cu3er/blocks/cu3er/image_row_include.php:28
 msgid "Shader"
-msgstr ""
+msgstr "Σκίαση"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:23
 msgid "None"
-msgstr ""
+msgstr "Τίποτα"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:24
 msgid "Flat"
-msgstr ""
+msgstr "Επίπεδο"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:25
 msgid "Phong"
-msgstr ""
+msgstr "Φονγκ παρεμβολή"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:28
 #: packages/cu3er/blocks/cu3er/image_row_include.php:34
 msgid "Z Multiplier"
-msgstr ""
+msgstr "Πολλαπλασιαστής Ζ"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:34
 msgid "Type"
-msgstr ""
+msgstr "Τύπος"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:36
 msgid "Custom Slideshow"
-msgstr ""
+msgstr "Προσαρμοσμένη Παρουσίαση"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:37
 msgid "Pictures from File Set"
-msgstr ""
+msgstr "Φωτογραφίες από Σετ Αρχείων"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:41
 msgid "Playback"
-msgstr ""
+msgstr "Αναπαραγωγή"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:43
 msgid "Display Order"
-msgstr ""
+msgstr "Σειρά Εμφάνισης"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:44
 msgid "Random (But keep sets together)"
-msgstr ""
+msgstr "Τυχαία (Αλλά κρατήστε τα σετ μαζί)"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:45
 msgid "Completely Random"
-msgstr ""
+msgstr "Εντελώς Τυχαία"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:51
 msgid "Width/Height (px)"
-msgstr ""
+msgstr "Πλάτος / Ύψος  (px)"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:56
 msgid "Cube Colour"
-msgstr ""
+msgstr "Χρώμα Κύβου"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:62
 msgid "Hide Nav Buttons"
-msgstr ""
+msgstr "Απόκρυψη Κουμπιών Περιήγησης "
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:66
 msgid "Duration Before Transition"
-msgstr ""
+msgstr "Διάρκεια Πριν από τη Μετάβαση"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:72
 msgid "Select Fallback Image"
-msgstr ""
+msgstr "Επιλέξτε Εικόνα εφεδρική"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:83
 msgid "Add Image"
-msgstr ""
+msgstr "Προσθέστε Εικόνα"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:33
 msgid "Delay"
-msgstr ""
+msgstr "Καθυστέρηση "
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:37
 msgid "Link URL (optional)"
-msgstr ""
+msgstr "Σύνδεσμος URL  (προαιρετικό)"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:39
 msgid "Caption Heading"
-msgstr ""
+msgstr "Ονομασία λεζάντας"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:41
 msgid "Caption Body"
-msgstr ""
+msgstr "Σώμα λεζάντας"
 
 #: packages/cu3er/controller.php:22
 msgid "Converts static images into 3D Flash-based slideshow"
-msgstr ""
+msgstr "Μετατρέπει στατικές εικόνες σε παρουσίαση 3D που βασίζεται σε Flash"

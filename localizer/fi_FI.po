@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-05 12:51+0000\n"
-"PO-Revision-Date: 2014-03-24 18:53+0000\n"
+"PO-Revision-Date: 2014-04-21 14:13+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Finnish (Finland) (http://www.transifex.com/projects/p/concrete5-packages/language/fi_FI/)\n"
 "MIME-Version: 1.0\n"
@@ -135,7 +135,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:111
 msgid "Page"
-msgstr ""
+msgstr "Sivu"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:114
 msgid "Single page"
@@ -143,7 +143,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:117
 msgid "Stack"
-msgstr ""
+msgstr "Pino"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:120
 msgid "Composer page"
@@ -151,7 +151,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:123
 msgid "User"
-msgstr ""
+msgstr "Käyttäjä"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:126
 msgid "File set"
@@ -159,7 +159,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:129
 msgid "File"
-msgstr ""
+msgstr "Tiedosto"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:132
 msgid "Area"
@@ -171,7 +171,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:138
 msgid "Block"
-msgstr ""
+msgstr "Lohko"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:141
 msgid "Administration"
@@ -286,7 +286,7 @@ msgstr ""
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:70
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:42
 msgid "Save"
-msgstr ""
+msgstr "Tallenna"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:5
 msgid "Translate special items"
@@ -302,8 +302,8 @@ msgstr ""
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:42
 msgid "Language"
-msgstr ""
+msgstr "Kieli"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:69
 msgid "Options"
-msgstr ""
+msgstr "Vaihtoehdot"

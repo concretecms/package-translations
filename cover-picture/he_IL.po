@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:24+0100\n"
-"PO-Revision-Date: 2014-03-24 20:18+0000\n"
+"PO-Revision-Date: 2014-04-21 17:24+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Hebrew (Israel) (http://www.transifex.com/projects/p/concrete5-packages/language/he_IL/)\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr ""
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:16
 msgid "Text"
-msgstr ""
+msgstr "טקסט"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:25
 msgid "Overlay Color"

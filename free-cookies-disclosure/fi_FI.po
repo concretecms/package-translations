@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-04-19 13:11+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Finnish (Finland) (http://www.transifex.com/projects/p/concrete5-packages/language/fi_FI/)\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:6
 msgid "Options"
-msgstr ""
+msgstr "Vaihtoehdot"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:10
 msgid "Show Checkbox"
@@ -76,7 +76,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:23
 msgid "Custom"
-msgstr ""
+msgstr "Kustomoitu"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:47
 msgid "Hide interval must be greater than zero!"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:11
 msgid "Alignment"
-msgstr ""
+msgstr "Tasaus"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:13
 msgid "Top of the Page"
@@ -205,7 +205,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:72
 msgid "Save"
-msgstr ""
+msgstr "Tallenna"
 
 #: packages/free_cookies_disclosure/tools/disclosure_i18n_js.php:4
 msgid "You need to allow cookies for this site!"

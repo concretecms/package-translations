@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2014-03-27 19:39+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Asturian (Spain) (http://www.transifex.com/projects/p/concrete5-packages/language/ast_ES/)\n"
 "MIME-Version: 1.0\n"
@@ -160,7 +160,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/search.php:19
 #: packages/data/single_pages/dashboard/data/management/view.php:22
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:178
 #: packages/data/controllers/dashboard/data/administration/controller.php:184
@@ -204,7 +204,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/delete.php:12
 #: packages/data/single_pages/dashboard/data/management/edit.php:13
 msgid "Cancel"
-msgstr ""
+msgstr "Encaboxar"
 
 #: packages/data/elements/permission/lists/data_type.php:32
 #: packages/data/single_pages/dashboard/data/administration/edit.php:12
@@ -371,7 +371,7 @@ msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:14
 msgid "Add"
-msgstr ""
+msgstr "Amestar"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:21
 msgid "Done"
@@ -400,7 +400,7 @@ msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:11
 msgid "Type"
-msgstr ""
+msgstr "Triba"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:14
 msgid "No attributes found"

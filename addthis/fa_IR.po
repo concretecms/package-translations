@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:32+0100\n"
-"PO-Revision-Date: 2014-03-25 15:32+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Persian (Iran) (http://www.transifex.com/projects/p/concrete5-packages/language/fa_IR/)\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr ""
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/view.php:2
 #: C:\Work\addon_addthis/packages/addthis/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "شما دسترسی ندارید."
 
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/controller.php:18
 #: C:\Work\addon_addthis/packages/addthis/controller.php:12

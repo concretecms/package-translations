@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2014-04-18 19:33+0000\n"
+"PO-Revision-Date: 2014-04-21 14:13+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/concrete5-packages/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
@@ -27,20 +27,20 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/controller.php:43
 msgid "Choose Image/File"
-msgstr ""
+msgstr "画像ファイルを選択"
 
 #: packages/cu3er/blocks/cu3er/controller.php:44
 msgid "Please choose at least two images."
-msgstr ""
+msgstr "2個以上の画像を選択してください。"
 
 #: packages/cu3er/blocks/cu3er/controller.php:45
 msgid "Please choose a file set."
-msgstr ""
+msgstr "ファイルセットを選択してください。"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:5
 #: packages/cu3er/blocks/cu3er/image_row_include.php:12
 msgid "Duration"
-msgstr ""
+msgstr "間隔"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:7
 #: packages/cu3er/blocks/cu3er/image_row_include.php:14
@@ -54,28 +54,28 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:10
 msgid "Vertical"
-msgstr ""
+msgstr "垂直"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:11
 msgid "Horizontal"
-msgstr ""
+msgstr "水平"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:14
 #: packages/cu3er/blocks/cu3er/image_row_include.php:21
 msgid "Direction"
-msgstr ""
+msgstr "文字表示方向 (direction)"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:16
 msgid "Left"
-msgstr ""
+msgstr "左"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:17
 msgid "Right"
-msgstr ""
+msgstr "右"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:18
 msgid "Up"
-msgstr ""
+msgstr "上へ"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:19
 msgid "Down"
@@ -88,11 +88,11 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:23
 msgid "None"
-msgstr ""
+msgstr "なし"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:24
 msgid "Flat"
-msgstr ""
+msgstr "フラット"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:25
 msgid "Phong"
@@ -105,31 +105,31 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:34
 msgid "Type"
-msgstr ""
+msgstr "タイプ"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:36
 msgid "Custom Slideshow"
-msgstr ""
+msgstr "カスタムスライドショー"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:37
 msgid "Pictures from File Set"
-msgstr ""
+msgstr "セットにあるイメージ"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:41
 msgid "Playback"
-msgstr ""
+msgstr "再生"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:43
 msgid "Display Order"
-msgstr ""
+msgstr "表示順"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:44
 msgid "Random (But keep sets together)"
-msgstr ""
+msgstr "ランダム再生（セット内で）"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:45
 msgid "Completely Random"
-msgstr ""
+msgstr "完全ランダム再生"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:51
 msgid "Width/Height (px)"
@@ -153,7 +153,7 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:83
 msgid "Add Image"
-msgstr ""
+msgstr "画像を追加"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:33
 msgid "Delay"
@@ -161,7 +161,7 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:37
 msgid "Link URL (optional)"
-msgstr ""
+msgstr "リンク先URL（オプション）"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:39
 msgid "Caption Heading"

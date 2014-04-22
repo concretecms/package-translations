@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-03-25 08:56+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Persian (Iran) (http://www.transifex.com/projects/p/concrete5-packages/language/fa_IR/)\n"
 "MIME-Version: 1.0\n"
@@ -27,11 +27,11 @@ msgstr ""
 #: packages/multilingual/blocks/switch_language/controller.php:25
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
 msgid "Choose Language"
-msgstr ""
+msgstr "انتخاب زبان"
 
 #: packages/multilingual/blocks/switch_language/form.php:3
 msgid "Label"
-msgstr ""
+msgstr "برچ"
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
 msgid "Remember my choice on this computer."
@@ -39,7 +39,7 @@ msgstr ""
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
 msgid "Save"
-msgstr ""
+msgstr "ذخیره"
 
 #: packages/multilingual/controller.php:10
 msgid "Translate your site with this free multilingual solution."
@@ -114,7 +114,7 @@ msgstr ""
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:162
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:42
 msgid "None"
-msgstr ""
+msgstr "بدون"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:171
 msgid "Multilingual content enabled"
@@ -173,7 +173,7 @@ msgstr ""
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:56
 #, php-format
 msgid "Cannot open file %s"
-msgstr ""
+msgstr "فایل %s باز نشد."
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:149
 #, php-format
@@ -183,7 +183,7 @@ msgstr ""
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:152
 #, php-format
 msgid "The file %s is not writable"
-msgstr ""
+msgstr "فایل %s قابل نوشتن نیست."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:11
 msgid "Choose Source"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:46
 msgid "Display"
-msgstr ""
+msgstr "نمایش"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:54
 msgid "Only Missing Pages"
@@ -215,7 +215,7 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:74
 msgid "Go"
-msgstr ""
+msgstr "برو"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:130
 msgid "Re-Map"
@@ -239,7 +239,7 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:158
 msgid "No pages found."
-msgstr ""
+msgstr "هیچ صفحه ای پیدا نشد."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:187
 msgid "Choose A Page"
@@ -259,15 +259,15 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:12
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:13
 msgid "Language"
-msgstr ""
+msgstr "زبان"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:14
 msgid "Path"
-msgstr ""
+msgstr "مسیر"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:30
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:120
@@ -309,7 +309,7 @@ msgstr ""
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:105
 msgctxt "Destination"
 msgid "To"
-msgstr ""
+msgstr "گیرنده"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:113
 msgid "Copy Tree"
@@ -344,7 +344,7 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:174
 msgid "Default Language"
-msgstr ""
+msgstr "زبان پیش فرض"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:186
 msgid "Attempt to use visitor's language based on their browser information."

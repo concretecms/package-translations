@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2014-04-18 19:33+0000\n"
+"PO-Revision-Date: 2014-04-21 14:13+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Romanian (Romania) (http://www.transifex.com/projects/p/concrete5-packages/language/ro_RO/)\n"
 "MIME-Version: 1.0\n"
@@ -27,20 +27,20 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/controller.php:43
 msgid "Choose Image/File"
-msgstr ""
+msgstr "Alegeti imagine/fisierul"
 
 #: packages/cu3er/blocks/cu3er/controller.php:44
 msgid "Please choose at least two images."
-msgstr ""
+msgstr "Alegeti cel putin 2 imagini."
 
 #: packages/cu3er/blocks/cu3er/controller.php:45
 msgid "Please choose a file set."
-msgstr ""
+msgstr "Alegeti un set de fisiere."
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:5
 #: packages/cu3er/blocks/cu3er/image_row_include.php:12
 msgid "Duration"
-msgstr ""
+msgstr "Duratie"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:7
 #: packages/cu3er/blocks/cu3er/image_row_include.php:14
@@ -54,28 +54,28 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:10
 msgid "Vertical"
-msgstr ""
+msgstr "Vertical"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:11
 msgid "Horizontal"
-msgstr ""
+msgstr "Orizontal"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:14
 #: packages/cu3er/blocks/cu3er/image_row_include.php:21
 msgid "Direction"
-msgstr ""
+msgstr "Directie"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:16
 msgid "Left"
-msgstr ""
+msgstr "Stanga"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:17
 msgid "Right"
-msgstr ""
+msgstr "Dreapta"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:18
 msgid "Up"
-msgstr ""
+msgstr "Sus"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:19
 msgid "Down"
@@ -88,11 +88,11 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:23
 msgid "None"
-msgstr ""
+msgstr "Niciuna"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:24
 msgid "Flat"
-msgstr ""
+msgstr "Plata"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:25
 msgid "Phong"
@@ -105,31 +105,31 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:34
 msgid "Type"
-msgstr ""
+msgstr "Tip"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:36
 msgid "Custom Slideshow"
-msgstr ""
+msgstr "Slideshow personalizat"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:37
 msgid "Pictures from File Set"
-msgstr ""
+msgstr "Imagini din setul de fisiere"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:41
 msgid "Playback"
-msgstr ""
+msgstr "Playback"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:43
 msgid "Display Order"
-msgstr ""
+msgstr "Ordine de afisare"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:44
 msgid "Random (But keep sets together)"
-msgstr ""
+msgstr "La intamplare (dar se pastreaza seturile impreuna)"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:45
 msgid "Completely Random"
-msgstr ""
+msgstr "Complet la intamplare"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:51
 msgid "Width/Height (px)"
@@ -153,7 +153,7 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:83
 msgid "Add Image"
-msgstr ""
+msgstr "Adaugare imagine"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:33
 msgid "Delay"
@@ -161,7 +161,7 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:37
 msgid "Link URL (optional)"
-msgstr ""
+msgstr "URL link (optional)"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:39
 msgid "Caption Heading"

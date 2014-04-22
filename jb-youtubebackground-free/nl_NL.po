@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:28+0000\n"
-"PO-Revision-Date: 2014-04-18 19:32+0000\n"
+"PO-Revision-Date: 2014-04-21 17:29+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr ""
 
 #: packages/jb_youtubebackground_free/blocks/jb_youtubebackground_free/form_setup_html.php:51
 msgid "Choose Image"
-msgstr ""
+msgstr "Kies afbeelding"
 
 #: packages/jb_youtubebackground_free/blocks/jb_youtubebackground_free/view.php:11
 msgid "Background video disabled in edit mode."

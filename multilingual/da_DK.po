@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-03-25 08:46+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Danish (Denmark) (http://www.transifex.com/projects/p/concrete5-packages/language/da_DK/)\n"
 "MIME-Version: 1.0\n"
@@ -173,7 +173,7 @@ msgstr ""
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:56
 #, php-format
 msgid "Cannot open file %s"
-msgstr ""
+msgstr "Kan ikke åbne filen %s"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:149
 #, php-format
@@ -183,7 +183,7 @@ msgstr ""
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:152
 #, php-format
 msgid "The file %s is not writable"
-msgstr ""
+msgstr "Der kan ikke skrives til filen %s"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:11
 msgid "Choose Source"
@@ -195,7 +195,7 @@ msgstr "Vælg Mål"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:46
 msgid "Display"
-msgstr ""
+msgstr "Vis"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:54
 msgid "Only Missing Pages"
@@ -309,7 +309,7 @@ msgstr ""
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:105
 msgctxt "Destination"
 msgid "To"
-msgstr ""
+msgstr "Til"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:113
 msgid "Copy Tree"

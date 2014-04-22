@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-01 10:48+0100\n"
-"PO-Revision-Date: 2014-03-24 18:54+0000\n"
+"PO-Revision-Date: 2014-04-21 14:13+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/edit.php:19
 msgid "Display"
-msgstr ""
+msgstr "Rodyti"
 
 #: ../blocks/list_files_from_set/edit.php:20
 msgid "files from:"
@@ -131,15 +131,15 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:22
 msgid "File"
-msgstr ""
+msgstr "Byla"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:26
 msgid "Type"
-msgstr ""
+msgstr "Tipas"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:30
 msgid "Size"
-msgstr ""
+msgstr "Dydis"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:35
 msgid "Date"
@@ -147,7 +147,7 @@ msgstr ""
 
 #: ../controller.php:5
 msgid "Access Denied."
-msgstr ""
+msgstr "Priėjimas draudžiamas."
 
 #: ../controller.php:14
 msgid "A block to display a list of files from a file set."

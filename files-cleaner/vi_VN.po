@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-20 09:39+0000\n"
-"PO-Revision-Date: 2014-03-17 12:58+0000\n"
+"PO-Revision-Date: 2014-04-21 17:25+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Vietnamese (Viet Nam) (http://www.transifex.com/projects/p/concrete5-packages/language/vi_VN/)\n"
 "MIME-Version: 1.0\n"
@@ -89,45 +89,45 @@ msgstr ""
 #, php-format
 msgid "%d day"
 msgid_plural "%d days"
-msgstr[0] ""
+msgstr[0] "%d ngày"
 
 #: packages/files_cleaner/libraries/clear_files_provider.php:197
 #, php-format
 msgid "%d days"
-msgstr ""
+msgstr "%d ngày"
 
 #: packages/files_cleaner/libraries/clear_files_provider.php:198
 #, php-format
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] ""
+msgstr[0] "%d giờ"
 
 #: packages/files_cleaner/libraries/clear_files_provider.php:198
 #, php-format
 msgid "%d hours"
-msgstr ""
+msgstr "%d giờ"
 
 #: packages/files_cleaner/libraries/clear_files_provider.php:199
 #, php-format
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] ""
+msgstr[0] "%d phút"
 
 #: packages/files_cleaner/libraries/clear_files_provider.php:199
 #, php-format
 msgid "%d minutes"
-msgstr ""
+msgstr "%d phút"
 
 #: packages/files_cleaner/libraries/clear_files_provider.php:200
 #, php-format
 msgid "%d second"
 msgid_plural "%d seconds"
-msgstr[0] ""
+msgstr[0] "%d giây"
 
 #: packages/files_cleaner/libraries/clear_files_provider.php:200
 #, php-format
 msgid "%d seconds"
-msgstr ""
+msgstr "%d giây"
 
 #: packages/files_cleaner/libraries/clear_files_providers/base/deleted_files.php:8
 #: packages/files_cleaner/libraries/clear_files_providers/deleted_files.php:8
@@ -157,7 +157,7 @@ msgstr ""
 
 #: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:17
 msgid "Refresh"
-msgstr ""
+msgstr "Làm mới"
 
 #: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:27
 msgid "Please wait"
@@ -186,7 +186,7 @@ msgstr ""
 
 #: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:131
 msgid "Files"
-msgstr ""
+msgstr "Tệp"
 
 #: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:141
 msgid "Are you sure you want to proceed?"

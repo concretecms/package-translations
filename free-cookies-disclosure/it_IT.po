@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Michele Locati <michele@locati.it>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-04-19 13:11+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-04-22 06:49+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,7 +37,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:6
 msgid "Options"
-msgstr ""
+msgstr "Opzioni"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:10
 msgid "Show Checkbox"
@@ -56,7 +57,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:26
 msgid "Button Text"
-msgstr ""
+msgstr "Testo del pulsante"
 
 #: packages/free_cookies_disclosure/controller.php:11
 msgid "Free Cookies Disclosure"
@@ -68,15 +69,15 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:16
 msgid "Dark"
-msgstr ""
+msgstr "Scuro"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:16
 msgid "Light"
-msgstr ""
+msgstr "Chiaro"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:23
 msgid "Custom"
-msgstr ""
+msgstr "Personalizzato"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:47
 msgid "Hide interval must be greater than zero!"
@@ -99,27 +100,27 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:9
 msgid "Display Settings"
-msgstr ""
+msgstr "Impostazioni di visualizzazione"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:11
 msgid "Alignment"
-msgstr ""
+msgstr "Allineamento"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:13
 msgid "Top of the Page"
-msgstr ""
+msgstr "In cima alla pagina"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:13
 msgid "Bottom of the Page"
-msgstr ""
+msgstr "In fondo alla pagina"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:17
 msgid "Color Profile"
-msgstr ""
+msgstr "Profilo di colore"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:25
 msgid "CSS Suffix for Color Profile"
-msgstr ""
+msgstr "Suffisso CSS per il profilo di colore"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:28
 msgid ""
@@ -137,17 +138,17 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:42
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:46
 msgid "Enable Debug Mode"
-msgstr ""
+msgstr "Abilita modalità di debug"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:49
 msgid ""
 "When debug mode is enabled, the notification is visible although user "
 "would've already allowed cookies."
-msgstr ""
+msgstr "Quando la modalità di debug è abilitata la notifica è visibile anche quando l’utente ha già accettato i cookie."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:50
 msgid "This is handy when styling the debug notification box for your theme."
@@ -155,7 +156,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:56
 msgid "Customize Notification Content"
-msgstr ""
+msgstr "Personalizza contenuto notifica"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:58
 msgid "Cookies Disclosure - LANG"
@@ -201,12 +202,12 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:68
 msgid "Go to Stacks &raquo;"
-msgstr ""
+msgstr "Vai alle pile &raquo;"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:72
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 #: packages/free_cookies_disclosure/tools/disclosure_i18n_js.php:4
 msgid "You need to allow cookies for this site!"
-msgstr ""
+msgstr "È necessario permettere i cookie per questo sito!"

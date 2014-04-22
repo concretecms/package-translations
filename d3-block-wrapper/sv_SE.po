@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-04 14:07+0000\n"
-"PO-Revision-Date: 2014-04-04 14:31+0000\n"
+"PO-Revision-Date: 2014-04-21 17:28+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
@@ -66,7 +66,7 @@ msgstr ""
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php
 msgctxt "TemplateFileName"
 msgid "Close"
-msgstr ""
+msgstr "Stäng"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php
 msgctxt "TemplateFileName"

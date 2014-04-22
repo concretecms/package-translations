@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-04-21 06:13+0000\n"
+"PO-Revision-Date: 2014-04-21 17:30+0000\n"
 "Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -36,39 +36,39 @@ msgstr "Δεν μπορεί να γίνει εγγραφή στο ακόλουθ
 
 #: packages/db_case_sensitivity/controllers/dashboard/system/backup_restore/db_migration.php:80
 msgid "Successfully migrated your backup files!"
-msgstr ""
+msgstr "Επιτυχής μεταφορά των backup αρχείων σας!"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:6
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:8
 msgid "Database Migration Tool"
-msgstr ""
+msgstr "Εργαλείο Μεταφοράς Βάσεων Δεδομένων"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:10
 msgid ""
 "This tool lets you easily convert your case insensitive database table names"
 " to case sensitive."
-msgstr ""
+msgstr "Αυτό το εργαλείο σας επιτρέπει να μετατρέψετε εύκολα case insensitive ονόματα πίνακα της βάσης δεδομένων σας σε case sensitive."
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:12
 msgid "Migrate Automatically"
-msgstr ""
+msgstr "Αυτόματη Μεταφορά"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:14
 msgid ""
 "If you want to migrate this site's table names, just click the button below."
-msgstr ""
+msgstr "Αν θέλετε να μεταφέρετε ονόματα πινάκων αυτής της ιστοσελίδας, απλά κάντε κλικ στο κουμπί παρακάτω."
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:17
 msgid ""
 "Your database is set to lower case mode and running this script "
 "automatically will not work!"
-msgstr ""
+msgstr "Η βάση δεδομένων σας τέθηκε σε lower case mode και το να τρέξετε το script αυτόματα δεν θα λειτουργήσει!"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:18
 msgid ""
 "Please note that for you to be able to do this, you need to have following "
 "configuration in your MySQL server's my.cnf or my.ini."
-msgstr ""
+msgstr "Παρακαλώ σημειώστε ότι για να είστε σε θέση να το κάνετε αυτό, θα πρέπει να έχετε την  ακόλουθη ρύθμιση παραμέτρων στο διακομιστή σας MySQL του my.cnf  ή του my.ini."
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:20
 msgid ""
@@ -78,12 +78,12 @@ msgstr ""
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:23
 msgid "Run Migration"
-msgstr ""
+msgstr "Εκτελέστε τη Μεταφορά"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:27
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:30
 msgid "Migrate Backup Files"
-msgstr ""
+msgstr "Μεταφορά Αρχείων Αντιγράφων Ασφαλείας"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:29
 #, php-format
@@ -94,7 +94,7 @@ msgstr ""
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:34
 msgid "Manual Migration"
-msgstr ""
+msgstr "Χειροκίνητη Μεταφορά"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:36
 msgid ""
@@ -104,11 +104,11 @@ msgstr ""
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:37
 msgid "Download Migration Script"
-msgstr ""
+msgstr "Κατεβάστε το Script Μεταφοράς"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:41
 msgid "Some tables are missing from the migration!"
-msgstr ""
+msgstr "Μερικοί πίνακες λείπουν από τη μεταφορά!"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:43
 msgid ""

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:33+0100\n"
-"PO-Revision-Date: 2014-03-25 15:34+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Danish (Denmark) (http://www.transifex.com/projects/p/concrete5-packages/language/da_DK/)\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr ""
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/view.php:1
 #: C:\Work\addon_gallery/packages/gallery/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Adgang nægtet."
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:25
 msgid "Display a gallery of images."
@@ -39,29 +39,29 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:34
 msgid "Choose Image/File"
-msgstr ""
+msgstr "Vælg billede/fil"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:35
 msgid "Please choose at least two images."
-msgstr ""
+msgstr "Vælg mindst to billeder."
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:36
 msgid "Please choose a file set."
-msgstr ""
+msgstr "Vælg et filsæt."
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:8
 msgid "File Set"
-msgstr ""
+msgstr "Filsæt"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:14
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:14
 msgid "Duration"
-msgstr ""
+msgstr "Varighed"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:16
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:16
 msgid "Fade Duration"
-msgstr ""
+msgstr "Længde på falmning"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:21
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:35
@@ -74,7 +74,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:22
 msgid "Options"
-msgstr ""
+msgstr "Indstillinger"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:29
 msgid "Thumbnail Width"
@@ -99,7 +99,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:65
 msgid "** Default"
-msgstr ""
+msgstr "**Standard"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:70
 msgid "Thumbnail to Use"
@@ -107,7 +107,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:80
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:82
 msgid "Custom Gallery"
@@ -115,35 +115,35 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:83
 msgid "Pictures from File Set"
-msgstr ""
+msgstr "Billeder fra filsæt"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:88
 msgid "Playback"
-msgstr ""
+msgstr "Afspil"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:90
 msgid "Display Order"
-msgstr ""
+msgstr "Visnings orden"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:91
 msgid "Random (But keep sets together)"
-msgstr ""
+msgstr "Tilfældig (Men sammenhold sæt)"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:92
 msgid "Completely Random"
-msgstr ""
+msgstr "Fuldstændig tilfældig"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:101
 msgid "Add Image"
-msgstr ""
+msgstr "Tilføj billede"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:18
 msgid "Set Number"
-msgstr ""
+msgstr "Sæt nummer"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:24
 msgid "Link URL (optional)"
-msgstr ""
+msgstr "Link URL (valgfri)"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:25
 msgid "Caption (optional)"

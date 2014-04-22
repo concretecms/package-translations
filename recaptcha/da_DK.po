@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-06 15:13+0000\n"
-"PO-Revision-Date: 2014-03-24 18:53+0000\n"
+"PO-Revision-Date: 2014-04-21 17:25+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Danish (Denmark) (http://www.transifex.com/projects/p/concrete5-packages/language/da_DK/)\n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,7 @@ msgstr ""
 
 #: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:8
 msgid "Please type the letters and numbers shown in the image."
-msgstr ""
+msgstr "Skriv venligst bogstaverne og tallene præcist som vist på billedet."
 
 #: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:15
 #: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:38

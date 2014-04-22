@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:33+0100\n"
-"PO-Revision-Date: 2014-03-26 18:43+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Count_Raven <cravener@gmail.com>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/concrete5-packages/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
@@ -52,7 +52,7 @@ msgstr "Пожалуйста, выберите набор файлов."
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:8
 msgid "File Set"
-msgstr ""
+msgstr "Группы файлов"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:14
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:14

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 09:28+0000\n"
-"PO-Revision-Date: 2014-03-24 18:53+0000\n"
+"PO-Revision-Date: 2014-04-21 17:25+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Finnish (Finland) (http://www.transifex.com/projects/p/concrete5-packages/language/fi_FI/)\n"
 "MIME-Version: 1.0\n"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:38
 msgid "Appearance"
-msgstr ""
+msgstr "Ulkoasu"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:39
 msgid "Advanced options"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:40
 msgid "About"
-msgstr ""
+msgstr "Tietoja"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:62
 msgid "IRC network"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:107
 msgid "Theme"
-msgstr ""
+msgstr "Teema"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:108
 msgctxt "KiwiIrcTheme"

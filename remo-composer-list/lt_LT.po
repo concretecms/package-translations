@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: remo.laubacher@gmail.com\n"
 "POT-Creation-Date: 2014-03-17 13:45+0100\n"
-"PO-Revision-Date: 2014-03-24 18:54+0000\n"
+"PO-Revision-Date: 2014-04-21 14:13+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/form.php:3
 #: C:\Work\concrete5-composer-list/elements/page_attributes.php:2
 msgid "Access Denied."
-msgstr ""
+msgstr "Priėjimas draudžiamas."
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:16
 msgid "Adds a blocks which allows you to edit the page attributes."
@@ -63,7 +63,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/elements/page_attributes.php:49
 msgid "remove"
-msgstr ""
+msgstr "pašalinti"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:10
 #, php-format
@@ -76,7 +76,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:24
 msgid "Search"
-msgstr ""
+msgstr "Ieškoti"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:28
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:35
@@ -85,11 +85,11 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:72
 msgid "Edit"
-msgstr ""
+msgstr "Redaguoti"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:73
 msgid "Delete"
-msgstr ""
+msgstr "Trinti"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:75
 msgid "Are you sure you want to remove this page?"
@@ -109,7 +109,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:9
 msgid "Page Type"
-msgstr ""
+msgstr "Puslapio tipas"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:10
 msgid "Page Name"
@@ -133,23 +133,23 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:30
 msgid "Choose Headers"
-msgstr ""
+msgstr "Pasirinkite antraštę"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:33
 msgid "Standard Properties"
-msgstr ""
+msgstr "Standartiniai nustatymai"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:48
 msgid "Additional Attributes"
-msgstr ""
+msgstr "Papildomi atributai"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:64
 msgid "Column Order"
-msgstr ""
+msgstr "Tvarka stulpelyje"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:83
 msgid "Save"
-msgstr ""
+msgstr "Saugoti"
 
 #~ msgid " "
 #~ msgstr " "

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:30+0100\n"
-"PO-Revision-Date: 2014-03-28 20:57+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Tornes Llume <l.lumex03.tornes@gmail.com>\n"
 "Language-Team: Asturian (Spain) (http://www.transifex.com/projects/p/concrete5-packages/language/ast_ES/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Acessu torgáu."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:12
 msgid ""

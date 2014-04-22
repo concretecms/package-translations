@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: remo.laubacher@gmail.com\n"
 "POT-Creation-Date: 2014-03-17 13:45+0100\n"
-"PO-Revision-Date: 2014-03-27 19:39+0000\n"
+"PO-Revision-Date: 2014-04-21 14:13+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Asturian (Spain) (http://www.transifex.com/projects/p/concrete5-packages/language/ast_ES/)\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/form.php:3
 #: C:\Work\concrete5-composer-list/elements/page_attributes.php:2
 msgid "Access Denied."
-msgstr ""
+msgstr "Acessu torgáu."
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:16
 msgid "Adds a blocks which allows you to edit the page attributes."
@@ -85,7 +85,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:72
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:73
 msgid "Delete"

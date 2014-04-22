@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-04-21 06:01+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -126,23 +126,23 @@ msgstr "Κατάληξη CSS για το Χρωματικό Προφίλ"
 msgid ""
 "CSS file named cookies_disclosure_SUFFIX.css will be loaded from your "
 "{root}/css directory."
-msgstr ""
+msgstr "Το αρχείο CSS με όνομα cookies_disclosure_SUFFIX.css θα φορτωθεί από το φάκελο {root}/css ."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:34
 msgid "Hide Interval"
-msgstr ""
+msgstr "Διάστημα Απόκρυψης"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:37
 msgid "In seconds (leave empty if you don't want to hide the notification)"
-msgstr ""
+msgstr "Σε Δευτερόλεπτα (αφήστε το κενό αν δεν θέλετε να αποκρύψετε την κοινοποίηση)"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:42
 msgid "Debug"
-msgstr ""
+msgstr "Εντοπισμός σφαλμάτων"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:46
 msgid "Enable Debug Mode"
-msgstr ""
+msgstr "Ενεργοποίηση Λειτουργίας Εντοπισμού Σφαλμάτων"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:49
 msgid ""
@@ -206,7 +206,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:72
 msgid "Save"
-msgstr ""
+msgstr "Αποθήκευση"
 
 #: packages/free_cookies_disclosure/tools/disclosure_i18n_js.php:4
 msgid "You need to allow cookies for this site!"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:33+0100\n"
-"PO-Revision-Date: 2014-03-25 15:34+0000\n"
+"PO-Revision-Date: 2014-04-21 14:14+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Vietnamese (Viet Nam) (http://www.transifex.com/projects/p/concrete5-packages/language/vi_VN/)\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr ""
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/view.php:1
 #: C:\Work\addon_gallery/packages/gallery/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Truy cập bị từ chối."
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:25
 msgid "Display a gallery of images."
@@ -39,29 +39,29 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:34
 msgid "Choose Image/File"
-msgstr ""
+msgstr "Chọn Hình ảnh / Tệp tin"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:35
 msgid "Please choose at least two images."
-msgstr ""
+msgstr "Vui lòng chọn ít nhất hai hình ảnh."
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:36
 msgid "Please choose a file set."
-msgstr ""
+msgstr "Vui chọn một nhóm tệp tin"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:8
 msgid "File Set"
-msgstr ""
+msgstr "Thiết lập tệp tin"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:14
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:14
 msgid "Duration"
-msgstr ""
+msgstr "Khoảng thời gian"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:16
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:16
 msgid "Fade Duration"
-msgstr ""
+msgstr "Thời gian mờ đi"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:21
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:35
@@ -74,7 +74,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:22
 msgid "Options"
-msgstr ""
+msgstr "Lựa chọn"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:29
 msgid "Thumbnail Width"
@@ -99,7 +99,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:65
 msgid "** Default"
-msgstr ""
+msgstr "** Mặc định"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:70
 msgid "Thumbnail to Use"
@@ -107,7 +107,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:80
 msgid "Type"
-msgstr ""
+msgstr "Kiểu"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:82
 msgid "Custom Gallery"
@@ -115,35 +115,35 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:83
 msgid "Pictures from File Set"
-msgstr ""
+msgstr "Các tranh từ nhóm tệp"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:88
 msgid "Playback"
-msgstr ""
+msgstr "Phát lại"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:90
 msgid "Display Order"
-msgstr ""
+msgstr "Thứ tự hiển thị"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:91
 msgid "Random (But keep sets together)"
-msgstr ""
+msgstr "Ngẫu nhiên ( Nhưng giữ các tập hợp cùng nhau)"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:92
 msgid "Completely Random"
-msgstr ""
+msgstr "Hoàn toàn ngẫu nhiên"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:101
 msgid "Add Image"
-msgstr ""
+msgstr "Thêm ảnh"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:18
 msgid "Set Number"
-msgstr ""
+msgstr "Tập hợp số"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:24
 msgid "Link URL (optional)"
-msgstr ""
+msgstr "URL liên kết (tùy chọn)"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:25
 msgid "Caption (optional)"
