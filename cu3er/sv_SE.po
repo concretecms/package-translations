@@ -1,12 +1,13 @@
 # 
 # Translators:
+# MrLindau <fredrik@fxlindau.se>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2014-04-21 14:13+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-04-22 15:02+0000\n"
+"Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,12 +19,12 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/controller.php:34
 msgid "Display a Flash-based slideshow with 3D transitions."
-msgstr ""
+msgstr "Visa ett Flash-baserat bildspel med 3D-övergångar."
 
 #: packages/cu3er/blocks/cu3er/controller.php:38
 #: packages/cu3er/controller.php:18
 msgid "Cu3er Slideshow"
-msgstr ""
+msgstr "Cu3er bildspel"
 
 #: packages/cu3er/blocks/cu3er/controller.php:43
 msgid "Choose Image/File"
@@ -45,12 +46,12 @@ msgstr "Varaktighet"
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:7
 #: packages/cu3er/blocks/cu3er/image_row_include.php:14
 msgid "Number of Slices"
-msgstr ""
+msgstr "Antal segment"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:9
 #: packages/cu3er/blocks/cu3er/image_row_include.php:16
 msgid "Slice"
-msgstr ""
+msgstr "Segment"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:10
 msgid "Vertical"
@@ -79,12 +80,12 @@ msgstr "Upp"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:19
 msgid "Down"
-msgstr ""
+msgstr "Ner"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:21
 #: packages/cu3er/blocks/cu3er/image_row_include.php:28
 msgid "Shader"
-msgstr ""
+msgstr "Shader"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:23
 msgid "None"
@@ -96,12 +97,12 @@ msgstr "Platt"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:25
 msgid "Phong"
-msgstr ""
+msgstr "Phong"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:28
 #: packages/cu3er/blocks/cu3er/image_row_include.php:34
 msgid "Z Multiplier"
-msgstr ""
+msgstr "Z-multipler"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:34
 msgid "Type"
@@ -133,23 +134,23 @@ msgstr "Helt slumpmässig"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:51
 msgid "Width/Height (px)"
-msgstr ""
+msgstr "Bredd/Höjd (px)"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:56
 msgid "Cube Colour"
-msgstr ""
+msgstr "Kubfärg"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:62
 msgid "Hide Nav Buttons"
-msgstr ""
+msgstr "Dölj navigeringsknappar"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:66
 msgid "Duration Before Transition"
-msgstr ""
+msgstr "Tid innan övergång"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:72
 msgid "Select Fallback Image"
-msgstr ""
+msgstr "Välj reservbild"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:83
 msgid "Add Image"
@@ -157,7 +158,7 @@ msgstr "Lägg till bild"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:33
 msgid "Delay"
-msgstr ""
+msgstr "Fördröjning"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:37
 msgid "Link URL (optional)"
@@ -165,12 +166,12 @@ msgstr "Länk-URL (frivilligt)"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:39
 msgid "Caption Heading"
-msgstr ""
+msgstr "Bildtext rubrik"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:41
 msgid "Caption Body"
-msgstr ""
+msgstr "Bildtext flödestext"
 
 #: packages/cu3er/controller.php:22
 msgid "Converts static images into 3D Flash-based slideshow"
-msgstr ""
+msgstr "Konverterar statiska bilder till Flash-baserat bildspel i 3D"

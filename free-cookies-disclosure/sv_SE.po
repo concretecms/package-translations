@@ -1,12 +1,13 @@
 # 
 # Translators:
+# MrLindau <fredrik@fxlindau.se>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-04-21 14:14+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-04-22 15:25+0000\n"
+"Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,21 +19,21 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:11
 msgid "User action form for cookies disclosure."
-msgstr ""
+msgstr "Användarformulär för offentliggörande av kakor."
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:15
 msgid "Cookies Disclosure Form"
-msgstr ""
+msgstr "Formulär för offentliggörande av kakor"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:21
 #: packages/free_cookies_disclosure/elements/cookies_disclosure.php:27
 msgid "I accept cookies from this site"
-msgstr ""
+msgstr "Jag accepterar kakor från denna webbplats"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:22
 #: packages/free_cookies_disclosure/elements/cookies_disclosure.php:28
 msgid "Allow Cookies"
-msgstr ""
+msgstr "Tillåt kakor"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:6
 msgid "Options"
@@ -40,39 +41,39 @@ msgstr "Alternativ"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:10
 msgid "Show Checkbox"
-msgstr ""
+msgstr "Visa kryssbox"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:11
 msgid "AJAX Submit"
-msgstr ""
+msgstr "AJAX skicka"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:17
 msgid "Accept Text"
-msgstr ""
+msgstr "Text för godkännande"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:20
 msgid "Leave empty if you don't want to show this"
-msgstr ""
+msgstr "Lämna tomt ifall du inte vill visa detta"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:26
 msgid "Button Text"
-msgstr ""
+msgstr "Knapptext"
 
 #: packages/free_cookies_disclosure/controller.php:11
 msgid "Free Cookies Disclosure"
-msgstr ""
+msgstr "Gratis tillägg för offentliggörande av kakor"
 
 #: packages/free_cookies_disclosure/controller.php:15
 msgid "Notify your users about EU Cookie Law."
-msgstr ""
+msgstr "Meddela dina användare om EU-lagen om kakor."
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:16
 msgid "Dark"
-msgstr ""
+msgstr "Mörk"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:16
 msgid "Light"
-msgstr ""
+msgstr "Ljus"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:23
 msgid "Custom"
@@ -80,26 +81,26 @@ msgstr "Egen"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:47
 msgid "Hide interval must be greater than zero!"
-msgstr ""
+msgstr "Intervallet för att dölja måste vara högre än noll!"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:65
 msgid "Cookies disclosure settings saved."
-msgstr ""
+msgstr "Inställningar för offentliggörande av kakor sparade."
 
 #: packages/free_cookies_disclosure/elements/cookies_disclosure.php:21
 msgid ""
 "This site uses cookies. Some of the cookies we use are essential for parts "
 "of the site to operate and have already been set. You may delete and block "
 "all cookies from this site, but parts of the site will not work."
-msgstr ""
+msgstr "Denna webbplats använder kakor. Vissa av kakorna vi använder är nödvändiga för att delar av webbplatsen ska fungera och har redan blivit satta. Du kan ta bort och blockera alla kakor från denna webbplats, men delar av webbplatsen kommer då inte att fungera."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:5
 msgid "Cookies Disclosure Settings"
-msgstr ""
+msgstr "Inställningar för offentliggörande av kakor"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:9
 msgid "Display Settings"
-msgstr ""
+msgstr "Visa inställningar"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:11
 msgid "Alignment"
@@ -107,101 +108,101 @@ msgstr "Justering"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:13
 msgid "Top of the Page"
-msgstr ""
+msgstr "Längst upp på sidan"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:13
 msgid "Bottom of the Page"
-msgstr ""
+msgstr "Längst ner på sidan"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:17
 msgid "Color Profile"
-msgstr ""
+msgstr "Färgprofil"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:25
 msgid "CSS Suffix for Color Profile"
-msgstr ""
+msgstr "CSS-sufix för färgprofil"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:28
 msgid ""
 "CSS file named cookies_disclosure_SUFFIX.css will be loaded from your "
 "{root}/css directory."
-msgstr ""
+msgstr "CSS-filen som heter cookies_disclosure_SUFFIX.css kommer att laddas från {root}/css-katalog."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:34
 msgid "Hide Interval"
-msgstr ""
+msgstr "Intervall för att dölja meddelandet"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:37
 msgid "In seconds (leave empty if you don't want to hide the notification)"
-msgstr ""
+msgstr "I sekunder (lämna tomt om du inte vill dölja meddelandet)"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:42
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:46
 msgid "Enable Debug Mode"
-msgstr ""
+msgstr "Aktivera debugläge"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:49
 msgid ""
 "When debug mode is enabled, the notification is visible although user "
 "would've already allowed cookies."
-msgstr ""
+msgstr "När debugläget är aktiverat, är meddelandet synligt även om användare redan tillåtit kakor."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:50
 msgid "This is handy when styling the debug notification box for your theme."
-msgstr ""
+msgstr "Detta är användbart när man ska designa debug-meddelandet för ditt tema."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:56
 msgid "Customize Notification Content"
-msgstr ""
+msgstr "Anpassat informationsmeddelande"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:58
 msgid "Cookies Disclosure - LANG"
-msgstr ""
+msgstr "Offentliggörande av kakor - LANG"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:58
 #, php-format
 msgid ""
 "If you want to customize the notification message, just create a stack for "
 "each language named: \"%s\" and add your content there."
-msgstr ""
+msgstr "Om du vill anpassa informationsmeddelandet, skapa bara en stack för varje språk som heter: \"%s\" och lägg till ditt innehåll där. "
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:59
 msgid ""
 "Replace the \"LANG\" with the 2-letter language code in uppercase you want "
 "to show the notification to."
-msgstr ""
+msgstr "Byt ut \"LANG\" med de tvåstaviga landskoderna i versaler som du vill visa informationsmeddelandet för."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:60
 msgid ""
 "For example, if you're running your site in English and Finnish, create the "
 "following stacks:"
-msgstr ""
+msgstr "Till exempel, om du driftar en webbplats på engelska och finska, skapa följande två stackar:"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:62
 msgid "Cookies Disclosure - EN"
-msgstr ""
+msgstr "Offentliggörande av kakor - EN"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:63
 msgid "Cookies Disclosure - FI"
-msgstr ""
+msgstr "Offentliggörande av kakor - FI"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:66
 msgid "Cookies Disclosure"
-msgstr ""
+msgstr "Offentliggörande av kakor"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:66
 #, php-format
 msgid ""
 "If you want to customize the notification message, just create a stack named"
 " \"%s\" and add your content there."
-msgstr ""
+msgstr "Om du vill anpassa informationsmeddelandet, skapa bara en stack som heter \"%s\" och lägg till ditt innehåll där."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:68
 msgid "Go to Stacks &raquo;"
-msgstr ""
+msgstr "Gå till Stackar &raquo;"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:72
 msgid "Save"
@@ -209,4 +210,4 @@ msgstr "Spara"
 
 #: packages/free_cookies_disclosure/tools/disclosure_i18n_js.php:4
 msgid "You need to allow cookies for this site!"
-msgstr ""
+msgstr "Du måste tillåta kakor på denna webbplats!"
