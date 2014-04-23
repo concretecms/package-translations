@@ -1,5 +1,5 @@
 {
-    "updated": 1398151878,
+    "updated": 1398238226,
     "packages": [
         {
             "handle": "addthis",
@@ -139,6 +139,13 @@
             "name": "Automatic Email Obfuscator",
             "sourceURL": "http://www.concrete5.org/download_file/-/39975/0/",
             "locales": {
+                "sv_SE": {
+                    "translated": 3,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 3,
+                    "perc": 100
+                },
                 "el_GR": {
                     "translated": 3,
                     "untranslated": 0,
@@ -427,11 +434,11 @@
                     "perc": 18
                 },
                 "sv_SE": {
-                    "translated": 21,
-                    "untranslated": 17,
+                    "translated": 38,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 55
+                    "perc": 100
                 },
                 "el_GR": {
                     "translated": 38,
@@ -560,11 +567,11 @@
                     "perc": 7
                 },
                 "sv_SE": {
-                    "translated": 1,
-                    "untranslated": 12,
+                    "translated": 13,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 13,
-                    "perc": 7
+                    "perc": 100
                 },
                 "el_GR": {
                     "translated": 13,
@@ -672,6 +679,13 @@
                     "perc": 100
                 },
                 "it_IT": {
+                    "translated": 11,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 11,
+                    "perc": 100
+                },
+                "sv_SE": {
                     "translated": 11,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -853,12 +867,19 @@
                     "total": 22,
                     "perc": 40
                 },
-                "el_GR": {
-                    "translated": 16,
-                    "untranslated": 6,
+                "sv_SE": {
+                    "translated": 22,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 22,
-                    "perc": 72
+                    "perc": 100
+                },
+                "el_GR": {
+                    "translated": 22,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 22,
+                    "perc": 100
                 },
                 "ja_JP": {
                     "translated": 22,
@@ -1029,18 +1050,18 @@
                     "perc": 4
                 },
                 "sv_SE": {
-                    "translated": 4,
-                    "untranslated": 40,
+                    "translated": 44,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 9
+                    "perc": 100
                 },
                 "el_GR": {
-                    "translated": 31,
-                    "untranslated": 13,
+                    "translated": 35,
+                    "untranslated": 9,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 70
+                    "perc": 79
                 },
                 "fi_FI": {
                     "translated": 4,
@@ -1547,11 +1568,11 @@
                     "perc": 100
                 },
                 "sv_SE": {
-                    "translated": 2,
-                    "untranslated": 17,
+                    "translated": 19,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 10
+                    "perc": 100
                 },
                 "el_GR": {
                     "translated": 19,
@@ -1673,11 +1694,11 @@
                     "perc": 16
                 },
                 "sv_SE": {
-                    "translated": 1,
-                    "untranslated": 5,
+                    "translated": 6,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 6,
-                    "perc": 16
+                    "perc": 100
                 },
                 "el_GR": {
                     "translated": 6,
@@ -2716,11 +2737,11 @@
                     "perc": 33
                 },
                 "sv_SE": {
-                    "translated": 10,
-                    "untranslated": 2,
+                    "translated": 12,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 12,
-                    "perc": 83
+                    "perc": 100
                 },
                 "el_GR": {
                     "translated": 12,
