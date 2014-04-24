@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-04-22 07:00+0000\n"
+"PO-Revision-Date: 2014-04-23 09:10+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: packages/db_case_sensitivity/controller.php:9
 msgid "Fixes the database table names to case sensitive."
-msgstr ""
+msgstr "Corregge i nomi delle tabelle nel database distinguendo le maiuscole dalle minuscole."
 
 #: packages/db_case_sensitivity/controller.php:13
 msgid "Database Case Sensitivity Migration"
-msgstr ""
+msgstr "Migrazione del database per maiuscole/minuscole"
 
 #: packages/db_case_sensitivity/controllers/dashboard/system/backup_restore/db_migration.php:24
 msgid "Migrated successfully!"
@@ -32,7 +32,7 @@ msgstr "Migrazione completata con successo!"
 #: packages/db_case_sensitivity/controllers/dashboard/system/backup_restore/db_migration.php:75
 #, php-format
 msgid "Cannot write to the following backup file: %s"
-msgstr ""
+msgstr "Impossibile scrivere nel file di backup %s"
 
 #: packages/db_case_sensitivity/controllers/dashboard/system/backup_restore/db_migration.php:80
 msgid "Successfully migrated your backup files!"
@@ -47,7 +47,7 @@ msgstr "Strumento di migrazione del database"
 msgid ""
 "This tool lets you easily convert your case insensitive database table names"
 " to case sensitive."
-msgstr ""
+msgstr "Questo strumento permette di convertire facilmente i nomi delle tabelle in modo da distinguere maiuscole e minuscole."
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:12
 msgid "Migrate Automatically"
@@ -56,25 +56,25 @@ msgstr "Migrazione automatica"
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:14
 msgid ""
 "If you want to migrate this site's table names, just click the button below."
-msgstr ""
+msgstr "Per migrare i nomi delle tabelle del sito fare clic sul pulsante sottostante."
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:17
 msgid ""
 "Your database is set to lower case mode and running this script "
 "automatically will not work!"
-msgstr ""
+msgstr "Il database è impostato in modalità minuscolo e l’esecuzione di questo script non funzionerà automaticamente!"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:18
 msgid ""
 "Please note that for you to be able to do this, you need to have following "
 "configuration in your MySQL server's my.cnf or my.ini."
-msgstr ""
+msgstr "Notare che per fare ciò è necessario avere questa impostazione del proprio file my.cnf o my.ini di MySQL."
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:20
 msgid ""
 "You can also run the script manually after you've moved the site by "
 "downloading the migration script below."
-msgstr ""
+msgstr "È anche possibile eseguire questo script manualmente dopo aver spostato il sito scaricando lo script di migrazione sottostante."
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:23
 msgid "Run Migration"
@@ -83,14 +83,14 @@ msgstr "Esegui migrazione"
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:27
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:30
 msgid "Migrate Backup Files"
-msgstr ""
+msgstr "File di backup della migrazione"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:29
 #, php-format
 msgid ""
 "Currently you have %d backup file(s) available. If you want to migrate these"
 " files, just click on the link below."
-msgstr ""
+msgstr "Al momento ci sono %d file di backup disponibili. Per migrare questi file fare clic sul collegamento sottostante."
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:34
 msgid "Manual Migration"
@@ -100,7 +100,7 @@ msgstr "Migrazione manuale"
 msgid ""
 "If you need to migrate your moved site download the SQL script below and run"
 " it on your database server to be migrated."
-msgstr ""
+msgstr "Per migrare il sito dopo averlo spostato, scaricare lo script SQL sottostante ed eseguirlo nel proprio database server per migrarlo."
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:37
 msgid "Download Migration Script"
@@ -115,11 +115,11 @@ msgid ""
 "Because concrete5 is open source and has a wide range of third party add-"
 "ons, this tool cannot guarantee that all the database tables are included in"
 " the migration."
-msgstr ""
+msgstr "Poiché concrete5 è open source e sono disponibili molte estensioni di terze parti, questo strumento non garantisce che tutte le tabelle siano incluse nella migrazione."
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:44
 msgid "These tables might also belong to some uninstalled add-on or add-ons."
-msgstr ""
+msgstr "Queste tabelle potrebbero riferirsi a qualche estensione disinstallata."
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:45
 msgid "These tables are missing from this site's database migration:"
