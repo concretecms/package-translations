@@ -1,5 +1,5 @@
 {
-    "updated": 1398238226,
+    "updated": 1398324624,
     "packages": [
         {
             "handle": "addthis",
@@ -139,6 +139,13 @@
             "name": "Automatic Email Obfuscator",
             "sourceURL": "http://www.concrete5.org/download_file/-/39975/0/",
             "locales": {
+                "it_IT": {
+                    "translated": 3,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 3,
+                    "perc": 100
+                },
                 "sv_SE": {
                     "translated": 3,
                     "untranslated": 0,
@@ -861,11 +868,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/35853/0/",
             "locales": {
                 "it_IT": {
-                    "translated": 9,
-                    "untranslated": 13,
+                    "translated": 22,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 22,
-                    "perc": 40
+                    "perc": 100
                 },
                 "sv_SE": {
                     "translated": 22,
@@ -1036,11 +1043,11 @@
                     "perc": 9
                 },
                 "it_IT": {
-                    "translated": 18,
-                    "untranslated": 26,
+                    "translated": 44,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 40
+                    "perc": 100
                 },
                 "lt_LT": {
                     "translated": 2,
