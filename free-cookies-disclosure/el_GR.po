@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-04-22 08:53+0000\n"
+"PO-Revision-Date: 2014-04-24 08:33+0000\n"
 "Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -167,42 +167,42 @@ msgstr "Γνωστοποίηση Cookies - ΓΛΩΣ"
 msgid ""
 "If you want to customize the notification message, just create a stack for "
 "each language named: \"%s\" and add your content there."
-msgstr ""
+msgstr "Αν θέλετε να προσαρμόσετε το μήνυμα ειδοποίησης, φτιάξτε μια στοίβα για κάθε γλώσσα και όνομα: \"%s\" και προσθέστε το περιεχόμενο εκεί. "
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:59
 msgid ""
 "Replace the \"LANG\" with the 2-letter language code in uppercase you want "
 "to show the notification to."
-msgstr ""
+msgstr "Αντικαταστήστε  το \"LANG\" με τον 2-ψήφιο κώδικα γλώσσας σε κεφαλαία που θέλετε να φαίνετε η ειδοποίηση. "
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:60
 msgid ""
 "For example, if you're running your site in English and Finnish, create the "
 "following stacks:"
-msgstr ""
+msgstr "Για παράδειγμα, αν θέλετε να τρέξετε το site σας σε αγγλικά και φινλανδικά, κάντε τις ακ'ολουθες στοίβες:"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:62
 msgid "Cookies Disclosure - EN"
-msgstr ""
+msgstr "Cookies Disclosure - EN"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:63
 msgid "Cookies Disclosure - FI"
-msgstr ""
+msgstr "Cookies Disclosure - FI"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:66
 msgid "Cookies Disclosure"
-msgstr ""
+msgstr "Cookies Disclosure"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:66
 #, php-format
 msgid ""
 "If you want to customize the notification message, just create a stack named"
 " \"%s\" and add your content there."
-msgstr ""
+msgstr "Αν θέλετε να προσαρμόσετε το μήνυμα ειδοποίησης, φτιάξτε μια στοίβα με όνομα: \"%s\" και προσθέστε το περιεχόμενο εκεί. "
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:68
 msgid "Go to Stacks &raquo;"
-msgstr ""
+msgstr "Πηγαίνετε στη Στοίβα &raquo;"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:72
 msgid "Save"
@@ -210,4 +210,4 @@ msgstr "Αποθήκευση"
 
 #: packages/free_cookies_disclosure/tools/disclosure_i18n_js.php:4
 msgid "You need to allow cookies for this site!"
-msgstr ""
+msgstr "Πρέπει να επιτρέψετε τα cookies σ' αυτό το site!"
