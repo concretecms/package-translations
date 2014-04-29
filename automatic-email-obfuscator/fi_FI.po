@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Hypocrite, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:07+0000\n"
-"PO-Revision-Date: 2014-04-19 13:10+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-04-28 10:50+0000\n"
+"Last-Translator: Hypocrite\n"
 "Language-Team: Finnish (Finland) (http://www.transifex.com/projects/p/concrete5-packages/language/fi_FI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,15 +21,15 @@ msgstr ""
 msgid ""
 "Automatically obfuscates all the e-mail addresses on your site to a form "
 "that most spambots cannot read."
-msgstr ""
+msgstr "Automaattisesti peittää kaikki sähköpostiosoitteet sivustollasi muotoon, jota useimmat roskapostittajien robotit eivät pysty lukemaan."
 
 #: packages/automatic_email_obfuscator/controller.php:19
 msgid "Automatic Email Obfuscator"
-msgstr ""
+msgstr "Automaattinen sähköpostiosoitteiden peittäjä"
 
 #: packages/automatic_email_obfuscator/libraries/email_obfuscator_default.php:15
 #, php-format
 msgid ""
 "The following email obfuscation callback does not exist: %s! Tried to add "
 "that for callback key: %s."
-msgstr ""
+msgstr "Seuraavaa sähköpostiosoitteiden peittokutsua ei ole olemassa: %s! Yritettiin lisätä sitä kutsuavaimeen: %s."
