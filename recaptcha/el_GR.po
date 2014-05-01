@@ -1,6 +1,6 @@
 # 
 # Translators:
-# Vasilis Fotopoulos <bas_alba@yahoo.com>, 2014
+# Vasilis Fotopoulos <basalba@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
