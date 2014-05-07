@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2014-04-21 14:14+0000\n"
+"PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Finnish (Finland) (http://www.transifex.com/projects/p/concrete5-packages/language/fi_FI/)\n"
 "MIME-Version: 1.0\n"
@@ -375,7 +375,7 @@ msgstr "Lisää"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:21
 msgid "Done"
-msgstr ""
+msgstr "Valmis"
 
 #: packages/data/single_pages/dashboard/data/administration/create.php:2
 msgid "Create Data Type"
