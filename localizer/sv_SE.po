@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-05 12:51+0000\n"
-"PO-Revision-Date: 2014-03-24 22:43+0000\n"
+"PO-Revision-Date: 2014-05-08 15:36+0000\n"
 "Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
@@ -36,15 +36,15 @@ msgstr "översätt särskilda poster, översättning, egenskapsnamn, egenskapsgr
 #: packages/localizer/controller.php:41
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:6
 msgid "Localizer options"
-msgstr "Alternativ för Lokaliseraren"
+msgstr "Inställningar för Lokaliseraren"
 
 #: packages/localizer/controller.php:41
 msgid "Set the Localizer options."
-msgstr "Ställ in alternativ för Lokaliseraren."
+msgstr "Fastställ inställningar för Lokaliseraren."
 
 #: packages/localizer/controller.php:44
 msgid "localizer options, options localizer"
-msgstr "Lokaliseringsalternativ, alternativ för Lokaliseraren."
+msgstr "Inställningar för Lokaliseraren"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:272
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:7
@@ -116,7 +116,7 @@ msgstr "Tillgänglig från concrete5 %s"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:49
 msgid "The options have been saved."
-msgstr "Alternativet har sparats."
+msgstr "Inställningarna har sparats."
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:68
 msgid "Please enable at least one item class to be translated."
@@ -248,7 +248,7 @@ msgstr "Kunde inte hitta gruppen med användargrupper med id '%s'"
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:420
 #, php-format
 msgid "Unable to find the select option value with id '%s'"
-msgstr "Kan inte hitta den valda alternativvärde med id '%s'"
+msgstr "Kan inte hitta det valda alternativvärdet med id '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:447
 #, php-format
@@ -307,4 +307,4 @@ msgstr "Språk"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:69
 msgid "Options"
-msgstr "Alternativ"
+msgstr "Inställningar"

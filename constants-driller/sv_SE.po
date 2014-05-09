@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-20 12:06+0000\n"
-"PO-Revision-Date: 2014-03-24 21:51+0000\n"
+"PO-Revision-Date: 2014-05-08 15:29+0000\n"
 "Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr "Ogiltig parameter: %s"
 msgid ""
 "You have to do a first-time scan (under the options pane available clicking "
 "the upper-right \"Option\" label)."
-msgstr "Du måste utföra en första-gångs-scanning (under alternativfönstret, klicka på den översta högra \"Alternativ\"-rubriken). "
+msgstr "Du måste utföra en första-gångs-scanning (under alternativfönstret, klicka på den översta högra rubriken som heter \"Inställningar\"). "
 
 #: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:175
 msgid "never accomplished"
@@ -113,7 +113,7 @@ msgstr "Konstant-letaren låter dig inspektera alla konstanter som används elle
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:213
 msgid "Options"
-msgstr "Alternativ"
+msgstr "Inställningar"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:215
 msgid "Rescan"

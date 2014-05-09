@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2014-04-21 14:14+0000\n"
+"PO-Revision-Date: 2014-05-08 11:31+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Asturian (Spain) (http://www.transifex.com/projects/p/concrete5-packages/language/ast_ES/)\n"
 "MIME-Version: 1.0\n"
@@ -101,7 +101,7 @@ msgstr ""
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:61
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:98
 msgid "** None"
-msgstr ""
+msgstr "** Un res"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:86
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:130
@@ -209,7 +209,7 @@ msgstr "Encaboxar"
 #: packages/data/elements/permission/lists/data_type.php:32
 #: packages/data/single_pages/dashboard/data/administration/edit.php:12
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: packages/data/models/attribute/types/data_simple_association/type_form.php:3
 msgid "Simple Association"
@@ -348,7 +348,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/delete.php:11
 #: packages/data/single_pages/dashboard/data/management/edit.php:12
 msgid "Delete"
-msgstr ""
+msgstr "Desaniciar"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:3
 #, php-format

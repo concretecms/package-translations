@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-08 19:44+0000\n"
-"PO-Revision-Date: 2014-04-22 14:32+0000\n"
+"PO-Revision-Date: 2014-05-08 15:37+0000\n"
 "Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
@@ -57,7 +57,7 @@ msgstr "Max höjd på miniatyrbild"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:25
 msgid "Options"
-msgstr "Alternativ"
+msgstr "Inställningar"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:28
 msgid "Hide original image when zoomed"
