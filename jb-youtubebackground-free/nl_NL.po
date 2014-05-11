@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:28+0000\n"
-"PO-Revision-Date: 2014-04-21 17:29+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-05-11 00:40+0000\n"
+"Last-Translator: Pam Banis\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,11 +18,11 @@ msgstr ""
 
 #: packages/jb_youtubebackground_free/blocks/jb_youtubebackground_free/form_setup_html.php:36
 msgid "4/3"
-msgstr ""
+msgstr "4/3"
 
 #: packages/jb_youtubebackground_free/blocks/jb_youtubebackground_free/form_setup_html.php:37
 msgid "16/9"
-msgstr ""
+msgstr "16/9"
 
 #: packages/jb_youtubebackground_free/blocks/jb_youtubebackground_free/form_setup_html.php:51
 msgid "Choose Image"
@@ -30,12 +30,12 @@ msgstr "Kies afbeelding"
 
 #: packages/jb_youtubebackground_free/blocks/jb_youtubebackground_free/view.php:11
 msgid "Background video disabled in edit mode."
-msgstr ""
+msgstr "Achtergrond video uitgeschakeld in de bewerkingsmodus."
 
 #: packages/jb_youtubebackground_free/controller.php:11
 msgid "Add YouTube video to page background"
-msgstr ""
+msgstr "YouTube-video toevoegen aan de achtergrond pagina"
 
 #: packages/jb_youtubebackground_free/controller.php:15
 msgid "YouTube Background FREE"
-msgstr ""
+msgstr "YouTube achtergrond gratis"
