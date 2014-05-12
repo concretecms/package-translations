@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-04 14:07+0000\n"
-"PO-Revision-Date: 2014-04-22 14:54+0000\n"
+"PO-Revision-Date: 2014-05-12 00:10+0000\n"
 "Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr "Omsluter block i ett HTML-element."
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:22
 #: packages/d3_block_wrapper/controller.php:15
 msgid "Block Wrapper"
-msgstr "Block-wrapper"
+msgstr "Block Wrapper"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:11
 msgid "Select template"
@@ -62,7 +62,7 @@ msgstr "Var vänlig att välja en anpassad mall för detta block för att anting
 
 #: packages/d3_block_wrapper/controller.php:11
 msgid "Installs a block called 'Block Wrapper'"
-msgstr "Installerar ett block som heter 'Block-wrapper'"
+msgstr "Installerar ett block som heter 'Block Wrapper'"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php
 msgctxt "TemplateFileName"

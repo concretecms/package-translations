@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:24+0100\n"
-"PO-Revision-Date: 2014-03-24 21:50+0000\n"
+"PO-Revision-Date: 2014-05-12 00:10+0000\n"
 "Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
@@ -23,13 +23,13 @@ msgstr ""
 msgid ""
 "Cover picture where you can add additional text that shows up when you hover"
 " the picture."
-msgstr "Täckbild där du kan lägga till ytterligare text som visas när du hovrar över bilden."
+msgstr "Cover Picture, där du kan lägga till ytterligare text som visas när du hovrar över bilden."
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/controller.php:15
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:8
 #: C:\Work\concrete5-cover-picture/controller.php:16
 msgid "Cover Picture"
-msgstr "Täckbild"
+msgstr "Cover Picture"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:11
 msgid "Picture"
