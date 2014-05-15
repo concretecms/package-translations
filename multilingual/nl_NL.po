@@ -1,12 +1,13 @@
 # 
 # Translators:
+# buurvrouw <info@hutspott.nl>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-03-27 23:02+0000\n"
-"Last-Translator: Pam Banis\n"
+"PO-Revision-Date: 2014-05-14 19:19+0000\n"
+"Last-Translator: buurvrouw <info@hutspott.nl>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -77,7 +78,7 @@ msgstr "Uitsluiten van Internationalization kopie"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:84
 msgid "You cannot assign this page to itself."
-msgstr "U kunt deze pagina toewijzen aan zelf."
+msgstr "U kunt deze pagina niet aan zichzelf toewijzen."
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:104
 msgid ""
@@ -101,7 +102,7 @@ msgstr "** Kies een taal"
 msgid ""
 "You must have admin privileges on the destination page to perform this "
 "action."
-msgstr "Op de bestemmingspagina voor het uitvoeren van dit moet u adminvoorrechten actie."
+msgstr "U dient over admin rechten voor de bestemmingspagina te beschikken voor het uitvoeren van deze actie."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:67
 msgid "You cannot read the original page."
@@ -109,7 +110,7 @@ msgstr "U kan de oorspronkelijke pagina niet lezen."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:116
 msgid "You must choose two separate, valid language sections."
-msgstr "U moet twee afzonderlijke, geldig taalafdelingen."
+msgstr "U moet twee afzonderlijke, geldige taalsecties kiezen."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:162
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:42
@@ -143,7 +144,7 @@ msgstr "Ongeldige taal sectie"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:234
 msgid "You must specify a page for this multilingual content section."
-msgstr "U moet een pagina voor deze meertalige inhoud sectie opgeven."
+msgstr "U moet een pagina opgeven voor deze meertalige inhoud sectie."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:242
 msgid "A language section page at this location already exists."
@@ -151,29 +152,29 @@ msgstr "Er bestaat al een taal sectie pagina op deze locatie."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:251
 msgid "This language/region combination already exists."
-msgstr "Deze combinatie van taal/regio al bestaat."
+msgstr "Deze combinatie van taal/regio bestaat al."
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:9
 msgid "Generate multilingual sitemap.xml File"
-msgstr "Genereren van meertalige sitemap.xml bestand"
+msgstr "Genereren van meertalig sitemap.xml bestand"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:14
 msgid ""
 "Generate the sitemap.xml file that search engines use to crawl your site "
 "with additional multilingual directives."
-msgstr "De sitemap.xml bestand genereren dat zoekmachines gebruiken om te crawlen van uw site met extra meertalige richtlijnen."
+msgstr "Het sitemap.xml bestand genereren dat zoekmachines gebruiken om uw site te crawlen met extra meertalige richtlijnen."
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:19
 msgid ""
 "This job is disabled because it may cause excessive load depending on the "
 "size of your site.  To enable this job, you must define the constant "
 "ENABLE_MULTILINGUAL_SITEMAPXML as true."
-msgstr "Deze baan is uitgeschakeld omdat dit leiden buitensporige belasting naar gelang van tot kan de grootte van uw site.  Als u wilt inschakelen deze baan, moet u de constante definiëren ENABLE_MULTILINGUAL_SITEMAPXML als waar."
+msgstr "Dit proces is uitgeschakeld omdat het kan leiden tot buitensporige belasting afhankelijk van de grootte van uw site.  Om dit proces in te schakelen, moet u deze constante definiëren ENABLE_MULTILINGUAL_SITEMAPXML als 'true'."
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:56
 #, php-format
 msgid "Cannot open file %s"
-msgstr "Kan niet openen bestand %s"
+msgstr "Kan bestand niet openen: %s"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:149
 #, php-format
@@ -191,7 +192,7 @@ msgstr "Kies Bron"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:19
 msgid "Choose Targets"
-msgstr "Doelstellingen kiezen"
+msgstr "Kies doelen"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:46
 msgid "Display"
@@ -199,23 +200,23 @@ msgstr "Weergave"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:54
 msgid "Only Missing Pages"
-msgstr "Alleen ontbrekende pagina 's"
+msgstr "Alleen ontbrekende pagina's"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:60
 msgid "All Pages"
-msgstr "Alle pagina 's"
+msgstr "Alle pagina's"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:68
 msgid "Filter Pages"
-msgstr "Filter pagina 's"
+msgstr "Filter pagina's"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:69
 msgid "By Name"
-msgstr "Door naam"
+msgstr "Op naam"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:74
 msgid "Go"
-msgstr "Gaan"
+msgstr "Ga"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:130
 msgid "Re-Map"
@@ -223,19 +224,19 @@ msgstr "Opnieuw toewijzen"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:132
 msgid "Map"
-msgstr "Kaart"
+msgstr "Toewijzen"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:138
 msgid "Create"
-msgstr "Maken"
+msgstr "Maak"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:142
 msgid "Ignore"
-msgstr "Negeren"
+msgstr "Negeer"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:148
 msgid "Create the parent page first."
-msgstr "De bovenliggende pagina eerst maken."
+msgstr "Maak eerst de bovenliggende pagina."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:158
 msgid "No pages found."
@@ -247,11 +248,11 @@ msgstr "Een pagina kiezen"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:210
 msgid "You have not defined any multilingual sections for your site yet."
-msgstr "U hebt geen meertalige secties niet nog gedefinieerd voor uw site."
+msgstr "U heeft nog geen meertalige secties gedefinieerd voor uw site."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:3
 msgid "Multilingual Content Setup"
-msgstr "Meertalige inhoud Setup"
+msgstr "Meertalige inhoud opzetten"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:5
 msgid "Content Sections"
@@ -272,7 +273,7 @@ msgstr "Pad"
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:30
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:120
 msgid "You have not created any multilingual content sections yet."
-msgstr "U hebt geen meertalige inhoud secties nog niet gemaakt."
+msgstr "U heeft nog geen meertalige inhoud secties gemaakt."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:33
 msgid "Add a Language"
@@ -293,14 +294,14 @@ msgstr "Inhoud sectie toevoegen"
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:78
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:135
 msgid "Copy Language Tree"
-msgstr "Kopie taal Tree"
+msgstr "Kopieer taal Tree"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:98
 msgid ""
 "Copy all pages from a language to another section. This will only copy pages"
 " that have not been associated. It will not replace or remove any pages from"
 " the destination section."
-msgstr "Kopieer alle pagina's van een taal naar een andere sectie. Dit zal alleen pagina's kopiëren die zijn niet geassocieerd. Het zal niet vervangen of verwijderen van alle pagina's van de sectie van de bestemming."
+msgstr "Kopieer alle pagina's van een taal naar een andere sectie. Dit zal alleen pagina's kopiëren die nog niet zijn geassocieerd. Het zal geen pagina's vervangen of verwijderen uit de sectie van de bestemming."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:100
 msgid "Copy From"
@@ -309,30 +310,30 @@ msgstr "Kopiëren"
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:105
 msgctxt "Destination"
 msgid "To"
-msgstr "Aan"
+msgstr "Naar"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:113
 msgid "Copy Tree"
-msgstr "Kopiëren van boom"
+msgstr "Kopieer boom"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:118
 msgid "You must have more than one multilingual section to use this tool."
-msgstr "U moet meer dan één meertalige sectie voor toepassing zulks werktuig."
+msgstr "Om deze tool te gebruiken moet u meer dan één meertalige sectie hebben."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:140
 msgid "You must choose two separate multilingual sections to copy from/to"
-msgstr "U moet twee aparte meertalige secties om te kopiëren van/naar kiezen"
+msgstr "U moet twee aparte taal secties selecteren om van/naar te kopiëren"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:151
 msgid "Only the super user may copy language trees."
-msgstr "Alleen de super gebruiker mag kopiëren taal bomen."
+msgstr "Alleen de 'super user' mag taal secties kopiëren"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:153
 msgid ""
 "Since one of your multilingual sections is the home page, you may not "
 "duplicate your site tree using this tool. You must manually assign pages "
 "using the page report."
-msgstr "Omdat een van uw meertalige secties de home page is, mag u niet dubbele uw website boomstructuur met behulp van deze tool. U moet pagina's handmatig toewijzen met behulp van het paginarapport."
+msgstr "Omdat een van uw meertalige secties de homepage is, mag u deze sectie niet dupliceren met behulp van deze tool. U moet handmatig de pagina's toewijzen met behulp van het paginarapport."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:158
 msgid "** None Set"
@@ -348,11 +349,11 @@ msgstr "Standaardtaal"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:186
 msgid "Attempt to use visitor's language based on their browser information."
-msgstr "Poging om van de bezoeker taal op basis van de browserinformatie van hun te gebruiken."
+msgstr "Probeer de te gebruiken taal voor de bezoeker op basis van hun browserinformatie vast te stellen"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:192
 msgid "Redirect home page to default language section."
-msgstr "Home pagina omleiden naar standaard taal sectie."
+msgstr "Homepage omleiden naar standaard taal."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:201
 msgid "Save Settings"
@@ -366,7 +367,7 @@ msgstr "% s: %s"
 #: packages/multilingual/tools/switch_language_for_page.php:47
 #, php-format
 msgid "Currently Viewing: %s"
-msgstr "Currently Viewing: %s"
+msgstr "Momenteel aan het bekijken: %s"
 
 #: packages/multilingual/tools/switch_language_for_page.php:48
 #, php-format
