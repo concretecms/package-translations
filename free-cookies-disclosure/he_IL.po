@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-04-21 14:14+0000\n"
+"PO-Revision-Date: 2014-06-05 20:32+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Hebrew (Israel) (http://www.transifex.com/projects/p/concrete5-packages/language/he_IL/)\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:26
 msgid "Button Text"
-msgstr ""
+msgstr "כפתור טקסט"
 
 #: packages/free_cookies_disclosure/controller.php:11
 msgid "Free Cookies Disclosure"
@@ -137,7 +137,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:42
 msgid "Debug"
-msgstr ""
+msgstr "ניפוי"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:46
 msgid "Enable Debug Mode"

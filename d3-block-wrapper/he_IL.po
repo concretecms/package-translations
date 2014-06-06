@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Gil Shwartz, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-04 14:07+0000\n"
-"PO-Revision-Date: 2014-04-21 17:28+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-06-06 01:00+0000\n"
+"Last-Translator: Gil Shwartz\n"
 "Language-Team: Hebrew (Israel) (http://www.transifex.com/projects/p/concrete5-packages/language/he_IL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,57 +19,57 @@ msgstr ""
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:18
 msgid "Meant to wrap blocks in an HTML-element"
-msgstr ""
+msgstr "מיועד לעטוף בלוקים באלמנט HTML"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:22
 #: packages/d3_block_wrapper/controller.php:15
 msgid "Block Wrapper"
-msgstr ""
+msgstr "עטיפת בלוקים"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:11
 msgid "Select template"
-msgstr ""
+msgstr "בחירת תבנית"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:42
 msgid "Block Title (Optional)"
-msgstr ""
+msgstr "כותרת בלוק (אופציונלי)"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:53
 msgid "Extra CSS classes"
-msgstr ""
+msgstr "מחלקות CSS נוספות"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:64
 msgid "Extra HTML attribute"
-msgstr ""
+msgstr "תכונת HTML נוספת"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:75
 msgid "Link to page"
-msgstr ""
+msgstr "קישור לעמוד"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php:7
 msgid "Close Wrapper"
-msgstr ""
+msgstr "סגירת עטיפה"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php:13
 msgid "Open Wrapper"
-msgstr ""
+msgstr "פתיחת עטיפה"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/view.php:4
 msgid ""
 "Please select a custom template for this block to either open or close the "
 "wrapper"
-msgstr ""
+msgstr "יש לבחור תבנית מותאמת אישית לבלוק זה כדי לפתוח או לסגור את עטיפה"
 
 #: packages/d3_block_wrapper/controller.php:11
 msgid "Installs a block called 'Block Wrapper'"
-msgstr ""
+msgstr "מתקין בלוק הקרוי \"עטיפת בלוקים\""
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php
 msgctxt "TemplateFileName"
 msgid "Close"
-msgstr "סגור"
+msgstr "סגירה"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php
 msgctxt "TemplateFileName"
 msgid "Open"
-msgstr ""
+msgstr "פתיחה"

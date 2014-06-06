@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Gil Shwartz, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:33+0100\n"
-"PO-Revision-Date: 2014-04-21 14:14+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-06-06 00:50+0000\n"
+"Last-Translator: Gil Shwartz\n"
 "Language-Team: Hebrew (Israel) (http://www.transifex.com/projects/p/concrete5-packages/language/he_IL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,12 +31,12 @@ msgstr "הגישה נדחתה."
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:30
 msgid "Display a group of images in a slider."
-msgstr ""
+msgstr "הצגת קבוצת תמונות במציג תמונות."
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:34
 #: C:\Work\addon_image_slider/packages/image_slider/controller.php:16
 msgid "Image Slider"
-msgstr ""
+msgstr "מציג תמונות"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:39
 msgid "Choose Image/File"
@@ -51,7 +52,7 @@ msgstr "אנא בחר סדרת קבצים."
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:18
 msgid "Choose Images"
-msgstr ""
+msgstr "בחירת תמונות"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:19
 msgid "Options"
@@ -59,40 +60,40 @@ msgstr "אפשרויות"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:24
 msgid "Looping"
-msgstr ""
+msgstr "חזרתיות"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:25
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:34
 msgid "The images should:"
-msgstr ""
+msgstr "התמונות צריכות:"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:27
 msgid "loop continuously"
-msgstr ""
+msgstr "לחזור על עצמן באופן אינסופי"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:28
 msgid "have a beginning and an end"
-msgstr ""
+msgstr "להתחיל ולהסתיים אחרי רצף אחד"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:33
 msgid "Transition Type"
-msgstr ""
+msgstr "סוג מעברון"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:36
 msgid "fade between images"
-msgstr ""
+msgstr "עמעום בין תמונות"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:37
 msgid "scroll horizontally"
-msgstr ""
+msgstr "זחילה אופקית"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:38
 msgid "scroll vertically"
-msgstr ""
+msgstr "זחילה אנכית"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:43
 msgid "Playback Controls"
-msgstr ""
+msgstr "פקדי הפעלה"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:49
 msgid "None"
@@ -100,35 +101,35 @@ msgstr "אף אחד"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:56
 msgid "Arrows on Edges"
-msgstr ""
+msgstr "חיצים בשוליים"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:63
 msgid "Movie-Style Controls, in"
-msgstr ""
+msgstr "מיקום פקדים דמויי-סרט:"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:65
 msgid "Upper Left Corner"
-msgstr ""
+msgstr "פינה שמאלית עליונה"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:66
 msgid "Lower Left Corner"
-msgstr ""
+msgstr "פינה שמאלית תחתונה"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:67
 msgid "Upper Right Corner"
-msgstr ""
+msgstr "פינה ימנית עליונה"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:68
 msgid "Lower Right Corner"
-msgstr ""
+msgstr "פינה ימנית תחתונה"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:76
 msgid "Include play/pause button."
-msgstr ""
+msgstr "לכלול גם כפתור הצגה/עצירה."
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:92
 msgid "Autoplay"
-msgstr ""
+msgstr "הצגה אוטומטית"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:93
 msgid "No"
@@ -140,12 +141,12 @@ msgstr "כן"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:99
 msgid "Display Duration"
-msgstr ""
+msgstr "הצגת משך זמן"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:104
 #, php-format
 msgid "While playing, display each image for %s seconds."
-msgstr ""
+msgstr "בזמן הצגה, הצג כל תמונה למשך %s שניות."
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:118
 msgid "Type"
@@ -153,15 +154,15 @@ msgstr "סוג"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:120
 msgid "Custom Slider"
-msgstr ""
+msgstr "מציג מותאם אישית"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:121
 msgid "Images from File Set"
-msgstr ""
+msgstr "תמונות מאוסף קבצים"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:125
 msgid "Order"
-msgstr ""
+msgstr "סדר"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:127
 msgid "Display Order"
@@ -169,7 +170,7 @@ msgstr "סדר תצוגה"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:128
 msgid "Random"
-msgstr ""
+msgstr "אקראי"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:136
 msgid "Add Image"
@@ -177,4 +178,4 @@ msgstr "הוספת תמונה"
 
 #: C:\Work\addon_image_slider/packages/image_slider/controller.php:12
 msgid "Provides a full-featured image slider."
-msgstr ""
+msgstr "מספק מציג תמונות עשיר."

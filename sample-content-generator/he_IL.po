@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:30+0100\n"
-"PO-Revision-Date: 2014-04-21 14:14+0000\n"
+"PO-Revision-Date: 2014-06-06 00:20+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Hebrew (Israel) (http://www.transifex.com/projects/p/concrete5-packages/language/he_IL/)\n"
 "MIME-Version: 1.0\n"
@@ -49,7 +49,7 @@ msgstr "חזרה"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:16
 msgid "Data"
-msgstr ""
+msgstr "נתונים"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:24
 msgid "Archive Files."

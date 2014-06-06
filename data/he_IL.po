@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Gil Shwartz, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2014-04-21 14:14+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-06-06 00:39+0000\n"
+"Last-Translator: Gil Shwartz\n"
 "Language-Team: Hebrew (Israel) (http://www.transifex.com/projects/p/concrete5-packages/language/he_IL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,49 +20,49 @@ msgstr ""
 #: packages/data/controller.php:11
 #: packages/data/single_pages/dashboard/data/management/view.php:2
 msgid "Data"
-msgstr ""
+msgstr "נתונים"
 
 #: packages/data/controller.php:15
 msgid "Data for concrete5"
-msgstr ""
+msgstr "נתונים עבר קונקרט5"
 
 #: packages/data/controller.php:60
 msgid "Data Simple Association"
-msgstr ""
+msgstr "קישור נתונים פשוט"
 
 #: packages/data/controller.php:61
 msgid "Data Single Child Association"
-msgstr ""
+msgstr "קישור נתונים מסוג ילד יחיד"
 
 #: packages/data/controller.php:126 packages/data/controller.php:127
 msgid "View Data Type"
-msgstr ""
+msgstr "הצגת סוג נתון"
 
 #: packages/data/controller.php:130 packages/data/controller.php:131
 #: packages/data/single_pages/dashboard/data/administration/delete.php:2
 #: packages/data/single_pages/dashboard/data/administration/edit.php:2
 msgid "Edit Data Type"
-msgstr ""
+msgstr "עריכת סוג נתון"
 
 #: packages/data/controller.php:134 packages/data/controller.php:135
 msgid "Delete Data Type"
-msgstr ""
+msgstr "מחיקת סוג נתון"
 
 #: packages/data/controller.php:138 packages/data/controller.php:139
 msgid "Edit Data Type Permissions"
-msgstr ""
+msgstr "עריכת הרשאות סוג נתון"
 
 #: packages/data/controller.php:142 packages/data/controller.php:143
 msgid "Edit Data"
-msgstr ""
+msgstr "עריכת נתון"
 
 #: packages/data/controller.php:146 packages/data/controller.php:147
 msgid "Delete Data"
-msgstr ""
+msgstr "מחיקת נתון"
 
 #: packages/data/controller.php:150 packages/data/controller.php:151
 msgid "Create Data"
-msgstr ""
+msgstr "יצירת נתון"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:12
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:40
@@ -72,7 +73,7 @@ msgstr ""
 #: packages/data/controllers/dashboard/data/administration/controller.php:163
 #: packages/data/controllers/dashboard/data/management/controller.php:15
 msgid "Data Type Not Found"
-msgstr ""
+msgstr "סוג נתון לא נמצא"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:27
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:117
@@ -82,15 +83,15 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/view.php:2
 #: packages/data/single_pages/dashboard/data/management/view.php:5
 msgid "Data Type"
-msgstr ""
+msgstr "סוג נתון"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:45
 msgid "Attribute Type Not Found"
-msgstr ""
+msgstr "סוג תכונה לא נמצא"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:56
 msgid "Attribute Added"
-msgstr ""
+msgstr "תכונה הוספה בהצלחה"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:59
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:95
@@ -106,11 +107,11 @@ msgstr "** אין"
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:86
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:130
 msgid "Attribute Key Not Found"
-msgstr ""
+msgstr "מפתח תכונה לא נמצא"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:92
 msgid "Attribute Updated"
-msgstr ""
+msgstr "תכונה עודכנה בהצלחה"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:118
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:143
@@ -122,18 +123,18 @@ msgstr "תכונות"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:135
 msgid "Attribute Deleted"
-msgstr ""
+msgstr "תכונה נמחקה בהצלחה"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:27
 #: packages/data/controllers/dashboard/data/administration/controller.php:45
 #: packages/data/controllers/dashboard/data/administration/controller.php:120
 #: packages/data/controllers/dashboard/data/administration/controller.php:201
 msgid "Data Types"
-msgstr ""
+msgstr "סוגי נתונים"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:76
 msgid "Data Type Created"
-msgstr ""
+msgstr "סוג נתון נוצר בהצלחה"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:91
 #: packages/data/controllers/dashboard/data/administration/controller.php:137
@@ -143,7 +144,7 @@ msgstr "הגישה נדחתה"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:107
 msgid "Data Type Updated"
-msgstr ""
+msgstr "סוג נתון עודכן בהצלחה"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:121
 #: packages/data/controllers/dashboard/data/administration/controller.php:151
@@ -152,7 +153,7 @@ msgstr "תצוגה"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:143
 msgid "Data Type Deleted"
-msgstr ""
+msgstr "סוג נתון נמחק בהצלחה"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:150
 #: packages/data/controllers/dashboard/data/management/controller.php:153
@@ -165,15 +166,15 @@ msgstr "עריכה"
 #: packages/data/controllers/dashboard/data/administration/controller.php:178
 #: packages/data/controllers/dashboard/data/administration/controller.php:184
 msgid "Invalid File"
-msgstr ""
+msgstr "קובץ לא חוקי"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:188
 msgid "File must be .xml"
-msgstr ""
+msgstr "הקובץ חייב להיות מסוג xml."
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:196
 msgid "Data Type Imported"
-msgstr ""
+msgstr "סוג נתון יובא בהצלחה"
 
 #: packages/data/controllers/dashboard/data/management/controller.php:29
 #: packages/data/controllers/dashboard/data/management/controller.php:66
@@ -185,15 +186,15 @@ msgstr "חיפוש"
 
 #: packages/data/controllers/dashboard/data/management/controller.php:61
 msgid "Data Created"
-msgstr ""
+msgstr "הנתון נוצר בהצלחה"
 
 #: packages/data/controllers/dashboard/data/management/controller.php:107
 msgid "Data Updated"
-msgstr ""
+msgstr "הנתון עודכן בהצלחה"
 
 #: packages/data/controllers/dashboard/data/management/controller.php:141
 msgid "Data Deleted"
-msgstr ""
+msgstr "הנתון נמחק בהצלחה"
 
 #: packages/data/elements/permission/lists/data_type.php:31
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:50
@@ -213,19 +214,19 @@ msgstr "שמירה"
 
 #: packages/data/models/attribute/types/data_simple_association/type_form.php:3
 msgid "Simple Association"
-msgstr ""
+msgstr "קישור פשוט"
 
 #: packages/data/models/attribute/types/data_simple_association/type_form.php:12
 msgid "Allow Mutliple Associations"
-msgstr ""
+msgstr "התרת מספר קשרים מרובה"
 
 #: packages/data/models/attribute/types/data_single_child_association/type_form.php:3
 msgid "Single Child Association"
-msgstr ""
+msgstr "קישור מסוג ילד יחיד"
 
 #: packages/data/models/data.php:157 packages/data/models/data_type.php:86
 msgid "Invalid Element"
-msgstr ""
+msgstr "אלמנט לא חוקי"
 
 #: packages/data/models/data.php:161
 msgid "DataType handle dtHandle not found"
@@ -233,42 +234,42 @@ msgstr ""
 
 #: packages/data/models/data.php:165
 msgid "DataType not found"
-msgstr ""
+msgstr "סוג נתון לא נמצא"
 
 #: packages/data/models/data_type.php:125
 msgid "Maximum Name length is 255 characters"
-msgstr ""
+msgstr "אורך שם מרבי הוא 255 תווים"
 
 #: packages/data/models/data_type.php:128
 msgid "Maximum Handle length is 255 characters"
-msgstr ""
+msgstr "אורך ידית מרבי הוא 255 תווים"
 
 #: packages/data/models/data_type.php:131
 msgid "Handle can only contain a-z 0-9 and _"
-msgstr ""
+msgstr "ידית יכולת להכיל רק את התווים a-z 0-9 והתו _"
 
 #: packages/data/models/data_type.php:134
 msgid "Name is required"
-msgstr "שם חובה"
+msgstr "חובה לציין שם"
 
 #: packages/data/models/data_type.php:137
 msgid "Handle is required"
-msgstr ""
+msgstr "חובה לציין ידית"
 
 #: packages/data/models/data_type.php:148
 #, php-format
 msgid "Name already in use by %s"
-msgstr ""
+msgstr "השם כבר בשימוש על ידי %s"
 
 #: packages/data/models/data_type.php:155
 #, php-format
 msgid "Handle already in use by %s"
-msgstr ""
+msgstr "הידית כבר בשימוש על ידי %s"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:3
 #, php-format
 msgid "Add %s Attribute"
-msgstr ""
+msgstr "הוספת התכונה %s"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:8
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:8
@@ -323,23 +324,23 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/create.php:11
 #: packages/data/single_pages/dashboard/data/management/search.php:29
 msgid "Create"
-msgstr ""
+msgstr "יצירה"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:3
 #, php-format
 msgid "Delete %s Attribute"
-msgstr ""
+msgstr "מחיקת תכונה %s"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:6
 #: packages/data/single_pages/dashboard/data/management/delete.php:6
 msgid "Warning"
-msgstr ""
+msgstr "אזהרה"
 
 #. %s is an attribute name
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:7
 #, php-format
 msgid "You are about to delete the attribute \"%s\". There is no undo."
-msgstr ""
+msgstr "התכונה %s עומדת להימחק באופן סופי ללא יכולת להתחרט."
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:11
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:50
@@ -353,7 +354,7 @@ msgstr "מחיקה"
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:3
 #, php-format
 msgid "Edit %s Attribute"
-msgstr ""
+msgstr "עריכת התכונה %s"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:49
 #: packages/data/single_pages/dashboard/data/management/edit.php:11
@@ -363,7 +364,7 @@ msgstr "עדכון"
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:2
 #, php-format
 msgid "%s Attributes"
-msgstr ""
+msgstr "%s תכונות"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:11
 msgid "Add Attribute"
@@ -375,28 +376,28 @@ msgstr "הוספה"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:21
 msgid "Done"
-msgstr ""
+msgstr "הסתיים"
 
 #: packages/data/single_pages/dashboard/data/administration/create.php:2
 msgid "Create Data Type"
-msgstr ""
+msgstr "יצירת סוג נתון"
 
 #: packages/data/single_pages/dashboard/data/administration/import.php:2
 msgid "Import Data Type"
-msgstr ""
+msgstr "יבוא סוג נתון"
 
 #: packages/data/single_pages/dashboard/data/administration/import.php:9
 #: packages/data/single_pages/dashboard/data/administration/search.php:6
 msgid "Import"
-msgstr ""
+msgstr "יבוא"
 
 #: packages/data/single_pages/dashboard/data/administration/search.php:2
 msgid "Data Type Administration"
-msgstr ""
+msgstr "ניהול סוגי נתונים"
 
 #: packages/data/single_pages/dashboard/data/administration/search.php:15
 msgid "No Data Types found"
-msgstr ""
+msgstr "לא נמצא כל סוג נתון"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:11
 msgid "Type"
@@ -404,7 +405,7 @@ msgstr "סוג"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:14
 msgid "No attributes found"
-msgstr ""
+msgstr "לא נמצאו כל פרטים"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:31
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
@@ -413,7 +414,7 @@ msgstr "הרשאות"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Metadata"
-msgstr ""
+msgstr "מטא-נתונים"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Export"
@@ -421,7 +422,7 @@ msgstr "ייצוא"
 
 #: packages/data/single_pages/dashboard/data/management/data_types.php:2
 msgid "Data Type Management"
-msgstr ""
+msgstr "ניהול סוגי נתונים"
 
 #: packages/data/single_pages/dashboard/data/management/delete.php:3
 msgid "Delete Attribute"
@@ -431,8 +432,8 @@ msgstr "מחק תכונה"
 #: packages/data/single_pages/dashboard/data/management/delete.php:7
 #, php-format
 msgid "You are about to delete %s. There is no undo."
-msgstr ""
+msgstr "%s עומד להימחק באופן סופי ללא יכולת להתחרט."
 
 #: packages/data/single_pages/dashboard/data/management/view.php:10
 msgid "Value"
-msgstr ""
+msgstr "ערך"
