@@ -1,5 +1,5 @@
 {
-    "updated": 1401953422,
+    "updated": 1402039825,
     "packages": [
         {
             "handle": "addthis",
@@ -119,11 +119,11 @@
                     "perc": 100
                 },
                 "he_IL": {
-                    "translated": 1,
-                    "untranslated": 4,
+                    "translated": 4,
+                    "untranslated": 1,
                     "fuzzy": 0,
                     "total": 5,
-                    "perc": 20
+                    "perc": 80
                 },
                 "fa_IR": {
                     "translated": 1,
@@ -672,11 +672,11 @@
                     "perc": 7
                 },
                 "he_IL": {
-                    "translated": 1,
-                    "untranslated": 12,
+                    "translated": 13,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 13,
-                    "perc": 7
+                    "perc": 100
                 },
                 "fa_IR": {
                     "translated": 1,
@@ -735,6 +735,13 @@
                     "perc": 100
                 },
                 "vi_VN": {
+                    "translated": 11,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 11,
+                    "perc": 100
+                },
+                "he_IL": {
                     "translated": 11,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -861,11 +868,11 @@
                     "perc": 100
                 },
                 "he_IL": {
-                    "translated": 23,
-                    "untranslated": 60,
+                    "translated": 80,
+                    "untranslated": 3,
                     "fuzzy": 0,
                     "total": 83,
-                    "perc": 27
+                    "perc": 96
                 },
                 "fa_IR": {
                     "translated": 28,
@@ -1169,11 +1176,11 @@
                     "perc": 9
                 },
                 "he_IL": {
-                    "translated": 4,
-                    "untranslated": 40,
+                    "translated": 6,
+                    "untranslated": 38,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 9
+                    "perc": 13
                 },
                 "fa_IR": {
                     "translated": 4,
@@ -1302,11 +1309,11 @@
                     "perc": 100
                 },
                 "he_IL": {
-                    "translated": 18,
-                    "untranslated": 13,
+                    "translated": 31,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 31,
-                    "perc": 58
+                    "perc": 100
                 },
                 "fa_IR": {
                     "translated": 18,
@@ -1435,11 +1442,11 @@
                     "perc": 100
                 },
                 "he_IL": {
-                    "translated": 11,
-                    "untranslated": 27,
+                    "translated": 38,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 28
+                    "perc": 100
                 },
                 "fa_IR": {
                     "translated": 11,
@@ -2205,11 +2212,11 @@
                     "perc": 100
                 },
                 "he_IL": {
-                    "translated": 14,
-                    "untranslated": 71,
+                    "translated": 15,
+                    "untranslated": 70,
                     "fuzzy": 0,
                     "total": 85,
-                    "perc": 16
+                    "perc": 17
                 },
                 "fa_IR": {
                     "translated": 14,
@@ -2723,11 +2730,11 @@
                     "perc": 100
                 },
                 "he_IL": {
-                    "translated": 4,
-                    "untranslated": 9,
+                    "translated": 5,
+                    "untranslated": 8,
                     "fuzzy": 0,
                     "total": 13,
-                    "perc": 30
+                    "perc": 38
                 },
                 "fa_IR": {
                     "translated": 5,
