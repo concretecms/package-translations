@@ -1,5 +1,5 @@
 {
-    "updated": 1402299022,
+    "updated": 1402385429,
     "packages": [
         {
             "handle": "addthis",
@@ -98,11 +98,11 @@
                     "perc": 40
                 },
                 "ja_JP": {
-                    "translated": 1,
-                    "untranslated": 4,
+                    "translated": 5,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 5,
-                    "perc": 20
+                    "perc": 100
                 },
                 "da_DK": {
                     "translated": 1,
@@ -273,11 +273,11 @@
                     "perc": 3
                 },
                 "ja_JP": {
-                    "translated": 5,
-                    "untranslated": 28,
+                    "translated": 6,
+                    "untranslated": 27,
                     "fuzzy": 0,
                     "total": 33,
-                    "perc": 15
+                    "perc": 18
                 },
                 "da_DK": {
                     "translated": 33,
@@ -741,6 +741,13 @@
                     "total": 11,
                     "perc": 100
                 },
+                "ja_JP": {
+                    "translated": 11,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 11,
+                    "perc": 100
+                },
                 "he_IL": {
                     "translated": 11,
                     "untranslated": 0,
@@ -854,11 +861,11 @@
                     "perc": 100
                 },
                 "da_DK": {
-                    "translated": 25,
-                    "untranslated": 58,
+                    "translated": 26,
+                    "untranslated": 57,
                     "fuzzy": 0,
                     "total": 83,
-                    "perc": 30
+                    "perc": 31
                 },
                 "zh_TW": {
                     "translated": 83,
@@ -922,6 +929,104 @@
                     "fuzzy": 0,
                     "total": 22,
                     "perc": 100
+                }
+            }
+        },
+        {
+            "handle": "dh-multilingual-content",
+            "name": "DH Multilingual Content",
+            "sourceURL": "https://bitbucket.org/hdarragi/dh_multilingual_content/src/",
+            "locales": {
+                "de_DE": {
+                    "translated": 1,
+                    "untranslated": 8,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 11
+                },
+                "it_IT": {
+                    "translated": 9,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 100
+                },
+                "sv_SE": {
+                    "translated": 9,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 100
+                },
+                "el_GR": {
+                    "translated": 9,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 100
+                },
+                "fi_FI": {
+                    "translated": 1,
+                    "untranslated": 8,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 11
+                },
+                "fr_FR": {
+                    "translated": 1,
+                    "untranslated": 8,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 11
+                },
+                "nl_NL": {
+                    "translated": 1,
+                    "untranslated": 8,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 11
+                },
+                "ru_RU": {
+                    "translated": 1,
+                    "untranslated": 8,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 11
+                },
+                "sl_SI": {
+                    "translated": 1,
+                    "untranslated": 8,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 11
+                },
+                "vi_VN": {
+                    "translated": 1,
+                    "untranslated": 8,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 11
+                },
+                "ja_JP": {
+                    "translated": 1,
+                    "untranslated": 8,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 11
+                },
+                "da_DK": {
+                    "translated": 1,
+                    "untranslated": 8,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 11
+                },
+                "zh_TW": {
+                    "translated": 1,
+                    "untranslated": 8,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 11
                 }
             }
         },
@@ -1022,11 +1127,11 @@
                     "perc": 2
                 },
                 "ja_JP": {
-                    "translated": 10,
-                    "untranslated": 27,
+                    "translated": 36,
+                    "untranslated": 1,
                     "fuzzy": 0,
                     "total": 37,
-                    "perc": 27
+                    "perc": 97
                 },
                 "da_DK": {
                     "translated": 7,
@@ -1162,11 +1267,11 @@
                     "perc": 9
                 },
                 "da_DK": {
-                    "translated": 4,
-                    "untranslated": 40,
+                    "translated": 6,
+                    "untranslated": 38,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 9
+                    "perc": 13
                 },
                 "zh_TW": {
                     "translated": 4,
@@ -1554,11 +1659,11 @@
                     "perc": 7
                 },
                 "da_DK": {
-                    "translated": 3,
-                    "untranslated": 36,
+                    "translated": 4,
+                    "untranslated": 35,
                     "fuzzy": 0,
                     "total": 39,
-                    "perc": 7
+                    "perc": 10
                 },
                 "zh_TW": {
                     "translated": 39,
@@ -1666,11 +1771,11 @@
                     "perc": 10
                 },
                 "ja_JP": {
-                    "translated": 2,
-                    "untranslated": 17,
+                    "translated": 6,
+                    "untranslated": 13,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 10
+                    "perc": 31
                 },
                 "da_DK": {
                     "translated": 2,
@@ -1792,11 +1897,11 @@
                     "perc": 16
                 },
                 "ja_JP": {
-                    "translated": 1,
-                    "untranslated": 5,
+                    "translated": 6,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 6,
-                    "perc": 16
+                    "perc": 100
                 },
                 "da_DK": {
                     "translated": 1,
@@ -2709,11 +2814,11 @@
                     "perc": 53
                 },
                 "ja_JP": {
-                    "translated": 7,
-                    "untranslated": 6,
+                    "translated": 13,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 13,
-                    "perc": 53
+                    "perc": 100
                 },
                 "da_DK": {
                     "translated": 4,
