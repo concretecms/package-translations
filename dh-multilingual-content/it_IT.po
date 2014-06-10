@@ -1,0 +1,57 @@
+# 
+# Translators:
+# Michele Locati <michele@locati.it>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-09 14:37+0000\n"
+"PO-Revision-Date: 2014-06-09 15:00+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:30
+#: packages/dh_multilingual_content/controller.php:15
+msgid "Multilingual HTML/WYSIWYG Editor Content."
+msgstr "Editor HTML/WYSIWYG di contenuto multilingua."
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:34
+#: packages/dh_multilingual_content/controller.php:19
+msgid "Multilingual Content"
+msgstr "Contenuto multilingua"
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:58
+msgid "Sorry, the block cannot be added."
+msgstr "Spiacente, non è possibile aggiungere il blocco."
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:13
+msgid "This block is designed for multilingual sites"
+msgstr "Il blocco è pensato per siti multilingua"
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:14
+msgid "please add languages to your site"
+msgstr "aggiungere lungue al proprio sito"
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:19
+msgid "This block is designed to be added in a sitewide area"
+msgstr "Questo blocco è pensato per essere aggiunto ad aree globali"
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:20
+msgid "otherwise you may use standard content block"
+msgstr "altrimenti è possibile utilizzare il blocco Contenuto predefinito"
+
+#: packages/dh_multilingual_content/controller.php:25
+msgid "Internationalization"
+msgstr "Internazionalizzazione"
+
+#: packages/dh_multilingual_content/controller.php:25
+#, php-format
+msgid "You must have the %s add-on installed in order to use this add-on!"
+msgstr "È necessario che l’estensione %s sia installata per utilizzare questa estensione!"

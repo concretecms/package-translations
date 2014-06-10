@@ -1,0 +1,57 @@
+# 
+# Translators:
+# Fredrik Lindau <fredrik@fxlindau.se>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-09 14:37+0000\n"
+"PO-Revision-Date: 2014-06-09 16:51+0000\n"
+"Last-Translator: Fredrik Lindau <fredrik@fxlindau.se>\n"
+"Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:30
+#: packages/dh_multilingual_content/controller.php:15
+msgid "Multilingual HTML/WYSIWYG Editor Content."
+msgstr "Flerspråkigt HTML/WYSIWYG innehållseditor."
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:34
+#: packages/dh_multilingual_content/controller.php:19
+msgid "Multilingual Content"
+msgstr "Flerspråkigt innehåll"
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:58
+msgid "Sorry, the block cannot be added."
+msgstr "Tyvärr, ditt block kan inte läggas till."
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:13
+msgid "This block is designed for multilingual sites"
+msgstr "Detta block är designat för flerspråkiga webbplatser"
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:14
+msgid "please add languages to your site"
+msgstr "Lägg till språk på din webbplats"
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:19
+msgid "This block is designed to be added in a sitewide area"
+msgstr "Detta block är designat för att läggas till i globala ytor"
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:20
+msgid "otherwise you may use standard content block"
+msgstr "annars kan du använda vanliga innehållsblock"
+
+#: packages/dh_multilingual_content/controller.php:25
+msgid "Internationalization"
+msgstr "Internationalisering"
+
+#: packages/dh_multilingual_content/controller.php:25
+#, php-format
+msgid "You must have the %s add-on installed in order to use this add-on!"
+msgstr "Du måste ha %s tillägget installerat för att kunna använda detta tillägg!"
