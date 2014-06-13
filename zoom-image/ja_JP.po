@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Katz Ueno <katzueno@deerstudio.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-08 19:44+0000\n"
-"PO-Revision-Date: 2014-04-21 14:13+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-06-13 01:40+0000\n"
+"Last-Translator: Katz Ueno <katzueno@deerstudio.com>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/concrete5-packages/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +25,7 @@ msgstr "ライブラリに保存された画像とマウスオーバー画像を
 #: packages/zoom_image/blocks/zoom_image/controller.php:21
 #: packages/zoom_image/controller.php:16
 msgid "Zoom Image"
-msgstr ""
+msgstr "ズーム・イメージ"
 
 #: packages/zoom_image/blocks/zoom_image/controller.php:26
 msgid "You must select an image."
@@ -40,19 +41,19 @@ msgstr "画像を選択"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:7
 msgid "Alt Text"
-msgstr ""
+msgstr "Altテキスト"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:10
 msgid "Display as sub title"
-msgstr ""
+msgstr "サブタイトルとして表示"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:15
 msgid "Max Thumbnail Width"
-msgstr ""
+msgstr "最大サムネイル横幅"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:20
 msgid "Max Thumbnail Height"
-msgstr ""
+msgstr "最大サムネイル縦幅"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:25
 msgid "Options"
@@ -60,8 +61,8 @@ msgstr "オプション"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:28
 msgid "Hide original image when zoomed"
-msgstr ""
+msgstr "ズームした際オリジナル画像を隠す"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:32
 msgid "Limit max zoom to window size"
-msgstr ""
+msgstr "ズームをウインドウのサイズに限定する"

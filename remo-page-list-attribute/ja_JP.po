@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Katz Ueno <katzueno@deerstudio.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:15+0100\n"
-"PO-Revision-Date: 2014-04-21 14:13+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2014-06-13 01:50+0000\n"
+"Last-Translator: Katz Ueno <katzueno@deerstudio.com>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/concrete5-packages/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,27 +21,27 @@ msgstr ""
 
 #: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/controller.php:18
 msgid "Lists pages connected to the current page."
-msgstr ""
+msgstr "現在のページに付属するページ一覧を表示。"
 
 #: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/controller.php:22
 msgid "Connected Page List"
-msgstr ""
+msgstr "ページリストと接続"
 
 #: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/form_setup_html.php:9
 msgid "Attribute"
-msgstr ""
+msgstr "属性"
 
 #: C:\Work\concrete5-pagelist-attribute/blocks/remo_list_attribute_pages/form_setup_html.php:12
 msgid "Attribute to display"
-msgstr ""
+msgstr "表示する属性"
 
 #: C:\Work\concrete5-pagelist-attribute/controller.php:12
 msgid "Adds an attribute where you can select pages."
-msgstr ""
+msgstr "ページを選択できるところに属性を追加。"
 
 #: C:\Work\concrete5-pagelist-attribute/controller.php:16
 msgid "Pagelist Attribute"
-msgstr ""
+msgstr "ページリスト属性"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/search.php:18
 msgid "All"
@@ -56,8 +57,8 @@ msgstr "ページタイプ"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:26
 msgid "Display Drop-Down"
-msgstr ""
+msgstr "ドロップダウンを表示"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:32
 msgid "Always display drop down in search form."
-msgstr ""
+msgstr "検索フォームでドロップダウンを表示"
