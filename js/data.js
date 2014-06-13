@@ -1,5 +1,5 @@
 {
-    "updated": 1402558228,
+    "updated": 1402644625,
     "packages": [
         {
             "handle": "addthis",
@@ -168,6 +168,13 @@
                     "perc": 100
                 },
                 "nl_NL": {
+                    "translated": 3,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 3,
+                    "perc": 100
+                },
+                "ja_JP": {
                     "translated": 3,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -392,11 +399,11 @@
                     "perc": 12
                 },
                 "ja_JP": {
-                    "translated": 1,
-                    "untranslated": 7,
+                    "translated": 8,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 8,
-                    "perc": 12
+                    "perc": 100
                 },
                 "da_DK": {
                     "translated": 1,
@@ -973,11 +980,11 @@
                     "perc": 11
                 },
                 "fr_FR": {
-                    "translated": 1,
-                    "untranslated": 8,
+                    "translated": 9,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 9,
-                    "perc": 11
+                    "perc": 100
                 },
                 "nl_NL": {
                     "translated": 1,
@@ -2415,11 +2422,11 @@
                     "perc": 100
                 },
                 "ja_JP": {
-                    "translated": 1,
-                    "untranslated": 6,
+                    "translated": 7,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 7,
-                    "perc": 14
+                    "perc": 100
                 },
                 "da_DK": {
                     "translated": 1,
@@ -2681,11 +2688,11 @@
                     "perc": 9
                 },
                 "ja_JP": {
-                    "translated": 3,
-                    "untranslated": 8,
+                    "translated": 11,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 11,
-                    "perc": 27
+                    "perc": 100
                 },
                 "da_DK": {
                     "translated": 3,
@@ -2947,11 +2954,11 @@
                     "perc": 8
                 },
                 "ja_JP": {
-                    "translated": 5,
-                    "untranslated": 7,
+                    "translated": 12,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 12,
-                    "perc": 41
+                    "perc": 100
                 },
                 "da_DK": {
                     "translated": 5,
