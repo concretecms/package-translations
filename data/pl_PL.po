@@ -399,7 +399,7 @@ msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:11
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:14
 msgid "No attributes found"

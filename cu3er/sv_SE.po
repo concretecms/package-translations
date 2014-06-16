@@ -1,13 +1,13 @@
 # 
 # Translators:
-# MrLindau <fredrik@fxlindau.se>, 2014
+# Fredrik Lindau <fredrik@fxlindau.se>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2014-04-22 15:02+0000\n"
-"Last-Translator: MrLindau <fredrik@fxlindau.se>\n"
+"PO-Revision-Date: 2014-06-16 07:01+0000\n"
+"Last-Translator: Fredrik Lindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

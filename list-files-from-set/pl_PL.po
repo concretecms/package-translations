@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:26
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:30
 msgid "Size"

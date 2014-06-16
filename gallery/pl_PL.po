@@ -107,7 +107,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:80
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:82
 msgid "Custom Gallery"
