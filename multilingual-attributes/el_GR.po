@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Vasilis Fotopoulos <basalba@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-16 07:08+0000\n"
-"PO-Revision-Date: 2014-06-16 07:10+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"POT-Creation-Date: 2014-06-16 09:06+0000\n"
+"PO-Revision-Date: 2014-06-16 19:00+0000\n"
+"Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,16 +19,16 @@ msgstr ""
 
 #: packages/multilingual_attributes/controller.php:10
 msgid "Multilingual attributes"
-msgstr ""
+msgstr "Πολυγλωσσικά χαρακτηριστικά"
 
 #: packages/multilingual_attributes/controller.php:14
 msgid "Allows users to specify attributes in multiple languages."
-msgstr ""
+msgstr "Επιτρέπει στους χρήστες να καθορίζουν χαρακτηριστικά σε πολλές γλώσσες."
 
 #: packages/multilingual_attributes/controller.php:32
 msgctxt "AttributeTypeName"
 msgid "Multilingual attribute"
-msgstr ""
+msgstr "Πολυγλωσσικό Χαρακτηριστικό"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/controller.php:74
 msgid "Title"
@@ -49,35 +50,39 @@ msgstr "Περιοχή Κειμένου"
 msgid "Rich Text"
 msgstr "Εμπλουτισμένο Κείμενο"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:5
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:3
+msgid "all languages"
+msgstr "όλες οι γλώσσες"
+
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:6
 #, php-format
 msgctxt "Only for language"
 msgid "Only for %s"
-msgstr ""
+msgstr "Μόνο για %s"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:9
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:10
 msgid "Enter search text"
-msgstr ""
+msgstr "Πληκτρολογήστε το κείμενο αναζήτησης"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:31
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:32
 msgctxt "No attribute"
 msgid "none"
 msgstr "κανένα"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:33
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:34
 #, php-format
 msgctxt "%s is a language"
 msgid "Fallback to %s"
-msgstr ""
+msgstr "Υποβάθμιση σε %s"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:43
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:44
 msgid "Attribute options"
-msgstr ""
+msgstr "Επιλογές Χαρακτηριστικού"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:45
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:46
 msgid "Type"
 msgstr "Τύπος"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:57
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:58
 msgid "When not set for a language, use the value of:"
-msgstr ""
+msgstr "Όταν δεν έχει οριστεί για μια γλώσσα, χρησιμοποιήστε την τιμή του:"

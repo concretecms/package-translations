@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-16 07:08+0000\n"
-"PO-Revision-Date: 2014-06-16 07:10+0000\n"
+"POT-Creation-Date: 2014-06-16 09:06+0000\n"
+"PO-Revision-Date: 2014-06-16 09:06+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Finnish (Finland) (http://www.transifex.com/projects/p/concrete5-packages/language/fi_FI/)\n"
 "MIME-Version: 1.0\n"
@@ -49,35 +49,39 @@ msgstr "Tekstialue"
 msgid "Rich Text"
 msgstr "Muotoiltu teksti"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:5
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:3
+msgid "all languages"
+msgstr ""
+
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:6
 #, php-format
 msgctxt "Only for language"
 msgid "Only for %s"
 msgstr ""
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:9
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:10
 msgid "Enter search text"
 msgstr ""
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:31
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:32
 msgctxt "No attribute"
 msgid "none"
 msgstr "ei mitään"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:33
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:34
 #, php-format
 msgctxt "%s is a language"
 msgid "Fallback to %s"
 msgstr ""
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:43
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:44
 msgid "Attribute options"
 msgstr ""
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:45
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:46
 msgid "Type"
 msgstr "Tyyppi"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:57
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:58
 msgid "When not set for a language, use the value of:"
 msgstr ""

@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-16 07:08+0000\n"
-"PO-Revision-Date: 2014-06-16 07:14+0000\n"
+"POT-Creation-Date: 2014-06-16 09:06+0000\n"
+"PO-Revision-Date: 2014-06-16 09:22+0000\n"
 "Last-Translator: Fredrik Lindau <fredrik@fxlindau.se>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
@@ -50,35 +50,39 @@ msgstr "Textarea"
 msgid "Rich Text"
 msgstr "formaterad text (RTF)"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:5
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:3
+msgid "all languages"
+msgstr "alla språk"
+
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:6
 #, php-format
 msgctxt "Only for language"
 msgid "Only for %s"
 msgstr "Endast för %s"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:9
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:10
 msgid "Enter search text"
 msgstr "Ange söktext"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:31
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:32
 msgctxt "No attribute"
 msgid "none"
 msgstr "ingen"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:33
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:34
 #, php-format
 msgctxt "%s is a language"
 msgid "Fallback to %s"
 msgstr "Återgå till %s"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:43
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:44
 msgid "Attribute options"
 msgstr "Alternativ för egenskaper"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:45
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:46
 msgid "Type"
 msgstr "Typ"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:57
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:58
 msgid "When not set for a language, use the value of:"
 msgstr "När inget är angett för språket, använd värdet av:"
