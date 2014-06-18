@@ -159,7 +159,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/search.php:19
 #: packages/data/single_pages/dashboard/data/management/view.php:22
 msgid "Edit"
-msgstr ""
+msgstr "Edycja"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:178
 #: packages/data/controllers/dashboard/data/administration/controller.php:184
@@ -248,7 +248,7 @@ msgstr ""
 
 #: packages/data/models/data_type.php:134
 msgid "Name is required"
-msgstr ""
+msgstr "Imię jest wymagane"
 
 #: packages/data/models/data_type.php:137
 msgid "Handle is required"

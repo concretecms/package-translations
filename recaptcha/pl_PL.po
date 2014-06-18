@@ -40,7 +40,7 @@ msgstr ""
 
 #: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:8
 msgid "Please type the letters and numbers shown in the image."
-msgstr ""
+msgstr "Proszę wpisać litery i cyfry widoczne na obrazku."
 
 #: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:15
 #: packages/recaptcha/models/system/captcha/types/recaptcha/controller.php:38

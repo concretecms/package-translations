@@ -132,11 +132,11 @@ msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:93
 msgid "No"
-msgstr ""
+msgstr "Nie"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:94
 msgid "Yes"
-msgstr ""
+msgstr "Tak"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:99
 msgid "Display Duration"

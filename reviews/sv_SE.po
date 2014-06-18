@@ -1,0 +1,201 @@
+# 
+# Translators:
+# Fredrik Lindau <fredrik@fxlindau.se>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-17 12:52+0000\n"
+"PO-Revision-Date: 2014-06-17 14:38+0000\n"
+"Last-Translator: Fredrik Lindau <fredrik@fxlindau.se>\n"
+"Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/reviews/blocks/reviews/add.php:3
+#: packages/reviews/blocks/reviews/controller.php:40
+#: packages/reviews/controller.php:16
+msgid "Reviews"
+msgstr "Recensioner"
+
+#: packages/reviews/blocks/reviews/controller.php:36
+#: packages/reviews/controller.php:12
+msgid "Adds the ability to add ratings and comments to a page."
+msgstr "Lägger till funktionen att betygsätta och kommentera på en sida."
+
+#: packages/reviews/blocks/reviews/controller.php:145
+msgid "Your session has expired.  Please log back in."
+msgstr "Din session har gått ut. Logga in igen."
+
+#: packages/reviews/blocks/reviews/controller.php:148
+msgid "Invalid Email Address"
+msgstr "Ogiltig e-postadress"
+
+#: packages/reviews/blocks/reviews/controller.php:151
+msgid "Name is required"
+msgstr "Namn måste anges"
+
+#: packages/reviews/blocks/reviews/controller.php:159
+msgid "Incorrect captcha code"
+msgstr "Fel CAPTCHA-kod"
+
+#: packages/reviews/blocks/reviews/controller.php:164
+msgid "a comment is required"
+msgstr "kommentar krävs"
+
+#: packages/reviews/blocks/reviews/controller.php:178
+msgid "Please correct the following errors:"
+msgstr "Rätta följande fel:"
+
+#: packages/reviews/blocks/reviews/controller.php:187
+msgid "The comment has been saved"
+msgstr "Kommentaren har sparats."
+
+#: packages/reviews/blocks/reviews/controller.php:190
+msgid "An Error occured while saving the comment"
+msgstr "Ett fel uppstod när kommentaren skulle sparas."
+
+#: packages/reviews/blocks/reviews/controller.php:195
+msgid "Thanks! Your comment has been posted."
+msgstr "Tack! Din kommentar har skickats."
+
+#: packages/reviews/blocks/reviews/controller.php:218
+msgid "Reviews Comment Notification"
+msgstr "Meddelande om kommentarer i recensioner "
+
+#: packages/reviews/blocks/reviews/controller.php:270
+msgid "The comment has been removed."
+msgstr "Kommentaren har tagits bort."
+
+#: packages/reviews/blocks/reviews/controller.php:292
+msgid "The comment has been approved."
+msgstr "Kommentaren har godkänts."
+
+#: packages/reviews/blocks/reviews/controller.php:313
+msgid "The comment has been unapproved."
+msgstr "Kommentaren har underkänts."
+
+#: packages/reviews/blocks/reviews/form_setup_html.php:6
+msgid "Title"
+msgstr "Titel"
+
+#: packages/reviews/blocks/reviews/form_setup_html.php:13
+msgid "Comments Require Moderator Approval?"
+msgstr "Kommentarer kräver godkännande av moderator."
+
+#: packages/reviews/blocks/reviews/form_setup_html.php:16
+#: packages/reviews/blocks/reviews/form_setup_html.php:26
+#: packages/reviews/blocks/reviews/form_setup_html.php:46
+msgid "Yes"
+msgstr "Ja"
+
+#: packages/reviews/blocks/reviews/form_setup_html.php:17
+#: packages/reviews/blocks/reviews/form_setup_html.php:27
+#: packages/reviews/blocks/reviews/form_setup_html.php:47
+msgid "No"
+msgstr "Nej"
+
+#: packages/reviews/blocks/reviews/form_setup_html.php:23
+msgid "Posting Reviews is Enabled?"
+msgstr "Att posta recensioner är aktiverat? "
+
+#: packages/reviews/blocks/reviews/form_setup_html.php:33
+msgid "Authentication Required to Post?"
+msgstr "Autentisering krävs för att posta?"
+
+#: packages/reviews/blocks/reviews/form_setup_html.php:36
+msgid "Email Only"
+msgstr "Endast e-postadress "
+
+#: packages/reviews/blocks/reviews/form_setup_html.php:37
+msgid "Users must login to concrete5"
+msgstr "Användare måste logga in på concrete5"
+
+#: packages/reviews/blocks/reviews/form_setup_html.php:43
+#, php-format
+msgid "Solving a <a href=\"%s\" target=\"_blank\">CAPTCHA</a> Required to Post?"
+msgstr "Måste ett <a href=\"%s\" target=\"_blank\">CAPTCHA-test</a> lösas för att få skicka?"
+
+#: packages/reviews/blocks/reviews/form_setup_html.php:53
+msgid "Alert Email Address when Review Posted"
+msgstr "E-postadress för att få notifiering om när recension postas"
+
+#: packages/reviews/blocks/reviews/view.php:77
+msgid "Average Rating:"
+msgstr "Medelbetyg:"
+
+#: packages/reviews/blocks/reviews/view.php:99
+msgid "Edit"
+msgstr "Redigera"
+
+#: packages/reviews/blocks/reviews/view.php:100
+msgid "Are you sure you would like to remove this review?"
+msgstr "Är du säker på att du vill ta bort denna recensionen?"
+
+#: packages/reviews/blocks/reviews/view.php:100
+msgid "Remove"
+msgstr "Ta bort"
+
+#: packages/reviews/blocks/reviews/view.php:102
+msgid "Un-Approve"
+msgstr "Underkänn"
+
+#: packages/reviews/blocks/reviews/view.php:104
+msgid "Approve"
+msgstr "Godkänn"
+
+#. %s is an username, %2$s is a date
+#: packages/reviews/blocks/reviews/view.php:121
+#, php-format
+msgid "Reviewed by %1$s on %2$s"
+msgstr "Recenserad av %1$s den %2$s"
+
+#: packages/reviews/blocks/reviews/view.php:144
+msgid "You must be logged in to leave a review."
+msgstr "Du måste vara inloggad för att kunna skriva en recension."
+
+#: packages/reviews/blocks/reviews/view.php:144
+msgid "Login"
+msgstr "Logga in"
+
+#: packages/reviews/blocks/reviews/view.php:148
+msgid "Leave a Review"
+msgstr "Skriv en recension"
+
+#: packages/reviews/blocks/reviews/view.php:157
+msgid "Name:"
+msgstr "Namn:"
+
+#: packages/reviews/blocks/reviews/view.php:163
+msgid "Email:"
+msgstr "E-postadress:"
+
+#: packages/reviews/blocks/reviews/view.php:176
+msgid "Rating:"
+msgstr "Betyg:"
+
+#: packages/reviews/blocks/reviews/view.php:193
+msgid "Please type the letters and numbers shown in the image."
+msgstr "Skriv in de bokstäver och siffror som visas i bilden."
+
+#: packages/reviews/blocks/reviews/view.php:204
+msgid "Post Comment"
+msgstr "Skicka kommentar"
+
+#: packages/reviews/mail/block_reviews_notification.php:4
+#, php-format
+msgid ""
+"\n"
+"There is a new review on a guestbook in your Concrete5 website.\n"
+"\n"
+"%s\n"
+"\n"
+"To view this review, visit: \n"
+"%s \n"
+"\n"
+msgstr "\nDu har fått en ny recension på din concrete5 webbplats.\n\n%s\n\nFör att läsa denna recension, besök:\n%s\n\n\n\n"
