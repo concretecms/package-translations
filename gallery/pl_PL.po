@@ -139,7 +139,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:18
 msgid "Set Number"
-msgstr ""
+msgstr "Numer zestawu"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:24
 msgid "Link URL (optional)"
