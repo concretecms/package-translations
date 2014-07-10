@@ -96,7 +96,7 @@ msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:49
 msgid "None"
-msgstr ""
+msgstr "Brak"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:56
 msgid "Arrows on Edges"

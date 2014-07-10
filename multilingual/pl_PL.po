@@ -113,7 +113,7 @@ msgstr ""
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:162
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:42
 msgid "None"
-msgstr ""
+msgstr "Brak"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:171
 msgid "Multilingual content enabled"

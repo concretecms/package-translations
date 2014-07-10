@@ -87,7 +87,7 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:23
 msgid "None"
-msgstr ""
+msgstr "Brak"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:24
 msgid "Flat"
