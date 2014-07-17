@@ -1,5 +1,5 @@
 {
-    "updated": 1405495826,
+    "updated": 1405582224,
     "packages": [
         {
             "handle": "addthis",
@@ -847,11 +847,11 @@
                     "perc": 100
                 },
                 "ru_RU": {
-                    "translated": 25,
-                    "untranslated": 58,
+                    "translated": 26,
+                    "untranslated": 57,
                     "fuzzy": 0,
                     "total": 83,
-                    "perc": 30
+                    "perc": 31
                 },
                 "sl_SI": {
                     "translated": 83,
