@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-01 10:48+0100\n"
-"PO-Revision-Date: 2014-06-13 01:44+0000\n"
+"PO-Revision-Date: 2014-07-19 06:20+0000\n"
 "Last-Translator: Katz Ueno <katzueno@deerstudio.com>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/concrete5-packages/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/edit.php:72
 msgid "Hide"
-msgstr ""
+msgstr "隠す"
 
 #: ../blocks/list_files_from_set/edit.php:73
 msgid "Always show (in brackets / column)"
