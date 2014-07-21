@@ -1,5 +1,5 @@
 {
-    "updated": 1405841424,
+    "updated": 1405927831,
     "packages": [
         {
             "handle": "addthis",
@@ -1260,11 +1260,11 @@
                     "perc": 100
                 },
                 "ru_RU": {
-                    "translated": 4,
-                    "untranslated": 40,
+                    "translated": 5,
+                    "untranslated": 39,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 9
+                    "perc": 11
                 },
                 "sl_SI": {
                     "translated": 4,
@@ -1673,11 +1673,11 @@
                     "perc": 100
                 },
                 "ru_RU": {
-                    "translated": 3,
-                    "untranslated": 36,
+                    "translated": 4,
+                    "untranslated": 35,
                     "fuzzy": 0,
                     "total": 39,
-                    "perc": 7
+                    "perc": 10
                 },
                 "sl_SI": {
                     "translated": 39,
