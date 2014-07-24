@@ -1,5 +1,5 @@
 {
-    "updated": 1406100624,
+    "updated": 1406187027,
     "packages": [
         {
             "handle": "addthis",
@@ -679,11 +679,11 @@
                     "perc": 7
                 },
                 "ja_JP": {
-                    "translated": 1,
-                    "untranslated": 12,
+                    "translated": 13,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 13,
-                    "perc": 7
+                    "perc": 100
                 },
                 "da_DK": {
                     "translated": 1,
@@ -826,11 +826,11 @@
                     "perc": 100
                 },
                 "fi_FI": {
-                    "translated": 26,
-                    "untranslated": 57,
+                    "translated": 27,
+                    "untranslated": 56,
                     "fuzzy": 0,
                     "total": 83,
-                    "perc": 31
+                    "perc": 32
                 },
                 "fr_FR": {
                     "translated": 31,
@@ -1239,11 +1239,11 @@
                     "perc": 100
                 },
                 "fi_FI": {
-                    "translated": 4,
-                    "untranslated": 40,
+                    "translated": 6,
+                    "untranslated": 38,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 9
+                    "perc": 13
                 },
                 "fr_FR": {
                     "translated": 6,
@@ -1652,11 +1652,11 @@
                     "perc": 100
                 },
                 "fi_FI": {
-                    "translated": 3,
-                    "untranslated": 36,
+                    "translated": 4,
+                    "untranslated": 35,
                     "fuzzy": 0,
                     "total": 39,
-                    "perc": 7
+                    "perc": 10
                 },
                 "fr_FR": {
                     "translated": 39,
@@ -1771,11 +1771,11 @@
                     "perc": 100
                 },
                 "fi_FI": {
-                    "translated": 2,
-                    "untranslated": 17,
+                    "translated": 4,
+                    "untranslated": 15,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 10
+                    "perc": 21
                 },
                 "fr_FR": {
                     "translated": 2,
@@ -2023,11 +2023,11 @@
                     "perc": 100
                 },
                 "fi_FI": {
-                    "translated": 8,
-                    "untranslated": 26,
+                    "translated": 9,
+                    "untranslated": 25,
                     "fuzzy": 0,
                     "total": 34,
-                    "perc": 23
+                    "perc": 26
                 },
                 "fr_FR": {
                     "translated": 11,
