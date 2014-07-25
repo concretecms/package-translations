@@ -5,7 +5,8 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-09 14:37+0000\n"
-"PO-Revision-Date: 2014-06-09 14:48+0000\n"
+"PO-Revision-Date: 2014-07-24 16:05+0000\n"
+"Last-Translator: PAMB\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,32 +19,32 @@ msgstr ""
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:30
 #: packages/dh_multilingual_content/controller.php:15
 msgid "Multilingual HTML/WYSIWYG Editor Content."
-msgstr ""
+msgstr "Meertalige inhoud van HTML/WYSIWYG de redacteur."
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:34
 #: packages/dh_multilingual_content/controller.php:19
 msgid "Multilingual Content"
-msgstr ""
+msgstr "Meertalige inhoud"
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:58
 msgid "Sorry, the block cannot be added."
-msgstr ""
+msgstr "Sorry, dat het blok kan niet worden toegevoegd."
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:13
 msgid "This block is designed for multilingual sites"
-msgstr ""
+msgstr "Dit blok is ontworpen voor meertalige sites"
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:14
 msgid "please add languages to your site"
-msgstr ""
+msgstr "Voeg talen toe aan uw site"
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:19
 msgid "This block is designed to be added in a sitewide area"
-msgstr ""
+msgstr "Dit blok is ontworpen om te worden toegevoegd in een sitewide gebied"
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:20
 msgid "otherwise you may use standard content block"
-msgstr ""
+msgstr "anders kunt u standaard inhoud te blokkeren"
 
 #: packages/dh_multilingual_content/controller.php:25
 msgid "Internationalization"
@@ -52,4 +53,4 @@ msgstr "Internationalisatie"
 #: packages/dh_multilingual_content/controller.php:25
 #, php-format
 msgid "You must have the %s add-on installed in order to use this add-on!"
-msgstr ""
+msgstr "U moet de %s invoegtoepassing geïnstalleerd om te kunnen gebruiken deze add-on!"
