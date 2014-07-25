@@ -1,5 +1,5 @@
 {
-    "updated": 1406187027,
+    "updated": 1406273425,
     "packages": [
         {
             "handle": "addthis",
@@ -1015,11 +1015,11 @@
                     "perc": 100
                 },
                 "nl_NL": {
-                    "translated": 1,
-                    "untranslated": 8,
+                    "translated": 9,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 9,
-                    "perc": 11
+                    "perc": 100
                 },
                 "ru_RU": {
                     "translated": 1,
@@ -1295,11 +1295,11 @@
                     "perc": 4
                 },
                 "ja_JP": {
-                    "translated": 4,
-                    "untranslated": 40,
+                    "translated": 5,
+                    "untranslated": 39,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 9
+                    "perc": 11
                 },
                 "da_DK": {
                     "translated": 6,
@@ -2450,11 +2450,11 @@
                     "perc": 43
                 },
                 "nl_NL": {
-                    "translated": 7,
-                    "untranslated": 9,
+                    "translated": 16,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 16,
-                    "perc": 43
+                    "perc": 100
                 },
                 "ru_RU": {
                     "translated": 7,
@@ -2989,11 +2989,11 @@
                     "perc": 58
                 },
                 "nl_NL": {
-                    "translated": 24,
-                    "untranslated": 17,
+                    "translated": 41,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 41,
-                    "perc": 58
+                    "perc": 100
                 },
                 "ru_RU": {
                     "translated": 24,
