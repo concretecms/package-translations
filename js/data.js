@@ -1,5 +1,5 @@
 {
-    "updated": 1406791823,
+    "updated": 1406878225,
     "packages": [
         {
             "handle": "addthis",
@@ -1267,11 +1267,11 @@
                     "perc": 13
                 },
                 "sl_SI": {
-                    "translated": 4,
-                    "untranslated": 40,
+                    "translated": 6,
+                    "untranslated": 38,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 9
+                    "perc": 13
                 },
                 "ro_RO": {
                     "translated": 4,
@@ -1568,11 +1568,11 @@
                     "perc": 21
                 },
                 "ja_JP": {
-                    "translated": 11,
-                    "untranslated": 27,
+                    "translated": 12,
+                    "untranslated": 26,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 28
+                    "perc": 31
                 },
                 "pl_PL": {
                     "translated": 4,
@@ -1582,11 +1582,11 @@
                     "perc": 10
                 },
                 "da_DK": {
-                    "translated": 11,
-                    "untranslated": 27,
+                    "translated": 12,
+                    "untranslated": 26,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 28
+                    "perc": 31
                 },
                 "zh_TW": {
                     "translated": 38,
@@ -1701,11 +1701,11 @@
                     "perc": 46
                 },
                 "ja_JP": {
-                    "translated": 3,
-                    "untranslated": 36,
+                    "translated": 4,
+                    "untranslated": 35,
                     "fuzzy": 0,
                     "total": 39,
-                    "perc": 7
+                    "perc": 10
                 },
                 "da_DK": {
                     "translated": 4,
@@ -1799,11 +1799,11 @@
                     "perc": 15
                 },
                 "sl_SI": {
-                    "translated": 2,
-                    "untranslated": 17,
+                    "translated": 3,
+                    "untranslated": 16,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 10
+                    "perc": 15
                 },
                 "ro_RO": {
                     "translated": 2,
@@ -1827,11 +1827,11 @@
                     "perc": 31
                 },
                 "da_DK": {
-                    "translated": 2,
-                    "untranslated": 17,
+                    "translated": 4,
+                    "untranslated": 15,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 10
+                    "perc": 21
                 },
                 "zh_TW": {
                     "translated": 2,
