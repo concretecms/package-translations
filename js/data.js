@@ -1,5 +1,5 @@
 {
-    "updated": 1407137424,
+    "updated": 1407223823,
     "packages": [
         {
             "handle": "addthis",
@@ -2940,11 +2940,11 @@
             "sourceURL": "https://github.com/concrete5/addon_reviews",
             "locales": {
                 "de_DE": {
-                    "translated": 24,
-                    "untranslated": 17,
+                    "translated": 38,
+                    "untranslated": 3,
                     "fuzzy": 0,
                     "total": 41,
-                    "perc": 58
+                    "perc": 92
                 },
                 "it_IT": {
                     "translated": 41,
