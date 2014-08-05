@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Remo Laubacher <remo.laubacher@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-17 12:52+0000\n"
-"PO-Revision-Date: 2014-06-17 12:58+0000\n"
+"PO-Revision-Date: 2014-08-04 11:43+0000\n"
+"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +21,7 @@ msgstr ""
 #: packages/reviews/blocks/reviews/controller.php:40
 #: packages/reviews/controller.php:16
 msgid "Reviews"
-msgstr ""
+msgstr "Bewertungen"
 
 #: packages/reviews/blocks/reviews/controller.php:36
 #: packages/reviews/controller.php:12
@@ -84,7 +86,7 @@ msgstr "Titel"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:13
 msgid "Comments Require Moderator Approval?"
-msgstr ""
+msgstr "Kommentare durch Moderator freigeben lassen?"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:16
 #: packages/reviews/blocks/reviews/form_setup_html.php:26
@@ -100,11 +102,11 @@ msgstr "Nein"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:23
 msgid "Posting Reviews is Enabled?"
-msgstr ""
+msgstr "Bewertungen hinterlassen möglich?"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:33
 msgid "Authentication Required to Post?"
-msgstr ""
+msgstr "Authentifizierung erforderlich um eine Bewertung zu hinterlassen?"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:36
 msgid "Email Only"
@@ -112,7 +114,7 @@ msgstr "Nur E-Mail"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:37
 msgid "Users must login to concrete5"
-msgstr ""
+msgstr "Benutzer müssen sich in concrete5 einloggen"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:43
 #, php-format
@@ -121,11 +123,11 @@ msgstr "Soll ein <a href=\"%s\" target=\"_blank\">CAPTCHA</a> ausgefüllt werden
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:53
 msgid "Alert Email Address when Review Posted"
-msgstr ""
+msgstr "E-Mail Benachrichtigung wenn eine neue Bewertung hinterlassen wurde"
 
 #: packages/reviews/blocks/reviews/view.php:77
 msgid "Average Rating:"
-msgstr ""
+msgstr "Durchschnittliche Bewertung:"
 
 #: packages/reviews/blocks/reviews/view.php:99
 msgid "Edit"
@@ -133,7 +135,7 @@ msgstr "Bearbeiten"
 
 #: packages/reviews/blocks/reviews/view.php:100
 msgid "Are you sure you would like to remove this review?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie diese Bewertung löschen wollen?"
 
 #: packages/reviews/blocks/reviews/view.php:100
 msgid "Remove"
@@ -151,11 +153,11 @@ msgstr "Freigeben"
 #: packages/reviews/blocks/reviews/view.php:121
 #, php-format
 msgid "Reviewed by %1$s on %2$s"
-msgstr ""
+msgstr "Bewertet von %1$s am %2$s"
 
 #: packages/reviews/blocks/reviews/view.php:144
 msgid "You must be logged in to leave a review."
-msgstr ""
+msgstr "Sie müssen eingeloggt sein um eine Bewertung zu erstellen."
 
 #: packages/reviews/blocks/reviews/view.php:144
 msgid "Login"
@@ -163,19 +165,19 @@ msgstr "Anmelden"
 
 #: packages/reviews/blocks/reviews/view.php:148
 msgid "Leave a Review"
-msgstr ""
+msgstr "Berwertung hinterlassen"
 
 #: packages/reviews/blocks/reviews/view.php:157
 msgid "Name:"
-msgstr ""
+msgstr "Name:"
 
 #: packages/reviews/blocks/reviews/view.php:163
 msgid "Email:"
-msgstr ""
+msgstr "E-Mail:"
 
 #: packages/reviews/blocks/reviews/view.php:176
 msgid "Rating:"
-msgstr ""
+msgstr "Bewertung:"
 
 #: packages/reviews/blocks/reviews/view.php:193
 msgid "Please type the letters and numbers shown in the image."
