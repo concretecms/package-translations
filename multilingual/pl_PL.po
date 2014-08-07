@@ -258,7 +258,7 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:12
 msgid "Name"
-msgstr ""
+msgstr "Nazwa"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:13
 msgid "Language"

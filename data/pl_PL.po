@@ -294,7 +294,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/search.php:15
 #: packages/data/single_pages/dashboard/data/management/view.php:9
 msgid "Name"
-msgstr ""
+msgstr "Nazwa"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:25
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:25
@@ -370,7 +370,7 @@ msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:14
 msgid "Add"
-msgstr ""
+msgstr "Dodaj"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:21
 msgid "Done"
