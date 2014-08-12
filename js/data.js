@@ -1,5 +1,5 @@
 {
-    "updated": 1407742224,
+    "updated": 1407828625,
     "packages": [
         {
             "handle": "addthis",
@@ -1274,11 +1274,11 @@
                     "perc": 13
                 },
                 "ro_RO": {
-                    "translated": 4,
-                    "untranslated": 40,
+                    "translated": 5,
+                    "untranslated": 39,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 9
+                    "perc": 11
                 },
                 "vi_VN": {
                     "translated": 4,
@@ -1547,11 +1547,11 @@
                     "perc": 100
                 },
                 "ro_RO": {
-                    "translated": 11,
-                    "untranslated": 27,
+                    "translated": 12,
+                    "untranslated": 26,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 28
+                    "perc": 31
                 },
                 "vi_VN": {
                     "translated": 11,
@@ -1806,11 +1806,11 @@
                     "perc": 21
                 },
                 "ro_RO": {
-                    "translated": 2,
-                    "untranslated": 17,
+                    "translated": 3,
+                    "untranslated": 16,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 10
+                    "perc": 15
                 },
                 "vi_VN": {
                     "translated": 2,
@@ -2989,11 +2989,11 @@
                     "perc": 60
                 },
                 "fr_FR": {
-                    "translated": 24,
-                    "untranslated": 17,
+                    "translated": 25,
+                    "untranslated": 16,
                     "fuzzy": 0,
                     "total": 41,
-                    "perc": 58
+                    "perc": 60
                 },
                 "nl_NL": {
                     "translated": 41,
@@ -3017,11 +3017,11 @@
                     "perc": 58
                 },
                 "ro_RO": {
-                    "translated": 24,
-                    "untranslated": 17,
+                    "translated": 25,
+                    "untranslated": 16,
                     "fuzzy": 0,
                     "total": 41,
-                    "perc": 58
+                    "perc": 60
                 },
                 "vi_VN": {
                     "translated": 24,
