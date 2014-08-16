@@ -19,7 +19,7 @@ msgstr ""
 #: packages/reviews/blocks/reviews/controller.php:40
 #: packages/reviews/controller.php:16
 msgid "Reviews"
-msgstr ""
+msgstr "Anmeldelser"
 
 #: packages/reviews/blocks/reviews/controller.php:36
 #: packages/reviews/controller.php:12
