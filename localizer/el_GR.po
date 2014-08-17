@@ -1,12 +1,13 @@
 # 
 # Translators:
 # Vasilis Fotopoulos <basalba@gmail.com>, 2014
+# Vasilis Fotopoulos <basalba@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-05 12:51+0000\n"
-"PO-Revision-Date: 2014-03-21 22:28+0000\n"
+"PO-Revision-Date: 2014-08-16 09:16+0000\n"
 "Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +21,7 @@ msgstr ""
 #: packages/localizer/controller.php:10 packages/localizer/controller.php:32
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:41
 msgid "Localizer"
-msgstr "Localizer"
+msgstr "Τοπικοποίηση"
 
 #: packages/localizer/controller.php:14 packages/localizer/controller.php:32
 msgid "Allow localizing special items, for instance user and file attributes."
@@ -107,7 +108,7 @@ msgstr "Ονόματα Περιοχών"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:27
 msgid "Still in development"
-msgstr "Ακόμα στην ανάπτυξη"
+msgstr "Ακόμα υπό ανάπτυξη"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:30
 #, php-format
