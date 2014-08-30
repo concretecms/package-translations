@@ -1,12 +1,13 @@
 # 
 # Translators:
+# alelektronik <ales.drinovec@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-08-01 06:51+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-08-30 07:30+0000\n"
+"Last-Translator: alelektronik <ales.drinovec@gmail.com>\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,21 +19,21 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:11
 msgid "User action form for cookies disclosure."
-msgstr ""
+msgstr "Obrazec uporabnikove akcije za piškotke."
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:15
 msgid "Cookies Disclosure Form"
-msgstr ""
+msgstr "Obrazec za piškotke"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:21
 #: packages/free_cookies_disclosure/elements/cookies_disclosure.php:27
 msgid "I accept cookies from this site"
-msgstr ""
+msgstr "Sprejmem piškotke s tega spletnega mesta"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:22
 #: packages/free_cookies_disclosure/elements/cookies_disclosure.php:28
 msgid "Allow Cookies"
-msgstr ""
+msgstr "Dovoli piškotke"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:6
 msgid "Options"
@@ -40,19 +41,19 @@ msgstr "Možnosti"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:10
 msgid "Show Checkbox"
-msgstr ""
+msgstr "Pokaži potrditveno polje"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:11
 msgid "AJAX Submit"
-msgstr ""
+msgstr "AJAX pošiljanje"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:17
 msgid "Accept Text"
-msgstr ""
+msgstr "Sprejmi besedilo"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:20
 msgid "Leave empty if you don't want to show this"
-msgstr ""
+msgstr "Pustite prazno, če tega ne želite pokazati"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:26
 msgid "Button Text"
@@ -60,19 +61,19 @@ msgstr "Besedilo gumba"
 
 #: packages/free_cookies_disclosure/controller.php:11
 msgid "Free Cookies Disclosure"
-msgstr ""
+msgstr "Brezplačno razkrivanje piškotkov"
 
 #: packages/free_cookies_disclosure/controller.php:15
 msgid "Notify your users about EU Cookie Law."
-msgstr ""
+msgstr "Obvesti uporabnika o EU zakonu o piškotkih."
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:16
 msgid "Dark"
-msgstr ""
+msgstr "Temno"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:16
 msgid "Light"
-msgstr ""
+msgstr "Svetlo"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:23
 msgid "Custom"
@@ -80,26 +81,26 @@ msgstr "Po meri"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:47
 msgid "Hide interval must be greater than zero!"
-msgstr ""
+msgstr "Interval skrivanja mora biti večji od nič!"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:65
 msgid "Cookies disclosure settings saved."
-msgstr ""
+msgstr "Nastavitve razkrivanja piškotkov so shranjene."
 
 #: packages/free_cookies_disclosure/elements/cookies_disclosure.php:21
 msgid ""
 "This site uses cookies. Some of the cookies we use are essential for parts "
 "of the site to operate and have already been set. You may delete and block "
 "all cookies from this site, but parts of the site will not work."
-msgstr ""
+msgstr "Ta stran uporablja piškotke. Nekateri piškotki, ki jih uporabljamo so pomembni za delovanje strani in so že nastavljeni. Lahko pobrišete ali blokirate vse piškotke, vendar potem deli spletne strani ne bodo delovali."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:5
 msgid "Cookies Disclosure Settings"
-msgstr ""
+msgstr "Nastavitve razkritja piškotkov"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:9
 msgid "Display Settings"
-msgstr ""
+msgstr "Prikaži nastavitve"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:11
 msgid "Alignment"
@@ -107,33 +108,33 @@ msgstr "Poravnava"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:13
 msgid "Top of the Page"
-msgstr ""
+msgstr "Na vrhu strani"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:13
 msgid "Bottom of the Page"
-msgstr ""
+msgstr "Pod stranjo"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:17
 msgid "Color Profile"
-msgstr ""
+msgstr "Barvni profil"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:25
 msgid "CSS Suffix for Color Profile"
-msgstr ""
+msgstr "CSS pripona za barvni profil"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:28
 msgid ""
 "CSS file named cookies_disclosure_SUFFIX.css will be loaded from your "
 "{root}/css directory."
-msgstr ""
+msgstr "CSS datoteka z imenom cookies_disclosure_SUFFIX.css bo naložena z vaše mape {root}/css."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:34
 msgid "Hide Interval"
-msgstr ""
+msgstr "Skrij interval"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:37
 msgid "In seconds (leave empty if you don't want to hide the notification)"
-msgstr ""
+msgstr "V sekundah (pustite prazno, če ne želite skriti tega obvestila)"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:42
 msgid "Debug"
@@ -141,25 +142,25 @@ msgstr "Razhroščevanje"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:46
 msgid "Enable Debug Mode"
-msgstr ""
+msgstr "Omogoči razhroščevalni način"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:49
 msgid ""
 "When debug mode is enabled, the notification is visible although user "
 "would've already allowed cookies."
-msgstr ""
+msgstr "Ko je razhroščevalni način omogočen, bo sporočilo vidno, čeprav je uporabnik že dovolil piškotke."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:50
 msgid "This is handy when styling the debug notification box for your theme."
-msgstr ""
+msgstr "To je priročno pri slogovnem oblikovanju obvestila, glede na vašo temo."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:56
 msgid "Customize Notification Content"
-msgstr ""
+msgstr "Vsebina obvestila po meri"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:58
 msgid "Cookies Disclosure - LANG"
-msgstr ""
+msgstr "razkritje piškotkov - jezik"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:58
 #, php-format
