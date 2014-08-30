@@ -1,5 +1,5 @@
 {
-    "updated": 1409297425,
+    "updated": 1409383826,
     "packages": [
         {
             "handle": "addthis",
@@ -175,6 +175,13 @@
                     "perc": 100
                 },
                 "nl_NL": {
+                    "translated": 3,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 3,
+                    "perc": 100
+                },
+                "sl_SI": {
                     "translated": 3,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -518,11 +525,11 @@
                     "perc": 55
                 },
                 "sl_SI": {
-                    "translated": 21,
-                    "untranslated": 17,
+                    "translated": 38,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 55
+                    "perc": 100
                 },
                 "ro_RO": {
                     "translated": 21,
@@ -1267,11 +1274,11 @@
                     "perc": 13
                 },
                 "sl_SI": {
-                    "translated": 6,
-                    "untranslated": 38,
+                    "translated": 35,
+                    "untranslated": 9,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 13
+                    "perc": 79
                 },
                 "ro_RO": {
                     "translated": 5,
@@ -3010,11 +3017,11 @@
                     "perc": 60
                 },
                 "sl_SI": {
-                    "translated": 24,
-                    "untranslated": 17,
+                    "translated": 25,
+                    "untranslated": 16,
                     "fuzzy": 0,
                     "total": 41,
-                    "perc": 58
+                    "perc": 60
                 },
                 "ro_RO": {
                     "translated": 25,
@@ -3283,11 +3290,11 @@
                     "perc": 83
                 },
                 "sl_SI": {
-                    "translated": 10,
-                    "untranslated": 2,
+                    "translated": 12,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 12,
-                    "perc": 83
+                    "perc": 100
                 },
                 "ro_RO": {
                     "translated": 5,
