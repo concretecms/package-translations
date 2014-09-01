@@ -1,5 +1,5 @@
 {
-    "updated": 1409383826,
+    "updated": 1409556628,
     "packages": [
         {
             "handle": "addthis",
@@ -769,6 +769,13 @@
                     "total": 11,
                     "perc": 100
                 },
+                "sl_SI": {
+                    "translated": 11,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 11,
+                    "perc": 100
+                },
                 "vi_VN": {
                     "translated": 11,
                     "untranslated": 0,
@@ -965,6 +972,13 @@
                     "total": 22,
                     "perc": 100
                 },
+                "sl_SI": {
+                    "translated": 22,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 22,
+                    "perc": 100
+                },
                 "ja_JP": {
                     "translated": 22,
                     "untranslated": 0,
@@ -1036,11 +1050,11 @@
                     "perc": 11
                 },
                 "sl_SI": {
-                    "translated": 1,
-                    "untranslated": 8,
+                    "translated": 9,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 9,
-                    "perc": 11
+                    "perc": 100
                 },
                 "vi_VN": {
                     "translated": 1,
@@ -1274,11 +1288,11 @@
                     "perc": 13
                 },
                 "sl_SI": {
-                    "translated": 35,
-                    "untranslated": 9,
+                    "translated": 44,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 79
+                    "perc": 100
                 },
                 "ro_RO": {
                     "translated": 5,
@@ -1806,11 +1820,11 @@
                     "perc": 21
                 },
                 "sl_SI": {
-                    "translated": 4,
-                    "untranslated": 15,
+                    "translated": 19,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 21
+                    "perc": 100
                 },
                 "ro_RO": {
                     "translated": 3,
@@ -1932,11 +1946,11 @@
                     "perc": 16
                 },
                 "sl_SI": {
-                    "translated": 1,
-                    "untranslated": 5,
+                    "translated": 6,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 6,
-                    "perc": 16
+                    "perc": 100
                 },
                 "ro_RO": {
                     "translated": 1,
@@ -2478,11 +2492,11 @@
                     "perc": 43
                 },
                 "sl_SI": {
-                    "translated": 7,
-                    "untranslated": 9,
+                    "translated": 16,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 16,
-                    "perc": 43
+                    "perc": 100
                 },
                 "ro_RO": {
                     "translated": 7,
@@ -3017,11 +3031,11 @@
                     "perc": 60
                 },
                 "sl_SI": {
-                    "translated": 25,
-                    "untranslated": 16,
+                    "translated": 41,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 41,
-                    "perc": 60
+                    "perc": 100
                 },
                 "ro_RO": {
                     "translated": 25,
