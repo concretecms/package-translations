@@ -1,11 +1,13 @@
 # 
 # Translators:
+# alelektronik <ales.drinovec@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-17 12:52+0000\n"
-"PO-Revision-Date: 2014-06-17 12:58+0000\n"
+"PO-Revision-Date: 2014-08-30 07:53+0000\n"
+"Last-Translator: alelektronik <ales.drinovec@gmail.com>\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +26,7 @@ msgstr "Ocene"
 #: packages/reviews/blocks/reviews/controller.php:36
 #: packages/reviews/controller.php:12
 msgid "Adds the ability to add ratings and comments to a page."
-msgstr ""
+msgstr "Doda možnost dodajanja ocen in komentarjev za stran."
 
 #: packages/reviews/blocks/reviews/controller.php:145
 msgid "Your session has expired.  Please log back in."
@@ -64,7 +66,7 @@ msgstr "Hvala! Vaš komentar je bil poslan."
 
 #: packages/reviews/blocks/reviews/controller.php:218
 msgid "Reviews Comment Notification"
-msgstr ""
+msgstr "Obvestilo o komentarjih"
 
 #: packages/reviews/blocks/reviews/controller.php:270
 msgid "The comment has been removed."
@@ -84,7 +86,7 @@ msgstr "Naslov"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:13
 msgid "Comments Require Moderator Approval?"
-msgstr ""
+msgstr "Komentarji zahtevajo moderatorjevo potrditev?"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:16
 #: packages/reviews/blocks/reviews/form_setup_html.php:26
@@ -100,11 +102,11 @@ msgstr "Ne"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:23
 msgid "Posting Reviews is Enabled?"
-msgstr ""
+msgstr "Objavljanje ocen je omogočeno?"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:33
 msgid "Authentication Required to Post?"
-msgstr ""
+msgstr "Za objavo se zahteva avtentikacija?"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:36
 msgid "Email Only"
@@ -112,7 +114,7 @@ msgstr "Samo e-pošta"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:37
 msgid "Users must login to concrete5"
-msgstr ""
+msgstr "Uporabnik se mora prijaviti v concrete5"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:43
 #, php-format
@@ -121,11 +123,11 @@ msgstr "Vnos kode <a href=\"%s\" target=\"_blank\">CAPTCHA</a> se zahteva za po�
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:53
 msgid "Alert Email Address when Review Posted"
-msgstr ""
+msgstr "Obvesti e-poštni naslov v primeru pošiljanja ocene"
 
 #: packages/reviews/blocks/reviews/view.php:77
 msgid "Average Rating:"
-msgstr ""
+msgstr "Povprečna ocena:"
 
 #: packages/reviews/blocks/reviews/view.php:99
 msgid "Edit"
@@ -133,7 +135,7 @@ msgstr "Urejanje"
 
 #: packages/reviews/blocks/reviews/view.php:100
 msgid "Are you sure you would like to remove this review?"
-msgstr ""
+msgstr "Ali res želite odstraniti to oceno?"
 
 #: packages/reviews/blocks/reviews/view.php:100
 msgid "Remove"
@@ -151,11 +153,11 @@ msgstr "Odobri"
 #: packages/reviews/blocks/reviews/view.php:121
 #, php-format
 msgid "Reviewed by %1$s on %2$s"
-msgstr ""
+msgstr "Ocenil %1$s, %2$s"
 
 #: packages/reviews/blocks/reviews/view.php:144
 msgid "You must be logged in to leave a review."
-msgstr ""
+msgstr "Za ocenjevanje morate biti prijavljeni."
 
 #: packages/reviews/blocks/reviews/view.php:144
 msgid "Login"
@@ -163,19 +165,19 @@ msgstr "Prijava"
 
 #: packages/reviews/blocks/reviews/view.php:148
 msgid "Leave a Review"
-msgstr ""
+msgstr "Oddaj oceno"
 
 #: packages/reviews/blocks/reviews/view.php:157
 msgid "Name:"
-msgstr ""
+msgstr "Ime:"
 
 #: packages/reviews/blocks/reviews/view.php:163
 msgid "Email:"
-msgstr ""
+msgstr "e-pošta:"
 
 #: packages/reviews/blocks/reviews/view.php:176
 msgid "Rating:"
-msgstr ""
+msgstr "Ocena:"
 
 #: packages/reviews/blocks/reviews/view.php:193
 msgid "Please type the letters and numbers shown in the image."
@@ -196,4 +198,4 @@ msgid ""
 "To view this review, visit: \n"
 "%s \n"
 "\n"
-msgstr ""
+msgstr "\nV knjigi gostov je nova ocena Concrete5 spletne strani.\n\n%s\n\nZa ogled ocene obiščite: \n%s \n"

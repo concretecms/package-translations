@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-08-30 07:30+0000\n"
+"PO-Revision-Date: 2014-08-30 07:40+0000\n"
 "Last-Translator: alelektronik <ales.drinovec@gmail.com>\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
@@ -160,49 +160,49 @@ msgstr "Vsebina obvestila po meri"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:58
 msgid "Cookies Disclosure - LANG"
-msgstr "razkritje piškotkov - jezik"
+msgstr "Razkritje piškotkov - LANG"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:58
 #, php-format
 msgid ""
 "If you want to customize the notification message, just create a stack for "
 "each language named: \"%s\" and add your content there."
-msgstr ""
+msgstr "Če želite oblikovati obvestilo po meri, ustvarite sklad za vsak jezik z imenom: \"%s\" in tam dodajte vsebino."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:59
 msgid ""
 "Replace the \"LANG\" with the 2-letter language code in uppercase you want "
 "to show the notification to."
-msgstr ""
+msgstr "Nadomestite \"LANG\" z 2-črkovno jezikovno oznako z velikimi črkami."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:60
 msgid ""
 "For example, if you're running your site in English and Finnish, create the "
 "following stacks:"
-msgstr ""
+msgstr "Na primer, če je vaša stran v angleščini in finščini, ustvarite naslednja sklada:"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:62
 msgid "Cookies Disclosure - EN"
-msgstr ""
+msgstr "Razkritje piškotkov - EN"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:63
 msgid "Cookies Disclosure - FI"
-msgstr ""
+msgstr "Razkritje piškotkov - FI"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:66
 msgid "Cookies Disclosure"
-msgstr ""
+msgstr "Razkritje piškotkov"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:66
 #, php-format
 msgid ""
 "If you want to customize the notification message, just create a stack named"
 " \"%s\" and add your content there."
-msgstr ""
+msgstr "Če želite urediti obvestilo po meri, le ustvarite sklad z imenom \"%s\" in tja dodajte vsebino."
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:68
 msgid "Go to Stacks &raquo;"
-msgstr ""
+msgstr "Pojdi na sklade &raquo;"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:72
 msgid "Save"
@@ -210,4 +210,4 @@ msgstr "Shrani"
 
 #: packages/free_cookies_disclosure/tools/disclosure_i18n_js.php:4
 msgid "You need to allow cookies for this site!"
-msgstr ""
+msgstr "Za to stran morate dovoliti piškotke!"

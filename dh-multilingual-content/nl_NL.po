@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Maura van Tuijl <info@hutspott.nl>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-09 14:37+0000\n"
-"PO-Revision-Date: 2014-07-24 16:05+0000\n"
-"Last-Translator: PAMB\n"
+"PO-Revision-Date: 2014-08-30 07:50+0000\n"
+"Last-Translator: Maura van Tuijl <info@hutspott.nl>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -40,11 +41,11 @@ msgstr "Voeg talen toe aan uw site"
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:19
 msgid "This block is designed to be added in a sitewide area"
-msgstr "Dit blok is ontworpen om te worden toegevoegd in een sitewide gebied"
+msgstr "Dit blok is ontworpen om te worden toegevoegd in een globaal gebied"
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:20
 msgid "otherwise you may use standard content block"
-msgstr "anders kunt u standaard inhoud te blokkeren"
+msgstr "anders kunt u een standaard inhoudsblok gebruiken"
 
 #: packages/dh_multilingual_content/controller.php:25
 msgid "Internationalization"
@@ -53,4 +54,4 @@ msgstr "Internationalisatie"
 #: packages/dh_multilingual_content/controller.php:25
 #, php-format
 msgid "You must have the %s add-on installed in order to use this add-on!"
-msgstr "U moet de %s invoegtoepassing geïnstalleerd om te kunnen gebruiken deze add-on!"
+msgstr "U moet de %s iadd-on geïnstalleerd hebben om deze add-on te kunnen gebruiken!"

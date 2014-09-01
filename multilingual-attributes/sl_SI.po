@@ -1,12 +1,13 @@
 # 
 # Translators:
+# alelektronik <ales.drinovec@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-16 09:06+0000\n"
-"PO-Revision-Date: 2014-06-16 09:06+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"POT-Creation-Date: 2014-06-18 15:17+0000\n"
+"PO-Revision-Date: 2014-08-30 07:47+0000\n"
+"Last-Translator: alelektronik <ales.drinovec@gmail.com>\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,16 +19,16 @@ msgstr ""
 
 #: packages/multilingual_attributes/controller.php:10
 msgid "Multilingual attributes"
-msgstr ""
+msgstr "Večjezični atibuti"
 
 #: packages/multilingual_attributes/controller.php:14
 msgid "Allows users to specify attributes in multiple languages."
-msgstr ""
+msgstr "Dovoli uporabnikom določanje atributov v večih jezikih."
 
 #: packages/multilingual_attributes/controller.php:32
 msgctxt "AttributeTypeName"
 msgid "Multilingual attribute"
-msgstr ""
+msgstr "Večjezični atribut"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/controller.php:74
 msgid "Title"
@@ -51,37 +52,37 @@ msgstr "Obogateno besedilo - RTF"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:3
 msgid "all languages"
-msgstr ""
+msgstr "vsi jeziki"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:6
 #, php-format
 msgctxt "Only for language"
 msgid "Only for %s"
-msgstr ""
+msgstr "Le za %s"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:10
 msgid "Enter search text"
-msgstr ""
+msgstr "Vnesite besedilo za iskanje"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:32
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:38
 msgctxt "No attribute"
 msgid "none"
 msgstr "brez"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:34
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:40
 #, php-format
 msgctxt "%s is a language"
 msgid "Fallback to %s"
-msgstr ""
+msgstr "Nadomestno na %s"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:44
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:50
 msgid "Attribute options"
-msgstr ""
+msgstr "Možnosti atributov"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:46
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:52
 msgid "Type"
 msgstr "Tip"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:58
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:64
 msgid "When not set for a language, use the value of:"
-msgstr ""
+msgstr "Ko ni nastavljeno za jezik, uporabi vrednost:"
