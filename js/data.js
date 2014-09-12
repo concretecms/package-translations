@@ -1,5 +1,5 @@
 {
-    "updated": 1410420624,
+    "updated": 1410507029,
     "packages": [
         {
             "handle": "addthis",
@@ -1225,11 +1225,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/60201/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 4,
-                    "untranslated": 40,
+                    "translated": 5,
+                    "untranslated": 39,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 9
+                    "perc": 11
                 },
                 "it_IT": {
                     "translated": 44,
@@ -1489,6 +1489,34 @@
                     "fuzzy": 0,
                     "total": 31,
                     "perc": 58
+                }
+            }
+        },
+        {
+            "handle": "handle-https",
+            "name": "Handle HTTPS",
+            "sourceURL": "https://github.com/mlocati/concrete5-handle_https",
+            "locales": {
+                "it_IT": {
+                    "translated": 17,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 17,
+                    "perc": 100
+                },
+                "sv_SE": {
+                    "translated": 17,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 17,
+                    "perc": 100
+                },
+                "el_GR": {
+                    "translated": 17,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 17,
+                    "perc": 100
                 }
             }
         },
@@ -3059,11 +3087,11 @@
                     "perc": 9
                 },
                 "ja_JP": {
-                    "translated": 24,
-                    "untranslated": 17,
+                    "translated": 25,
+                    "untranslated": 16,
                     "fuzzy": 0,
                     "total": 41,
-                    "perc": 58
+                    "perc": 60
                 },
                 "pl_PL": {
                     "translated": 24,
