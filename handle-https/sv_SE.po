@@ -1,0 +1,89 @@
+# 
+# Translators:
+# Fredrik Lindau <fredrik@fxlindau.se>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-11 14:28+0000\n"
+"PO-Revision-Date: 2014-09-11 16:00+0000\n"
+"Last-Translator: Fredrik Lindau <fredrik@fxlindau.se>\n"
+"Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/handle_https/controller.php:11
+msgid "Handle HTTPS"
+msgstr "Hantera HTTPS"
+
+#: packages/handle_https/controller.php:16
+msgid "Handle http/https protocols for site pages"
+msgstr "Hantera http/https-protokoll för webbsidor"
+
+#: packages/handle_https/controller.php:38
+msgctxt "AttributeTypeName"
+msgid "HTTPS handling"
+msgstr "HTTPS-hantering"
+
+#: packages/handle_https/controller.php:64
+msgctxt "AttributeKeyName"
+msgid "Page HTTP/HTTPS"
+msgstr "HTTP/HTTPS för sida"
+
+#: packages/handle_https/helpers/https_handling.php:35
+msgid "Require HTTP"
+msgstr "Kräver HTTP"
+
+#: packages/handle_https/helpers/https_handling.php:38
+msgid "Require HTTPS"
+msgstr "Kräver HTTPS"
+
+#: packages/handle_https/helpers/https_handling.php:41
+msgid "Inherit HTTP/HTTPS from parent page"
+msgstr "Ärver HTTP/HTTPS från överordnad sida"
+
+#: packages/handle_https/helpers/https_handling.php:44
+msgid "Don't check for HTTP/HTTPS"
+msgstr "Titta inte efter HTTP/HTTPS"
+
+#: packages/handle_https/models/attribute/types/handle_https/controller.php:257
+msgid "Use default settings"
+msgstr "Använd förvalda inställningar"
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:11
+msgid "Type Options"
+msgstr "Typ-alternativ "
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:13
+msgid "Enable HTTP/HTTPS handling"
+msgstr "Aktivera HTTP/HTTPS-hantering"
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:19
+msgid "Redirect users that can edit the page"
+msgstr "Omdirigera användare som kan redigera sidan. "
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:25
+msgid "Default behaviour"
+msgstr "Förvalt beteende"
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:31
+msgid "HTTP and HTTPS domains are different?"
+msgstr "HTTP- och HTTPS-domäner är olika? "
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:37
+msgid "HTTP base url"
+msgstr "HTTP bas-URL"
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:40
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:47
+msgid "please specify only the domain"
+msgstr "Var vänlig specificera endast domänen"
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:44
+msgid "HTTPS base url"
+msgstr "HTTPS bas-URL"

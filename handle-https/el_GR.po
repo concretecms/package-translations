@@ -1,0 +1,89 @@
+# 
+# Translators:
+# Vasilis Fotopoulos <basalba@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-11 14:28+0000\n"
+"PO-Revision-Date: 2014-09-11 17:10+0000\n"
+"Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
+"Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/handle_https/controller.php:11
+msgid "Handle HTTPS"
+msgstr "Handle HTTPS"
+
+#: packages/handle_https/controller.php:16
+msgid "Handle http/https protocols for site pages"
+msgstr "Χειρίζετε πρωτόκολλα  http / https για σελίδες του site"
+
+#: packages/handle_https/controller.php:38
+msgctxt "AttributeTypeName"
+msgid "HTTPS handling"
+msgstr "Χειρισμός HTTPS"
+
+#: packages/handle_https/controller.php:64
+msgctxt "AttributeKeyName"
+msgid "Page HTTP/HTTPS"
+msgstr "Σελίδα HTTP / HTTPS"
+
+#: packages/handle_https/helpers/https_handling.php:35
+msgid "Require HTTP"
+msgstr "Απαιτεί HTTP"
+
+#: packages/handle_https/helpers/https_handling.php:38
+msgid "Require HTTPS"
+msgstr "Απαιτεί HTTP"
+
+#: packages/handle_https/helpers/https_handling.php:41
+msgid "Inherit HTTP/HTTPS from parent page"
+msgstr "Κληροδοτεί HTTP / HTTPS από μητρική σελίδα"
+
+#: packages/handle_https/helpers/https_handling.php:44
+msgid "Don't check for HTTP/HTTPS"
+msgstr "Να μην γίνεται έλεγχος για HTTP / HTTPS"
+
+#: packages/handle_https/models/attribute/types/handle_https/controller.php:257
+msgid "Use default settings"
+msgstr "Χρησιμοποιήστε τις προεπιλεγμένες ρυθμίσεις"
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:11
+msgid "Type Options"
+msgstr "Επιλογές Τύπου"
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:13
+msgid "Enable HTTP/HTTPS handling"
+msgstr "Ενεργοποίηση χειρισμού HTTP / HTTPS "
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:19
+msgid "Redirect users that can edit the page"
+msgstr "Ανακατευθύνει τους χρήστες που μπορούν επεξεργαστούν τη σελίδα"
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:25
+msgid "Default behaviour"
+msgstr "Προεπιλεγμένη συμπεριφορά"
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:31
+msgid "HTTP and HTTPS domains are different?"
+msgstr "Τα πεδία HTTP και HTTPS είναι διαφορετικά;"
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:37
+msgid "HTTP base url"
+msgstr "βασική HTTP url"
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:40
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:47
+msgid "please specify only the domain"
+msgstr "παρακαλώ προσδιορίστε μόνο το domain"
+
+#: packages/handle_https/models/attribute/types/handle_https/type_form.php:44
+msgid "HTTPS base url"
+msgstr "HTTP base url"
