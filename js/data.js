@@ -1,5 +1,5 @@
 {
-    "updated": 1410679826,
+    "updated": 1410766226,
     "packages": [
         {
             "handle": "addthis",
@@ -1225,11 +1225,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/60201/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 5,
-                    "untranslated": 39,
+                    "translated": 6,
+                    "untranslated": 38,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 11
+                    "perc": 13
                 },
                 "it_IT": {
                     "translated": 44,
