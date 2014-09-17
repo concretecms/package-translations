@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Dusan Klobasa, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-11 14:28+0000\n"
-"PO-Revision-Date: 2014-09-11 14:31+0000\n"
+"PO-Revision-Date: 2014-09-16 19:01+0000\n"
+"Last-Translator: Dusan Klobasa\n"
 "Language-Team: Slovenian (Slovenia) (http://www.transifex.com/projects/p/concrete5-packages/language/sl_SI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,71 +19,71 @@ msgstr ""
 
 #: packages/handle_https/controller.php:11
 msgid "Handle HTTPS"
-msgstr ""
+msgstr "Uporabi HTTPS"
 
 #: packages/handle_https/controller.php:16
 msgid "Handle http/https protocols for site pages"
-msgstr ""
+msgstr "Uporabi http/https protokol za strani"
 
 #: packages/handle_https/controller.php:38
 msgctxt "AttributeTypeName"
 msgid "HTTPS handling"
-msgstr ""
+msgstr "uporaba HTTPS"
 
 #: packages/handle_https/controller.php:64
 msgctxt "AttributeKeyName"
 msgid "Page HTTP/HTTPS"
-msgstr ""
+msgstr "Stran HTTP/HTTPS"
 
 #: packages/handle_https/helpers/https_handling.php:35
 msgid "Require HTTP"
-msgstr ""
+msgstr "Zahtevaj HTTP"
 
 #: packages/handle_https/helpers/https_handling.php:38
 msgid "Require HTTPS"
-msgstr ""
+msgstr "Zahtevaj HTTPS"
 
 #: packages/handle_https/helpers/https_handling.php:41
 msgid "Inherit HTTP/HTTPS from parent page"
-msgstr ""
+msgstr "Prevzemi HTTP/HTTPS iz nadstrani"
 
 #: packages/handle_https/helpers/https_handling.php:44
 msgid "Don't check for HTTP/HTTPS"
-msgstr ""
+msgstr "Ne preveri za HTTP/HTTPS"
 
 #: packages/handle_https/models/attribute/types/handle_https/controller.php:257
 msgid "Use default settings"
-msgstr ""
+msgstr "Uporabi privzete nastavitve"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:11
 msgid "Type Options"
-msgstr ""
+msgstr "Vpiši nastavitve"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:13
 msgid "Enable HTTP/HTTPS handling"
-msgstr ""
+msgstr "Omogoči uporabo HTTP/HTTPS"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:19
 msgid "Redirect users that can edit the page"
-msgstr ""
+msgstr "Preusmeri uporabnike, ki lahko urejajo stran"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:25
 msgid "Default behaviour"
-msgstr ""
+msgstr "Privzeto obnašanje"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:31
 msgid "HTTP and HTTPS domains are different?"
-msgstr ""
+msgstr "HTTP in HTTPS domeni sta različni?"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:37
 msgid "HTTP base url"
-msgstr ""
+msgstr "osnovni naslov HTTP "
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:40
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:47
 msgid "please specify only the domain"
-msgstr ""
+msgstr "prosimo navedite samo domeno"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:44
 msgid "HTTPS base url"
-msgstr ""
+msgstr "osnovni naslov HTTPS"
