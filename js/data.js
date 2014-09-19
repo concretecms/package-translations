@@ -1,5 +1,5 @@
 {
-    "updated": 1411025428,
+    "updated": 1411111825,
     "packages": [
         {
             "handle": "addthis",
@@ -1876,11 +1876,11 @@
                     "perc": 10
                 },
                 "ja_JP": {
-                    "translated": 6,
-                    "untranslated": 13,
+                    "translated": 7,
+                    "untranslated": 12,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 31
+                    "perc": 36
                 },
                 "da_DK": {
                     "translated": 4,
@@ -2310,11 +2310,11 @@
                     "perc": 10
                 },
                 "fa_IR": {
-                    "translated": 7,
-                    "untranslated": 58,
+                    "translated": 8,
+                    "untranslated": 57,
                     "fuzzy": 0,
                     "total": 65,
-                    "perc": 10
+                    "perc": 12
                 }
             }
         },
