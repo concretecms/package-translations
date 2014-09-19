@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:28+0000\n"
-"PO-Revision-Date: 2014-06-10 07:26+0000\n"
+"PO-Revision-Date: 2014-09-18 15:41+0000\n"
 "Last-Translator: Katz Ueno <katzueno@deerstudio.com>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/concrete5-packages/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
@@ -76,7 +76,7 @@ msgstr "バックグラウンドカラー"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:73
 msgid "Border Color"
-msgstr ""
+msgstr "枠色"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:79
 msgid "Title Color"
