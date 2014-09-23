@@ -1,5 +1,5 @@
 {
-    "updated": 1411371025,
+    "updated": 1411457427,
     "packages": [
         {
             "handle": "addthis",
@@ -462,11 +462,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/49820/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 21,
-                    "untranslated": 17,
+                    "translated": 24,
+                    "untranslated": 14,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 55
+                    "perc": 63
                 },
                 "it_IT": {
                     "translated": 38,
@@ -944,6 +944,13 @@
             "name": "Database Case Sensitivity Migration (MySQL)",
             "sourceURL": "http://www.concrete5.org/download_file/-/35853/0/",
             "locales": {
+                "de_DE": {
+                    "translated": 4,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 22,
+                    "perc": 18
+                },
                 "it_IT": {
                     "translated": 22,
                     "untranslated": 0,
@@ -994,11 +1001,11 @@
             "sourceURL": "https://bitbucket.org/hdarragi/dh_multilingual_content/src/",
             "locales": {
                 "de_DE": {
-                    "translated": 1,
-                    "untranslated": 8,
+                    "translated": 2,
+                    "untranslated": 7,
                     "fuzzy": 0,
                     "total": 9,
-                    "perc": 11
+                    "perc": 22
                 },
                 "it_IT": {
                     "translated": 9,
@@ -1225,11 +1232,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/60201/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 6,
-                    "untranslated": 38,
+                    "translated": 14,
+                    "untranslated": 30,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 13
+                    "perc": 31
                 },
                 "it_IT": {
                     "translated": 44,
@@ -1497,6 +1504,13 @@
             "name": "Handle HTTPS",
             "sourceURL": "https://github.com/mlocati/concrete5-handle_https",
             "locales": {
+                "de_DE": {
+                    "translated": 6,
+                    "untranslated": 11,
+                    "fuzzy": 0,
+                    "total": 17,
+                    "perc": 35
+                },
                 "it_IT": {
                     "translated": 17,
                     "untranslated": 0,
@@ -1799,11 +1813,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/59452/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 6,
-                    "untranslated": 13,
+                    "translated": 10,
+                    "untranslated": 9,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 31
+                    "perc": 52
                 },
                 "it_IT": {
                     "translated": 19,
@@ -2464,11 +2478,11 @@
             "sourceURL": "https://github.com/mlocati/concrete5-multilingual_attributes",
             "locales": {
                 "de_DE": {
-                    "translated": 7,
-                    "untranslated": 9,
+                    "translated": 13,
+                    "untranslated": 3,
                     "fuzzy": 0,
                     "total": 16,
-                    "perc": 43
+                    "perc": 81
                 },
                 "it_IT": {
                     "translated": 16,
