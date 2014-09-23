@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Ettore Atalan <atalanttore@googlemail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-11 14:28+0000\n"
-"PO-Revision-Date: 2014-09-11 14:31+0000\n"
+"PO-Revision-Date: 2014-09-22 11:51+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +19,7 @@ msgstr ""
 
 #: packages/handle_https/controller.php:11
 msgid "Handle HTTPS"
-msgstr ""
+msgstr "HTTPS bearbeiten"
 
 #: packages/handle_https/controller.php:16
 msgid "Handle http/https protocols for site pages"
@@ -26,12 +28,12 @@ msgstr ""
 #: packages/handle_https/controller.php:38
 msgctxt "AttributeTypeName"
 msgid "HTTPS handling"
-msgstr ""
+msgstr "HTTPS-Bearbeitung"
 
 #: packages/handle_https/controller.php:64
 msgctxt "AttributeKeyName"
 msgid "Page HTTP/HTTPS"
-msgstr ""
+msgstr "Seite HTTP/HTTPS"
 
 #: packages/handle_https/helpers/https_handling.php:35
 msgid "Require HTTP"
@@ -51,15 +53,15 @@ msgstr ""
 
 #: packages/handle_https/models/attribute/types/handle_https/controller.php:257
 msgid "Use default settings"
-msgstr ""
+msgstr "Standardeinstellungen verwenden"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:11
 msgid "Type Options"
-msgstr ""
+msgstr "Typoptionen"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:13
 msgid "Enable HTTP/HTTPS handling"
-msgstr ""
+msgstr "HTTP/HTTPS-Bearbeitung aktivieren"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:19
 msgid "Redirect users that can edit the page"

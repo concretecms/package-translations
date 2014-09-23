@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Ettore Atalan <atalanttore@googlemail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-16 09:06+0000\n"
-"PO-Revision-Date: 2014-06-16 09:06+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"POT-Creation-Date: 2014-06-18 15:17+0000\n"
+"PO-Revision-Date: 2014-09-22 11:40+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 
 #: packages/multilingual_attributes/controller.php:10
 msgid "Multilingual attributes"
-msgstr ""
+msgstr "Mehrsprachige Attribute"
 
 #: packages/multilingual_attributes/controller.php:14
 msgid "Allows users to specify attributes in multiple languages."
@@ -27,7 +28,7 @@ msgstr ""
 #: packages/multilingual_attributes/controller.php:32
 msgctxt "AttributeTypeName"
 msgid "Multilingual attribute"
-msgstr ""
+msgstr "Mehrsprachiges Attribut"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/controller.php:74
 msgid "Title"
@@ -51,37 +52,37 @@ msgstr "RTF"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:3
 msgid "all languages"
-msgstr ""
+msgstr "alle Sprachen"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:6
 #, php-format
 msgctxt "Only for language"
 msgid "Only for %s"
-msgstr ""
+msgstr "Nur für %s"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:10
 msgid "Enter search text"
-msgstr ""
+msgstr "Suchtext eingeben"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:32
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:38
 msgctxt "No attribute"
 msgid "none"
 msgstr "kein"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:34
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:40
 #, php-format
 msgctxt "%s is a language"
 msgid "Fallback to %s"
 msgstr ""
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:44
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:50
 msgid "Attribute options"
-msgstr ""
+msgstr "Attributoptionen"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:46
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:52
 msgid "Type"
 msgstr "Typ"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:58
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:64
 msgid "When not set for a language, use the value of:"
 msgstr ""

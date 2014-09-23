@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Ettore Atalan <atalanttore@googlemail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2014-04-21 14:13+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-09-22 11:40+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -133,11 +134,11 @@ msgstr "Ganz zufällig"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:51
 msgid "Width/Height (px)"
-msgstr ""
+msgstr "Breite/Höhe (px)"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:56
 msgid "Cube Colour"
-msgstr ""
+msgstr "Würfelfarbe"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:62
 msgid "Hide Nav Buttons"
@@ -157,7 +158,7 @@ msgstr "Bild einfügen"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:33
 msgid "Delay"
-msgstr ""
+msgstr "Verzögerung"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:37
 msgid "Link URL (optional)"
