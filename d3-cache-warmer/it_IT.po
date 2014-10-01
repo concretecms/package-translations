@@ -1,0 +1,48 @@
+# 
+# Translators:
+# Michele Locati <michele@locati.it>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-30 08:11+0000\n"
+"PO-Revision-Date: 2014-09-30 08:42+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/d3_cache_warmer/controller.php:16
+msgid "Cache Warmer Job"
+msgstr "Processo Cache warmer"
+
+#: packages/d3_cache_warmer/controller.php:20
+msgid ""
+"Job to load specified pages or number of random pages and hence fill the "
+"cache"
+msgstr "Processo automatico che carica pagine specifiche o un numero casuale di pagine, popolando in tal modo la cache"
+
+#: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:67
+#, php-format
+msgid "Page load failed for '%s'"
+msgstr "Errore durante il caricamento della pagina '%s'"
+
+#: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:76
+#, php-format
+msgid "%s has loaded %s pages. Max: %s"
+msgstr "%s ha caricato %s pagine. Massimo: %s"
+
+#: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:78
+#, php-format
+msgid "%s did not load any pages. Page types: %s. Max pages: %s"
+msgstr "%s non ha caricato alcuna pagina. Tipi di pagine: %s. Numero massimo di pagine: %s"
+
+#: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:86
+#, php-format
+msgid "%s failed with exception: %s"
+msgstr "%s è fallico con errore %s"
