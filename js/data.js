@@ -1,5 +1,5 @@
 {
-    "updated": 1412062225,
+    "updated": 1412148627,
     "packages": [
         {
             "handle": "addthis",
@@ -719,6 +719,34 @@
                     "fuzzy": 0,
                     "total": 13,
                     "perc": 7
+                }
+            }
+        },
+        {
+            "handle": "d3-cache-warmer",
+            "name": "Cache Warmer",
+            "sourceURL": "https://github.com/akodde/d3_cache_warmer",
+            "locales": {
+                "de_DE": {
+                    "translated": 1,
+                    "untranslated": 5,
+                    "fuzzy": 0,
+                    "total": 6,
+                    "perc": 16
+                },
+                "it_IT": {
+                    "translated": 6,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 6,
+                    "perc": 100
+                },
+                "sv_SE": {
+                    "translated": 6,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 6,
+                    "perc": 100
                 }
             }
         },
