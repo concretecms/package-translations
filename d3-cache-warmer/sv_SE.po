@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-30 08:11+0000\n"
-"PO-Revision-Date: 2014-09-30 13:51+0000\n"
-"Last-Translator: Fredrik Lindau <fredrik@fxlindau.se>\n"
+"POT-Creation-Date: 2014-09-30 08:37+0000\n"
+"PO-Revision-Date: 2014-10-01 10:11+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/concrete5-packages/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,27 +22,25 @@ msgid "Cache Warmer Job"
 msgstr "Jobb för cache uppvärmning"
 
 #: packages/d3_cache_warmer/controller.php:20
-msgid ""
-"Job to load specified pages or number of random pages and hence fill the "
-"cache"
-msgstr "Jobb för att ladda specifika sidor eller ett antal slumpmässiga sidor och på så sätt fylla cachen"
+msgid "Installs a job that creates cache files for pages."
+msgstr ""
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:67
 #, php-format
-msgid "Page load failed for '%s'"
-msgstr "Sidladdningen misslyckades för '%s'"
+msgid "Page cache couldn't be created for '%s'"
+msgstr ""
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:76
 #, php-format
-msgid "%s has loaded %s pages. Max: %s"
-msgstr "%s har laddat %s sidor. Max: %s"
+msgid "%s has loaded %d pages. Max: %d"
+msgstr ""
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:78
 #, php-format
-msgid "%s did not load any pages. Page types: %s. Max pages: %s"
-msgstr "%s laddade inga sidor. Sidtyper: %s. Max sidor: %s"
+msgid "%s did not load any pages. Page types: %s. Max pages: %d"
+msgstr ""
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:86
 #, php-format
-msgid "%s failed with exception: %s"
-msgstr "%s misslyckades med undantag: %s"
+msgid "%s failed with an exception: %s"
+msgstr ""
