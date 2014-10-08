@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-30 08:37+0000\n"
-"PO-Revision-Date: 2014-10-01 10:11+0000\n"
+"PO-Revision-Date: 2014-10-08 06:40+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
@@ -23,24 +23,24 @@ msgstr "Processo Cache warmer"
 
 #: packages/d3_cache_warmer/controller.php:20
 msgid "Installs a job that creates cache files for pages."
-msgstr ""
+msgstr "Installa un processo che crea i file della cache per le pagine."
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:67
 #, php-format
 msgid "Page cache couldn't be created for '%s'"
-msgstr ""
+msgstr "Non è stato possibile creare la cache delle pagine per '%s'"
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:76
 #, php-format
 msgid "%s has loaded %d pages. Max: %d"
-msgstr ""
+msgstr "%s ha caricato %d pagine. Massimo: %d"
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:78
 #, php-format
 msgid "%s did not load any pages. Page types: %s. Max pages: %d"
-msgstr ""
+msgstr "%s non ha caricato alcuna pagina. Tipi di pagine: %s. Numero massimo di pagine: %d"
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:86
 #, php-format
 msgid "%s failed with an exception: %s"
-msgstr ""
+msgstr "%s è fallito con l’errore %s"
