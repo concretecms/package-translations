@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-09 14:37+0000\n"
-"PO-Revision-Date: 2014-08-30 07:50+0000\n"
+"PO-Revision-Date: 2014-10-10 17:37+0000\n"
 "Last-Translator: Maura van Tuijl <info@hutspott.nl>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:30
 #: packages/dh_multilingual_content/controller.php:15
 msgid "Multilingual HTML/WYSIWYG Editor Content."
-msgstr "Meertalige inhoud van HTML/WYSIWYG de redacteur."
+msgstr "Meertalige HTML/WYSIWYG editor inhoud."
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:34
 #: packages/dh_multilingual_content/controller.php:19
@@ -29,7 +29,7 @@ msgstr "Meertalige inhoud"
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:58
 msgid "Sorry, the block cannot be added."
-msgstr "Sorry, dat het blok kan niet worden toegevoegd."
+msgstr "Sorry, het blok kan niet worden toegevoegd."
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:13
 msgid "This block is designed for multilingual sites"
@@ -54,4 +54,4 @@ msgstr "Internationalisatie"
 #: packages/dh_multilingual_content/controller.php:25
 #, php-format
 msgid "You must have the %s add-on installed in order to use this add-on!"
-msgstr "U moet de %s iadd-on geïnstalleerd hebben om deze add-on te kunnen gebruiken!"
+msgstr "U moet de %s add-on geïnstalleerd hebben om deze add-on te kunnen gebruiken!"
