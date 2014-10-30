@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-09-22 11:51+0000\n"
+"PO-Revision-Date: 2014-10-29 21:10+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,7 @@ msgstr ""
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:6
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:8
 msgid "Database Migration Tool"
-msgstr ""
+msgstr "Datenbankmigrationswerkzeug"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:10
 msgid ""

@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-11 14:28+0000\n"
-"PO-Revision-Date: 2014-09-22 11:51+0000\n"
+"PO-Revision-Date: 2014-10-29 21:10+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -69,11 +69,11 @@ msgstr ""
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:25
 msgid "Default behaviour"
-msgstr ""
+msgstr "Standardverhalten"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:31
 msgid "HTTP and HTTPS domains are different?"
-msgstr ""
+msgstr "HTTP und HTTPS Domains sind verschieden?"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:37
 msgid "HTTP base url"

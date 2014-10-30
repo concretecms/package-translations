@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-09 14:37+0000\n"
-"PO-Revision-Date: 2014-09-22 11:51+0000\n"
+"PO-Revision-Date: 2014-10-29 21:10+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:30
 #: packages/dh_multilingual_content/controller.php:15
 msgid "Multilingual HTML/WYSIWYG Editor Content."
-msgstr ""
+msgstr "Mehrsprachiger HTML/WYSIWYG-Editorinhalt."
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:34
 #: packages/dh_multilingual_content/controller.php:19

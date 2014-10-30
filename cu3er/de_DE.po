@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2014-09-22 11:40+0000\n"
+"PO-Revision-Date: 2014-10-29 21:04+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -80,7 +80,7 @@ msgstr "Nach oben"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:19
 msgid "Down"
-msgstr ""
+msgstr "Außer Betrieb"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:21
 #: packages/cu3er/blocks/cu3er/image_row_include.php:28
@@ -142,7 +142,7 @@ msgstr "Würfelfarbe"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:62
 msgid "Hide Nav Buttons"
-msgstr ""
+msgstr "Navigationsschaltflächen ausblenden"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:66
 msgid "Duration Before Transition"
@@ -150,7 +150,7 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:72
 msgid "Select Fallback Image"
-msgstr ""
+msgstr "Notfallbild auswählen"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:83
 msgid "Add Image"

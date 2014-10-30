@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-09-22 11:51+0000\n"
+"PO-Revision-Date: 2014-10-29 21:10+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr ""
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:21
 #: packages/free_cookies_disclosure/elements/cookies_disclosure.php:27
 msgid "I accept cookies from this site"
-msgstr ""
+msgstr "Ich akzeptiere Cookies von dieser Webseite"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:22
 #: packages/free_cookies_disclosure/elements/cookies_disclosure.php:28
@@ -41,11 +41,11 @@ msgstr "Optionen"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:10
 msgid "Show Checkbox"
-msgstr ""
+msgstr "Kontrollkästchen anzeigen"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:11
 msgid "AJAX Submit"
-msgstr ""
+msgstr "AJAX Absenden"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:17
 msgid "Accept Text"
@@ -120,7 +120,7 @@ msgstr "Farbprofil"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:25
 msgid "CSS Suffix for Color Profile"
-msgstr ""
+msgstr "CSS-Suffix für Farbprofil"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:28
 msgid ""
@@ -142,7 +142,7 @@ msgstr "Debugging"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:46
 msgid "Enable Debug Mode"
-msgstr ""
+msgstr "Debugmodus aktivieren"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:49
 msgid ""
