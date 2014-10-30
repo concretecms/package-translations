@@ -1,5 +1,5 @@
 {
-    "updated": 1414571427,
+    "updated": 1414657828,
     "packages": [
         {
             "handle": "addthis",
@@ -462,11 +462,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/49820/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 24,
-                    "untranslated": 14,
+                    "translated": 27,
+                    "untranslated": 11,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 63
+                    "perc": 71
                 },
                 "it_IT": {
                     "translated": 38,
@@ -727,6 +727,13 @@
             "name": "Cache Warmer",
             "sourceURL": "https://github.com/akodde/d3_cache_warmer",
             "locales": {
+                "de_DE": {
+                    "translated": 2,
+                    "untranslated": 4,
+                    "fuzzy": 0,
+                    "total": 6,
+                    "perc": 33
+                },
                 "it_IT": {
                     "translated": 6,
                     "untranslated": 0,
@@ -973,11 +980,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/35853/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 4,
-                    "untranslated": 18,
+                    "translated": 5,
+                    "untranslated": 17,
                     "fuzzy": 0,
                     "total": 22,
-                    "perc": 18
+                    "perc": 22
                 },
                 "it_IT": {
                     "translated": 22,
@@ -1029,11 +1036,11 @@
             "sourceURL": "https://bitbucket.org/hdarragi/dh_multilingual_content/src/",
             "locales": {
                 "de_DE": {
-                    "translated": 2,
-                    "untranslated": 7,
+                    "translated": 3,
+                    "untranslated": 6,
                     "fuzzy": 0,
                     "total": 9,
-                    "perc": 22
+                    "perc": 33
                 },
                 "it_IT": {
                     "translated": 9,
@@ -1260,11 +1267,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/60201/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 14,
-                    "untranslated": 30,
+                    "translated": 19,
+                    "untranslated": 25,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 31
+                    "perc": 43
                 },
                 "it_IT": {
                     "translated": 44,
@@ -1533,11 +1540,11 @@
             "sourceURL": "https://github.com/mlocati/concrete5-handle_https",
             "locales": {
                 "de_DE": {
-                    "translated": 6,
-                    "untranslated": 11,
+                    "translated": 8,
+                    "untranslated": 9,
                     "fuzzy": 0,
                     "total": 17,
-                    "perc": 35
+                    "perc": 47
                 },
                 "it_IT": {
                     "translated": 17,
