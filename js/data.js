@@ -1,5 +1,5 @@
 {
-    "updated": 1415089826,
+    "updated": 1415176234,
     "packages": [
         {
             "handle": "addthis",
@@ -462,11 +462,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/49820/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 27,
-                    "untranslated": 11,
+                    "translated": 30,
+                    "untranslated": 8,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 71
+                    "perc": 78
                 },
                 "it_IT": {
                     "translated": 38,
@@ -728,11 +728,11 @@
             "sourceURL": "https://github.com/akodde/d3_cache_warmer",
             "locales": {
                 "de_DE": {
-                    "translated": 2,
-                    "untranslated": 4,
+                    "translated": 4,
+                    "untranslated": 2,
                     "fuzzy": 0,
                     "total": 6,
-                    "perc": 33
+                    "perc": 66
                 },
                 "it_IT": {
                     "translated": 6,
@@ -748,11 +748,53 @@
                     "total": 6,
                     "perc": 100
                 },
+                "el_GR": {
+                    "translated": 6,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 6,
+                    "perc": 100
+                },
                 "nl_NL": {
                     "translated": 6,
                     "untranslated": 0,
                     "fuzzy": 0,
                     "total": 6,
+                    "perc": 100
+                }
+            }
+        },
+        {
+            "handle": "d3-page-change-notifier",
+            "name": "Page Change Notifier",
+            "sourceURL": "https://github.com/akodde/d3_page_change_notifier",
+            "locales": {
+                "de_DE": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 100
+                },
+                "it_IT": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 100
+                },
+                "sv_SE": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 100
+                },
+                "el_GR": {
+                    "translated": 13,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 13,
                     "perc": 100
                 }
             }
@@ -980,11 +1022,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/35853/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 5,
-                    "untranslated": 17,
+                    "translated": 8,
+                    "untranslated": 14,
                     "fuzzy": 0,
                     "total": 22,
-                    "perc": 22
+                    "perc": 36
                 },
                 "it_IT": {
                     "translated": 22,
@@ -1036,11 +1078,11 @@
             "sourceURL": "https://bitbucket.org/hdarragi/dh_multilingual_content/src/",
             "locales": {
                 "de_DE": {
-                    "translated": 3,
-                    "untranslated": 6,
+                    "translated": 5,
+                    "untranslated": 4,
                     "fuzzy": 0,
                     "total": 9,
-                    "perc": 33
+                    "perc": 55
                 },
                 "it_IT": {
                     "translated": 9,
@@ -1267,11 +1309,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/60201/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 19,
-                    "untranslated": 25,
+                    "translated": 20,
+                    "untranslated": 24,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 43
+                    "perc": 45
                 },
                 "it_IT": {
                     "translated": 44,
@@ -1540,11 +1582,11 @@
             "sourceURL": "https://github.com/mlocati/concrete5-handle_https",
             "locales": {
                 "de_DE": {
-                    "translated": 8,
-                    "untranslated": 9,
+                    "translated": 13,
+                    "untranslated": 4,
                     "fuzzy": 0,
                     "total": 17,
-                    "perc": 47
+                    "perc": 76
                 },
                 "it_IT": {
                     "translated": 17,
@@ -1855,11 +1897,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/59452/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 10,
-                    "untranslated": 9,
+                    "translated": 12,
+                    "untranslated": 7,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 52
+                    "perc": 63
                 },
                 "it_IT": {
                     "translated": 19,
@@ -2520,11 +2562,11 @@
             "sourceURL": "https://github.com/mlocati/concrete5-multilingual_attributes",
             "locales": {
                 "de_DE": {
-                    "translated": 13,
-                    "untranslated": 3,
+                    "translated": 14,
+                    "untranslated": 2,
                     "fuzzy": 0,
                     "total": 16,
-                    "perc": 81
+                    "perc": 87
                 },
                 "it_IT": {
                     "translated": 16,
