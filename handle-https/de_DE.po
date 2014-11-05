@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-11 14:28+0000\n"
-"PO-Revision-Date: 2014-10-29 21:10+0000\n"
+"PO-Revision-Date: 2014-11-04 19:41+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -37,11 +37,11 @@ msgstr "Seite HTTP/HTTPS"
 
 #: packages/handle_https/helpers/https_handling.php:35
 msgid "Require HTTP"
-msgstr ""
+msgstr "Benötigt HTTP"
 
 #: packages/handle_https/helpers/https_handling.php:38
 msgid "Require HTTPS"
-msgstr ""
+msgstr "Benötigt HTTPS"
 
 #: packages/handle_https/helpers/https_handling.php:41
 msgid "Inherit HTTP/HTTPS from parent page"
@@ -49,7 +49,7 @@ msgstr ""
 
 #: packages/handle_https/helpers/https_handling.php:44
 msgid "Don't check for HTTP/HTTPS"
-msgstr ""
+msgstr "Nicht auf HTTP/HTTPS überprüfen"
 
 #: packages/handle_https/models/attribute/types/handle_https/controller.php:257
 msgid "Use default settings"
@@ -77,7 +77,7 @@ msgstr "HTTP und HTTPS Domains sind verschieden?"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:37
 msgid "HTTP base url"
-msgstr ""
+msgstr "HTTP Basis-URL"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:40
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:47
@@ -86,4 +86,4 @@ msgstr ""
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:44
 msgid "HTTPS base url"
-msgstr ""
+msgstr "HTTPS Basis-URL"

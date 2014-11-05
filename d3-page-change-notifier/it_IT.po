@@ -1,0 +1,75 @@
+# 
+# Translators:
+# Michele Locati <michele@locati.it>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-04 09:23+0000\n"
+"PO-Revision-Date: 2014-11-04 17:20+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/d3_page_change_notifier/controller.php:18
+msgid "Page change notifier"
+msgstr "Notifica cambio pagina"
+
+#: packages/d3_page_change_notifier/controller.php:22
+msgid "Sends an email notification if a page has been updated."
+msgstr "Invia un’email di notifica se una pagina viene aggiornata."
+
+#: packages/d3_page_change_notifier/controller.php:39
+#, php-format
+msgid "%s: Website change"
+msgstr "%s: modifica del sito web"
+
+#: packages/d3_page_change_notifier/libraries/d3_pcn_events.php:6
+msgid "A new page has been added."
+msgstr "È stata aggiunta una nuova pagina."
+
+#: packages/d3_page_change_notifier/libraries/d3_pcn_events.php:10
+msgid "Page has been updated."
+msgstr "Pagina aggiornata."
+
+#: packages/d3_page_change_notifier/libraries/d3_pcn_events.php:14
+msgid "Page has been deleted."
+msgstr "Pagina eliminata."
+
+#: packages/d3_page_change_notifier/libraries/d3_pcn_events.php:18
+msgid "Page has been moved."
+msgstr "Pagina rimossa."
+
+#: packages/d3_page_change_notifier/libraries/d3_pcn_events.php:22
+msgid "Page has been duplicated."
+msgstr "Pagina duplicata."
+
+#: packages/d3_page_change_notifier/libraries/d3_pcn_events.php:26
+msgid "Page update has been approved."
+msgstr "Approvazione pagina modificata."
+
+#: packages/d3_page_change_notifier/libraries/d3_pcn_events.php:41
+#, php-format
+msgid "The following page has been updated: <a href=\"%s\">%s</a>"
+msgstr "La seguente pagina è stata aggiornata: <a href=\"%s\">%s</a>"
+
+#: packages/d3_page_change_notifier/libraries/d3_pcn_events.php:42
+#, php-format
+msgid "System message: %s"
+msgstr "Messaggio di sistema: %s"
+
+#: packages/d3_page_change_notifier/libraries/d3_pcn_events.php:43
+#, php-format
+msgid "Edited by: %s"
+msgstr "Modificata da: %s"
+
+#: packages/d3_page_change_notifier/libraries/d3_pcn_events.php:46
+#, php-format
+msgid "Page version comments: %s"
+msgstr "Commenti alla versione della pagina: %s"

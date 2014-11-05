@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-10-29 21:10+0000\n"
+"PO-Revision-Date: 2014-11-04 17:31+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr ""
 
 #: packages/db_case_sensitivity/controllers/dashboard/system/backup_restore/db_migration.php:80
 msgid "Successfully migrated your backup files!"
-msgstr ""
+msgstr "Ihre Datensicherungsdateien wurden erfolgreich migriert!"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:6
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:8
@@ -78,7 +78,7 @@ msgstr ""
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:23
 msgid "Run Migration"
-msgstr ""
+msgstr "Migration ausführen"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:27
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:30
@@ -104,7 +104,7 @@ msgstr ""
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:37
 msgid "Download Migration Script"
-msgstr ""
+msgstr "Migrationsskript herunterladen"
 
 #: packages/db_case_sensitivity/single_pages/dashboard/system/backup_restore/db_migration.php:41
 msgid "Some tables are missing from the migration!"

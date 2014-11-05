@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2014-10-29 21:04+0000\n"
+"PO-Revision-Date: 2014-11-04 19:35+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -19,12 +19,12 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/controller.php:34
 msgid "Display a Flash-based slideshow with 3D transitions."
-msgstr ""
+msgstr "Eine Flash-basierte Diaschau mit 3D-Übergängen anzeigen."
 
 #: packages/cu3er/blocks/cu3er/controller.php:38
 #: packages/cu3er/controller.php:18
 msgid "Cu3er Slideshow"
-msgstr ""
+msgstr "Cu3er-Diaschau"
 
 #: packages/cu3er/blocks/cu3er/controller.php:43
 msgid "Choose Image/File"
@@ -85,7 +85,7 @@ msgstr "Außer Betrieb"
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:21
 #: packages/cu3er/blocks/cu3er/image_row_include.php:28
 msgid "Shader"
-msgstr ""
+msgstr "Schattierer"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:23
 msgid "None"

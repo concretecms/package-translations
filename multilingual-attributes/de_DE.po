@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-18 15:17+0000\n"
-"PO-Revision-Date: 2014-09-22 11:40+0000\n"
+"PO-Revision-Date: 2014-11-04 19:35+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -73,7 +73,7 @@ msgstr "kein"
 #, php-format
 msgctxt "%s is a language"
 msgid "Fallback to %s"
-msgstr ""
+msgstr "Rückgriff auf %s"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:50
 msgid "Attribute options"
