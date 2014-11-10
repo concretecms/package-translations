@@ -1,11 +1,12 @@
 # 
 # Translators:
+# IceManSpy <icemanspy+transifex@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:24+0100\n"
-"PO-Revision-Date: 2014-03-14 15:25+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-11-09 19:31+0000\n"
+"Last-Translator: IceManSpy <icemanspy+transifex@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/concrete5-packages/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,11 +29,11 @@ msgstr ""
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:8
 #: C:\Work\concrete5-cover-picture/controller.php:16
 msgid "Cover Picture"
-msgstr ""
+msgstr "Pokrywający obrazek"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:11
 msgid "Picture"
-msgstr ""
+msgstr "Obraz"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:16
 msgid "Text"
@@ -40,19 +41,19 @@ msgstr "Tekst"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:25
 msgid "Overlay Color"
-msgstr ""
+msgstr "Kolor pokrycia"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:33
 msgid "Overlay Opacity"
-msgstr ""
+msgstr "Przezroczystość pokrycia"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_centered/view.php:8
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_on_top/view.php:8
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/templates/text_slider/view.php:8
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/view.php:8
 msgid "No picture selected"
-msgstr ""
+msgstr "Nie wybrano obrazka"
 
 #: C:\Work\concrete5-cover-picture/controller.php:12
 msgid "Adds a text covered by a picture"
-msgstr ""
+msgstr "Dodaj tekst do pokrywającego obrazka"

@@ -1,11 +1,12 @@
 # 
 # Translators:
+# IceManSpy <icemanspy+transifex@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:32+0100\n"
-"PO-Revision-Date: 2014-03-25 15:32+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2014-11-09 19:28+0000\n"
+"Last-Translator: IceManSpy <icemanspy+transifex@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/concrete5-packages/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,24 +25,24 @@ msgstr ""
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/view.php:2
 #: C:\Work\addon_addthis/packages/addthis/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Dostep zabroniony"
 
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/controller.php:18
 #: C:\Work\addon_addthis/packages/addthis/controller.php:12
 msgid ""
 "Makes it easy for your visitors to bookmark and share your content with "
 "others."
-msgstr ""
+msgstr "Ułatwia Twoim wizytatorom dodać do ulubionych i udostępniać innym"
 
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/controller.php:22
 #: C:\Work\addon_addthis/packages/addthis/controller.php:16
 msgid "AddThis"
-msgstr ""
+msgstr "Dodaj to"
 
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/form_setup_html.php:9
 msgid "AddThis User Name (optional)"
-msgstr ""
+msgstr "Dodaj do tego użytkownika (opcjonalne)"
 
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/form_setup_html.php:13
 msgid "Sign up for an account at"
-msgstr ""
+msgstr "Zaloguj się, aby"
