@@ -1,5 +1,5 @@
 {
-    "updated": 1415521953,
+    "updated": 1415608233,
     "packages": [
         {
             "handle": "addthis",
@@ -98,6 +98,13 @@
                     "perc": 40
                 },
                 "ja_JP": {
+                    "translated": 5,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 5,
+                    "perc": 100
+                },
+                "pl_PL": {
                     "translated": 5,
                     "untranslated": 0,
                     "fuzzy": 0,
@@ -420,11 +427,11 @@
                     "perc": 100
                 },
                 "pl_PL": {
-                    "translated": 1,
-                    "untranslated": 7,
+                    "translated": 7,
+                    "untranslated": 1,
                     "fuzzy": 0,
                     "total": 8,
-                    "perc": 12
+                    "perc": 87
                 },
                 "da_DK": {
                     "translated": 2,
@@ -462,11 +469,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/49820/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 30,
-                    "untranslated": 8,
+                    "translated": 31,
+                    "untranslated": 7,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 78
+                    "perc": 81
                 },
                 "it_IT": {
                     "translated": 38,
@@ -1171,6 +1178,41 @@
             }
         },
         {
+            "handle": "dseventcalendar",
+            "name": "Event Calendar",
+            "sourceURL": "https://github.com/dszymczuk/dsEventCalendar",
+            "locales": {
+                "de_DE": {
+                    "translated": 65,
+                    "untranslated": 13,
+                    "fuzzy": 0,
+                    "total": 78,
+                    "perc": 83
+                },
+                "it_IT": {
+                    "translated": 78,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 78,
+                    "perc": 100
+                },
+                "el_GR": {
+                    "translated": 18,
+                    "untranslated": 60,
+                    "fuzzy": 0,
+                    "total": 78,
+                    "perc": 23
+                },
+                "pl_PL": {
+                    "translated": 78,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 78,
+                    "perc": 100
+                }
+            }
+        },
+        {
             "handle": "files-cleaner",
             "name": "Files Cleaner",
             "sourceURL": "https://github.com/mlocati/concrete5-files-cleaner",
@@ -1272,6 +1314,13 @@
                     "fuzzy": 0,
                     "total": 37,
                     "perc": 97
+                },
+                "pl_PL": {
+                    "translated": 37,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 37,
+                    "perc": 100
                 },
                 "da_DK": {
                     "translated": 7,
@@ -1897,11 +1946,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/59452/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 12,
-                    "untranslated": 7,
+                    "translated": 13,
+                    "untranslated": 6,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 63
+                    "perc": 68
                 },
                 "it_IT": {
                     "translated": 19,
@@ -2660,11 +2709,11 @@
                     "perc": 43
                 },
                 "pl_PL": {
-                    "translated": 7,
-                    "untranslated": 9,
+                    "translated": 16,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 16,
-                    "perc": 43
+                    "perc": 100
                 },
                 "da_DK": {
                     "translated": 7,
@@ -2786,11 +2835,11 @@
                     "perc": 100
                 },
                 "pl_PL": {
-                    "translated": 1,
-                    "untranslated": 6,
+                    "translated": 7,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 7,
-                    "perc": 14
+                    "perc": 100
                 },
                 "da_DK": {
                     "translated": 1,
