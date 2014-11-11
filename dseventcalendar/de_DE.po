@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-11-09 16:35+0100\n"
-"PO-Revision-Date: 2014-11-09 16:46+0000\n"
+"PO-Revision-Date: 2014-11-10 14:00+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -82,7 +82,7 @@ msgstr "Bearbeitungsmodus für Kalender:"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/form_setup_html.php:7
 msgid "No calendar exist. Add from one from dashboard."
-msgstr ""
+msgstr "Kein Kalender vorhanden. Fügen sie einen von der Übersichtsseite hinzu."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/form_setup_html.php:12
 msgid "Select calendar"
@@ -104,7 +104,7 @@ msgstr "Ereignis wurde gelöscht"
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:15
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:9
 msgid "Something wrong in delete. Try again"
-msgstr ""
+msgstr "Etwas ist falsch im Löschen. Versuchen Sie es erneut"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:12
 msgid "List of events"
@@ -112,7 +112,7 @@ msgstr "Liste mit Ereignissen"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:17
 msgid "There is no events. Go to Add event to add new event."
-msgstr ""
+msgstr "Es gibt keine Ereignisse. Gehen Sie zu Ereignis hinzufügen, um ein neues Ereignis hinzuzufügen."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:25
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:37
@@ -205,7 +205,7 @@ msgstr "Typ wurde bearbeitet"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:70
 msgid "Something wrong in edit. Try again"
-msgstr ""
+msgstr "Etwas ist falsch in der Bearbeitung. Versuchen Sie es erneut"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:94
 msgid "Add type"
@@ -265,11 +265,11 @@ msgstr "Projekt auf GitHub:"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:90
 msgid "Do you like it? Maybe some donate? :)"
-msgstr ""
+msgstr "Gefällt es Ihnen? Vielleicht eine kleine Spende? :)"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:6
 msgid "Calendar with all events was deleted"
-msgstr ""
+msgstr "Kalender mit allen Ereignissen wurde gelöscht"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:12
 msgid "List of calendars"
@@ -277,7 +277,7 @@ msgstr "Liste mit Kalendern"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:16
 msgid "There is no calendars. Go to Add calendar to add new calendar."
-msgstr ""
+msgstr "Es gibt keine Kalender. Gehen Sie zu Kalender hinzufügen, um einen neuen Kalender hinzuzufügen."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:24
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:32
@@ -294,7 +294,7 @@ msgstr "Ereignisse im Kalender"
 msgid ""
 "There is no calendars to add new event. Go to Add calendar to add new "
 "calendar."
-msgstr ""
+msgstr "Es gibt keinen Kalender zum Hinzufügen eines neuen Ereignisses. Gehen Sie zu Kalender hinzufügen, um einen neuen Kalender hinzuzufügen."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:28
 msgid "Calendar"
