@@ -1,12 +1,13 @@
 # 
 # Translators:
 # Ettore Atalan <atalanttore@googlemail.com>, 2014
+# Remo Laubacher <remo.laubacher@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
-"POT-Creation-Date: 2014-11-09 16:35+0100\n"
-"PO-Revision-Date: 2014-11-10 14:00+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"POT-Creation-Date: 2014-11-10 10:43+0100\n"
+"PO-Revision-Date: 2014-11-12 12:21+0000\n"
+"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -236,7 +237,7 @@ msgid "Start from"
 msgstr "Beginnen ab"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:56
-msgid "Number of evetns in day"
+msgid "Number of events in day"
 msgstr "Anzahl der Ereignisse am Tag"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:63
