@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
-"POT-Creation-Date: 2014-11-10 10:43+0100\n"
-"PO-Revision-Date: 2014-11-12 12:00+0000\n"
+"POT-Creation-Date: 2014-11-18 23:28+0100\n"
+"PO-Revision-Date: 2014-11-19 14:43+0000\n"
 "Last-Translator: IceManSpy <icemanspy+transifex@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/concrete5-packages/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
@@ -219,6 +219,12 @@ msgstr "Dodaj nowy"
 msgid "Edit type"
 msgstr "Edytuj typ"
 
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:183
+msgid ""
+"Are you sure to delete this event? All event with this tape will be set as "
+"default type."
+msgstr ""
+
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:9
 msgid "Language"
 msgstr "Język"
@@ -230,6 +236,10 @@ msgstr "Format daty w tytule"
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:28
 msgid "Event date format"
 msgstr "Format daty w wydarzeniu"
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:37
+msgid "Available formats"
+msgstr "Dostępne formaty"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:42
 msgid "Start from"
