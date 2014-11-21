@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-11-18 23:28+0100\n"
-"PO-Revision-Date: 2014-11-19 10:29+0000\n"
+"PO-Revision-Date: 2014-11-20 10:25+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -220,7 +220,7 @@ msgstr ""
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:183
 msgid ""
-"Are you sure to delete this event? All event with this tape will be set as "
+"Are you sure to delete this type? All event with this type will be set as "
 "default type."
 msgstr ""
 
