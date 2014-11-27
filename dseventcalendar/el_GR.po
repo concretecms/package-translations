@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-11-18 23:28+0100\n"
-"PO-Revision-Date: 2014-11-25 18:52+0000\n"
+"PO-Revision-Date: 2014-11-26 21:24+0000\n"
 "Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -251,146 +251,146 @@ msgstr "Αριθμός εκδηλώσεων την ημέρα"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:63
 msgid "Default name of event"
-msgstr ""
+msgstr "Προεπιλεγμένο όνομα της εκδήλωσης"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:70
 msgid "Default color of event"
-msgstr ""
+msgstr "Προεπιλεγμένο χρώμα της εκδήλωσης"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:79
 msgid "Update settings"
-msgstr ""
+msgstr "Ενημέρωση Ρυθμίσεων"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:87
 msgid "Author:"
-msgstr ""
+msgstr "Συντάκτης:"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:88
 msgid "Site:"
-msgstr ""
+msgstr "Δικτυακός τόπος:"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:89
 msgid "Project on GitHub:"
-msgstr ""
+msgstr "Σελίδα Έργου στο GitHub:"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:90
 msgid "Do you like it? Maybe some donate? :)"
-msgstr ""
+msgstr "Σας άρεσε; Ίσως να κάνατε κάποια δωρεά; :)"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:6
 msgid "Calendar with all events was deleted"
-msgstr ""
+msgstr "Το Ημερολόγιο και όλες οι εκδηλώσεις διαγράφηκαν "
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:12
 msgid "List of calendars"
-msgstr ""
+msgstr "Κατάλογος των ημερολογίων"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:16
 msgid "There is no calendars. Go to Add calendar to add new calendar."
-msgstr ""
+msgstr "Δεν υπάρχουν ημερολόγια. Πηγαίνετε στο \"Προσθέστε ένα ημερολόγιο\" για να προσθέσετε νέο ημερολόγιο."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:24
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:32
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/calendar.php:16
 msgid "Calendar title"
-msgstr ""
+msgstr "Τίτλος Ημερολογίου "
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:25
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:33
 msgid "Events in calendar"
-msgstr ""
+msgstr "Εκδηλώσεις στο ημερολόγιο"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:11
 msgid ""
 "There is no calendars to add new event. Go to Add calendar to add new "
 "calendar."
-msgstr ""
+msgstr "Δεν υπάρχουν ημερολόγια για να προσθέσετε νέο συμβάν. Πηγαίνετε στο \"Προσθέστε ένα ημερολόγιο\" για να προσθέσετε νέο ημερολόγιο."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:28
 msgid "Calendar"
-msgstr ""
+msgstr "Ημερολόγιο"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:64
 msgid "Event url"
-msgstr ""
+msgstr "URL εκδήλωσης"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/calendar.php:11
 msgid "Return to calendar list"
-msgstr ""
+msgstr "Επιστροφή στη λίστα ημερολογίων"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/types.php:44
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:49
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:129
 msgid "Event: "
-msgstr ""
+msgstr "Εκδήλωση:"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/types.php:47
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:38
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:57
 msgid "Error while adding. Maybe some values were empty?"
-msgstr ""
+msgstr "Σφάλμα κατά την προσθήκη. Ίσως κάποιες τιμές είναι κενές;"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:35
 msgid "Settings have been updated."
-msgstr ""
+msgstr "Οι ρυθμίσεις έχουν ενημερωθεί."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Monday"
-msgstr ""
+msgstr "Δευτέρα"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Tuesday"
-msgstr ""
+msgstr "Τρίτη"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Wednesday"
-msgstr ""
+msgstr "Τετάρτη"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Thursday"
-msgstr ""
+msgstr "Πέμπτη"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Friday"
-msgstr ""
+msgstr "Παρασκευή"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Saturday"
-msgstr ""
+msgstr "Σάββατο "
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Sunday"
-msgstr ""
+msgstr "Κυριακή"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:86
 msgid "Add event"
-msgstr ""
+msgstr "Προσθήκη εκδήλωσης"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:132
 msgid "Error while editing. Maybe some values were empty?"
-msgstr ""
+msgstr "Σφάλμα κατά την επεξεργασία. Ίσως κάποιες τιμές είναι κενές;"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:175
 msgid "Edit event"
-msgstr ""
+msgstr "Επεξεργασία εκδήλωσης"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/calendar.php:17
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/calendar.php:55
 msgid "Calendar "
-msgstr ""
+msgstr "Ημερολόγιο"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/calendar.php:21
 msgid "Error while adding. Maybe calendar title was empty?"
-msgstr ""
+msgstr "Σφάλμα κατά την προσθήκη. Ίσως ο τίτλος ημερολογίου είναι κενός;"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/calendar.php:27
 msgid "Add calendar"
-msgstr ""
+msgstr "Προσθέστε ημερολόγιο"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/calendar.php:44
 msgid "Edit calendar"
-msgstr ""
+msgstr "Επεξεργασία ημερολογίου"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/calendar.php:59
 msgid "Error while editing. Maybe calendar title was empty?"
-msgstr ""
+msgstr "Σφάλμα κατά την επεξεργασία. Ίσως ο τίτλος ημερολογίου είναι κενός;"
