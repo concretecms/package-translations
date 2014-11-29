@@ -81,7 +81,7 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
 msgid "File"
-msgstr ""
+msgstr "Plik"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
 msgid "Line"

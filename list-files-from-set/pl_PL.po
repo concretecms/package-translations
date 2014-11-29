@@ -1,11 +1,12 @@
 # 
 # Translators:
+# IceManSpy <icemanspy+transifex@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-01 10:48+0100\n"
-"PO-Revision-Date: 2014-03-17 19:50+0000\n"
-"Last-Translator: Torsten Silbermann <mail@tsilbermann.de>\n"
+"PO-Revision-Date: 2014-11-28 14:28+0000\n"
+"Last-Translator: IceManSpy <icemanspy+transifex@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/concrete5-packages/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,117 +22,117 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/controller.php:15
 msgid "Displays a list of files from a file set."
-msgstr ""
+msgstr "Wyświetla listę plików z zestawu plików."
 
 #: ../blocks/list_files_from_set/controller.php:19
 msgid "List Files From Set"
-msgstr ""
+msgstr "Lista plików z Zestawu"
 
 #: ../blocks/list_files_from_set/controller.php:23
 #: ../blocks/list_files_from_set/controller.php:29
 msgid "You must select a file set."
-msgstr ""
+msgstr "Musisz wybrać zestaw plików"
 
 #: ../blocks/list_files_from_set/edit.php:8
 #: ../blocks/list_files_from_set/edit.php:25
 msgid "Select File Set"
-msgstr ""
+msgstr "Wybierz zestaw plików"
 
 #: ../blocks/list_files_from_set/edit.php:19
 msgid "Display"
-msgstr ""
+msgstr "Wyświetl"
 
 #: ../blocks/list_files_from_set/edit.php:20
 msgid "files from:"
-msgstr ""
+msgstr "pliki z:"
 
 #: ../blocks/list_files_from_set/edit.php:41
 msgid "(leave blank or enter zero for all files in set)"
-msgstr ""
+msgstr "(zostaw puste lub wpisz 0 dla wszystkich plików w zestawie)"
 
 #: ../blocks/list_files_from_set/edit.php:45
 msgid "Ordering"
-msgstr ""
+msgstr "Kolejność"
 
 #: ../blocks/list_files_from_set/edit.php:47
 msgid "Date added (newest first)"
-msgstr ""
+msgstr "Data dodana (najnowsze pierwsze)"
 
 #: ../blocks/list_files_from_set/edit.php:48
 msgid "Date added (oldest first)"
-msgstr ""
+msgstr "Data dodana (najstarsze piersze)"
 
 #: ../blocks/list_files_from_set/edit.php:49
 msgid "Alphabetical"
-msgstr ""
+msgstr "Alfabetycznie"
 
 #: ../blocks/list_files_from_set/edit.php:50
 msgid "Alphabetical (reversed)"
-msgstr ""
+msgstr "Alfabetycznie (od końca)"
 
 #: ../blocks/list_files_from_set/edit.php:51
 msgid "Set order"
-msgstr ""
+msgstr "Ustaw kolejność"
 
 #: ../blocks/list_files_from_set/edit.php:52
 msgid "Set order (reversed)"
-msgstr ""
+msgstr "Ustaw kolejność (od końca)"
 
 #: ../blocks/list_files_from_set/edit.php:56
 msgid "Display options"
-msgstr ""
+msgstr "Pokaż opcje"
 
 #: ../blocks/list_files_from_set/edit.php:58
 msgid "Display name of set"
-msgstr ""
+msgstr "Pokaż nazwę zestawu plików"
 
 #: ../blocks/list_files_from_set/edit.php:60
 msgid "Replace underscores in titles with spaces"
-msgstr ""
+msgstr "Zamień podkreślenia w tytułach na spacje"
 
 #: ../blocks/list_files_from_set/edit.php:62
 msgid "Uppercase first letter of title (lowercase rest)"
-msgstr ""
+msgstr "Pierwsza duża litera nazwy (reszta z małych)"
 
 #: ../blocks/list_files_from_set/edit.php:64
 msgid "Display file size"
-msgstr ""
+msgstr "Pokaż rozmiar pliku"
 
 #: ../blocks/list_files_from_set/edit.php:66
 msgid "Display date added"
-msgstr ""
+msgstr "Pokaż datę dodania"
 
 #: ../blocks/list_files_from_set/edit.php:69
 msgid "File extension:"
-msgstr ""
+msgstr "Rozszerzenie pliku:"
 
 #: ../blocks/list_files_from_set/edit.php:71
 msgid "Leave in title (if present)"
-msgstr ""
+msgstr "Zostaw w tytule (jeśli występuje)"
 
 #: ../blocks/list_files_from_set/edit.php:72
 msgid "Hide"
-msgstr ""
+msgstr "Ukryj"
 
 #: ../blocks/list_files_from_set/edit.php:73
 msgid "Always show (in brackets / column)"
-msgstr ""
+msgstr "Zawsze pokazuj (w nawiasach / kolumnach)"
 
 #: ../blocks/list_files_from_set/edit.php:78
 msgid "Empty file set message (optional)"
-msgstr ""
+msgstr "Pusta wiadomość zestawu plików (opcjonalne)"
 
 #: ../blocks/list_files_from_set/edit.php:83
 msgid "Title Override  (optional)"
-msgstr ""
+msgstr "Nadpisz tytuł (opcjonalne)"
 
 #: ../blocks/list_files_from_set/edit.php:85
 msgid "(will replace title/filename, e.g. 'latest file')"
-msgstr ""
+msgstr "(zamieni tytuł/nazwę pliku, np. 'ostatni plik')"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:22
 msgid "File"
-msgstr ""
+msgstr "Plik"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:26
 msgid "Type"
@@ -139,20 +140,20 @@ msgstr "Typ"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:30
 msgid "Size"
-msgstr ""
+msgstr "Rozmiar"
 
 #: ../blocks/list_files_from_set/templates/table_layout.php:35
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: ../controller.php:5
 msgid "Access Denied."
-msgstr ""
+msgstr "Dostęp zabroniony."
 
 #: ../controller.php:14
 msgid "A block to display a list of files from a file set."
-msgstr ""
+msgstr "Blok wyświetla listę plików z zestawu plików."
 
 #: ../controller.php:18
 msgid "List files from set"
-msgstr ""
+msgstr "Lista plików z zestawu"

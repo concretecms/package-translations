@@ -35,7 +35,7 @@ msgstr ""
 
 #: packages/zoom_image/blocks/zoom_image/form.php:3
 msgid "Choose Image"
-msgstr ""
+msgstr "Wybierz obrazek"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:7
 msgid "Alt Text"
