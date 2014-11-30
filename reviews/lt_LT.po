@@ -32,7 +32,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/controller.php:148
 msgid "Invalid Email Address"
-msgstr ""
+msgstr "Netinkamas Emailo adresas"
 
 #: packages/reviews/blocks/reviews/controller.php:151
 msgid "Name is required"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/controller.php:159
 msgid "Incorrect captcha code"
-msgstr ""
+msgstr "Neteisingas Captcha kodas"
 
 #: packages/reviews/blocks/reviews/controller.php:164
 msgid "a comment is required"
