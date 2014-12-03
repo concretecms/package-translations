@@ -1,5 +1,5 @@
 {
-    "updated": 1417509024,
+    "updated": 1417595428,
     "packages": [
         {
             "handle": "addthis",
@@ -816,6 +816,34 @@
                     "untranslated": 0,
                     "fuzzy": 0,
                     "total": 13,
+                    "perc": 100
+                }
+            }
+        },
+        {
+            "handle": "d3-seo-attributes",
+            "name": "SEO Attributes",
+            "sourceURL": "https://github.com/akodde/d3_seo_attributes",
+            "locales": {
+                "de_DE": {
+                    "translated": 5,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 5,
+                    "perc": 100
+                },
+                "it_IT": {
+                    "translated": 5,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 5,
+                    "perc": 100
+                },
+                "el_GR": {
+                    "translated": 5,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 5,
                     "perc": 100
                 }
             }
