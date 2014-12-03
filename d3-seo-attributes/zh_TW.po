@@ -1,0 +1,37 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-02 09:42+0000\n"
+"PO-Revision-Date: 2014-12-02 13:53+0000\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/concrete5-packages/language/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/d3_seo_attributes/controller.php:11
+msgid "Adds a character counter to the meta title and meta description fields"
+msgstr ""
+
+#: packages/d3_seo_attributes/controller.php:15
+msgid "SEO Attributes"
+msgstr ""
+
+#: packages/d3_seo_attributes/controller.php:59
+msgid "SEO Meta Title"
+msgstr ""
+
+#: packages/d3_seo_attributes/controller.php:71
+msgid "SEO Meta Description"
+msgstr ""
+
+#: packages/d3_seo_attributes/models/attribute/types/seo_meta_description/form.php:13
+#: packages/d3_seo_attributes/models/attribute/types/seo_meta_title/form.php:13
+msgid "Chars: "
+msgstr ""

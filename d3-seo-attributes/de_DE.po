@@ -1,0 +1,39 @@
+# 
+# Translators:
+# Ettore Atalan <atalanttore@googlemail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-02 09:42+0000\n"
+"PO-Revision-Date: 2014-12-02 14:19+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/d3_seo_attributes/controller.php:11
+msgid "Adds a character counter to the meta title and meta description fields"
+msgstr "Fügt ein Zeichen zum Metatitel und zu den Metabeschreibungsfeldern hinzu"
+
+#: packages/d3_seo_attributes/controller.php:15
+msgid "SEO Attributes"
+msgstr "SEO-Attribute"
+
+#: packages/d3_seo_attributes/controller.php:59
+msgid "SEO Meta Title"
+msgstr "SEO-Metatitel"
+
+#: packages/d3_seo_attributes/controller.php:71
+msgid "SEO Meta Description"
+msgstr "SEO-Metabeschreibung"
+
+#: packages/d3_seo_attributes/models/attribute/types/seo_meta_description/form.php:13
+#: packages/d3_seo_attributes/models/attribute/types/seo_meta_title/form.php:13
+msgid "Chars: "
+msgstr "Zeichen:"
