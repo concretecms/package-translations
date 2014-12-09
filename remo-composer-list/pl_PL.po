@@ -149,7 +149,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:83
 msgid "Save"
-msgstr ""
+msgstr "Zapisz"
 
 #~ msgid " "
 #~ msgstr " "

@@ -74,7 +74,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:22
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:29
 msgid "Thumbnail Width"

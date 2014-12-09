@@ -55,7 +55,7 @@ msgstr ""
 
 #: packages/zoom_image/blocks/zoom_image/form.php:25
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:28
 msgid "Hide original image when zoomed"

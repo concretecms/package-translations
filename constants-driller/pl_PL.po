@@ -111,7 +111,7 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:213
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:215
 msgid "Rescan"

@@ -208,7 +208,7 @@ msgstr ""
 #: packages/data/elements/permission/lists/data_type.php:32
 #: packages/data/single_pages/dashboard/data/administration/edit.php:12
 msgid "Save"
-msgstr ""
+msgstr "Zapisz"
 
 #: packages/data/models/attribute/types/data_simple_association/type_form.php:3
 msgid "Simple Association"

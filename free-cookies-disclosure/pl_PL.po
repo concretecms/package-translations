@@ -1,11 +1,13 @@
 # 
 # Translators:
+# IceManSpy <icemanspy+transifex@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-04-19 13:11+0000\n"
+"PO-Revision-Date: 2014-12-08 10:10+0000\n"
+"Last-Translator: IceManSpy <icemanspy+transifex@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/concrete5-packages/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,41 +23,41 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:15
 msgid "Cookies Disclosure Form"
-msgstr ""
+msgstr "Formularz deklaracji o ciasteczkach"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:21
 #: packages/free_cookies_disclosure/elements/cookies_disclosure.php:27
 msgid "I accept cookies from this site"
-msgstr ""
+msgstr "Akceptuję ciasteczka na stronie"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:22
 #: packages/free_cookies_disclosure/elements/cookies_disclosure.php:28
 msgid "Allow Cookies"
-msgstr ""
+msgstr "Zezwól na ciasteczka"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:6
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:10
 msgid "Show Checkbox"
-msgstr ""
+msgstr "Pokaż checkbox"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:11
 msgid "AJAX Submit"
-msgstr ""
+msgstr "Wyślij za pomocą AJAX"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:17
 msgid "Accept Text"
-msgstr ""
+msgstr "Akceptuj tekst"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:20
 msgid "Leave empty if you don't want to show this"
-msgstr ""
+msgstr "Zostaw puste, jeśli ma być niewidoczne"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:26
 msgid "Button Text"
-msgstr ""
+msgstr "Tekst przycisku"
 
 #: packages/free_cookies_disclosure/controller.php:11
 msgid "Free Cookies Disclosure"
@@ -63,27 +65,27 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/controller.php:15
 msgid "Notify your users about EU Cookie Law."
-msgstr ""
+msgstr "Pokaż użytkownikom informacje prawne UE o ciasteczkach"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:16
 msgid "Dark"
-msgstr ""
+msgstr "Ciemny"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:16
 msgid "Light"
-msgstr ""
+msgstr "Jasny"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:23
 msgid "Custom"
-msgstr ""
+msgstr "Dostosowany"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:47
 msgid "Hide interval must be greater than zero!"
-msgstr ""
+msgstr "Interwał ukrywania musi być wiekszy niż zero"
 
 #: packages/free_cookies_disclosure/controllers/dashboard/system/basics/cookies_disclosure.php:65
 msgid "Cookies disclosure settings saved."
-msgstr ""
+msgstr "Ustawienia deklaracji ciasteczek zapisanie."
 
 #: packages/free_cookies_disclosure/elements/cookies_disclosure.php:21
 msgid ""
@@ -98,27 +100,27 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:9
 msgid "Display Settings"
-msgstr ""
+msgstr "Pokaż ustawienia"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:11
 msgid "Alignment"
-msgstr ""
+msgstr "Wyrównanie"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:13
 msgid "Top of the Page"
-msgstr ""
+msgstr "Góra strony"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:13
 msgid "Bottom of the Page"
-msgstr ""
+msgstr "Dół strony"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:17
 msgid "Color Profile"
-msgstr ""
+msgstr "Kolor"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:25
 msgid "CSS Suffix for Color Profile"
-msgstr ""
+msgstr "Suffix CSS dla kolorów"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:28
 msgid ""
@@ -128,7 +130,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:34
 msgid "Hide Interval"
-msgstr ""
+msgstr "Ukryj interwał"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:37
 msgid "In seconds (leave empty if you don't want to hide the notification)"
@@ -136,11 +138,11 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:42
 msgid "Debug"
-msgstr ""
+msgstr "Debuguj"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:46
 msgid "Enable Debug Mode"
-msgstr ""
+msgstr "Włącz tryb debugowania"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:49
 msgid ""
@@ -200,12 +202,12 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:68
 msgid "Go to Stacks &raquo;"
-msgstr ""
+msgstr "Powrót do stosu &raquo;"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:72
 msgid "Save"
-msgstr ""
+msgstr "Zapisz"
 
 #: packages/free_cookies_disclosure/tools/disclosure_i18n_js.php:4
 msgid "You need to allow cookies for this site!"
-msgstr ""
+msgstr "Musisz pozwolić na ciasteczka na tej stronie!"

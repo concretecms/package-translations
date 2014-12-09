@@ -285,7 +285,7 @@ msgstr ""
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:70
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:42
 msgid "Save"
-msgstr ""
+msgstr "Zapisz"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:5
 msgid "Translate special items"
@@ -305,4 +305,4 @@ msgstr ""
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:69
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
