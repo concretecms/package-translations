@@ -1,0 +1,55 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-09 14:37+0000\n"
+"PO-Revision-Date: 2014-06-09 14:48+0000\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/concrete5-packages/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:30
+#: packages/dh_multilingual_content/controller.php:15
+msgid "Multilingual HTML/WYSIWYG Editor Content."
+msgstr ""
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:34
+#: packages/dh_multilingual_content/controller.php:19
+msgid "Multilingual Content"
+msgstr ""
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:58
+msgid "Sorry, the block cannot be added."
+msgstr ""
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:13
+msgid "This block is designed for multilingual sites"
+msgstr ""
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:14
+msgid "please add languages to your site"
+msgstr ""
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:19
+msgid "This block is designed to be added in a sitewide area"
+msgstr ""
+
+#: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:20
+msgid "otherwise you may use standard content block"
+msgstr ""
+
+#: packages/dh_multilingual_content/controller.php:25
+msgid "Internationalization"
+msgstr ""
+
+#: packages/dh_multilingual_content/controller.php:25
+#, php-format
+msgid "You must have the %s add-on installed in order to use this add-on!"
+msgstr ""
