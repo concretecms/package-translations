@@ -308,7 +308,7 @@ msgstr ""
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:105
 msgctxt "Destination"
 msgid "To"
-msgstr ""
+msgstr "Do"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:113
 msgid "Copy Tree"

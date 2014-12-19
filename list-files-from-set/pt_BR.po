@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/edit.php:19
 msgid "Display"
-msgstr ""
+msgstr "Exibir"
 
 #: ../blocks/list_files_from_set/edit.php:20
 msgid "files from:"

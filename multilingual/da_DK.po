@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-04-21 14:14+0000\n"
+"PO-Revision-Date: 2014-12-18 19:51+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Danish (Denmark) (http://www.transifex.com/projects/p/concrete5-packages/language/da_DK/)\n"
 "MIME-Version: 1.0\n"
@@ -151,7 +151,7 @@ msgstr "En sprogsektions side på dette sted, findes allerede."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:251
 msgid "This language/region combination already exists."
-msgstr ""
+msgstr "Denne sprog/regions kombination, findes allerede."
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:9
 msgid "Generate multilingual sitemap.xml File"
@@ -199,7 +199,7 @@ msgstr "Vis"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:54
 msgid "Only Missing Pages"
-msgstr ""
+msgstr "Kun Manglende Sider"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:60
 msgid "All Pages"
@@ -304,7 +304,7 @@ msgstr "Kopiér alle sider fra et sprog til en anden sektion. Dette vil kun kopi
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:100
 msgid "Copy From"
-msgstr ""
+msgstr "Kopier Fra"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:105
 msgctxt "Destination"
@@ -321,7 +321,7 @@ msgstr "Du skal have mere end én flersproget sektion for at bruge dette værkt�
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:140
 msgid "You must choose two separate multilingual sections to copy from/to"
-msgstr ""
+msgstr "Du skal vælge to separate flersprogede sektioner skal kopieres fra/til"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:151
 msgid "Only the super user may copy language trees."
@@ -332,7 +332,7 @@ msgid ""
 "Since one of your multilingual sections is the home page, you may not "
 "duplicate your site tree using this tool. You must manually assign pages "
 "using the page report."
-msgstr ""
+msgstr "Siden en af dine flersprogede sektioner er hjemmesiden, kan du ikke kopiere dit hjemmeside træ ved hjælp af dette værktøj. Du skal manuelt tildele sider ved hjælp af side rapporten."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:158
 msgid "** None Set"
@@ -340,7 +340,7 @@ msgstr "** Ingen Angivet"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:170
 msgid "Multilingual Settings"
-msgstr ""
+msgstr "Flersprogs Indstillinger"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:174
 msgid "Default Language"
@@ -356,7 +356,7 @@ msgstr "Omdirigere hjemmesiden til standard sprogs sektion."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:201
 msgid "Save Settings"
-msgstr ""
+msgstr "Gem Indstillinger"
 
 #: packages/multilingual/tools/switch_language_for_page.php:44
 #, php-format
@@ -376,12 +376,12 @@ msgstr "%s: Ingen Oprettet"
 #: packages/multilingual/blocks/switch_language/templates/flags
 msgctxt "TemplateFileName"
 msgid "Flags"
-msgstr ""
+msgstr "Flag"
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default
 msgctxt "TemplateFileName"
 msgid "Flags Set Default"
-msgstr ""
+msgstr "Flag Set Standard"
 
 #: packages/multilingual/blocks/switch_language/templates/seo_flags
 msgctxt "TemplateFileName"

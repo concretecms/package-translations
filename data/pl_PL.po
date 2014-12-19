@@ -95,7 +95,7 @@ msgstr ""
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:95
 #: packages/data/controllers/dashboard/data/management/controller.php:144
 msgid "Unknown Error"
-msgstr ""
+msgstr "Nieznany błąd"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:61
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:98
