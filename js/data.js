@@ -1,5 +1,5 @@
 {
-    "updated": 1419064226,
+    "updated": 1419150627,
     "packages": [
         {
             "handle": "addthis",
@@ -1589,11 +1589,11 @@
                     "perc": 100
                 },
                 "lt_LT": {
-                    "translated": 7,
-                    "untranslated": 24,
+                    "translated": 8,
+                    "untranslated": 23,
                     "fuzzy": 0,
                     "total": 31,
-                    "perc": 22
+                    "perc": 25
                 },
                 "sv_SE": {
                     "translated": 31,
@@ -2296,11 +2296,11 @@
                     "perc": 100
                 },
                 "lt_LT": {
-                    "translated": 5,
-                    "untranslated": 29,
+                    "translated": 6,
+                    "untranslated": 28,
                     "fuzzy": 0,
                     "total": 34,
-                    "perc": 14
+                    "perc": 17
                 },
                 "sv_SE": {
                     "translated": 34,
@@ -2583,11 +2583,11 @@
                     "perc": 100
                 },
                 "lt_LT": {
-                    "translated": 5,
-                    "untranslated": 80,
+                    "translated": 7,
+                    "untranslated": 78,
                     "fuzzy": 0,
                     "total": 85,
-                    "perc": 5
+                    "perc": 8
                 },
                 "sv_SE": {
                     "translated": 85,
@@ -2730,11 +2730,11 @@
                     "perc": 100
                 },
                 "lt_LT": {
-                    "translated": 5,
-                    "untranslated": 11,
+                    "translated": 6,
+                    "untranslated": 10,
                     "fuzzy": 0,
                     "total": 16,
-                    "perc": 31
+                    "perc": 37
                 },
                 "sv_SE": {
                     "translated": 16,
