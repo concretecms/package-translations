@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-06-16 09:06+0000\n"
-"PO-Revision-Date: 2014-06-16 09:06+0000\n"
+"POT-Creation-Date: 2014-06-18 15:17+0000\n"
+"PO-Revision-Date: 2014-12-20 14:20+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -63,25 +63,25 @@ msgstr ""
 msgid "Enter search text"
 msgstr ""
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:32
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:38
 msgctxt "No attribute"
 msgid "none"
-msgstr ""
+msgstr "joks"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:34
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:40
 #, php-format
 msgctxt "%s is a language"
 msgid "Fallback to %s"
 msgstr ""
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:44
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:50
 msgid "Attribute options"
 msgstr ""
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:46
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:52
 msgid "Type"
 msgstr "Tipas"
 
-#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:58
+#: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:64
 msgid "When not set for a language, use the value of:"
 msgstr ""
