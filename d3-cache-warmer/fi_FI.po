@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Heikki Ylipaavalniemi, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-30 08:37+0000\n"
-"PO-Revision-Date: 2014-10-01 10:11+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2015-01-08 07:31+0000\n"
+"Last-Translator: Heikki Ylipaavalniemi\n"
 "Language-Team: Finnish (Finland) (http://www.transifex.com/projects/p/concrete5-packages/language/fi_FI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,28 +19,28 @@ msgstr ""
 
 #: packages/d3_cache_warmer/controller.php:16
 msgid "Cache Warmer Job"
-msgstr ""
+msgstr "Välimuistin lämmitystyö"
 
 #: packages/d3_cache_warmer/controller.php:20
 msgid "Installs a job that creates cache files for pages."
-msgstr ""
+msgstr "Asentaa työn, joka luo välimuistitiedostoja sivuille."
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:67
 #, php-format
 msgid "Page cache couldn't be created for '%s'"
-msgstr ""
+msgstr "Välimuistia sivulle '%s' ei voitu luoda."
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:76
 #, php-format
 msgid "%s has loaded %d pages. Max: %d"
-msgstr ""
+msgstr "%s on ladannut %d sivua. Maksimi: %d"
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:78
 #, php-format
 msgid "%s did not load any pages. Page types: %s. Max pages: %d"
-msgstr ""
+msgstr "%s ei ladannut yhtään sivua. Sivutyypit: %s. Maksimisivua: %d"
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:86
 #, php-format
 msgid "%s failed with an exception: %s"
-msgstr ""
+msgstr "%s epäonnistui poikkeuksella: %s"
