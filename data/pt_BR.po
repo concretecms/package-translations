@@ -357,7 +357,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:49
 #: packages/data/single_pages/dashboard/data/management/edit.php:11
 msgid "Update"
-msgstr ""
+msgstr "Atualizar"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:2
 #, php-format

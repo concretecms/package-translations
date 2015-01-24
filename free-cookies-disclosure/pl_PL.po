@@ -1,12 +1,12 @@
 # 
 # Translators:
-# IceManSpy <icemanspy+transifex@gmail.com>, 2014
+# IceManSpy <icemanspy+transifex@gmail.com>, 2014-2015
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-19 13:06+0000\n"
-"PO-Revision-Date: 2014-12-08 10:10+0000\n"
+"PO-Revision-Date: 2015-01-23 21:42+0000\n"
 "Last-Translator: IceManSpy <icemanspy+transifex@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/concrete5-packages/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:11
 msgid "User action form for cookies disclosure."
-msgstr ""
+msgstr "Akcja formularza dla Deklaracji Ciasteczek"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/controller.php:15
 msgid "Cookies Disclosure Form"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:5
 msgid "Cookies Disclosure Settings"
-msgstr ""
+msgstr "Ustawienia dla Deklaracji Ciasteczek"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:9
 msgid "Display Settings"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:58
 msgid "Cookies Disclosure - LANG"
-msgstr ""
+msgstr "Deklaracji Ciasteczek - Język"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:58
 #, php-format
@@ -183,15 +183,15 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:62
 msgid "Cookies Disclosure - EN"
-msgstr ""
+msgstr "Deklaracji Ciasteczek - EN"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:63
 msgid "Cookies Disclosure - FI"
-msgstr ""
+msgstr "Deklaracji Ciasteczek - FI"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:66
 msgid "Cookies Disclosure"
-msgstr ""
+msgstr "Deklaracji Ciasteczek"
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:66
 #, php-format

@@ -89,7 +89,7 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:161
 msgid "Close"
-msgstr ""
+msgstr "Затвори"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
 msgid "We have to do a first-time scan to locate all the constants."

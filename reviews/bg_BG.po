@@ -137,7 +137,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/view.php:100
 msgid "Remove"
-msgstr ""
+msgstr "Премахни"
 
 #: packages/reviews/blocks/reviews/view.php:102
 msgid "Un-Approve"

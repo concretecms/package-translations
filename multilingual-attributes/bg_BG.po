@@ -34,7 +34,7 @@ msgstr ""
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/controller.php:75
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/controller.php:460
 msgid "Text"
