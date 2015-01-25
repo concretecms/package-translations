@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
-"POT-Creation-Date: 2015-01-23 00:25+0100\n"
-"PO-Revision-Date: 2015-01-23 21:37+0000\n"
+"POT-Creation-Date: 2015-01-23 22:26+0100\n"
+"PO-Revision-Date: 2015-01-24 11:11+0000\n"
 "Last-Translator: IceManSpy <icemanspy+transifex@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/concrete5-packages/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
@@ -274,6 +274,30 @@ msgstr "Aktualizuj ustawienia"
 msgid "Help"
 msgstr "Pomoc"
 
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:77
+msgid ""
+"After add event go to Calendar list -> show events for calendar. At now, you"
+" can manage events."
+msgstr "Po dodaniu wydarzenia idź do Listy kalendarzy -> pokaż wydarzenia dla kalendarza. Teraz możesz zarządzać wydarzeniami."
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:79
+msgid "Drag and drop to change date."
+msgstr "Podnieś i upuść aby zmienić datę."
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:80
+msgid "Click for edit details."
+msgstr "Kliknij aby edytować szczegóły."
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:81
+msgid "If you choose \"All day\" event you can resize event for more days."
+msgstr "Jeśli wybierzesz \"całodzienne\" wydarzenie, będziesz mógł rozszerzyć wydarzenie na kilka dni."
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:82
+msgid ""
+"If you choose \"One day with time\" event you can resize event for more "
+"days."
+msgstr "Jeśli wybierzesz \"jeden dzień z czasem\" , będziesz mógł rozszerzyć wydarzenie na kilka dni."
+
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:90
 msgid "Author:"
 msgstr "Autor:"
@@ -401,9 +425,9 @@ msgstr "Powrót do listy kalendarzy"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:11
 msgid ""
-"There is no calendars to add new event. Go to Add calendar to add new "
+" There are no calendars to add a new event. Go to Add calendar to add a new "
 "calendar."
-msgstr "Nie ma kalndarzy aby dodać wydarzenie. Dodaj nowy kalendarz."
+msgstr "Brak kalendarzy aby dodać wydarzenie. Idź do Dodaj kalendarz, aby dodać nowy kalendarz."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:28
 msgid "Calendar"

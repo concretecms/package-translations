@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
-"POT-Creation-Date: 2015-01-23 00:25+0100\n"
-"PO-Revision-Date: 2015-01-23 10:55+0000\n"
+"POT-Creation-Date: 2015-01-23 22:26+0100\n"
+"PO-Revision-Date: 2015-01-24 11:11+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Danish (Denmark) (http://www.transifex.com/projects/p/concrete5-packages/language/da_DK/)\n"
 "MIME-Version: 1.0\n"
@@ -83,31 +83,31 @@ msgstr ""
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Monday"
-msgstr ""
+msgstr "Mandag"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Tuesday"
-msgstr ""
+msgstr "Tirsdag"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Wednesday"
-msgstr ""
+msgstr "Onsdag"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Thursday"
-msgstr ""
+msgstr "Torsdag"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Friday"
-msgstr ""
+msgstr "Fredag"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Saturday"
-msgstr ""
+msgstr "Lørdag"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Sunday"
-msgstr ""
+msgstr "Søndag"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/types.php:41
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:61
@@ -273,6 +273,30 @@ msgstr ""
 msgid "Help"
 msgstr "Hjælp"
 
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:77
+msgid ""
+"After add event go to Calendar list -> show events for calendar. At now, you"
+" can manage events."
+msgstr ""
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:79
+msgid "Drag and drop to change date."
+msgstr ""
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:80
+msgid "Click for edit details."
+msgstr ""
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:81
+msgid "If you choose \"All day\" event you can resize event for more days."
+msgstr ""
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:82
+msgid ""
+"If you choose \"One day with time\" event you can resize event for more "
+"days."
+msgstr ""
+
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:90
 msgid "Author:"
 msgstr ""
@@ -400,7 +424,7 @@ msgstr ""
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:11
 msgid ""
-"There is no calendars to add new event. Go to Add calendar to add new "
+" There are no calendars to add a new event. Go to Add calendar to add a new "
 "calendar."
 msgstr ""
 

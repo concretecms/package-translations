@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
-"POT-Creation-Date: 2015-01-23 00:25+0100\n"
-"PO-Revision-Date: 2015-01-23 15:11+0000\n"
+"POT-Creation-Date: 2015-01-23 22:26+0100\n"
+"PO-Revision-Date: 2015-01-24 10:51+0000\n"
 "Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -274,6 +274,30 @@ msgstr "Ενημέρωση Ρυθμίσεων"
 msgid "Help"
 msgstr "Βοήθεια"
 
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:77
+msgid ""
+"After add event go to Calendar list -> show events for calendar. At now, you"
+" can manage events."
+msgstr "Αφού προσθέσατε την εκδήλωση μεταβείτε στη Λίστα Ημερολογίων  -> εμφάνιση εκδηλώσεων στο ημερολόγιο. Τώρα, μπορείτε να διαχειριστείτε τις εκδηλώσεις."
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:79
+msgid "Drag and drop to change date."
+msgstr "Κάντε κλικ και σύρετε για να αλλάξετε την ημερομηνία."
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:80
+msgid "Click for edit details."
+msgstr "Κάντε κλικ για να επεξεργαστείτε τις λεπτομέρειες."
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:81
+msgid "If you choose \"All day\" event you can resize event for more days."
+msgstr "Αν επιλέξετε εκδήλωση \"Όλη Μέρα\" , μπορείτε να αλλάξετε το μέγεθος εκδήλωσης για περισσότερες ημέρες."
+
+#: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:82
+msgid ""
+"If you choose \"One day with time\" event you can resize event for more "
+"days."
+msgstr "Αν επιλέξετε εκδήλωση \"Όλη Μέρα με ώρα\" , μπορείτε να αλλάξετε το μέγεθος εκδήλωσης για περισσότερες ημέρες."
+
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:90
 msgid "Author:"
 msgstr "Συντάκτης:"
@@ -401,9 +425,9 @@ msgstr "Επιστροφή στη λίστα ημερολογίων"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:11
 msgid ""
-"There is no calendars to add new event. Go to Add calendar to add new "
+" There are no calendars to add a new event. Go to Add calendar to add a new "
 "calendar."
-msgstr "Δεν υπάρχουν ημερολόγια για να προσθέσετε νέο συμβάν. Πηγαίνετε στο \"Προσθέστε ένα ημερολόγιο\" για να προσθέσετε νέο ημερολόγιο."
+msgstr "Δεν υπάρχουν ημερολόγια για να προσθέσετε τη νέα εκδήλωση. Πηγαίνετε στο \"Προσθέστε ένα ημερολόγιο\" για να προσθέσετε νέο ημερολόγιο."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:28
 msgid "Calendar"
