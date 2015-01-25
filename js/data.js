@@ -1,5 +1,5 @@
 {
-    "updated": 1422088249,
+    "updated": 1422174630,
     "packages": [
         {
             "handle": "addthis",
@@ -1288,143 +1288,143 @@
             "sourceURL": "https://github.com/dszymczuk/dsEventCalendar",
             "locales": {
                 "de_DE": {
-                    "translated": 74,
-                    "untranslated": 19,
+                    "translated": 73,
+                    "untranslated": 25,
                     "fuzzy": 0,
-                    "total": 93,
-                    "perc": 79
+                    "total": 98,
+                    "perc": 74
                 },
                 "it_IT": {
-                    "translated": 93,
+                    "translated": 98,
                     "untranslated": 0,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 100
                 },
                 "lt_LT": {
                     "translated": 5,
-                    "untranslated": 88,
+                    "untranslated": 93,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 5
                 },
                 "sv_SE": {
-                    "translated": 93,
-                    "untranslated": 0,
+                    "translated": 92,
+                    "untranslated": 6,
                     "fuzzy": 0,
-                    "total": 93,
-                    "perc": 100
+                    "total": 98,
+                    "perc": 93
                 },
                 "el_GR": {
-                    "translated": 93,
+                    "translated": 98,
                     "untranslated": 0,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 100
                 },
                 "fi_FI": {
-                    "translated": 80,
-                    "untranslated": 13,
+                    "translated": 79,
+                    "untranslated": 19,
                     "fuzzy": 0,
-                    "total": 93,
-                    "perc": 86
+                    "total": 98,
+                    "perc": 80
                 },
                 "fr_FR": {
                     "translated": 7,
-                    "untranslated": 86,
+                    "untranslated": 91,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 7
                 },
                 "nl_NL": {
-                    "translated": 78,
-                    "untranslated": 15,
+                    "translated": 77,
+                    "untranslated": 21,
                     "fuzzy": 0,
-                    "total": 93,
-                    "perc": 83
+                    "total": 98,
+                    "perc": 78
                 },
                 "ru_RU": {
-                    "translated": 78,
-                    "untranslated": 15,
+                    "translated": 77,
+                    "untranslated": 21,
                     "fuzzy": 0,
-                    "total": 93,
-                    "perc": 83
+                    "total": 98,
+                    "perc": 78
                 },
                 "sl_SI": {
                     "translated": 7,
-                    "untranslated": 86,
+                    "untranslated": 91,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 7
                 },
                 "ro_RO": {
                     "translated": 7,
-                    "untranslated": 86,
+                    "untranslated": 91,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 7
                 },
                 "vi_VN": {
                     "translated": 7,
-                    "untranslated": 86,
+                    "untranslated": 91,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 7
                 },
                 "ja_JP": {
                     "translated": 7,
-                    "untranslated": 86,
+                    "untranslated": 91,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 7
                 },
                 "pl_PL": {
-                    "translated": 93,
+                    "translated": 98,
                     "untranslated": 0,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 100
                 },
                 "da_DK": {
-                    "translated": 7,
-                    "untranslated": 86,
+                    "translated": 14,
+                    "untranslated": 84,
                     "fuzzy": 0,
-                    "total": 93,
-                    "perc": 7
+                    "total": 98,
+                    "perc": 14
                 },
                 "bg_BG": {
                     "translated": 7,
-                    "untranslated": 86,
+                    "untranslated": 91,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 7
                 },
                 "zh_TW": {
                     "translated": 7,
-                    "untranslated": 86,
+                    "untranslated": 91,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 7
                 },
                 "pt_BR": {
                     "translated": 7,
-                    "untranslated": 86,
+                    "untranslated": 91,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 7
                 },
                 "he_IL": {
                     "translated": 7,
-                    "untranslated": 86,
+                    "untranslated": 91,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 7
                 },
                 "fa_IR": {
                     "translated": 7,
-                    "untranslated": 86,
+                    "untranslated": 91,
                     "fuzzy": 0,
-                    "total": 93,
+                    "total": 98,
                     "perc": 7
                 }
             }
