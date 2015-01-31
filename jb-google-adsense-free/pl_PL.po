@@ -74,7 +74,7 @@ msgstr ""
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:73
 msgid "Border Color"
-msgstr ""
+msgstr "Kolor obramowania"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:79
 msgid "Title Color"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:85
 msgid "Text Color"
-msgstr ""
+msgstr "Kolor tekstu"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:91
 msgid "URL Color"

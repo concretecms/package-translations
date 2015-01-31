@@ -279,11 +279,11 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:41
 msgid "Language Icon"
-msgstr ""
+msgstr "Ikona języka"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:45
 msgid "Choose a Parent Page"
-msgstr ""
+msgstr "Wybierz stronę nadrzędną"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:54
 msgid "Add Content Section"
@@ -355,7 +355,7 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:201
 msgid "Save Settings"
-msgstr ""
+msgstr "Zapisz ustawienia"
 
 #: packages/multilingual/tools/switch_language_for_page.php:44
 #, php-format
