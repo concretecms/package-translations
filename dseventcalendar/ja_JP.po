@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2015-01-23 22:26+0100\n"
-"PO-Revision-Date: 2015-01-24 10:31+0000\n"
+"PO-Revision-Date: 2015-02-05 09:21+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/concrete5-packages/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
@@ -83,31 +83,31 @@ msgstr ""
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Monday"
-msgstr ""
+msgstr "月曜日"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Tuesday"
-msgstr ""
+msgstr "火曜日"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Wednesday"
-msgstr ""
+msgstr "水曜日"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Thursday"
-msgstr ""
+msgstr "木曜日"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Friday"
-msgstr ""
+msgstr "金曜日"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Saturday"
-msgstr ""
+msgstr "土曜日"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:44
 msgid "Sunday"
-msgstr ""
+msgstr "日曜日"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/types.php:41
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:61
