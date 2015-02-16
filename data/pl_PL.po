@@ -332,7 +332,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:6
 #: packages/data/single_pages/dashboard/data/management/delete.php:6
 msgid "Warning"
-msgstr ""
+msgstr "Ostrzeżenie"
 
 #. %s is an attribute name
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:7

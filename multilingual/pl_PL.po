@@ -76,7 +76,7 @@ msgstr ""
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:84
 msgid "You cannot assign this page to itself."
-msgstr ""
+msgstr "Nie można przypisać strony do niej samej"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:104
 msgid ""

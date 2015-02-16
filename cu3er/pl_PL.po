@@ -26,7 +26,7 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/controller.php:43
 msgid "Choose Image/File"
-msgstr ""
+msgstr "Wybierz obraz/plik"
 
 #: packages/cu3er/blocks/cu3er/controller.php:44
 msgid "Please choose at least two images."
@@ -39,7 +39,7 @@ msgstr ""
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:5
 #: packages/cu3er/blocks/cu3er/image_row_include.php:12
 msgid "Duration"
-msgstr ""
+msgstr "Czas trwania"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:7
 #: packages/cu3er/blocks/cu3er/image_row_include.php:14
