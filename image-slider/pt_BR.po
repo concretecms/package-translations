@@ -35,7 +35,7 @@ msgstr ""
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:34
 #: C:\Work\addon_image_slider/packages/image_slider/controller.php:16
 msgid "Image Slider"
-msgstr ""
+msgstr "Slides de Imagens"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:39
 msgid "Choose Image/File"

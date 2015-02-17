@@ -78,7 +78,7 @@ msgstr ""
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:40
 msgid "About"
-msgstr ""
+msgstr "Sobre Nós"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:62
 msgid "IRC network"

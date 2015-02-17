@@ -17,11 +17,11 @@ msgstr ""
 
 #: packages/multilingual/blocks/switch_language/controller.php:13
 msgid "Adds a front-end language switcher to your website."
-msgstr ""
+msgstr "Adicionar Idioma de Interface em seu website."
 
 #: packages/multilingual/blocks/switch_language/controller.php:17
 msgid "Switch Language"
-msgstr ""
+msgstr "Trocar Idioma"
 
 #: packages/multilingual/blocks/switch_language/controller.php:25
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
@@ -34,7 +34,7 @@ msgstr ""
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
 msgid "Remember my choice on this computer."
-msgstr ""
+msgstr "Armazenar minhas opções nesse computador."
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
 msgid "Save"
@@ -375,12 +375,12 @@ msgstr ""
 #: packages/multilingual/blocks/switch_language/templates/flags
 msgctxt "TemplateFileName"
 msgid "Flags"
-msgstr ""
+msgstr "Config."
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default
 msgctxt "TemplateFileName"
 msgid "Flags Set Default"
-msgstr ""
+msgstr "Config Padrão"
 
 #: packages/multilingual/blocks/switch_language/templates/seo_flags
 msgctxt "TemplateFileName"
