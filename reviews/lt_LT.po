@@ -179,7 +179,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/view.php:193
 msgid "Please type the letters and numbers shown in the image."
-msgstr ""
+msgstr "Prašome įvesti raides ir skaičius kaip parodyta paveikslėlyje."
 
 #: packages/reviews/blocks/reviews/view.php:204
 msgid "Post Comment"
