@@ -76,12 +76,12 @@ msgstr ""
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:84
 msgid "You cannot assign this page to itself."
-msgstr ""
+msgstr "Página não pode ser assinalada para você mesmo."
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:104
 msgid ""
 "The destination page doesn't appear to be in a valid multilingual section."
-msgstr ""
+msgstr "Destinação página não parece estar em uma seção válida multi-idioma."
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:115
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:121
@@ -117,15 +117,15 @@ msgstr ""
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:171
 msgid "Multilingual content enabled"
-msgstr ""
+msgstr "Conteúdo multi-idioma habilitado"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:176
 msgid "Multilingual content updated"
-msgstr ""
+msgstr "Conteúdo multi-idioma atualizado"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:181
 msgid "Multilingual tree copied."
-msgstr ""
+msgstr "Estrutura multi-idioma copiada."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:186
 msgid "Language section removed."
@@ -142,7 +142,7 @@ msgstr ""
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:234
 msgid "You must specify a page for this multilingual content section."
-msgstr ""
+msgstr "Especificar uma página para essa seção conteúdo multi-idioma."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:242
 msgid "A language section page at this location already exists."
@@ -150,7 +150,7 @@ msgstr ""
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:251
 msgid "This language/region combination already exists."
-msgstr ""
+msgstr "Essa combinação idioma/região já existe."
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:9
 msgid "Generate multilingual sitemap.xml File"
