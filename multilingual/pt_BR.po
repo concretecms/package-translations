@@ -54,7 +54,7 @@ msgstr ""
 
 #: packages/multilingual/controller.php:106
 msgid "Multilingual"
-msgstr ""
+msgstr "Multi-Idiomas"
 
 #: packages/multilingual/controller.php:106
 msgid "Translate your site."
@@ -67,7 +67,7 @@ msgstr ""
 #: packages/multilingual/controller.php:116
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:5
 msgid "Page Report"
-msgstr ""
+msgstr "Relatório da Página"
 
 #: packages/multilingual/controller.php:123
 #: packages/multilingual/controller.php:164

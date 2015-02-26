@@ -74,7 +74,7 @@ msgstr ""
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:73
 msgid "Border Color"
-msgstr ""
+msgstr "Cor borda"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:79
 msgid "Title Color"
