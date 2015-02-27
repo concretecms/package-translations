@@ -1,5 +1,5 @@
 {
-    "updated": 1424939427,
+    "updated": 1425025829,
     "packages": [
         {
             "handle": "addthis",
@@ -336,11 +336,11 @@
                     "perc": 100
                 },
                 "pt_BR": {
-                    "translated": 1,
-                    "untranslated": 32,
+                    "translated": 2,
+                    "untranslated": 31,
                     "fuzzy": 0,
                     "total": 33,
-                    "perc": 3
+                    "perc": 6
                 },
                 "he_IL": {
                     "translated": 5,
@@ -1106,11 +1106,11 @@
                     "perc": 100
                 },
                 "pt_BR": {
-                    "translated": 2,
-                    "untranslated": 81,
+                    "translated": 3,
+                    "untranslated": 80,
                     "fuzzy": 0,
                     "total": 83,
-                    "perc": 2
+                    "perc": 3
                 },
                 "he_IL": {
                     "translated": 80,
@@ -1407,11 +1407,11 @@
                     "perc": 7
                 },
                 "pt_BR": {
-                    "translated": 7,
-                    "untranslated": 91,
+                    "translated": 14,
+                    "untranslated": 84,
                     "fuzzy": 0,
                     "total": 98,
-                    "perc": 7
+                    "perc": 14
                 },
                 "he_IL": {
                     "translated": 7,
