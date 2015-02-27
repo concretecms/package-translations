@@ -140,7 +140,7 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:230
 msgid "File name"
-msgstr ""
+msgstr "Nome Arquivo"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:233
 msgid "Search"

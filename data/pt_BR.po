@@ -374,7 +374,7 @@ msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:21
 msgid "Done"
-msgstr ""
+msgstr "Feito"
 
 #: packages/data/single_pages/dashboard/data/administration/create.php:2
 msgid "Create Data Type"
