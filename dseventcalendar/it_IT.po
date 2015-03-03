@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2015-02-27 20:13+0100\n"
-"PO-Revision-Date: 2015-02-28 16:31+0000\n"
+"PO-Revision-Date: 2015-03-02 10:34+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/concrete5-packages/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
@@ -323,7 +323,7 @@ msgstr "Se si seleziona evento di “Tutto i giorno” è possibile ridimensiona
 msgid ""
 "If you choose \"One day with time\" event you can resize event for more "
 "hours."
-msgstr ""
+msgstr "Se si seleziona “Un giorno con ora” è possibile ridimensionare l’evento su ulteriori fasce orarie."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:100
 msgid "Author:"
@@ -443,7 +443,7 @@ msgstr "Si è certi di voler eliminare questo tipo? Tutti gli eventi con questo 
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/help.php:4
 msgid "Help for dsEventCalendar"
-msgstr ""
+msgstr "Aiuto su dsEventCalendar"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/dsEventCalendarMenu.php:4
 msgid "Manage events"
