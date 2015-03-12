@@ -170,7 +170,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:138
 msgid "Block"
-msgstr ""
+msgstr "Blok"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:141
 msgid "Administration"

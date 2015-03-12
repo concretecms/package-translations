@@ -100,7 +100,7 @@ msgstr "Nieznany błąd"
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:61
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:98
 msgid "** None"
-msgstr ""
+msgstr "** Żadna"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:86
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:130
@@ -374,7 +374,7 @@ msgstr "Dodaj"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:21
 msgid "Done"
-msgstr ""
+msgstr "Gotowe"
 
 #: packages/data/single_pages/dashboard/data/administration/create.php:2
 msgid "Create Data Type"
