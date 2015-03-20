@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Marcelo Ghelman <marcelo.ghelman@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-03-25 08:45+0000\n"
+"PO-Revision-Date: 2015-03-20 04:59+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,16 +19,16 @@ msgstr ""
 
 #: packages/multilingual/blocks/switch_language/controller.php:13
 msgid "Adds a front-end language switcher to your website."
-msgstr "Adicionar Idioma de Interface em seu website."
+msgstr "Adiciona um seletor de idiomas ao seu site."
 
 #: packages/multilingual/blocks/switch_language/controller.php:17
 msgid "Switch Language"
-msgstr "Trocar Idioma"
+msgstr "Trocar idioma"
 
 #: packages/multilingual/blocks/switch_language/controller.php:25
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
 msgid "Choose Language"
-msgstr ""
+msgstr "Escolher idioma"
 
 #: packages/multilingual/blocks/switch_language/form.php:3
 msgid "Label"
@@ -34,19 +36,19 @@ msgstr ""
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
 msgid "Remember my choice on this computer."
-msgstr "Armazenar minhas opções nesse computador."
+msgstr "Lembrar minha escolha nesse computador."
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #: packages/multilingual/controller.php:10
 msgid "Translate your site with this free multilingual solution."
-msgstr ""
+msgstr "Traduza seu site com esta solução multi-idioma gratuita."
 
 #: packages/multilingual/controller.php:14
 msgid "Internationalization"
-msgstr ""
+msgstr "Internacionalização"
 
 #: packages/multilingual/controller.php:80
 msgid "Multilingual Pages"
@@ -54,11 +56,11 @@ msgstr ""
 
 #: packages/multilingual/controller.php:106
 msgid "Multilingual"
-msgstr "Multi-Idiomas"
+msgstr "Multi-idioma"
 
 #: packages/multilingual/controller.php:106
 msgid "Translate your site."
-msgstr ""
+msgstr "Traduza seu site."
 
 #: packages/multilingual/controller.php:111
 msgid "Setup"
@@ -67,7 +69,7 @@ msgstr ""
 #: packages/multilingual/controller.php:116
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:5
 msgid "Page Report"
-msgstr "Relatório da Página"
+msgstr "Relatório de páginas"
 
 #: packages/multilingual/controller.php:123
 #: packages/multilingual/controller.php:164
@@ -76,17 +78,17 @@ msgstr ""
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:84
 msgid "You cannot assign this page to itself."
-msgstr "Página não pode ser assinalada para você mesmo."
+msgstr "Você não pode atribuir esta página a ela mesma."
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:104
 msgid ""
 "The destination page doesn't appear to be in a valid multilingual section."
-msgstr "Destinação página não parece estar em uma seção válida multi-idioma."
+msgstr "A página destinatária não parece estar em uma seção multi-idioma válida."
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:115
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:121
 msgid "Ignored"
-msgstr "Ignorar"
+msgstr "Ignorada"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:154
 msgid "Insufficient permissions."
@@ -138,11 +140,11 @@ msgstr ""
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:206
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:223
 msgid "Invalid language section"
-msgstr ""
+msgstr "Seção de idioma inválido"
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:234
 msgid "You must specify a page for this multilingual content section."
-msgstr "Especificar uma página para essa seção conteúdo multi-idioma."
+msgstr "Você deve especificar uma página para esta seção conteúdo multi-idioma."
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:242
 msgid "A language section page at this location already exists."
@@ -150,7 +152,7 @@ msgstr ""
 
 #: packages/multilingual/controllers/dashboard/multilingual/setup.php:251
 msgid "This language/region combination already exists."
-msgstr "Essa combinação idioma/região já existe."
+msgstr "Esta combinação idioma/região já existe."
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:9
 msgid "Generate multilingual sitemap.xml File"
@@ -172,7 +174,7 @@ msgstr ""
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:56
 #, php-format
 msgid "Cannot open file %s"
-msgstr ""
+msgstr "Não foi possível abrir o arquivo %s"
 
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:149
 #, php-format
@@ -182,15 +184,15 @@ msgstr ""
 #: packages/multilingual/jobs/generate_multilingual_sitemap.php:152
 #, php-format
 msgid "The file %s is not writable"
-msgstr ""
+msgstr "O arquivo %s não tem permissão de escrita"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:11
 msgid "Choose Source"
-msgstr "Escolha Origem"
+msgstr "Escolher origem"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:19
 msgid "Choose Targets"
-msgstr "Escolha Destino"
+msgstr "Escolher destinos"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:46
 msgid "Display"
@@ -198,27 +200,27 @@ msgstr "Exibir"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:54
 msgid "Only Missing Pages"
-msgstr "Só Páginas Inexistentes"
+msgstr "Apenas páginas faltando"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:60
 msgid "All Pages"
-msgstr "Todas Páginas"
+msgstr "Todas as páginas"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:68
 msgid "Filter Pages"
-msgstr ""
+msgstr "Filtrar páginas"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:69
 msgid "By Name"
-msgstr ""
+msgstr "Por nome"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:74
 msgid "Go"
-msgstr ""
+msgstr "Ir"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:130
 msgid "Re-Map"
-msgstr "Re-Mapear"
+msgstr "Remapear"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:132
 msgid "Map"
@@ -226,7 +228,7 @@ msgstr "Mapear"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:138
 msgid "Create"
-msgstr ""
+msgstr "Criar"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:142
 msgid "Ignore"
@@ -234,19 +236,19 @@ msgstr "Ignorar"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:148
 msgid "Create the parent page first."
-msgstr "Primeiro criar página pai."
+msgstr "Primeiro crie a página pai."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:158
 msgid "No pages found."
-msgstr ""
+msgstr "Nenhuma página encontrada."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:187
 msgid "Choose A Page"
-msgstr ""
+msgstr "Escolha uma página"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:210
 msgid "You have not defined any multilingual sections for your site yet."
-msgstr "Ainda não foi definida nenhuma seção multi idioma no site."
+msgstr "Você ainda não definiu nenhuma seção multi-idioma no seu site."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:3
 msgid "Multilingual Content Setup"
@@ -254,40 +256,40 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:5
 msgid "Content Sections"
-msgstr "Seções de Conteúdo"
+msgstr "Seções de conteúdo"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:12
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:13
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:14
 msgid "Path"
-msgstr ""
+msgstr "Caminho"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:30
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:120
 msgid "You have not created any multilingual content sections yet."
-msgstr "Não foi criado nenhum conteúdo multi-idioma ainda."
+msgstr "Você ainda não criou nenhum conteúdo multi-idioma."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:33
 msgid "Add a Language"
-msgstr ""
+msgstr "Adicionar um idioma"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:41
 msgid "Language Icon"
-msgstr "Ícone do Idioma"
+msgstr "Ícone do idioma"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:45
 msgid "Choose a Parent Page"
-msgstr "Escolhar Página Pai"
+msgstr "Escolher uma página pai"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:54
 msgid "Add Content Section"
-msgstr "Adicionar Seção Conteúdo"
+msgstr "Adicionar seção de conteúdo"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:78
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:135
@@ -303,7 +305,7 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:100
 msgid "Copy From"
-msgstr "Copiar a partir de"
+msgstr "Copiar de"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:105
 msgctxt "Destination"
@@ -312,15 +314,15 @@ msgstr "Para"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:113
 msgid "Copy Tree"
-msgstr "Copiar Estrutura"
+msgstr "Copiar estrutura"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:118
 msgid "You must have more than one multilingual section to use this tool."
-msgstr "Deve haver mais que uma seção multi idioma para usar essa ferramenta."
+msgstr "Você deve ter mais de uma seção multi-idioma para usar esta ferramenta."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:140
 msgid "You must choose two separate multilingual sections to copy from/to"
-msgstr "Pode escolher duas seções multi idioma separadamente para copiar de / para"
+msgstr "Você deve escolher duas seções multi-idioma separadas para copiar de/para"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:151
 msgid "Only the super user may copy language trees."
@@ -331,7 +333,7 @@ msgid ""
 "Since one of your multilingual sections is the home page, you may not "
 "duplicate your site tree using this tool. You must manually assign pages "
 "using the page report."
-msgstr "Desde que uma das seções multi idioma da sua página home, não poderá ser utilizada essa ferramenta para duplicar o esquema do site. Isso deverá ser feito manualmente usando o relatório de páginas do site."
+msgstr "Já que uma de suas seções multi-idioma é a página inicial, você não pode duplicar a estrutura do seu site usando esta ferramenta. Você deve atribuir páginas manualmente usando o relatório de páginas."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:158
 msgid "** None Set"
@@ -339,11 +341,11 @@ msgstr "** Nenhum Config"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:170
 msgid "Multilingual Settings"
-msgstr "Configurações Multi Idiomas"
+msgstr "Configurações multi-idioma"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:174
 msgid "Default Language"
-msgstr ""
+msgstr "Idioma padrão"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:186
 msgid "Attempt to use visitor's language based on their browser information."
@@ -355,12 +357,12 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:201
 msgid "Save Settings"
-msgstr "Salvar Configurações"
+msgstr "Salvar configurações"
 
 #: packages/multilingual/tools/switch_language_for_page.php:44
 #, php-format
 msgid "%s: %s"
-msgstr ""
+msgstr "%s: %s"
 
 #: packages/multilingual/tools/switch_language_for_page.php:47
 #, php-format
@@ -375,12 +377,12 @@ msgstr ""
 #: packages/multilingual/blocks/switch_language/templates/flags
 msgctxt "TemplateFileName"
 msgid "Flags"
-msgstr "Config."
+msgstr ""
 
 #: packages/multilingual/blocks/switch_language/templates/flags_set_default
 msgctxt "TemplateFileName"
 msgid "Flags Set Default"
-msgstr "Config Padrão"
+msgstr ""
 
 #: packages/multilingual/blocks/switch_language/templates/seo_flags
 msgctxt "TemplateFileName"
