@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Kallef Alexandre de Souza <prhost@prhost.com.br>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-09 08:55+0000\n"
-"PO-Revision-Date: 2014-04-04 13:42+0000\n"
+"PO-Revision-Date: 2015-03-20 17:06+0000\n"
+"Last-Translator: Kallef Alexandre de Souza <prhost@prhost.com.br>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,50 +19,50 @@ msgstr ""
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:18
 msgid "Meant to wrap blocks in an HTML-element"
-msgstr ""
+msgstr "Significado para envolver blocos em um elemento HTML"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:22
 #: packages/d3_block_wrapper/controller.php:15
 msgid "Block Wrapper"
-msgstr ""
+msgstr "Envolvedor de blocks"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:11
 msgid "Select template"
-msgstr ""
+msgstr "Selecionar modelo"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:42
 msgid "Block Title (Optional)"
-msgstr ""
+msgstr "Título do Bloco (Opcional)"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:53
 msgid "Extra CSS classes"
-msgstr ""
+msgstr "CSS Class adicionais"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:64
 msgid "Extra HTML attribute"
-msgstr ""
+msgstr "Atributos HTML adicionais"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:75
 msgid "Link to page"
-msgstr ""
+msgstr "Link para a página"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php:7
 msgid "Close Wrapper"
-msgstr ""
+msgstr "Fechar Envolvedor"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php:13
 msgid "Open Wrapper"
-msgstr ""
+msgstr "Abrir Envolvedor"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/view.php:4
 msgid ""
 "Please select a custom template for this block to either open or close the "
 "wrapper"
-msgstr ""
+msgstr "Por favor, selecione um modelo personalizado para este bloco para abrir ou fechar o envoldedor"
 
 #: packages/d3_block_wrapper/controller.php:11
 msgid "Installs a block called 'Block Wrapper'"
-msgstr ""
+msgstr "Instala um bloco chamado 'Envolvedor de bloco'"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php
 msgctxt "TemplateFileName"
@@ -70,4 +72,4 @@ msgstr "Fechar"
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php
 msgctxt "TemplateFileName"
 msgid "Open"
-msgstr ""
+msgstr "Abrir"

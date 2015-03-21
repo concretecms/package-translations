@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Kallef Alexandre de Souza <prhost@prhost.com.br>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-08 19:44+0000\n"
-"PO-Revision-Date: 2014-03-17 12:40+0000\n"
+"PO-Revision-Date: 2015-03-20 17:29+0000\n"
+"Last-Translator: Kallef Alexandre de Souza <prhost@prhost.com.br>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,49 +20,49 @@ msgstr ""
 #: packages/zoom_image/blocks/zoom_image/controller.php:17
 #: packages/zoom_image/controller.php:12
 msgid "Adds images and onstates from the library to pages."
-msgstr ""
+msgstr "Adiciona imagens e constates da biblioteca para as páginas."
 
 #: packages/zoom_image/blocks/zoom_image/controller.php:21
 #: packages/zoom_image/controller.php:16
 msgid "Zoom Image"
-msgstr ""
+msgstr "Ampliar Imagem"
 
 #: packages/zoom_image/blocks/zoom_image/controller.php:26
 msgid "You must select an image."
-msgstr ""
+msgstr "Você deve selecionar uma imagem."
 
 #: packages/zoom_image/blocks/zoom_image/form.php:2
 msgid "Image"
-msgstr ""
+msgstr "Imagem"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:3
 msgid "Choose Image"
-msgstr ""
+msgstr "Escolha Imagem"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:7
 msgid "Alt Text"
-msgstr ""
+msgstr "Texto Alt"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:10
 msgid "Display as sub title"
-msgstr ""
+msgstr "Mostrar como subtítulo"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:15
 msgid "Max Thumbnail Width"
-msgstr ""
+msgstr "Largura máxima da miniatura"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:20
 msgid "Max Thumbnail Height"
-msgstr ""
+msgstr "Altura máxima da miniatura"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:25
 msgid "Options"
-msgstr ""
+msgstr "Opções"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:28
 msgid "Hide original image when zoomed"
-msgstr ""
+msgstr "Esconder imagem original quando ampliada"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:32
 msgid "Limit max zoom to window size"
-msgstr ""
+msgstr "Limitar o zoom para no máximo o tamanho da janela"

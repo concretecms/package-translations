@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Kallef Alexandre de Souza <prhost@prhost.com.br>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-30 08:37+0000\n"
-"PO-Revision-Date: 2014-09-30 08:22+0000\n"
+"PO-Revision-Date: 2015-03-20 17:11+0000\n"
+"Last-Translator: Kallef Alexandre de Souza <prhost@prhost.com.br>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,28 +19,28 @@ msgstr ""
 
 #: packages/d3_cache_warmer/controller.php:16
 msgid "Cache Warmer Job"
-msgstr ""
+msgstr "Tarefa de Cache Aquecida"
 
 #: packages/d3_cache_warmer/controller.php:20
 msgid "Installs a job that creates cache files for pages."
-msgstr ""
+msgstr "Instala uma tarefa que cria arquivos de cache para páginas."
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:67
 #, php-format
 msgid "Page cache couldn't be created for '%s'"
-msgstr ""
+msgstr "Cache da página não pôde ser criado para '%s'"
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:76
 #, php-format
 msgid "%s has loaded %d pages. Max: %d"
-msgstr ""
+msgstr "%s foi carregado %d páginas. Max: %d"
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:78
 #, php-format
 msgid "%s did not load any pages. Page types: %s. Max pages: %d"
-msgstr ""
+msgstr "%s não carregar nenhuma página. Tipos de página: %s. Máximo de páginas: %d"
 
 #: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:86
 #, php-format
 msgid "%s failed with an exception: %s"
-msgstr ""
+msgstr "%s falhou e causou a exceção: %s"
