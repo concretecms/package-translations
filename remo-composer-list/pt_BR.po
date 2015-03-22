@@ -23,7 +23,7 @@ msgstr ""
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/form.php:3
 #: C:\Work\concrete5-composer-list/elements/page_attributes.php:2
 msgid "Access Denied."
-msgstr ""
+msgstr "Acesso Negado."
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:16
 msgid "Adds a blocks which allows you to edit the page attributes."
@@ -97,7 +97,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:134
 msgid "No pages found."
-msgstr ""
+msgstr "Nenhuma página encontrada."
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:138
 msgid "What type of page would you like to edit?"
@@ -117,7 +117,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:11
 msgid "Path"
-msgstr ""
+msgstr "Caminho"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:12
 msgid "Date Created"
@@ -149,7 +149,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:83
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #~ msgid " "
 #~ msgstr " "

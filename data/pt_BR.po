@@ -208,7 +208,7 @@ msgstr ""
 #: packages/data/elements/permission/lists/data_type.php:32
 #: packages/data/single_pages/dashboard/data/administration/edit.php:12
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #: packages/data/models/attribute/types/data_simple_association/type_form.php:3
 msgid "Simple Association"
@@ -294,7 +294,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/search.php:15
 #: packages/data/single_pages/dashboard/data/management/view.php:9
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:25
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:25
@@ -322,7 +322,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/create.php:11
 #: packages/data/single_pages/dashboard/data/management/search.php:29
 msgid "Create"
-msgstr ""
+msgstr "Criar"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:3
 #, php-format

@@ -26,7 +26,7 @@ msgstr ""
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/view.php:1
 #: C:\Work\addon_gallery/packages/gallery/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Acesso Negado."
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:25
 msgid "Display a gallery of images."
@@ -74,7 +74,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:22
 msgid "Options"
-msgstr ""
+msgstr "Opções"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:29
 msgid "Thumbnail Width"

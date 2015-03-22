@@ -35,7 +35,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:6
 msgid "Options"
-msgstr ""
+msgstr "Opções"
 
 #: packages/free_cookies_disclosure/blocks/cookies_disclosure_form/edit.php:10
 msgid "Show Checkbox"
@@ -204,7 +204,7 @@ msgstr ""
 
 #: packages/free_cookies_disclosure/single_pages/dashboard/system/basics/cookies_disclosure.php:72
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #: packages/free_cookies_disclosure/tools/disclosure_i18n_js.php:4
 msgid "You need to allow cookies for this site!"

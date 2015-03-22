@@ -47,7 +47,7 @@ msgstr ""
 
 #: packages/dh_multilingual_content/controller.php:25
 msgid "Internationalization"
-msgstr ""
+msgstr "Internacionalização"
 
 #: packages/dh_multilingual_content/controller.php:25
 #, php-format

@@ -26,7 +26,7 @@ msgstr ""
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/view.php:1
 #: C:\Work\addon_image_slider/packages/image_slider/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Acesso Negado."
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/controller.php:30
 msgid "Display a group of images in a slider."
@@ -55,7 +55,7 @@ msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:19
 msgid "Options"
-msgstr ""
+msgstr "Opções"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:24
 msgid "Looping"
@@ -96,7 +96,7 @@ msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:49
 msgid "None"
-msgstr ""
+msgstr "Nenhum"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:56
 msgid "Arrows on Edges"

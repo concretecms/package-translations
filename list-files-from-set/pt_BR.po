@@ -147,7 +147,7 @@ msgstr ""
 
 #: ../controller.php:5
 msgid "Access Denied."
-msgstr ""
+msgstr "Acesso Negado."
 
 #: ../controller.php:14
 msgid "A block to display a list of files from a file set."

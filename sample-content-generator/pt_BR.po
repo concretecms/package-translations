@@ -19,7 +19,7 @@ msgstr ""
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Acesso Negado."
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/controller.php:12
 msgid ""
@@ -62,7 +62,7 @@ msgstr ""
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:27
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:35
 msgid "Go"
-msgstr ""
+msgstr "Ir"
 
 #: C:\Work\addon_sample_content_generator/packages/sample_content_generator/single_pages/dashboard/generate_install_data.php:32
 msgid "Generate content.xml from current website."
