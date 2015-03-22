@@ -1,5 +1,5 @@
 {
-    "updated": 1426926628,
+    "updated": 1427013030,
     "packages": [
         {
             "handle": "addthis",
@@ -350,11 +350,11 @@
                     "perc": 100
                 },
                 "pt_BR": {
-                    "translated": 2,
-                    "untranslated": 31,
+                    "translated": 3,
+                    "untranslated": 30,
                     "fuzzy": 0,
                     "total": 33,
-                    "perc": 6
+                    "perc": 9
                 },
                 "he_IL": {
                     "translated": 5,
@@ -621,6 +621,13 @@
                     "fuzzy": 0,
                     "total": 38,
                     "perc": 55
+                },
+                "pt_BR": {
+                    "translated": 1,
+                    "untranslated": 37,
+                    "fuzzy": 0,
+                    "total": 38,
+                    "perc": 2
                 },
                 "he_IL": {
                     "translated": 21,
@@ -1134,11 +1141,11 @@
                     "perc": 100
                 },
                 "pt_BR": {
-                    "translated": 3,
-                    "untranslated": 80,
+                    "translated": 6,
+                    "untranslated": 77,
                     "fuzzy": 0,
                     "total": 83,
-                    "perc": 3
+                    "perc": 7
                 },
                 "he_IL": {
                     "translated": 80,
@@ -1307,6 +1314,13 @@
                     "fuzzy": 0,
                     "total": 9,
                     "perc": 11
+                },
+                "pt_BR": {
+                    "translated": 1,
+                    "untranslated": 8,
+                    "fuzzy": 0,
+                    "total": 9,
+                    "perc": 11
                 }
             }
         },
@@ -1435,11 +1449,11 @@
                     "perc": 7
                 },
                 "pt_BR": {
-                    "translated": 14,
-                    "untranslated": 86,
+                    "translated": 17,
+                    "untranslated": 83,
                     "fuzzy": 0,
                     "total": 100,
-                    "perc": 14
+                    "perc": 17
                 },
                 "he_IL": {
                     "translated": 7,
@@ -1721,6 +1735,13 @@
                     "total": 44,
                     "perc": 9
                 },
+                "pt_BR": {
+                    "translated": 2,
+                    "untranslated": 42,
+                    "fuzzy": 0,
+                    "total": 44,
+                    "perc": 4
+                },
                 "he_IL": {
                     "translated": 6,
                     "untranslated": 38,
@@ -1860,6 +1881,13 @@
                     "fuzzy": 0,
                     "total": 31,
                     "perc": 100
+                },
+                "pt_BR": {
+                    "translated": 2,
+                    "untranslated": 29,
+                    "fuzzy": 0,
+                    "total": 31,
+                    "perc": 6
                 },
                 "he_IL": {
                     "translated": 31,
@@ -2051,11 +2079,11 @@
                     "perc": 100
                 },
                 "pt_BR": {
-                    "translated": 1,
-                    "untranslated": 37,
+                    "translated": 4,
+                    "untranslated": 34,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 2
+                    "perc": 10
                 },
                 "he_IL": {
                     "translated": 38,
@@ -2611,11 +2639,11 @@
                     "perc": 100
                 },
                 "pt_BR": {
-                    "translated": 1,
-                    "untranslated": 33,
+                    "translated": 2,
+                    "untranslated": 32,
                     "fuzzy": 0,
                     "total": 34,
-                    "perc": 2
+                    "perc": 5
                 },
                 "he_IL": {
                     "translated": 8,
@@ -2756,6 +2784,13 @@
                     "fuzzy": 0,
                     "total": 65,
                     "perc": 100
+                },
+                "pt_BR": {
+                    "translated": 3,
+                    "untranslated": 62,
+                    "fuzzy": 0,
+                    "total": 65,
+                    "perc": 4
                 },
                 "he_IL": {
                     "translated": 7,
@@ -3331,6 +3366,13 @@
                     "total": 32,
                     "perc": 100
                 },
+                "pt_BR": {
+                    "translated": 4,
+                    "untranslated": 28,
+                    "fuzzy": 0,
+                    "total": 32,
+                    "perc": 12
+                },
                 "he_IL": {
                     "translated": 20,
                     "untranslated": 12,
@@ -3757,6 +3799,13 @@
                     "fuzzy": 0,
                     "total": 13,
                     "perc": 100
+                },
+                "pt_BR": {
+                    "translated": 2,
+                    "untranslated": 11,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 15
                 },
                 "he_IL": {
                     "translated": 5,
