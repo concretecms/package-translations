@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2015-02-27 20:13+0100\n"
-"PO-Revision-Date: 2015-02-28 10:31+0000\n"
+"PO-Revision-Date: 2015-03-29 00:51+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -89,31 +89,31 @@ msgstr ""
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Monday"
-msgstr ""
+msgstr "Lundi"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Tuesday"
-msgstr ""
+msgstr "Mardi"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Wednesday"
-msgstr ""
+msgstr "Mercredi"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Thursday"
-msgstr ""
+msgstr "Jeudi"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Friday"
-msgstr ""
+msgstr "Vendredi"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Saturday"
-msgstr ""
+msgstr "Samedi"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:45
 msgid "Sunday"
-msgstr ""
+msgstr "Dimanche"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/types.php:42
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:75
