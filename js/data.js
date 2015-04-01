@@ -1,5 +1,5 @@
 {
-    "updated": 1427787027,
+    "updated": 1427873428,
     "packages": [
         {
             "handle": "addthis",
@@ -1330,11 +1330,11 @@
             "sourceURL": "https://github.com/dszymczuk/dsEventCalendar",
             "locales": {
                 "de_DE": {
-                    "translated": 70,
-                    "untranslated": 30,
+                    "translated": 100,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 100,
-                    "perc": 70
+                    "perc": 100
                 },
                 "it_IT": {
                     "translated": 100,
