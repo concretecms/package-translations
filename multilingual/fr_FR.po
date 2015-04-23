@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Florian Delizy <florian.delizy@gmail.com>, 2015
 # nebuleu <nebuleu@lusten.org>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2015-04-17 08:13+0000\n"
-"Last-Translator: nebuleu <nebuleu@lusten.org>\n"
+"PO-Revision-Date: 2015-04-22 21:41+0000\n"
+"Last-Translator: Florian Delizy <florian.delizy@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -387,4 +388,4 @@ msgstr "Collections de label par défaut"
 #: packages/multilingual/blocks/switch_language/templates/seo_flags
 msgctxt "TemplateFileName"
 msgid "Seo Flags"
-msgstr ""
+msgstr "Marqueurs SEO"
