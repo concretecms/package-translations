@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-20 12:06+0000\n"
-"PO-Revision-Date: 2014-04-21 14:13+0000\n"
+"PO-Revision-Date: 2015-04-26 22:12+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/concrete5-packages/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
@@ -141,7 +141,7 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:230
 msgid "File name"
-msgstr ""
+msgstr "Имя файла"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:233
 msgid "Search"
