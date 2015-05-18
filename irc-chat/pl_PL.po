@@ -70,7 +70,7 @@ msgstr ""
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:38
 msgid "Appearance"
-msgstr ""
+msgstr "Wygląd"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:39
 msgid "Advanced options"
