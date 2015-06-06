@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:33+0100\n"
-"PO-Revision-Date: 2014-12-20 14:51+0000\n"
+"PO-Revision-Date: 2015-06-06 06:18+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:8
 msgid "File Set"
-msgstr ""
+msgstr "Failų rinkinys"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:14
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:14
