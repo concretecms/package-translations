@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2014-04-21 14:14+0000\n"
+"PO-Revision-Date: 2015-06-09 09:18+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -119,7 +119,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 #: packages/data/single_pages/dashboard/data/management/view.php:6
 msgid "Attributes"
-msgstr ""
+msgstr "Atributai"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:135
 msgid "Attribute Deleted"
@@ -149,7 +149,7 @@ msgstr ""
 #: packages/data/controllers/dashboard/data/administration/controller.php:121
 #: packages/data/controllers/dashboard/data/administration/controller.php:151
 msgid "View"
-msgstr ""
+msgstr "Peržiūra"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:143
 msgid "Data Type Deleted"
