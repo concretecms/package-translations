@@ -44,7 +44,7 @@ msgstr ""
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/search.php:18
 msgid "All"
-msgstr ""
+msgstr "Wszystko"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:7
 msgid "Select Options"
@@ -52,7 +52,7 @@ msgstr ""
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:10
 msgid "Page Type"
-msgstr ""
+msgstr "Typ strony"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:26
 msgid "Display Drop-Down"

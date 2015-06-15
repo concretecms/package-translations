@@ -180,7 +180,7 @@ msgstr ""
 #: packages/data/controllers/dashboard/data/management/controller.php:152
 #: packages/data/single_pages/dashboard/data/management/search.php:7
 msgid "Search"
-msgstr ""
+msgstr "Szukaj"
 
 #: packages/data/controllers/dashboard/data/management/controller.php:61
 msgid "Data Created"
@@ -347,7 +347,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/delete.php:11
 #: packages/data/single_pages/dashboard/data/management/edit.php:12
 msgid "Delete"
-msgstr ""
+msgstr "Skasuj"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:3
 #, php-format

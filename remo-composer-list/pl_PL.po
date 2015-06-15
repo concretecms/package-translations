@@ -1,12 +1,13 @@
 # Translators:
 # Translators:
+# IceManSpy <icemanspy+transifex@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: remo.laubacher@gmail.com\n"
 "POT-Creation-Date: 2014-03-17 13:45+0100\n"
-"PO-Revision-Date: 2014-03-17 12:43+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2015-06-14 10:57+0000\n"
+"Last-Translator: IceManSpy <icemanspy+transifex@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/concrete5-packages/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,61 +28,61 @@ msgstr "Dostęp zabroniony."
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:16
 msgid "Adds a blocks which allows you to edit the page attributes."
-msgstr ""
+msgstr "Dodaj blok, który pozwoli Ci edytować atrybuty strony."
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:20
 msgid "Page Attributes"
-msgstr ""
+msgstr "Atrybuty strony"
 
 #: C:\Work\concrete5-composer-list/controller.php:13
 msgid "Composer List"
-msgstr ""
+msgstr "Lista szkicownika"
 
 #: C:\Work\concrete5-composer-list/controller.php:17
 msgid "Installs the Composer List Package."
-msgstr ""
+msgstr "Zainstaluj paczkę Lista Skicownika"
 
 #: C:\Work\concrete5-composer-list/controller.php:44
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 #: C:\Work\concrete5-composer-list/controller.php:44
 msgid "List of Pages"
-msgstr ""
+msgstr "Lista stron"
 
 #: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:55
 msgid "No entries found"
-msgstr ""
+msgstr "Nie znaleziono wpisów."
 
 #: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:125
 msgid "Page deleted."
-msgstr ""
+msgstr "Strona usunięta."
 
 #: C:\Work\concrete5-composer-list/controllers/dashboard/composer/list.php:128
 msgid "You don't have the right to delete this page!"
-msgstr ""
+msgstr "Nie masz dostępu do usunięcia tego typu strony."
 
 #: C:\Work\concrete5-composer-list/elements/page_attributes.php:49
 msgid "remove"
-msgstr ""
+msgstr "usuń"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:10
 #, php-format
 msgid "%s List"
-msgstr ""
+msgstr "%s lista"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:10
 msgid "Shows a list of all pages editable by the composer."
-msgstr ""
+msgstr "Pokaż listę wszystko stron edytowalnych w szkicowniku."
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:24
 msgid "Search"
-msgstr ""
+msgstr "Szukaj"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:28
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:35
 msgid "Customize Columns"
-msgstr ""
+msgstr "Dopasuj kolumny"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:72
 msgid "Edit"
@@ -89,27 +90,27 @@ msgstr "Edycja"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:73
 msgid "Delete"
-msgstr ""
+msgstr "Skasuj"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:75
 msgid "Are you sure you want to remove this page?"
-msgstr ""
+msgstr "Jesteś pewien, że chcesz usunąć tą stronę?"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:134
 msgid "No pages found."
-msgstr ""
+msgstr "Strony nie znalezione."
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:138
 msgid "What type of page would you like to edit?"
-msgstr ""
+msgstr "Jaki typ strony chciałbyś napisać?"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:149
 msgid "You have not setup any page types for Composer."
-msgstr ""
+msgstr "Nie ustawiłeś jeszcze żadnych typów stron dla Szkicownika."
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:9
 msgid "Page Type"
-msgstr ""
+msgstr "Typ strony"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:10
 msgid "Page Name"
@@ -117,35 +118,35 @@ msgstr "Nazwa strony"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:11
 msgid "Path"
-msgstr ""
+msgstr "Ścieżka"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:12
 msgid "Date Created"
-msgstr ""
+msgstr "Data utworzenia"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:13
 msgid "Date Modified"
-msgstr ""
+msgstr "Data modyfikacji"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:14
 msgid "Page Owner"
-msgstr ""
+msgstr "Właściciel strony"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:30
 msgid "Choose Headers"
-msgstr ""
+msgstr "Wybierz nagłówki"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:33
 msgid "Standard Properties"
-msgstr ""
+msgstr "Właściwości podstawowe"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:48
 msgid "Additional Attributes"
-msgstr ""
+msgstr "Dodatkowe atrybuty"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:64
 msgid "Column Order"
-msgstr ""
+msgstr "Kolejność kolumn"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:83
 msgid "Save"

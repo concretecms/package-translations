@@ -144,7 +144,7 @@ msgstr "Nazwa pliku"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:233
 msgid "Search"
-msgstr ""
+msgstr "Szukaj"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:243
 msgid "Exclude 3rd party libraries"

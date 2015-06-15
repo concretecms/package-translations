@@ -238,7 +238,7 @@ msgstr "Najpierw utwórz stronę nadrzędną."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:158
 msgid "No pages found."
-msgstr ""
+msgstr "Strony nie znalezione."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:187
 msgid "Choose A Page"
@@ -266,7 +266,7 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:14
 msgid "Path"
-msgstr ""
+msgstr "Ścieżka"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:30
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:120
