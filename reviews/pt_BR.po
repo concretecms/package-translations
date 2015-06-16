@@ -129,7 +129,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/view.php:99
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: packages/reviews/blocks/reviews/view.php:100
 msgid "Are you sure you would like to remove this review?"
@@ -179,7 +179,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/view.php:193
 msgid "Please type the letters and numbers shown in the image."
-msgstr ""
+msgstr "Digite as letras e números exibidos na imagem."
 
 #: packages/reviews/blocks/reviews/view.php:204
 msgid "Post Comment"

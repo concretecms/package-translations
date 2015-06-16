@@ -159,7 +159,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/search.php:19
 #: packages/data/single_pages/dashboard/data/management/view.php:22
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:178
 #: packages/data/controllers/dashboard/data/administration/controller.php:184
@@ -347,7 +347,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/delete.php:11
 #: packages/data/single_pages/dashboard/data/management/edit.php:12
 msgid "Delete"
-msgstr ""
+msgstr "Apagar"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:3
 #, php-format
