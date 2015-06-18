@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 09:28+0000\n"
-"PO-Revision-Date: 2015-06-06 06:18+0000\n"
+"PO-Revision-Date: 2015-06-17 19:29+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:107
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:108
 msgctxt "KiwiIrcTheme"

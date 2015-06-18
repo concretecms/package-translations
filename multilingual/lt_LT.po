@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2015-06-09 09:18+0000\n"
+"PO-Revision-Date: 2015-06-17 19:29+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -344,7 +344,7 @@ msgstr ""
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:174
 msgid "Default Language"
-msgstr ""
+msgstr "Numatytojikalba"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/setup.php:186
 msgid "Attempt to use visitor's language based on their browser information."

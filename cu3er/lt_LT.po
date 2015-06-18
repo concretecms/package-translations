@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2014-04-21 14:13+0000\n"
+"PO-Revision-Date: 2015-06-17 19:29+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -54,11 +54,11 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:10
 msgid "Vertical"
-msgstr ""
+msgstr "Vertikalus"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:11
 msgid "Horizontal"
-msgstr ""
+msgstr "Horizontalus"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:14
 #: packages/cu3er/blocks/cu3er/image_row_include.php:21
@@ -67,11 +67,11 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:16
 msgid "Left"
-msgstr ""
+msgstr "Kairė"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:17
 msgid "Right"
-msgstr ""
+msgstr "Dešinė"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:18
 msgid "Up"
@@ -161,7 +161,7 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:37
 msgid "Link URL (optional)"
-msgstr ""
+msgstr "Nuorodos URL (pasirinktinai)"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:39
 msgid "Caption Heading"

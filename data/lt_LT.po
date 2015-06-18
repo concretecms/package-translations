@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2015-06-09 09:18+0000\n"
+"PO-Revision-Date: 2015-06-17 19:29+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -306,7 +306,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:32
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:32
 msgid "Searchable"
-msgstr ""
+msgstr "Paieškomas"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:35
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:35
@@ -418,7 +418,7 @@ msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Export"
-msgstr ""
+msgstr "Eksportuoti"
 
 #: packages/data/single_pages/dashboard/data/management/data_types.php:2
 msgid "Data Type Management"

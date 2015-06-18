@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:33+0100\n"
-"PO-Revision-Date: 2015-06-06 06:18+0000\n"
+"PO-Revision-Date: 2015-06-17 19:29+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -139,11 +139,11 @@ msgstr "Pridėti atvaizdą"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:18
 msgid "Set Number"
-msgstr ""
+msgstr "Nustatyti skaičius"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:24
 msgid "Link URL (optional)"
-msgstr ""
+msgstr "Nuorodos URL (pasirinktinai)"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:25
 msgid "Caption (optional)"

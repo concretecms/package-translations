@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: remo.laubacher@gmail.com\n"
 "POT-Creation-Date: 2014-03-17 13:45+0100\n"
-"PO-Revision-Date: 2014-04-21 14:13+0000\n"
+"PO-Revision-Date: 2015-06-17 19:29+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -121,11 +121,11 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:12
 msgid "Date Created"
-msgstr ""
+msgstr "Sukūrimo data"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:13
 msgid "Date Modified"
-msgstr ""
+msgstr "Modifikavimo data"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:14
 msgid "Page Owner"
