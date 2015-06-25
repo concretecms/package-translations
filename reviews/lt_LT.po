@@ -28,7 +28,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/controller.php:145
 msgid "Your session has expired.  Please log back in."
-msgstr ""
+msgstr "Jūsų prisijungimo sesija baigėsi. Prašome prisijungti iš naujo."
 
 #: packages/reviews/blocks/reviews/controller.php:148
 msgid "Invalid Email Address"
@@ -36,7 +36,7 @@ msgstr "Netinkamas Emailo adresas"
 
 #: packages/reviews/blocks/reviews/controller.php:151
 msgid "Name is required"
-msgstr ""
+msgstr "Vardas yra privalomas"
 
 #: packages/reviews/blocks/reviews/controller.php:159
 msgid "Incorrect captcha code"
@@ -44,23 +44,23 @@ msgstr "Neteisingas Captcha kodas"
 
 #: packages/reviews/blocks/reviews/controller.php:164
 msgid "a comment is required"
-msgstr ""
+msgstr "komentaras yra privalomas"
 
 #: packages/reviews/blocks/reviews/controller.php:178
 msgid "Please correct the following errors:"
-msgstr ""
+msgstr "Ištaisykite šias klaidas:"
 
 #: packages/reviews/blocks/reviews/controller.php:187
 msgid "The comment has been saved"
-msgstr ""
+msgstr "Komentaras buvo išsaugotas"
 
 #: packages/reviews/blocks/reviews/controller.php:190
 msgid "An Error occured while saving the comment"
-msgstr ""
+msgstr "Įvyko klaida įrašant komentarą"
 
 #: packages/reviews/blocks/reviews/controller.php:195
 msgid "Thanks! Your comment has been posted."
-msgstr ""
+msgstr "Ačiū! Jūsų komentaras buvo paskelbtas."
 
 #: packages/reviews/blocks/reviews/controller.php:218
 msgid "Reviews Comment Notification"
@@ -68,15 +68,15 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/controller.php:270
 msgid "The comment has been removed."
-msgstr ""
+msgstr "Komentaras buvo pašalintas."
 
 #: packages/reviews/blocks/reviews/controller.php:292
 msgid "The comment has been approved."
-msgstr ""
+msgstr "Komentaras buvo patvirtintas"
 
 #: packages/reviews/blocks/reviews/controller.php:313
 msgid "The comment has been unapproved."
-msgstr ""
+msgstr "Komentaras buvo nepatvirtintas."
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:6
 msgid "Title"
@@ -117,7 +117,7 @@ msgstr ""
 #: packages/reviews/blocks/reviews/form_setup_html.php:43
 #, php-format
 msgid "Solving a <a href=\"%s\" target=\"_blank\">CAPTCHA</a> Required to Post?"
-msgstr ""
+msgstr "Spręsti<a href=\"%s\" target=\"_blank\">SAUGOS užduotis</a>Reikalingas skelbti pranešimams?"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:53
 msgid "Alert Email Address when Review Posted"

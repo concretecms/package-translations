@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2015-06-17 19:29+0000\n"
+"PO-Revision-Date: 2015-06-24 14:41+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -250,7 +250,7 @@ msgstr ""
 
 #: packages/data/models/data_type.php:134
 msgid "Name is required"
-msgstr ""
+msgstr "Vardas yra privalomas"
 
 #: packages/data/models/data_type.php:137
 msgid "Handle is required"

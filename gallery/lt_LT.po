@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:33+0100\n"
-"PO-Revision-Date: 2015-06-17 19:29+0000\n"
+"PO-Revision-Date: 2015-06-24 14:41+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/projects/p/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:34
 msgid "Choose Image/File"
-msgstr ""
+msgstr "Pasirinkite Vaizdą/Failą"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:35
 msgid "Please choose at least two images."
@@ -119,7 +119,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:88
 msgid "Playback"
-msgstr ""
+msgstr "Peržiūra"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:90
 msgid "Display Order"
