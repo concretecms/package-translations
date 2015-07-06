@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-08-30 07:41+0000\n"
+"POT-Creation-Date: 2015-07-02 07:09+0000\n"
+"PO-Revision-Date: 2015-07-05 10:43+0000\n"
 "Last-Translator: Maura van Tuijl <info@hutspott.nl>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -17,30 +17,20 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-#: packages/multilingual/blocks/switch_language/controller.php:13
-msgid "Adds a front-end language switcher to your website."
-msgstr "Voegt een front-end taal switcher toe aan uw website."
+#: packages/multilingual/blocks/switch_language/templates/flags
+msgctxt "TemplateFileName"
+msgid "Flags"
+msgstr "Vlaggen"
 
-#: packages/multilingual/blocks/switch_language/controller.php:17
-msgid "Switch Language"
-msgstr "Wissel taal"
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default
+msgctxt "TemplateFileName"
+msgid "Flags Set Default"
+msgstr "Vlaggen standaardwaarde instellen"
 
-#: packages/multilingual/blocks/switch_language/controller.php:25
-#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
-msgid "Choose Language"
-msgstr "Kies taal"
-
-#: packages/multilingual/blocks/switch_language/form.php:3
-msgid "Label"
-msgstr "Label"
-
-#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
-msgid "Remember my choice on this computer."
-msgstr "Onthoud mijn keuze op deze computer."
-
-#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
-msgid "Save"
-msgstr "Opslaan"
+#: packages/multilingual/blocks/switch_language/templates/seo_flags
+msgctxt "TemplateFileName"
+msgid "Seo Flags"
+msgstr "SEO vlaggen"
 
 #: packages/multilingual/controller.php:10
 msgid "Translate your site with this free multilingual solution."
@@ -75,6 +65,31 @@ msgstr "Paginarapport"
 #: packages/multilingual/controller.php:164
 msgid "Exclude from Internationalization Copy"
 msgstr "Uitsluiten van Taalkopie"
+
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
+msgid "Remember my choice on this computer."
+msgstr "Onthoud mijn keuze op deze computer."
+
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
+msgid "Save"
+msgstr "Opslaan"
+
+#: packages/multilingual/blocks/switch_language/controller.php:13
+msgid "Adds a front-end language switcher to your website."
+msgstr "Voegt een front-end taal switcher toe aan uw website."
+
+#: packages/multilingual/blocks/switch_language/controller.php:17
+msgid "Switch Language"
+msgstr "Wissel taal"
+
+#: packages/multilingual/blocks/switch_language/controller.php:25
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
+msgid "Choose Language"
+msgstr "Kies taal"
+
+#: packages/multilingual/blocks/switch_language/form.php:3
+msgid "Label"
+msgstr "Label"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:84
 msgid "You cannot assign this page to itself."
@@ -223,10 +238,12 @@ msgid "Re-Map"
 msgstr "Opnieuw toewijzen"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:132
+#: packages/multilingual/tools/switch_language_for_page.php:52
 msgid "Map"
 msgstr "Toewijzen"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:138
+#: packages/multilingual/tools/switch_language_for_page.php:51
 msgid "Create"
 msgstr "Maak"
 
@@ -243,6 +260,7 @@ msgid "No pages found."
 msgstr "Geen pagina's gevonden."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:187
+#: packages/multilingual/tools/switch_language_for_page.php:67
 msgid "Choose A Page"
 msgstr "Een pagina kiezen"
 
@@ -359,32 +377,17 @@ msgstr "Homepage omleiden naar standaard taal."
 msgid "Save Settings"
 msgstr "Instellingen opslaan"
 
-#: packages/multilingual/tools/switch_language_for_page.php:44
+#: packages/multilingual/tools/switch_language_for_page.php:45
 #, php-format
 msgid "%s: %s"
 msgstr "% s: %s"
 
-#: packages/multilingual/tools/switch_language_for_page.php:47
+#: packages/multilingual/tools/switch_language_for_page.php:48
 #, php-format
 msgid "Currently Viewing: %s"
 msgstr "Momenteel aan het bekijken: %s"
 
-#: packages/multilingual/tools/switch_language_for_page.php:48
+#: packages/multilingual/tools/switch_language_for_page.php:49
 #, php-format
 msgid "%s: None Created"
 msgstr "% s: geen gemaakt"
-
-#: packages/multilingual/blocks/switch_language/templates/flags
-msgctxt "TemplateFileName"
-msgid "Flags"
-msgstr "Vlaggen"
-
-#: packages/multilingual/blocks/switch_language/templates/flags_set_default
-msgctxt "TemplateFileName"
-msgid "Flags Set Default"
-msgstr "Vlaggen standaardwaarde instellen"
-
-#: packages/multilingual/blocks/switch_language/templates/seo_flags
-msgctxt "TemplateFileName"
-msgid "Seo Flags"
-msgstr "SEO vlaggen"
