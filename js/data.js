@@ -1,5 +1,5 @@
 {
-    "updated": 1436254224,
+    "updated": 1436340625,
     "packages": [
         {
             "handle": "addthis",
@@ -1372,11 +1372,11 @@
                     "perc": 100
                 },
                 "el_GR": {
-                    "translated": 100,
-                    "untranslated": 10,
+                    "translated": 110,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 110,
-                    "perc": 90
+                    "perc": 100
                 },
                 "fi_FI": {
                     "translated": 76,
