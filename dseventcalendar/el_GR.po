@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2015-06-13 17:08+0100\n"
-"PO-Revision-Date: 2015-06-14 08:50+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2015-07-07 09:41+0000\n"
+"Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/projects/p/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -210,7 +210,7 @@ msgstr "Δεν υπάρχουν ημερολόγια. Πηγαίνετε στο 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:41
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:50
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:42
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:51
@@ -229,7 +229,7 @@ msgstr "Δείτε τις εκδηλώσεις"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:81
 msgid "Remove all events"
-msgstr ""
+msgstr "Κατάργηση όλων των συμβάντων"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:27
 msgid ""
@@ -328,7 +328,7 @@ msgstr "Γλώσσα"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:41
 msgid "Language - datepicker"
-msgstr ""
+msgstr "Γλώσσα - Επιλογέας Ημερομηνίας"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:53
 msgid "Event date format"
@@ -356,17 +356,17 @@ msgstr "Προεπιλεγμένο χρώμα της εκδήλωσης"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:103
 msgid "Scroll time in datepicker"
-msgstr ""
+msgstr "Μετακινήστε το χρόνο στον επιλογεά ημερομηνίας"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:115
 msgid "Scroll month in datepicker"
-msgstr ""
+msgstr "Μετακινήστε τον μήνα στον επιλογεά ημερομηνίας"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:128
 msgid ""
 "Scroll on input to change date / time (to enable this option you have to "
 "enable scroll time or month)"
-msgstr ""
+msgstr "Μετακινήστε στην είσοδο για να αλλάξετε την ημερομηνία / ώρα (για να ενεργοποιήσετε αυτή την επιλογή θα πρέπει να ενεργοποιήσετε την κύλισης για ώρα ή μήνες)"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:144
 msgid "Update settings"
@@ -470,7 +470,7 @@ msgstr "Σφάλμα κατά την προσθήκη. Ίσως κάποιες �
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:90
 msgid "Error while adding. Enddate or endtime is not correct."
-msgstr ""
+msgstr "Σφάλμα κατά την προσθήκη. EndDate ή endtime δεν είναι σωστή."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:127
 msgid "Add event"
@@ -539,7 +539,7 @@ msgstr "Τύπος:"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/libraries/dsEventCalendar.php:74
 msgid "All"
-msgstr ""
+msgstr "Όλα"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/view.php:9
 msgid "No calendar choose"
@@ -559,8 +559,8 @@ msgstr "Επιλέξτε Ημερολόγιο"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/form_setup_html.php:25
 msgid "Select language"
-msgstr ""
+msgstr "Προεπιλεγμένη Γλώσσα"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/form_setup_html.php:38
 msgid "Select type"
-msgstr ""
+msgstr "Επιλογή τύπου"
