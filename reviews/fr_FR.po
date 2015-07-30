@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Dorian Marchal <marchal.dorian@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-17 12:52+0000\n"
-"PO-Revision-Date: 2014-06-17 12:58+0000\n"
+"PO-Revision-Date: 2015-07-29 20:50+0000\n"
+"Last-Translator: Dorian Marchal <marchal.dorian@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +26,7 @@ msgstr "Avis"
 #: packages/reviews/blocks/reviews/controller.php:36
 #: packages/reviews/controller.php:12
 msgid "Adds the ability to add ratings and comments to a page."
-msgstr ""
+msgstr "Ajoute la possibilité d'ajouter des notes et des commentaires à une page."
 
 #: packages/reviews/blocks/reviews/controller.php:145
 msgid "Your session has expired.  Please log back in."
@@ -84,7 +86,7 @@ msgstr "Titre"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:13
 msgid "Comments Require Moderator Approval?"
-msgstr ""
+msgstr "Les commentaires nécessitent l'approbation d'un modérateur ?"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:16
 #: packages/reviews/blocks/reviews/form_setup_html.php:26
@@ -100,11 +102,11 @@ msgstr "Non"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:23
 msgid "Posting Reviews is Enabled?"
-msgstr ""
+msgstr "Activer la publication d'avis ?"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:33
 msgid "Authentication Required to Post?"
-msgstr ""
+msgstr "L'authentification est requise pour poster ?"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:36
 msgid "Email Only"
@@ -112,7 +114,7 @@ msgstr "Courriel uniquement"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:37
 msgid "Users must login to concrete5"
-msgstr ""
+msgstr "Les utilisateurs doivent se connecter à Concrete5"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:43
 #, php-format
