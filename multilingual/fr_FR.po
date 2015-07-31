@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2015-04-22 21:41+0000\n"
+"POT-Creation-Date: 2015-07-02 07:09+0000\n"
+"PO-Revision-Date: 2015-07-30 21:08+0000\n"
 "Last-Translator: Florian Delizy <florian.delizy@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -18,30 +18,20 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-#: packages/multilingual/blocks/switch_language/controller.php:13
-msgid "Adds a front-end language switcher to your website."
-msgstr "Ajouter un sélecteur de langage sur votre site web."
+#: packages/multilingual/blocks/switch_language/templates/flags
+msgctxt "TemplateFileName"
+msgid "Flags"
+msgstr "Drapeaux"
 
-#: packages/multilingual/blocks/switch_language/controller.php:17
-msgid "Switch Language"
-msgstr "Sélectionner une langue"
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default
+msgctxt "TemplateFileName"
+msgid "Flags Set Default"
+msgstr "Collections de label par défaut"
 
-#: packages/multilingual/blocks/switch_language/controller.php:25
-#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
-msgid "Choose Language"
-msgstr "Choisir une langue"
-
-#: packages/multilingual/blocks/switch_language/form.php:3
-msgid "Label"
-msgstr "Titre"
-
-#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
-msgid "Remember my choice on this computer."
-msgstr "Mémoriser mon choix."
-
-#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
-msgid "Save"
-msgstr "Enregistrer"
+#: packages/multilingual/blocks/switch_language/templates/seo_flags
+msgctxt "TemplateFileName"
+msgid "Seo Flags"
+msgstr "Marqueurs SEO"
 
 #: packages/multilingual/controller.php:10
 msgid "Translate your site with this free multilingual solution."
@@ -76,6 +66,31 @@ msgstr "Rapport des pages"
 #: packages/multilingual/controller.php:164
 msgid "Exclude from Internationalization Copy"
 msgstr "Exclure de la copie d'internationalisation"
+
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
+msgid "Remember my choice on this computer."
+msgstr "Mémoriser mon choix."
+
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
+msgid "Save"
+msgstr "Enregistrer"
+
+#: packages/multilingual/blocks/switch_language/controller.php:13
+msgid "Adds a front-end language switcher to your website."
+msgstr "Ajouter un sélecteur de langage sur votre site web."
+
+#: packages/multilingual/blocks/switch_language/controller.php:17
+msgid "Switch Language"
+msgstr "Sélectionner une langue"
+
+#: packages/multilingual/blocks/switch_language/controller.php:25
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
+msgid "Choose Language"
+msgstr "Choisir une langue"
+
+#: packages/multilingual/blocks/switch_language/form.php:3
+msgid "Label"
+msgstr "Titre"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:84
 msgid "You cannot assign this page to itself."
@@ -224,10 +239,12 @@ msgid "Re-Map"
 msgstr "Re-lier"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:132
+#: packages/multilingual/tools/switch_language_for_page.php:52
 msgid "Map"
 msgstr "Lier"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:138
+#: packages/multilingual/tools/switch_language_for_page.php:51
 msgid "Create"
 msgstr "Créer"
 
@@ -244,6 +261,7 @@ msgid "No pages found."
 msgstr "Aucune page trouvée."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:187
+#: packages/multilingual/tools/switch_language_for_page.php:67
 msgid "Choose A Page"
 msgstr "Choisir une page"
 
@@ -360,32 +378,17 @@ msgstr "Rediriger la page d'accueil sur la page de garde de la section de langue
 msgid "Save Settings"
 msgstr "Sauvegarder les réglages"
 
-#: packages/multilingual/tools/switch_language_for_page.php:44
+#: packages/multilingual/tools/switch_language_for_page.php:45
 #, php-format
 msgid "%s: %s"
 msgstr "%s: %s"
 
-#: packages/multilingual/tools/switch_language_for_page.php:47
+#: packages/multilingual/tools/switch_language_for_page.php:48
 #, php-format
 msgid "Currently Viewing: %s"
 msgstr "Actuellement sur la page: %s"
 
-#: packages/multilingual/tools/switch_language_for_page.php:48
+#: packages/multilingual/tools/switch_language_for_page.php:49
 #, php-format
 msgid "%s: None Created"
 msgstr "%s: Aucun(e) de créé(e)"
-
-#: packages/multilingual/blocks/switch_language/templates/flags
-msgctxt "TemplateFileName"
-msgid "Flags"
-msgstr "Drapeaux"
-
-#: packages/multilingual/blocks/switch_language/templates/flags_set_default
-msgctxt "TemplateFileName"
-msgid "Flags Set Default"
-msgstr "Collections de label par défaut"
-
-#: packages/multilingual/blocks/switch_language/templates/seo_flags
-msgctxt "TemplateFileName"
-msgid "Seo Flags"
-msgstr "Marqueurs SEO"
