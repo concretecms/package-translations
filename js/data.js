@@ -1,5 +1,5 @@
 {
-    "updated": 1439710220,
+    "updated": 1439796621,
     "packages": [
         {
             "handle": "addthis",
@@ -1237,6 +1237,13 @@
                     "fuzzy": 0,
                     "total": 22,
                     "perc": 100
+                },
+                "pt_BR": {
+                    "translated": 22,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 22,
+                    "perc": 100
                 }
             }
         },
@@ -1470,11 +1477,11 @@
                     "perc": 6
                 },
                 "pt_BR": {
-                    "translated": 48,
-                    "untranslated": 62,
+                    "translated": 110,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 110,
-                    "perc": 43
+                    "perc": 100
                 },
                 "he_IL": {
                     "translated": 7,
@@ -2380,11 +2387,11 @@
                     "perc": 10
                 },
                 "pt_BR": {
-                    "translated": 1,
-                    "untranslated": 18,
+                    "translated": 19,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 5
+                    "perc": 100
                 },
                 "he_IL": {
                     "translated": 2,
@@ -2814,11 +2821,11 @@
                     "perc": 100
                 },
                 "pt_BR": {
-                    "translated": 3,
-                    "untranslated": 62,
+                    "translated": 18,
+                    "untranslated": 47,
                     "fuzzy": 0,
                     "total": 65,
-                    "perc": 4
+                    "perc": 27
                 },
                 "he_IL": {
                     "translated": 7,
@@ -3547,6 +3554,13 @@
                     "fuzzy": 0,
                     "total": 11,
                     "perc": 100
+                },
+                "pt_BR": {
+                    "translated": 1,
+                    "untranslated": 10,
+                    "fuzzy": 0,
+                    "total": 11,
+                    "perc": 9
                 },
                 "he_IL": {
                     "translated": 3,
