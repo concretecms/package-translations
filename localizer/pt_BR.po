@@ -1,12 +1,14 @@
 # 
 # Translators:
+# gilberto dos santos alves <gsavix@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-05 12:51+0000\n"
-"PO-Revision-Date: 2014-03-17 13:08+0000\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/concrete5-packages/language/pt_BR/)\n"
+"PO-Revision-Date: 2015-08-17 03:56+0000\n"
+"Last-Translator: gilberto dos santos alves <gsavix@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,76 +20,76 @@ msgstr ""
 #: packages/localizer/controller.php:10 packages/localizer/controller.php:32
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:41
 msgid "Localizer"
-msgstr ""
+msgstr "Tradução"
 
 #: packages/localizer/controller.php:14 packages/localizer/controller.php:32
 msgid "Allow localizing special items, for instance user and file attributes."
-msgstr ""
+msgstr "Permite traduzir itens especiais, atributos de usuário e arquivos."
 
 #: packages/localizer/controller.php:35
 msgid ""
 "translate special items, translation, attribute names, attribute set names, "
 "attribute type names, permission names, permission descriptions, access "
 "entity type names"
-msgstr ""
+msgstr "traduz itens especiais, tradução, nome atributo, define nome atributo, nome tipo atributo, nome permissão, descrição permissão, acesso nomes e tipos de entidades"
 
 #: packages/localizer/controller.php:41
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:6
 msgid "Localizer options"
-msgstr ""
+msgstr "Opções tradução"
 
 #: packages/localizer/controller.php:41
 msgid "Set the Localizer options."
-msgstr ""
+msgstr "Config opções de tradução"
 
 #: packages/localizer/controller.php:44
 msgid "localizer options, options localizer"
-msgstr ""
+msgstr "opções tradução, opções tradução"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:272
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:7
 msgid "Attribute sets names"
-msgstr ""
+msgstr "Config nome de atributo"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:275
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:8
 msgid "Attribute key names"
-msgstr ""
+msgstr "Nome atributo chave"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:278
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:9
 msgid "Attribute type names"
-msgstr ""
+msgstr "Nome tipo atributo"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:284
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:10
 msgid "Permission key names"
-msgstr ""
+msgstr "Nome chave Permissão"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:287
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:11
 msgid "Permission key descriptions"
-msgstr ""
+msgstr "Descrição chave permissão"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:290
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:12
 msgid "Access entity type names"
-msgstr ""
+msgstr "Nome tipos de entidades de acesso"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:293
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:13
 msgid "Job set names"
-msgstr ""
+msgstr "Config nomes Job"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:296
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:14
 msgid "User group names"
-msgstr ""
+msgstr "Nomes grupo usuário"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:299
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:15
 msgid "User group descriptions"
-msgstr ""
+msgstr "descrição grupo usuário"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:302
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:16
