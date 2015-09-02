@@ -21,12 +21,12 @@ msgstr ""
 #: packages/zoom_image/blocks/zoom_image/controller.php:17
 #: packages/zoom_image/controller.php:12
 msgid "Adds images and onstates from the library to pages."
-msgstr "Ajoutes des images, affihe leurs miniature et les agrandit au clic."
+msgstr "Ajoute des images et leur statut de la bibliothèque aux pages."
 
 #: packages/zoom_image/blocks/zoom_image/controller.php:21
 #: packages/zoom_image/controller.php:16
 msgid "Zoom Image"
-msgstr "Zoom Image"
+msgstr "Zoom d'image"
 
 #: packages/zoom_image/blocks/zoom_image/controller.php:26
 msgid "You must select an image."
@@ -38,7 +38,7 @@ msgstr "Image"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:3
 msgid "Choose Image"
-msgstr "choisir une image"
+msgstr "Choisir une image"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:7
 msgid "Alt Text"
@@ -50,11 +50,11 @@ msgstr "Afficher comme sous-titre"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:15
 msgid "Max Thumbnail Width"
-msgstr "Largeur Max de la miniature"
+msgstr "Largeur Maximum de la miniature"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:20
 msgid "Max Thumbnail Height"
-msgstr "Hauteur Max de la miniature"
+msgstr "Hauteur Maximum de la miniature"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:25
 msgid "Options"
@@ -66,4 +66,4 @@ msgstr "Cacher l'image originale lors du zoom"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:32
 msgid "Limit max zoom to window size"
-msgstr "Limiter le zoom maximum à la taille de la fenêtre"
+msgstr "Limiter le maximum du zoom à la taille de la fenêtre"
