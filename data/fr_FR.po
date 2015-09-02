@@ -28,29 +28,29 @@ msgstr "Données pour concrete5"
 
 #: packages/data/controller.php:60
 msgid "Data Simple Association"
-msgstr ""
+msgstr "Association simple de données"
 
 #: packages/data/controller.php:61
 msgid "Data Single Child Association"
-msgstr ""
+msgstr "Association de données enfants uniques"
 
 #: packages/data/controller.php:126 packages/data/controller.php:127
 msgid "View Data Type"
-msgstr ""
+msgstr "Vues du type de données"
 
 #: packages/data/controller.php:130 packages/data/controller.php:131
 #: packages/data/single_pages/dashboard/data/administration/delete.php:2
 #: packages/data/single_pages/dashboard/data/administration/edit.php:2
 msgid "Edit Data Type"
-msgstr ""
+msgstr "Éditer le type de données"
 
 #: packages/data/controller.php:134 packages/data/controller.php:135
 msgid "Delete Data Type"
-msgstr ""
+msgstr "Supprimer le type de données"
 
 #: packages/data/controller.php:138 packages/data/controller.php:139
 msgid "Edit Data Type Permissions"
-msgstr ""
+msgstr "Éditer les permissions de type de données"
 
 #: packages/data/controller.php:142 packages/data/controller.php:143
 msgid "Edit Data"
@@ -73,7 +73,7 @@ msgstr "Créer les données"
 #: packages/data/controllers/dashboard/data/administration/controller.php:163
 #: packages/data/controllers/dashboard/data/management/controller.php:15
 msgid "Data Type Not Found"
-msgstr ""
+msgstr "Type de données introuvable"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:27
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:117
@@ -83,15 +83,15 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/view.php:2
 #: packages/data/single_pages/dashboard/data/management/view.php:5
 msgid "Data Type"
-msgstr ""
+msgstr "Type de données"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:45
 msgid "Attribute Type Not Found"
-msgstr ""
+msgstr "Type d'attribut introuvable"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:56
 msgid "Attribute Added"
-msgstr ""
+msgstr "Attribut ajouté"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:59
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:95
@@ -107,11 +107,11 @@ msgstr "** Aucun"
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:86
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:130
 msgid "Attribute Key Not Found"
-msgstr ""
+msgstr "Clé d'attribut introuvable"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:92
 msgid "Attribute Updated"
-msgstr ""
+msgstr "Attribut mis à jour"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:118
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:143
@@ -130,11 +130,11 @@ msgstr ""
 #: packages/data/controllers/dashboard/data/administration/controller.php:120
 #: packages/data/controllers/dashboard/data/administration/controller.php:201
 msgid "Data Types"
-msgstr ""
+msgstr "Attribut supprimé"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:76
 msgid "Data Type Created"
-msgstr ""
+msgstr "Type de données créés"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:91
 #: packages/data/controllers/dashboard/data/administration/controller.php:137
@@ -144,7 +144,7 @@ msgstr "Accès refusé"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:107
 msgid "Data Type Updated"
-msgstr ""
+msgstr "Type de données mis à jour"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:121
 #: packages/data/controllers/dashboard/data/administration/controller.php:151
