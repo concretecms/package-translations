@@ -1,13 +1,14 @@
 # 
 # Translators:
 # Ruben Verweij <rbnvrw@gmail.com>, 2014
+# Volluta <volluta@tutanota.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2015-06-13 17:08+0100\n"
-"PO-Revision-Date: 2015-06-14 08:50+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
-"Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/concrete5-packages/language/nl_NL/)\n"
+"PO-Revision-Date: 2015-10-06 14:03+0000\n"
+"Last-Translator: Volluta <volluta@tutanota.com>\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/concrete5/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -110,7 +111,7 @@ msgstr "Instellingen"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/help.php:4
 msgid "Help for dsEventCalendar"
-msgstr ""
+msgstr "Hulp voor dsEventCalendar"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/help.php:9
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:7
@@ -120,7 +121,7 @@ msgstr ""
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/calendar.php:10
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:11
 msgid "Manage events"
-msgstr ""
+msgstr "Beheer gebeurtenissen"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:21
 msgid "List of types"
@@ -193,7 +194,7 @@ msgstr "Type bewerken"
 msgid ""
 "Are you sure to delete this type? All event with this type will be set as "
 "default type."
-msgstr ""
+msgstr "Weet u zeker dat u dit type wilt verwijderen? Alle gebeurtenissen met dit type zal terug worden gezet als standaard."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:22
 msgid "List of calendars"
@@ -210,7 +211,7 @@ msgstr "Er zijn geen kalenders. Ga naar kalender toevoegen om er een toe te voeg
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:41
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:50
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:42
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:51
@@ -225,17 +226,17 @@ msgstr "Gebeurtenissen van kalender"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:77
 msgid "Show events"
-msgstr ""
+msgstr "Toon gebeurtenissen"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:81
 msgid "Remove all events"
-msgstr ""
+msgstr "Verwijder alle gebeurtenissen"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:27
 msgid ""
 " There are no calendars to add a new event. Go to Add calendar to add a new "
 "calendar."
-msgstr ""
+msgstr "Er zijn geen kalenders om een nieuwe gebeurtenis aan toe te voegen. Ga naar kalender toevoegen om er een toe te voegen."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:33
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:52
@@ -251,19 +252,19 @@ msgstr "Kalender"
 msgid ""
 "If you set URL info type, after click on event it will redirct to URL. "
 "Window with details will NOT show! Description will be erase."
-msgstr ""
+msgstr "Als u URL info type instelt nadat u klikt op de gebeurtenis,  wordt u doorgestuurd naar URL. Er zal geen venster met de details worden getoond! Omschrijving wordt gewist."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:56
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:128
 msgid ""
 "If you set Description info type, after click on event it will show window "
 "with details."
-msgstr ""
+msgstr "Als u Omschrijving info type instelt nadat u klikt op de gebeurtenis,  zal er een venster met de details worden getoond."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:62
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:132
 msgid "Event info type"
-msgstr ""
+msgstr "Info Type gebeurtenis"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:65
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:135
@@ -282,35 +283,35 @@ msgstr "Type gebeurtenis"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:74
 msgid "All day (multiday)"
-msgstr ""
+msgstr "Gehele dag (meerdere dagen)"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:75
 msgid "One day with time"
-msgstr ""
+msgstr "Een dag met tijd"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:82
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:64
 msgid "Event start date"
-msgstr ""
+msgstr "Startdatum van gebeurtenis"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:92
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:75
 msgid "Event start time"
-msgstr ""
+msgstr "Starttijd van gebeurtenis"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:104
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:88
 msgid "Event end date"
-msgstr ""
+msgstr "Einddatum van gebeurtenis"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:114
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:99
 msgid "Event end time"
-msgstr ""
+msgstr "Eindtijd van gebeurtenis"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:124
 msgid "Event type - color"
-msgstr ""
+msgstr "Type gebeurtenis - kleur"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:136
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:142
@@ -328,7 +329,7 @@ msgstr "Taal"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:41
 msgid "Language - datepicker"
-msgstr ""
+msgstr "Taal - datumkiezer"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:53
 msgid "Event date format"
@@ -336,11 +337,11 @@ msgstr "Datumformaat voor gebeurtenis"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:60
 msgid "Event time format"
-msgstr ""
+msgstr "Tijdformaat voor gebeurtenis"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:69
 msgid "Available formats"
-msgstr ""
+msgstr "Beschikbare formaten"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:74
 msgid "Start from"
@@ -356,17 +357,17 @@ msgstr "Standaard kleur van gebeurtenis"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:103
 msgid "Scroll time in datepicker"
-msgstr ""
+msgstr "Scroll tijd in datumkiezer"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:115
 msgid "Scroll month in datepicker"
-msgstr ""
+msgstr "`Scroll maand in datumkiezer"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:128
 msgid ""
 "Scroll on input to change date / time (to enable this option you have to "
 "enable scroll time or month)"
-msgstr ""
+msgstr "Scroll input om datum/tijd te veranderen (om deze optie in te schakelen moet je scroll tijd/maand inschakelen)"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:144
 msgid "Update settings"
@@ -380,25 +381,25 @@ msgstr "Help"
 msgid ""
 "After add event go to Calendar list -> show events for calendar. At now, you"
 " can manage events."
-msgstr ""
+msgstr "Ga na gebeurtenis toevoegen naar Kalenderlijst  -> toon gebeurtenissen voor kalender. Op dit moment kunt u gebeurtenissen beheren."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:155
 msgid "Drag and drop to change date."
-msgstr ""
+msgstr "Sleep en plaats om datum te veranderen."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:156
 msgid "Click for edit details."
-msgstr ""
+msgstr "Klik voor bewerken details."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:157
 msgid "If you choose \"All day\" event you can resize event for more days."
-msgstr ""
+msgstr "Als u \"Gehele dag\" kiest kunt u gebeurtenissen voor meerdere dagen aanpassen."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:158
 msgid ""
 "If you choose \"One day with time\" event you can resize event for more "
 "hours."
-msgstr ""
+msgstr "Als u \"Een dag met tijd\" kiest kunt u gebeurtenissen voor meerdere uren aanpassen."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:166
 msgid "Author:"
@@ -443,19 +444,19 @@ msgstr "Bijwerken"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:478
 msgid "Event has been removed"
-msgstr ""
+msgstr "Gebeurtenis is verwijderd"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:489
 msgid "Error while remove event. Try again."
-msgstr ""
+msgstr "Fout tijdens verwijderen van gebeurtenis. Probeer opnieuw."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:532
 msgid "Event has been updated"
-msgstr ""
+msgstr "De gebeurtenis is bijgewerkt."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:548
 msgid "Error while update event. Try again."
-msgstr ""
+msgstr "Fout tijdens bijwerken gebeurtenis. Probeer opnieuw"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/types.php:42
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:87
@@ -470,7 +471,7 @@ msgstr "Er was een fout bij het toevoegen. Misschien zijn sommige waardes leeg?"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:90
 msgid "Error while adding. Enddate or endtime is not correct."
-msgstr ""
+msgstr "Fout tijdens toevoegen. Einddatum of Eindtijd is niet correct."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/event.php:127
 msgid "Add event"
@@ -539,7 +540,7 @@ msgstr "Type:"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/libraries/dsEventCalendar.php:74
 msgid "All"
-msgstr ""
+msgstr "Alles"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/view.php:9
 msgid "No calendar choose"
@@ -559,8 +560,8 @@ msgstr "Selecteer kalender"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/form_setup_html.php:25
 msgid "Select language"
-msgstr ""
+msgstr "Selecteer taal"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/form_setup_html.php:38
 msgid "Select type"
-msgstr ""
+msgstr "Selecteer type"
