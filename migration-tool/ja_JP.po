@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Takuro Hishikawa <hishikawa@concrete5.co.jp>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-02T10:45:37+01:00\n"
-"PO-Revision-Date: 2015-12-03 18:42+0000\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2015-12-05 04:31+0000\n"
+"Last-Translator: Takuro Hishikawa <hishikawa@concrete5.co.jp>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/concrete5/concrete5-packages/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,76 +18,76 @@ msgstr ""
 #: packages/migration_tool/controller.php:198
 #: packages/migration_tool/controller.php:203
 msgid "Migration Tool"
-msgstr ""
+msgstr "マイグレーションツール"
 
 #: packages/migration_tool/controller.php:209
 msgid "This add-on requires PHP 5.4 or greater."
-msgstr ""
+msgstr "このアドオンは PHP 5.4 以上が必要です。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:24
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:33
 msgid "Batch added successfully."
-msgstr ""
+msgstr "バッチが正常に追加されました。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:46
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:59
 msgid "Batch removed successfully."
-msgstr ""
+msgstr "バッチが正常に削除されました。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:58
 msgid "You have not created any export batches."
-msgstr ""
+msgstr "エクスポートバッチが作成されていません。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:69
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:82
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:6
 msgid "Export Batch"
-msgstr ""
+msgstr "エクスポートバッチ"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:118
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:167
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:142
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:293
 msgid "Invalid batch."
-msgstr ""
+msgstr "無効なバッチです。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:126
 msgid "Invalid item type."
-msgstr ""
+msgstr "無効なアイテムタイプです。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:199
 msgid "Items removed."
-msgstr ""
+msgstr "アイテムが削除されました。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:221
 msgid "Add To Batch"
-msgstr ""
+msgstr "バッチに追加"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:89
 msgid "Batch cleared successfully."
-msgstr ""
+msgstr "バッチが正常にクリアされました。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:118
 msgid "Batch files deleted successfully."
-msgstr ""
+msgstr "バッチファイルが正常に削除されました。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:134
 msgid "Invalid XML file."
-msgstr ""
+msgstr "無効なXMLファイルです。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:169
 msgid "Content added to batch successfully."
-msgstr ""
+msgstr "バッチにコンテンツが正常に追加されました。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:187
 msgid "Batch drafts published successfully."
-msgstr ""
+msgstr "バッチが正常に展開されました。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:199
 msgid ""
 "You have not created any import batches. Create a batch and add content "
 "records to it."
-msgstr ""
+msgstr "インポートバッチが作成されていません。バッチを作成し、コンテンツレコードを追加してください。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:216
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:43
