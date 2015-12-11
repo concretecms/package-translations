@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2015-12-07 08:18+0000\n"
+"PO-Revision-Date: 2015-12-10 21:32+0000\n"
 "Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/concrete5/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -528,33 +528,33 @@ msgstr "Δημιουργήστε το περιεχόμενο του ιστοτό
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:55
 msgid ""
 "Are you sure you want to delete this import batch? This cannot be undone."
-msgstr ""
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την εισαγόμενη παρτίδα? Αυτό δεν μπορεί να αναιρεθεί."
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:67
 msgid ""
 "Are you sure you remove all content from this import batch? This cannot be "
 "undone."
-msgstr ""
+msgstr "Είστε σίγουροι ότι έχετε αφαιρέσει όλο το περιεχόμενο από αυτήν την παρτίδα εισαγωγής; Αυτό δεν μπορεί να αναιρεθεί."
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:80
 msgid "Content File"
-msgstr ""
+msgstr "Αρχείο περιεχομένου "
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:84
 msgid "File Format"
-msgstr ""
+msgstr "Μορφή Αρχείου"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:88
 msgid "Records"
-msgstr ""
+msgstr "Εγγραφές"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:90
 msgid "Replace all batch content."
-msgstr ""
+msgstr "Αντικαταστήστε όλο το περιεχόμενο της παρτίδας."
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:93
 msgid "Add content to batch."
-msgstr ""
+msgstr "Προσθήκη περιεχομένου σε παρτίδα."
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:122
 msgid "Status"
@@ -562,7 +562,7 @@ msgstr "Κατάσταση"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:125
 msgid "Computing Batch Status"
-msgstr ""
+msgstr "Υπολογισμός Κατάστασης παρτίδας "
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:155
 msgid "None"
@@ -576,26 +576,26 @@ msgstr "Περιεχόμενο"
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Page/TreePageJsonFormatter.php:30
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AbstractTreeJsonFormatter.php:27
 msgid "Errors"
-msgstr ""
+msgstr "Λάθη"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:191
 msgid "Loading Errors..."
-msgstr ""
+msgstr "Φόρτωση Λαθών."
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:199
 msgid "This content batch is empty."
-msgstr ""
+msgstr "Αυτό το περιεχόμενο παρτίδας είναι κενό."
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:7
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:59
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:71
 msgid "Add Batch"
-msgstr ""
+msgstr "Προσθήκη παρτίδας"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:17
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:53
 msgid "Notes"
-msgstr ""
+msgstr "Σημειώσεις"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:46
 msgid "Date"
@@ -603,21 +603,21 @@ msgstr "Ημερομηνία"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:8
 msgid "Remove Selected"
-msgstr ""
+msgstr "Αφαίρεση Επιλεγμένων"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:20
 msgid ""
 "Are you sure you want to delete this export batch? This cannot be undone."
-msgstr ""
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την παρτίδα εξαγωγών; Αυτό δεν μπορεί να αναιρεθεί."
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:73
 msgid "This export batch is empty."
-msgstr ""
+msgstr "Αυτή η παρτίδα εξαγωγής είναι άδεια."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/ContentMapper/Item/BlockItem.php:23
 #, php-format
 msgid "Defaults Output: %s"
-msgstr ""
+msgstr "Προεπιλογές εξόδου: %s"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/ContentMapper/Type/Area.php:17
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Page/TreePageJsonFormatter.php:58
@@ -632,7 +632,7 @@ msgstr "Τύποι Μπλοκ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/ContentMapper/Type/ComposerOutputContent.php:18
 msgid "Composer Content"
-msgstr ""
+msgstr "Περιεχόμενο Συνθέτη "
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/ContentMapper/Type/PageTemplate.php:18
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageTemplateFormatter.php:10
@@ -664,7 +664,7 @@ msgstr "Διεύθυνση 2"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/AddressFormatter.php:23
 msgid "Address 3"
-msgstr ""
+msgstr "διεύθυνση 3"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/AddressFormatter.php:24
 msgid "City"
