@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2015-12-10 21:32+0000\n"
+"PO-Revision-Date: 2015-12-17 17:39+0000\n"
 "Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/concrete5/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -685,13 +685,13 @@ msgstr "Χώρα"
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/ImportedFormatter.php:27
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Block/ImportedFormatter.php:18
 msgid "XML Element"
-msgstr ""
+msgstr "Στοιχείο XML "
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/ImportedFormatter.php:28
 msgid ""
 "Raw CIF XML Imported because this attribute is not installed or mapped to an"
 " existing attribute."
-msgstr ""
+msgstr "Ακατέργαστa εισαγόμενα CIF XML, επειδή αυτό το χαρακτηριστικό δεν είναι εγκατεστημένο ή αντιστοιχισμέωο σε ένα υπάρχον χαρακτηριστικό."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/SocialLinksFormatter.php:17
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/SocialLinkFormatter.php:10
@@ -704,7 +704,7 @@ msgstr "Δεδομένα"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/AddressFormatter.php:16
 msgid "Has Custom Countries"
-msgstr ""
+msgstr "Έχει Προσαρμοσμένη Χώρες"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/AddressFormatter.php:21
 msgid "Default Country"
@@ -712,11 +712,11 @@ msgstr "Προεπιλεγμένη Χώρα "
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/AddressFormatter.php:27
 msgid "Custom Countries"
-msgstr ""
+msgstr "Προσαρμοσμένες Χώρες"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/BooleanFormatter.php:11
 msgid "Checked"
-msgstr ""
+msgstr "Ελεγμένο"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/DateTimeFormatter.php:11
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/TextAreaFormatter.php:11
@@ -725,11 +725,11 @@ msgstr "Κατάσταση"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/SelectFormatter.php:13
 msgid "Allows Multiple Values"
-msgstr ""
+msgstr "Επιτρέπει Πολλαπλές Τιμές"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/SelectFormatter.php:18
 msgid "Allows Other Values"
-msgstr ""
+msgstr "Επιτρέπει άλλες Τιμές"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/SelectFormatter.php:23
 msgid "Display Order"
@@ -746,31 +746,31 @@ msgstr "Χρήστης"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:31
 msgid "Displayed in Profile"
-msgstr ""
+msgstr "Φαίνεται στο προφίλ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:32
 msgid "Editable in Profile"
-msgstr ""
+msgstr "Επεξεργάσιμη στο Προφίλ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:33
 msgid "Required in Profile"
-msgstr ""
+msgstr "Προαπαιτούμενο στο Profile."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:34
 msgid "Editable in Registration"
-msgstr ""
+msgstr "Επεξεργάσιμη στην Εγγραφή"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:35
 msgid "Required in Registration"
-msgstr ""
+msgstr "Προαπαιτούμενο στην Εγγραφή"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:36
 msgid "Displayed in Member List"
-msgstr ""
+msgstr "Εμφανίζεται στη Λίστα Μελών"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Block/AreaLayoutFormatter.php:11
 msgid "Layout"
-msgstr ""
+msgstr "Layout"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Block/AreaLayoutFormatter.php:20
 #, php-format
@@ -785,7 +785,7 @@ msgstr "Κατηγορίες Χαρακτηριστικών"
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeKeyFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/AttributeKey.php:75
 msgid "Attribute Keys"
-msgstr ""
+msgstr "Κλειδιά Χαρακτηριστικών "
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeSetFormatter.php:10
 msgid "Attribute Sets"
@@ -793,7 +793,7 @@ msgstr "Σετ Χαρακτηριστικών"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeTypeFormatter.php:10
 msgid "Attribute Types"
-msgstr ""
+msgstr "Τύποι Χαρακτηριστικών"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/BannedWordFormatter.php:10
 msgid "Banned Words"
@@ -801,31 +801,31 @@ msgstr "Απαγορευμένες Λέξεις"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/BlockTypeSetFormatter.php:10
 msgid "Block Type Sets"
-msgstr ""
+msgstr "Σετ Τύποι Μπλοκ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/CaptchaFormatter.php:10
 msgid "Captcha Libraries"
-msgstr ""
+msgstr "Βιβλιοθήκες Captcha"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConfigValueFormatter.php:10
 msgid "Config Values"
-msgstr ""
+msgstr "Τιμές Παραμέτρων Διαμόρφωσης"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ContentEditorSnippetFormatter.php:10
 msgid "Editor Snippets"
-msgstr ""
+msgstr "Αποσπάσματα Επεξεργαστή"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConversationEditorFormatter.php:10
 msgid "Editors"
-msgstr ""
+msgstr "Επεξεργαστές"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConversationFlagTypeFormatter.php:10
 msgid "Flag Types"
-msgstr ""
+msgstr "Τύποι σημαίας"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConversationRatingTypeFormatter.php:10
 msgid "Rating Types"
-msgstr ""
+msgstr "Τύποι Βαθμολογίας"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/JobFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/Job.php:72
@@ -838,11 +838,11 @@ msgstr "Σετ Εργασιών"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PackageFormatter.php:10
 msgid "Packages"
-msgstr ""
+msgstr "Πακέτα"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageFeedFormatter.php:10
 msgid "Page Feeds"
-msgstr ""
+msgstr "Ροές Σελίδας"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/Page.php:66
@@ -851,24 +851,24 @@ msgstr "Σελίδες"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageTypeComposerControlTypeFormatter.php:10
 msgid "Composer Control Types"
-msgstr ""
+msgstr "Τύποι Ελέγχου Συνθέτη"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageTypePublishTargetTypeFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/PageTypePublishTargetType.php:75
 msgid "Page Type Publish Target Types"
-msgstr ""
+msgstr "είδη των στόχων τύπου σελίδας δημοσίευσης "
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionAccessEntityTypeFormatter.php:10
 msgid "Access Entity Types"
-msgstr ""
+msgstr "Τα ονόματα οντότητας τύπου"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionKeyCategoryFormatter.php:10
 msgid "Permission Categories"
-msgstr ""
+msgstr "Κατηγορίες Δικαιωμάτων πρόσβασης"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionKeyFormatter.php:10
 msgid "Permission Keys"
-msgstr ""
+msgstr "Κλειδιά Δικαιωμάτων"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/SinglePageFormatter.php:15
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/SinglePage.php:77
@@ -877,7 +877,7 @@ msgstr "Μεμονωμένες Σελίδες"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/StackFormatter.php:10
 msgid "Stacks and Global Areas"
-msgstr ""
+msgstr "Στοίβες και παγκόσμιες Περιοχές"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ThemeFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/Theme.php:70
@@ -886,7 +886,7 @@ msgstr "Θέματα"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ThumbnailTypeFormatter.php:10
 msgid "Thumbnail Types"
-msgstr ""
+msgstr "Τύποι Μικρογραφίας"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/TreeFormatter.php:10
 msgid "Topics"
@@ -894,15 +894,15 @@ msgstr "Θέματα"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowProgressCategoryFormatter.php:10
 msgid "Workflow Progress Categories"
-msgstr ""
+msgstr "Κατηγορίες Πρόοδου Ροής εργασιών "
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowTypeFormatter.php:10
 msgid "Workflow Types"
-msgstr ""
+msgstr "Τύποι Ροής εργασιών"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Page/TreeJsonFormatter.php:23
 msgid "Page Path"
-msgstr ""
+msgstr "Διαδρομή Σελίδας"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PageType/AllPagesPublishTargetFormatter.php:15
 msgid "All Pages"
@@ -926,16 +926,16 @@ msgstr "Δημιουργία Φόρμας"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PageType/TreeJsonFormatter.php:53
 msgid "Page Defaults"
-msgstr ""
+msgstr "Προεπιλογές σελίδας"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PageType/TreeJsonFormatter.php:60
 #, php-format
 msgid "Template: %s"
-msgstr ""
+msgstr "Πρότυπο: %s"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PermissionKey/AccessEntityFormatter.php:21
 msgid "Entity"
-msgstr ""
+msgstr "Οντότητα"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PermissionKey/GroupAccessEntityFormatter.php:11
 msgid "Group"
@@ -947,154 +947,154 @@ msgstr "Πρόσβαση"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/StyleSet/TreeJsonFormatter.php:22
 msgid "Style Set"
-msgstr ""
+msgstr "Σετ Στυλ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/AttributeKey/TopicsValidator.php:26
 #, php-format
 msgid ""
 "Topic tree %s does not exist in the site or in the current content batch"
-msgstr ""
+msgstr "Το Θεματικό δέντρο %s δεν υπάρχει στο site ή στην τρέχουσα παρτίδα περιεχόμενου"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/AttributeKey/Validator.php:24
 msgid "Attribute key is of an unknown type. It may not be imported properly."
-msgstr ""
+msgstr "το κλειδί χαρακτηριστικού είναι αγνώστου τύπου. Δεν μπορούν να εισαχθούν σωστά."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/AttributeSet/Validator.php:26
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateAttributesTask.php:31
 #, php-format
 msgid "Attribute <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "Το Χαρακτηριστικό  <strong>%s</strong> δεν υπάρχει."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/BlockTypeSet/Validator.php:25
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateBlockTypesTask.php:28
 #, php-format
 msgid "Block type <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "Ο Τύπος Μπλοκ  <strong>%s</strong> δεν υπάρχει."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Content/PageFeedItemValidator.php:32
 #, php-format
 msgid ""
 "Referenced page feed %s cannot be found in the site or in the current "
 "content batch."
-msgstr ""
+msgstr "Η ροή σελίδας αναφοράς %s δεν μπορεί να βρεθεί στην ιστοσελίδα ή στην τρέχουσα παρτίδα περιεχόμενου."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Content/PageItemValidator.php:29
 #, php-format
 msgid ""
 "Referenced page at path %s cannot be found in the site or in the current "
 "content batch."
-msgstr ""
+msgstr "Η σελίδας αναφοράς στη διαδρομή %s δεν μπορεί να βρεθεί στην ιστοσελίδα ή στην τρέχουσα παρτίδα περιεχόμενου."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Content/PageTemplateItemValidator.php:34
 #, php-format
 msgid ""
 "Referenced page template %s cannot be found in the site or in the current "
 "content batch."
-msgstr ""
+msgstr "Το πρότυπο σελίδας αναφοράς %s δεν μπορεί να βρεθεί στην ιστοσελίδα ή στην τρέχουσα παρτίδα περιεχόμενου."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Content/PageTypeItemValidator.php:34
 #, php-format
 msgid ""
 "Referenced page type %s cannot be found in the site or in the current "
 "content batch."
-msgstr ""
+msgstr "Ο Τύπος σελίδας αναφοράς %s δεν μπορεί να βρεθεί στην ιστοσελίδα ή στην τρέχουσα παρτίδα περιεχόμενου."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Content/StandardItemValidator.php:21
 #, php-format
 msgid "%s content item %s cannot be found"
-msgstr ""
+msgstr "%s στοιχείο περιεχομένου %s δεν μπορεί να βρεθεί"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateAreasTask.php:39
 #, php-format
 msgid ""
 "Area <strong>%s</strong> does not exist in site. If the area is page of the "
 "new page template this message can be disregarded."
-msgstr ""
+msgstr "Η Περιοχή <strong>%s</strong> δεν υπάρχει στο site. Αν η περιοχή είναι η σελίδα με το νέο πρότυπο σελίδας αυτό το μήνυμα μπορεί να παραβλεφθεί."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateAreasTask.php:43
 #, php-format
 msgid "Area <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "Η Περιοχή <strong>%s</strong> δεν μπόρεσε να βρεθεί."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateAttributesTask.php:38
 #, php-format
 msgid ""
 "Attribute <strong>%s</strong> could not be mapped to a known attribute type."
 " It may not be fully imported."
-msgstr ""
+msgstr "Το χαρακτηριστικό <strong>%s</strong> δεν μπόρεσε να αντιστοιχησθεί σε ένα γνωστό τύπο χαρακτηριστικού. Δεν μπορεί να εισαχθεί πλήρως."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateBlockTypesTask.php:66
 #, php-format
 msgid ""
 "Page Type Defaults Output Reference <strong>%s</strong> not found within "
 "corresponding defaults."
-msgstr ""
+msgstr "H Αναφορά Προεπιλεγμένου τύπου σελίδας εξόδου <strong>%s</strong> δεν βρέθηκε μέσα στις αντίστοιχες προεπιλογές."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidatePageTemplatesTask.php:28
 #, php-format
 msgid "Page template <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "Το πρότυπο σελίδας <strong>%s</strong> δεν υπάρχει."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidatePageTypesTask.php:32
 #, php-format
 msgid "Page Type <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "Ο τύπος σελίδας <strong>%s</strong> δεν υπάρχει."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidatePageTypesTask.php:44
 #, php-format
 msgid ""
 "Mapped page type %s contains unmapped composer output block in %s area."
-msgstr ""
+msgstr "Ο Αντιστοιχισμένος Τύπος σελίδας %s περιέχει μη αντιστοιχησμένο μπλοκ εξόδου συνθέτη στην περιοχή %s."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateUsersTask.php:29
 #, php-format
 msgid "User <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "Ο Χρήστης  <strong>%s</strong> δεν υπάρχει."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/PageType/BlockComposerFormLayoutSetControlValidator.php:26
 #, php-format
 msgid ""
 "Block type <strong>%s</strong> does not exist in the current batch or in the"
 " site."
-msgstr ""
+msgstr "Ο Τύπος μπλοκ <strong>%s</strong> δεν υπάρχει στην τρέχουσα παρτίδα ή στο site."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/PageType/CollectionAttributeComposerFormLayoutSetControlValidator.php:26
 #, php-format
 msgid ""
 "Attribute <strong>%s</strong> does not exist in the current batch or in the "
 "site."
-msgstr ""
+msgstr "Το Χαρακτηριστικό <strong>%s</strong> δεν υπάρχει στην τρέχουσα παρτίδα ή στο site."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/PermissionKey/GroupAccessEntityValidator.php:19
 #, php-format
 msgid "Group %s does not exist in the site or in the current content batch"
-msgstr ""
+msgstr "Η Ομάδα <strong>%s</strong> δεν υπάρχει στο site ή στην τρέχουσα παρτίδα περιεχόμενου"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/PermissionKey/UserAccessEntityValidator.php:19
 #, php-format
 msgid "User %s does not exist in the site or in the current content batch"
-msgstr ""
+msgstr "Ο χρήστης %s δεν υπάρχει στο site ή στην τρέχουσα παρτίδα περιεχόμενου"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/PermissionKey/Validator.php:20
 #, php-format
 msgid ""
 "Permission category %s does not exist in the site or in the current content "
 "batch"
-msgstr ""
+msgstr "Η κατηγορία δικαιωμάτων %s δεν υπάρχει στο site ή στην τρέχουσα παρτίδα περιεχόμενου"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/BatchMessageCollectionFormatter.php:27
 msgid ""
 "Significant errors detected. Some pages may be incomplete or the entire "
 "operation may have trouble completing. Consider mapping more content items."
-msgstr ""
+msgstr "Σημαντικά σφάλματα εντοπίστηκαν. Μερικές σελίδες μπορεί να είναι ατελείς ή ολόκληρη η διαδικασία μπορεί να έχει πρόβλημα ολοκλήρωσης. Εξετάστε την αντιστοίχηση περισσότερων αντικειμένων περιεχόμενου."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/BatchMessageCollectionFormatter.php:30
 msgid "Some potential problems detected. Consider mapping more content items."
-msgstr ""
+msgstr "Ορισμένα πιθανά προβλήματα εντοπίστηκαν. Εξετάστε την αντιστοίχηση περισσότερων αντικειμένων περιεχομένου."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/BatchMessageCollectionFormatter.php:33
 msgid "No errors detected."
-msgstr ""
+msgstr "Δεν εντοπίστηκαν σφάλματα."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Entity/ContentMapper/IgnoredTargetItem.php:17
 msgid "Ignored"
@@ -1106,7 +1106,7 @@ msgstr "Δεν έχει αντιστοίχιση "
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/SearchResult/StandardFormatter.php:54
 msgid "Request must be passed to the StandardFormatter"
-msgstr ""
+msgstr "Η Αίτηση πρέπει παραπέμπεται στην StandardFormatter"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/ConversationEditor.php:75
 msgid "Conversation Editor"
@@ -1114,27 +1114,27 @@ msgstr "Συντάκτης Συνομιλίας"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/ConversationRatingType.php:75
 msgid "Conversation Rating Type"
-msgstr ""
+msgstr "Τύπος Βαθμολογίας Συνομιλίας"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/PageTypeComposerControlType.php:75
 msgid "Page Type Composer Control Types"
-msgstr ""
+msgstr "Τύποι Ελέγχου Συνθέτη τύπου σελίδας"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Importer/CIF/CIFParser.php:19
 msgid "concrete5 XML Export"
-msgstr ""
+msgstr "Έξοδος concrete5 XML"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Importer/CIF/CIFParser.php:25
 msgid "File does not appear to be an XML file."
-msgstr ""
+msgstr "Το αρχείο δεν φαίνεται να είναι ένα αρχείο XML."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Importer/CIF/CIFParser.php:38
 #, php-format
 msgid ""
 "Driver %s getObjectCollection did not return an object of the "
 "ObjectCollection type"
-msgstr ""
+msgstr "Το πρόγραμμα οδήγησης %s getObjectCollection δεν επιστρ'εφει ένα αντικείμενο του τύπου ObjectCollection"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Importer/Wordpress/WordpressParser.php:18
 msgid "Wordpress Content Export"
-msgstr ""
+msgstr "Εξαγωγή περιεχομένου Wordpress "
