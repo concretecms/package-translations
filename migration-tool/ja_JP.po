@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2015-12-05 09:06+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2015-12-24 03:17+0000\n"
+"Last-Translator: Takuro Hishikawa <hishikawa@concrete5.co.jp>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/concrete5/concrete5-packages/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,11 +23,11 @@ msgstr "マイグレーションツール"
 
 #: packages/migration_tool/controller.php:60
 msgid "Import Content"
-msgstr ""
+msgstr "コンテンツインポート"
 
 #: packages/migration_tool/controller.php:62
 msgid "Export Content"
-msgstr ""
+msgstr "コンテンツエクスポート"
 
 #: packages/migration_tool/controller.php:222
 msgid "This add-on requires PHP 5.4 or greater."
@@ -101,32 +101,32 @@ msgstr "インポートバッチが作成されていません。バッチを作
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:216
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:46
 msgid "Import Batch"
-msgstr ""
+msgstr "インポートバッチ"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:233
 msgid "Files in Batch"
-msgstr ""
+msgstr "バッチ内のファイル"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:271
 msgid "File(s) uploaded successfully"
-msgstr ""
+msgstr "ファイルが正常にアップロードされました"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:280
 msgid "Find and Replace"
-msgstr ""
+msgstr "検索と置換"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:299
 msgid "Invalid mapping type."
-msgstr ""
+msgstr "無効なマッピングタイプです。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:341
 msgid "Batch mappings updated."
-msgstr ""
+msgstr "バッチマッピングが更新されました。"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:418
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:15
 msgid "Map Content"
-msgstr ""
+msgstr "コンテンツマッピング"
 
 #: packages/migration_tool/elements/batch_content_types/attribute_key.php:10
 #: packages/migration_tool/elements/batch_content_types/attribute_set.php:10
@@ -199,7 +199,7 @@ msgstr "カテゴリー"
 
 #: packages/migration_tool/elements/batch_content_types/attribute_key_category.php:5
 msgid "Allow Sets"
-msgstr ""
+msgstr "セットを許可"
 
 #: packages/migration_tool/elements/batch_content_types/attribute_set.php:12
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/ContentMapper/Type/Attribute.php:19
@@ -223,11 +223,11 @@ msgstr "種類"
 
 #: packages/migration_tool/elements/batch_content_types/captcha_library.php:4
 msgid "Library"
-msgstr ""
+msgstr "ライブラリ"
 
 #: packages/migration_tool/elements/batch_content_types/config_value.php:4
 msgid "Key"
-msgstr ""
+msgstr "キー"
 
 #: packages/migration_tool/elements/batch_content_types/config_value.php:5
 msgid "Value"
@@ -236,7 +236,7 @@ msgstr "値"
 #: packages/migration_tool/elements/batch_content_types/content_editor_snippet.php:6
 #: packages/migration_tool/elements/batch_content_types/theme.php:5
 msgid "Activated"
-msgstr ""
+msgstr "有効"
 
 #: packages/migration_tool/elements/batch_content_types/content_editor_snippet.php:19
 #: packages/migration_tool/elements/batch_content_types/conversation_editor.php:19
@@ -315,7 +315,7 @@ msgstr "必須"
 #: packages/migration_tool/elements/batch_content_types/tree.php:6
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/TopicsFormatter.php:11
 msgid "Tree"
-msgstr ""
+msgstr "ツリー"
 
 #: packages/migration_tool/elements/export/results/standard_list.php:46
 msgid "No results found."
@@ -323,7 +323,7 @@ msgstr "該当する結果が見つかりませんでした。"
 
 #: packages/migration_tool/elements/export/search/attribute_key.php:11
 msgid "Attribute Category"
-msgstr ""
+msgstr "属性カテゴリ"
 
 #: packages/migration_tool/elements/export/search/page.php:7
 msgid "** Choose a page type"
@@ -335,7 +335,7 @@ msgstr "キーワード"
 
 #: packages/migration_tool/elements/export/search/page.php:18
 msgid "Published on or After"
-msgstr ""
+msgstr "この作成日以降"
 
 #: packages/migration_tool/elements/export/search/page.php:24
 msgid "Filter by Parent Page"
@@ -351,15 +351,15 @@ msgstr "ページタイプでフィルタ"
 #: packages/migration_tool/single_pages/dashboard/system/migration/find_and_replace.php:7
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:6
 msgid "Back to Batch"
-msgstr ""
+msgstr "バッチに戻る"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/add_to_export_batch.php:10
 msgid "Choose Item Type"
-msgstr ""
+msgstr "アイテムタイプを選択"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/add_to_export_batch.php:13
 msgid "** Select Item"
-msgstr ""
+msgstr "** アイテムを選択"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/add_to_export_batch.php:24
 msgid "Go"
@@ -371,7 +371,7 @@ msgstr "検索"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/add_to_export_batch.php:68
 msgid "Add to Batch"
-msgstr ""
+msgstr "バッチに追加"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/add_to_export_batch.php:69
 msgid "Results"
@@ -379,11 +379,11 @@ msgstr "結果"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/add_to_export_batch.php:111
 msgid "Items added successfully."
-msgstr ""
+msgstr "アイテムが正常に追加されました。"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:7
 msgid "Delete Files"
-msgstr ""
+msgstr "ファイルを削除"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:10
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:111
@@ -394,7 +394,7 @@ msgstr "ファイルをアップロード"
 msgid ""
 "Are you sure you remove all the files from this batch? They will be deleted "
 "from the entire concrete5 site. This cannot be undone."
-msgstr ""
+msgstr "本当にこのバッチから全てのファイルを削除してもよろしいですか？この操作は、concrete5サイト全体からファイルを削除します。この操作は取り消せません。"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:22
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:87
@@ -411,7 +411,7 @@ msgstr "キャンセル"
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:29
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:70
 msgid "Clear Batch"
-msgstr ""
+msgstr "バッチをクリア"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:30
 #: packages/migration_tool/single_pages/dashboard/system/migration/find_and_replace.php:11
@@ -420,7 +420,7 @@ msgstr ""
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:16
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:34
 msgid "Batch"
-msgstr ""
+msgstr "バッチ"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:42
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:42
@@ -429,7 +429,7 @@ msgstr "ファイル名"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:61
 msgid "No files have been added to this batch."
-msgstr ""
+msgstr "このバッチにファイルが追加されていません。"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:97
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:118
@@ -438,11 +438,11 @@ msgstr "エラー"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:101
 msgid "Uploading"
-msgstr ""
+msgstr "アップロード中"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:34
 msgid "Download Files"
-msgstr ""
+msgstr "ファイルをダウンロード"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:35
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:62
@@ -456,37 +456,37 @@ msgstr "ID"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:63
 msgid "No referenced files found."
-msgstr ""
+msgstr "関連付けられたファイルが見つかりません。"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:67
 msgid "Content XML"
-msgstr ""
+msgstr "コンテンツXML"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:70
 msgid "View XML"
-msgstr ""
+msgstr "XMLを表示"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:71
 msgid "Download XML"
-msgstr ""
+msgstr "XMLをダウンロード"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:26
 msgid "Batch Item"
-msgstr ""
+msgstr "バッチアイテム"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:27
 msgid "Maps To"
-msgstr ""
+msgstr "マッピングする"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:49
 #, php-format
 msgid "Installed %s"
-msgstr ""
+msgstr "インストールされた %s"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:64
 #, php-format
 msgid "Batch %s"
-msgstr ""
+msgstr "バッチ %s"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:88
 msgid "Save"
@@ -494,7 +494,7 @@ msgstr "保存"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:96
 msgid "No items of the selected type found in the batch."
-msgstr ""
+msgstr "バッチにこのタイプのアイテムが見つかりません。"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:7
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:99
@@ -504,57 +504,57 @@ msgstr "コンテンツを追加"
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:7
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:7
 msgid "Add Content to Batch"
-msgstr ""
+msgstr "バッチにコンテンツを追加"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:11
 msgid "Edit Batch"
-msgstr ""
+msgstr "バッチを編集"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:25
 msgid "Import Batch to Site"
-msgstr ""
+msgstr "バッチをサイトにインポートする"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:31
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:58
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:10
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:23
 msgid "Delete Batch"
-msgstr ""
+msgstr "バッチを削除"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:43
 msgid "Create site content from the contents of this batch?"
-msgstr ""
+msgstr "このバッチ内のコンテンツからサイトのコンテンツを作成しますか？"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:55
 msgid ""
 "Are you sure you want to delete this import batch? This cannot be undone."
-msgstr ""
+msgstr "本当にこのインポートバッチを削除しますか？この操作は取り消せません。"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:67
 msgid ""
 "Are you sure you remove all content from this import batch? This cannot be "
 "undone."
-msgstr ""
+msgstr "本当にこのインポートバッチ内のすべてのコンテンツを削除しますか？この操作は取り消せません。"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:80
 msgid "Content File"
-msgstr ""
+msgstr "コンテンツファイル"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:84
 msgid "File Format"
-msgstr ""
+msgstr "ファイルフォーマット"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:88
 msgid "Records"
-msgstr ""
+msgstr "レコード"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:90
 msgid "Replace all batch content."
-msgstr ""
+msgstr "すべてのバッチコンテンツを入れ替えます。"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:93
 msgid "Add content to batch."
-msgstr ""
+msgstr "バッチにコンテンツを追加します。"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:122
 msgid "Status"
@@ -562,7 +562,7 @@ msgstr "ステータス"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:125
 msgid "Computing Batch Status"
-msgstr ""
+msgstr "バッチステータスを計算中"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:155
 msgid "None"
@@ -576,26 +576,26 @@ msgstr "記事"
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Page/TreePageJsonFormatter.php:30
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AbstractTreeJsonFormatter.php:27
 msgid "Errors"
-msgstr ""
+msgstr "エラー"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:191
 msgid "Loading Errors..."
-msgstr ""
+msgstr "エラーを読み込み中..."
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:199
 msgid "This content batch is empty."
-msgstr ""
+msgstr "このコンテンツバッチは空です。"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:7
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:59
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:71
 msgid "Add Batch"
-msgstr ""
+msgstr "バッチを追加"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:17
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:53
 msgid "Notes"
-msgstr ""
+msgstr "注意"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:46
 msgid "Date"
@@ -603,21 +603,21 @@ msgstr "日付"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:8
 msgid "Remove Selected"
-msgstr ""
+msgstr "選択した項目を削除"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:20
 msgid ""
 "Are you sure you want to delete this export batch? This cannot be undone."
-msgstr ""
+msgstr "本当にこのエクスポートバッチを削除しますか？この操作は取り消せません。"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:73
 msgid "This export batch is empty."
-msgstr ""
+msgstr "このエクスポートバッチは空です。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/ContentMapper/Item/BlockItem.php:23
 #, php-format
 msgid "Defaults Output: %s"
-msgstr ""
+msgstr "デフォルトアウトプット: %s"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/ContentMapper/Type/Area.php:17
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Page/TreePageJsonFormatter.php:58
@@ -632,7 +632,7 @@ msgstr "ブロックタイプ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/ContentMapper/Type/ComposerOutputContent.php:18
 msgid "Composer Content"
-msgstr ""
+msgstr "コンポーザーコンテンツ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/ContentMapper/Type/PageTemplate.php:18
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageTemplateFormatter.php:10
@@ -664,7 +664,7 @@ msgstr "住所2"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/AddressFormatter.php:23
 msgid "Address 3"
-msgstr ""
+msgstr "住所3"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/AddressFormatter.php:24
 msgid "City"
@@ -685,13 +685,13 @@ msgstr "国"
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/ImportedFormatter.php:27
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Block/ImportedFormatter.php:18
 msgid "XML Element"
-msgstr ""
+msgstr "XML要素"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/ImportedFormatter.php:28
 msgid ""
 "Raw CIF XML Imported because this attribute is not installed or mapped to an"
 " existing attribute."
-msgstr ""
+msgstr "この属性は既存の属性にマッピングされていないか、インストールされていないため、CIF XMLが直接インポートされました。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/SocialLinksFormatter.php:17
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/SocialLinkFormatter.php:10
@@ -704,7 +704,7 @@ msgstr "データ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/AddressFormatter.php:16
 msgid "Has Custom Countries"
-msgstr ""
+msgstr "カスタム国あり"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/AddressFormatter.php:21
 msgid "Default Country"
@@ -712,11 +712,11 @@ msgstr "デフォルト国"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/AddressFormatter.php:27
 msgid "Custom Countries"
-msgstr ""
+msgstr "カスタム国"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/BooleanFormatter.php:11
 msgid "Checked"
-msgstr ""
+msgstr "チェック済み"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/DateTimeFormatter.php:11
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/TextAreaFormatter.php:11
@@ -725,11 +725,11 @@ msgstr "モード"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/SelectFormatter.php:13
 msgid "Allows Multiple Values"
-msgstr ""
+msgstr "複数の値を許可"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/SelectFormatter.php:18
 msgid "Allows Other Values"
-msgstr ""
+msgstr "他の値を許可"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/SelectFormatter.php:23
 msgid "Display Order"
@@ -746,31 +746,31 @@ msgstr "ユーザー"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:31
 msgid "Displayed in Profile"
-msgstr ""
+msgstr "プロフィールに表示"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:32
 msgid "Editable in Profile"
-msgstr ""
+msgstr "プロフィールで変更可能"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:33
 msgid "Required in Profile"
-msgstr ""
+msgstr "ロフィールで必須"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:34
 msgid "Editable in Registration"
-msgstr ""
+msgstr "登録で入力可能"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:35
 msgid "Required in Registration"
-msgstr ""
+msgstr "登録で必須"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:36
 msgid "Displayed in Member List"
-msgstr ""
+msgstr "メンバー一覧に表示"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Block/AreaLayoutFormatter.php:11
 msgid "Layout"
-msgstr ""
+msgstr "レイアウト"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Block/AreaLayoutFormatter.php:20
 #, php-format
@@ -785,7 +785,7 @@ msgstr "属性カテゴリー"
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeKeyFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/AttributeKey.php:75
 msgid "Attribute Keys"
-msgstr ""
+msgstr "属性キー"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeSetFormatter.php:10
 msgid "Attribute Sets"
@@ -793,7 +793,7 @@ msgstr "属性セット"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeTypeFormatter.php:10
 msgid "Attribute Types"
-msgstr ""
+msgstr "属性タイプ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/BannedWordFormatter.php:10
 msgid "Banned Words"
@@ -801,31 +801,31 @@ msgstr "禁止語句"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/BlockTypeSetFormatter.php:10
 msgid "Block Type Sets"
-msgstr ""
+msgstr "ブロックタイプセット"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/CaptchaFormatter.php:10
 msgid "Captcha Libraries"
-msgstr ""
+msgstr "Captchaライブラリ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConfigValueFormatter.php:10
 msgid "Config Values"
-msgstr ""
+msgstr "設定値"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ContentEditorSnippetFormatter.php:10
 msgid "Editor Snippets"
-msgstr ""
+msgstr "エディタースニペット"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConversationEditorFormatter.php:10
 msgid "Editors"
-msgstr ""
+msgstr "エディター"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConversationFlagTypeFormatter.php:10
 msgid "Flag Types"
-msgstr ""
+msgstr "フラッグタイプ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConversationRatingTypeFormatter.php:10
 msgid "Rating Types"
-msgstr ""
+msgstr "レーティングタイプ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/JobFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/Job.php:72
@@ -838,11 +838,11 @@ msgstr "ジョブセット"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PackageFormatter.php:10
 msgid "Packages"
-msgstr ""
+msgstr "パッケージ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageFeedFormatter.php:10
 msgid "Page Feeds"
-msgstr ""
+msgstr "ページフィード"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/Page.php:66
@@ -851,24 +851,24 @@ msgstr "ページ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageTypeComposerControlTypeFormatter.php:10
 msgid "Composer Control Types"
-msgstr ""
+msgstr "コンポーザーコントロールタイプ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageTypePublishTargetTypeFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/PageTypePublishTargetType.php:75
 msgid "Page Type Publish Target Types"
-msgstr ""
+msgstr "ページタイプ公開ターゲットタイプ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionAccessEntityTypeFormatter.php:10
 msgid "Access Entity Types"
-msgstr ""
+msgstr "アクセスエンティティタイプ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionKeyCategoryFormatter.php:10
 msgid "Permission Categories"
-msgstr ""
+msgstr "権限カテゴリー"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionKeyFormatter.php:10
 msgid "Permission Keys"
-msgstr ""
+msgstr "権限キー"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/SinglePageFormatter.php:15
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/SinglePage.php:77
@@ -877,7 +877,7 @@ msgstr "シングルページ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/StackFormatter.php:10
 msgid "Stacks and Global Areas"
-msgstr ""
+msgstr "スタックトグローバルエリア"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ThemeFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/Theme.php:70
@@ -886,7 +886,7 @@ msgstr "テーマ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ThumbnailTypeFormatter.php:10
 msgid "Thumbnail Types"
-msgstr ""
+msgstr "サムネイルタイプ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/TreeFormatter.php:10
 msgid "Topics"
@@ -894,15 +894,15 @@ msgstr "トピック"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowProgressCategoryFormatter.php:10
 msgid "Workflow Progress Categories"
-msgstr ""
+msgstr "ワークフロー進捗カテゴリー"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowTypeFormatter.php:10
 msgid "Workflow Types"
-msgstr ""
+msgstr "ワークフロータイプ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Page/TreeJsonFormatter.php:23
 msgid "Page Path"
-msgstr ""
+msgstr "ページパス"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PageType/AllPagesPublishTargetFormatter.php:15
 msgid "All Pages"
@@ -926,16 +926,16 @@ msgstr "フォームを編集"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PageType/TreeJsonFormatter.php:53
 msgid "Page Defaults"
-msgstr ""
+msgstr "ページデフォルト"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PageType/TreeJsonFormatter.php:60
 #, php-format
 msgid "Template: %s"
-msgstr ""
+msgstr "テンプレート: %s"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PermissionKey/AccessEntityFormatter.php:21
 msgid "Entity"
-msgstr ""
+msgstr "エンティティ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PermissionKey/GroupAccessEntityFormatter.php:11
 msgid "Group"
@@ -947,154 +947,154 @@ msgstr "アクセス"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/StyleSet/TreeJsonFormatter.php:22
 msgid "Style Set"
-msgstr ""
+msgstr "スタイルセット"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/AttributeKey/TopicsValidator.php:26
 #, php-format
 msgid ""
 "Topic tree %s does not exist in the site or in the current content batch"
-msgstr ""
+msgstr "トピックツリー %s はこのサイトもしくは現在のコンテンツバッチに存在しません"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/AttributeKey/Validator.php:24
 msgid "Attribute key is of an unknown type. It may not be imported properly."
-msgstr ""
+msgstr "属性キーは未定義のタイプです。正しくインポートされません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/AttributeSet/Validator.php:26
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateAttributesTask.php:31
 #, php-format
 msgid "Attribute <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "属性<strong>%s</strong>は存在しません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/BlockTypeSet/Validator.php:25
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateBlockTypesTask.php:28
 #, php-format
 msgid "Block type <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "ブロックタイプ<strong>%s</strong>は存在しません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Content/PageFeedItemValidator.php:32
 #, php-format
 msgid ""
 "Referenced page feed %s cannot be found in the site or in the current "
 "content batch."
-msgstr ""
+msgstr "参照されたページフィード %s はサイトもしくは現在のコンテンツバッチに存在しません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Content/PageItemValidator.php:29
 #, php-format
 msgid ""
 "Referenced page at path %s cannot be found in the site or in the current "
 "content batch."
-msgstr ""
+msgstr "参照されたページパス %s はサイトか現在のコンテンツバッチに存在しません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Content/PageTemplateItemValidator.php:34
 #, php-format
 msgid ""
 "Referenced page template %s cannot be found in the site or in the current "
 "content batch."
-msgstr ""
+msgstr "参照されたページテンプレート %s はサイトか現在のコンテンツバッチに存在しません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Content/PageTypeItemValidator.php:34
 #, php-format
 msgid ""
 "Referenced page type %s cannot be found in the site or in the current "
 "content batch."
-msgstr ""
+msgstr "参照されたページタイプ %s はサイトか現在のコンテンツバッチに存在しません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Content/StandardItemValidator.php:21
 #, php-format
 msgid "%s content item %s cannot be found"
-msgstr ""
+msgstr "%s コンテンツアイテム %s が見つかりません"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateAreasTask.php:39
 #, php-format
 msgid ""
 "Area <strong>%s</strong> does not exist in site. If the area is page of the "
 "new page template this message can be disregarded."
-msgstr ""
+msgstr "エリア <strong>%s</strong> がサイトに存在しません。このエリアが新しいページテンプレートに含まれるものであれば、このメッセージは無視してかまいません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateAreasTask.php:43
 #, php-format
 msgid "Area <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "エリア <strong>%s</strong> が存在しません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateAttributesTask.php:38
 #, php-format
 msgid ""
 "Attribute <strong>%s</strong> could not be mapped to a known attribute type."
 " It may not be fully imported."
-msgstr ""
+msgstr "属性 <strong>%s</strong> が既存の属性タイプにマッピングされていませんので、完全にインポートされません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateBlockTypesTask.php:66
 #, php-format
 msgid ""
 "Page Type Defaults Output Reference <strong>%s</strong> not found within "
 "corresponding defaults."
-msgstr ""
+msgstr "ページタイプデフォルト出力の参照 <strong>%s</strong> が対応するデフォルトに見つかりません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidatePageTemplatesTask.php:28
 #, php-format
 msgid "Page template <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "ページテンプレート <strong>%s</strong> が見つかりません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidatePageTypesTask.php:32
 #, php-format
 msgid "Page Type <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "ページタイプ <strong>%s</strong> が見つかりません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidatePageTypesTask.php:44
 #, php-format
 msgid ""
 "Mapped page type %s contains unmapped composer output block in %s area."
-msgstr ""
+msgstr "マッピングされたページタイプ %s に %s エリア内のマッピングされていないコンポーザー出力ブロックが含まれています。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateUsersTask.php:29
 #, php-format
 msgid "User <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "ユーザー <strong>%s</strong> が存在しません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/PageType/BlockComposerFormLayoutSetControlValidator.php:26
 #, php-format
 msgid ""
 "Block type <strong>%s</strong> does not exist in the current batch or in the"
 " site."
-msgstr ""
+msgstr "ブロックタイプ <strong>%s</strong> がこのバッチまたはサイトに存在しません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/PageType/CollectionAttributeComposerFormLayoutSetControlValidator.php:26
 #, php-format
 msgid ""
 "Attribute <strong>%s</strong> does not exist in the current batch or in the "
 "site."
-msgstr ""
+msgstr "属性 <strong>%s</strong> がこのバッチまたはサイトに存在しません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/PermissionKey/GroupAccessEntityValidator.php:19
 #, php-format
 msgid "Group %s does not exist in the site or in the current content batch"
-msgstr ""
+msgstr "グループ %s がサイトまたは現在のコンテンツバッチに含まれていません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/PermissionKey/UserAccessEntityValidator.php:19
 #, php-format
 msgid "User %s does not exist in the site or in the current content batch"
-msgstr ""
+msgstr "ユーザー %s がサイトまたは現在のコンテンツバッチに含まれていません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/PermissionKey/Validator.php:20
 #, php-format
 msgid ""
 "Permission category %s does not exist in the site or in the current content "
 "batch"
-msgstr ""
+msgstr "属性カテゴリー %s はサイトまたは現在のコンテンツバッチに含まれていません。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/BatchMessageCollectionFormatter.php:27
 msgid ""
 "Significant errors detected. Some pages may be incomplete or the entire "
 "operation may have trouble completing. Consider mapping more content items."
-msgstr ""
+msgstr "重要なエラーが検出されました。いくつかのページで処理が完了しないか、全ての操作で問題が起こる可能性があります。コンテンツアイテムのマッピングを行ってください。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/BatchMessageCollectionFormatter.php:30
 msgid "Some potential problems detected. Consider mapping more content items."
-msgstr ""
+msgstr "いくつかの問題を起こす可能性がある内容が検出されました。コンテンツアイテムのマッピングを行ってください。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/BatchMessageCollectionFormatter.php:33
 msgid "No errors detected."
-msgstr ""
+msgstr "エラーは検出されませんでした。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Entity/ContentMapper/IgnoredTargetItem.php:17
 msgid "Ignored"
@@ -1106,35 +1106,35 @@ msgstr "未マッピング"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/SearchResult/StandardFormatter.php:54
 msgid "Request must be passed to the StandardFormatter"
-msgstr ""
+msgstr "リクエストは StandardFormatter をパスする必要があります"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/ConversationEditor.php:75
 msgid "Conversation Editor"
-msgstr ""
+msgstr "コメント欄エディター"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/ConversationRatingType.php:75
 msgid "Conversation Rating Type"
-msgstr ""
+msgstr "コメント評価タイプ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/PageTypeComposerControlType.php:75
 msgid "Page Type Composer Control Types"
-msgstr ""
+msgstr "ページタイプコンポーザーコントロールタイプ"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Importer/CIF/CIFParser.php:19
 msgid "concrete5 XML Export"
-msgstr ""
+msgstr "concrete5 XML エクスポート"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Importer/CIF/CIFParser.php:25
 msgid "File does not appear to be an XML file."
-msgstr ""
+msgstr "ファイルがXMLファイルではないようです。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Importer/CIF/CIFParser.php:38
 #, php-format
 msgid ""
 "Driver %s getObjectCollection did not return an object of the "
 "ObjectCollection type"
-msgstr ""
+msgstr "ドライバー %s の getObjectCollection メソッドが ObjectCollection タイプのオブジェクトを返していないようです。"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Importer/Wordpress/WordpressParser.php:18
 msgid "Wordpress Content Export"
-msgstr ""
+msgstr "WordPress コンテンツエクスポート"
