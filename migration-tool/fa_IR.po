@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2015-12-05 09:06+0000\n"
+"PO-Revision-Date: 2016-01-08 16:52+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Persian (Iran) (http://www.transifex.com/concrete5/concrete5-packages/language/fa_IR/)\n"
 "MIME-Version: 1.0\n"
@@ -289,7 +289,7 @@ msgstr "آیکون"
 
 #: packages/migration_tool/elements/batch_content_types/social_link.php:4
 msgid "Service"
-msgstr ""
+msgstr "خدمات"
 
 #: packages/migration_tool/elements/batch_content_types/social_link.php:5
 msgid "URL"
@@ -695,7 +695,7 @@ msgstr ""
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/SocialLinksFormatter.php:17
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/SocialLinkFormatter.php:10
 msgid "Social Links"
-msgstr ""
+msgstr "پیوند شبکه های اجتماعی"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/AbstractFormatter.php:21
 msgid "Data"
@@ -796,7 +796,7 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/BannedWordFormatter.php:10
 msgid "Banned Words"
-msgstr ""
+msgstr "کلمات ممنوع"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/BlockTypeSetFormatter.php:10
 msgid "Block Type Sets"
@@ -889,7 +889,7 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/TreeFormatter.php:10
 msgid "Topics"
-msgstr ""
+msgstr "موضوع"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowProgressCategoryFormatter.php:10
 msgid "Workflow Progress Categories"
