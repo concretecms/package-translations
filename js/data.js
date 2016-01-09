@@ -1,5 +1,5 @@
 {
-    "updated": 1452241823,
+    "updated": 1452328222,
     "packages": [
         {
             "handle": "addthis",
@@ -3003,11 +3003,11 @@
                     "perc": 25
                 },
                 "fa_IR": {
-                    "translated": 59,
-                    "untranslated": 171,
+                    "translated": 63,
+                    "untranslated": 167,
                     "fuzzy": 0,
                     "total": 230,
-                    "perc": 25
+                    "perc": 27
                 }
             }
         },
@@ -3150,11 +3150,11 @@
                     "perc": 20
                 },
                 "fa_IR": {
-                    "translated": 14,
-                    "untranslated": 71,
+                    "translated": 18,
+                    "untranslated": 67,
                     "fuzzy": 0,
                     "total": 85,
-                    "perc": 16
+                    "perc": 21
                 }
             }
         },
