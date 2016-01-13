@@ -1,5 +1,5 @@
 {
-    "updated": 1452587423,
+    "updated": 1452673825,
     "packages": [
         {
             "handle": "addthis",
@@ -2238,6 +2238,13 @@
                     "fuzzy": 0,
                     "total": 39,
                     "perc": 7
+                },
+                "tr_TR": {
+                    "translated": 1,
+                    "untranslated": 38,
+                    "fuzzy": 0,
+                    "total": 39,
+                    "perc": 2
                 },
                 "da_DK": {
                     "translated": 4,
