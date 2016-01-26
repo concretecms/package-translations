@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2015-12-05 09:06+0000\n"
+"PO-Revision-Date: 2016-01-25 19:10+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -230,7 +230,7 @@ msgstr ""
 
 #: packages/migration_tool/elements/batch_content_types/config_value.php:5
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 #: packages/migration_tool/elements/batch_content_types/content_editor_snippet.php:6
 #: packages/migration_tool/elements/batch_content_types/theme.php:5
@@ -699,7 +699,7 @@ msgstr "Links sociais"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/AbstractFormatter.php:21
 msgid "Data"
-msgstr ""
+msgstr "Dado"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/AddressFormatter.php:16
 msgid "Has Custom Countries"

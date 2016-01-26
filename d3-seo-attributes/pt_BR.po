@@ -1,12 +1,14 @@
 # 
 # Translators:
+# Marcelo Ghelman <marcelo.ghelman@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-02 09:42+0000\n"
-"PO-Revision-Date: 2014-12-02 13:53+0000\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/concrete5-packages/language/pt_BR/)\n"
+"PO-Revision-Date: 2016-01-25 19:51+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +23,7 @@ msgstr ""
 
 #: packages/d3_seo_attributes/controller.php:15
 msgid "SEO Attributes"
-msgstr ""
+msgstr "Atributos SEO"
 
 #: packages/d3_seo_attributes/controller.php:59
 msgid "SEO Meta Title"
@@ -34,4 +36,4 @@ msgstr ""
 #: packages/d3_seo_attributes/models/attribute/types/seo_meta_description/form.php:13
 #: packages/d3_seo_attributes/models/attribute/types/seo_meta_title/form.php:13
 msgid "Chars: "
-msgstr ""
+msgstr "Caracteres:"

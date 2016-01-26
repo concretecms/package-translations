@@ -1,12 +1,14 @@
 # 
 # Translators:
+# Marcelo Ghelman <marcelo.ghelman@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2014-03-24 18:46+0000\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/concrete5-packages/language/pt_BR/)\n"
+"PO-Revision-Date: 2016-01-25 19:14+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,11 +20,11 @@ msgstr ""
 #: packages/data/controller.php:11
 #: packages/data/single_pages/dashboard/data/management/view.php:2
 msgid "Data"
-msgstr ""
+msgstr "Dado"
 
 #: packages/data/controller.php:15
 msgid "Data for concrete5"
-msgstr ""
+msgstr "Dado para concrete5"
 
 #: packages/data/controller.php:60
 msgid "Data Simple Association"
@@ -34,33 +36,33 @@ msgstr ""
 
 #: packages/data/controller.php:126 packages/data/controller.php:127
 msgid "View Data Type"
-msgstr ""
+msgstr "Ver tipo de dado"
 
 #: packages/data/controller.php:130 packages/data/controller.php:131
 #: packages/data/single_pages/dashboard/data/administration/delete.php:2
 #: packages/data/single_pages/dashboard/data/administration/edit.php:2
 msgid "Edit Data Type"
-msgstr ""
+msgstr "Editar tipo de dado"
 
 #: packages/data/controller.php:134 packages/data/controller.php:135
 msgid "Delete Data Type"
-msgstr ""
+msgstr "Excluir tipo de dados"
 
 #: packages/data/controller.php:138 packages/data/controller.php:139
 msgid "Edit Data Type Permissions"
-msgstr ""
+msgstr "Editar permissões de tipo de dado"
 
 #: packages/data/controller.php:142 packages/data/controller.php:143
 msgid "Edit Data"
-msgstr ""
+msgstr "Editar dado"
 
 #: packages/data/controller.php:146 packages/data/controller.php:147
 msgid "Delete Data"
-msgstr ""
+msgstr "Excluir dado"
 
 #: packages/data/controller.php:150 packages/data/controller.php:151
 msgid "Create Data"
-msgstr ""
+msgstr "Criar dado"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:12
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:40
@@ -71,7 +73,7 @@ msgstr ""
 #: packages/data/controllers/dashboard/data/administration/controller.php:163
 #: packages/data/controllers/dashboard/data/management/controller.php:15
 msgid "Data Type Not Found"
-msgstr ""
+msgstr "Tipo de dado não encontrado"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:27
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:117
@@ -81,15 +83,15 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/view.php:2
 #: packages/data/single_pages/dashboard/data/management/view.php:5
 msgid "Data Type"
-msgstr ""
+msgstr "Tipo de dado"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:45
 msgid "Attribute Type Not Found"
-msgstr ""
+msgstr "Tipo de atributo não encontrado"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:56
 msgid "Attribute Added"
-msgstr ""
+msgstr "Atributo adicionado"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:59
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:95
@@ -100,16 +102,16 @@ msgstr "Erro desconhecido"
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:61
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:98
 msgid "** None"
-msgstr ""
+msgstr "** Nenhum"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:86
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:130
 msgid "Attribute Key Not Found"
-msgstr ""
+msgstr "Chave de atributo não encontrada"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:92
 msgid "Attribute Updated"
-msgstr ""
+msgstr "Atributo atualizado"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:118
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:143
@@ -117,41 +119,41 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 #: packages/data/single_pages/dashboard/data/management/view.php:6
 msgid "Attributes"
-msgstr ""
+msgstr "Atributos"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:135
 msgid "Attribute Deleted"
-msgstr ""
+msgstr "Atributo excluído"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:27
 #: packages/data/controllers/dashboard/data/administration/controller.php:45
 #: packages/data/controllers/dashboard/data/administration/controller.php:120
 #: packages/data/controllers/dashboard/data/administration/controller.php:201
 msgid "Data Types"
-msgstr ""
+msgstr "Tipos de dado"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:76
 msgid "Data Type Created"
-msgstr ""
+msgstr "Tipo de dado criado"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:91
 #: packages/data/controllers/dashboard/data/administration/controller.php:137
 #: packages/data/controllers/dashboard/data/management/controller.php:22
 msgid "Access Denied"
-msgstr ""
+msgstr "Acesso negado"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:107
 msgid "Data Type Updated"
-msgstr ""
+msgstr "Tipo de dado atualizado"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:121
 #: packages/data/controllers/dashboard/data/administration/controller.php:151
 msgid "View"
-msgstr ""
+msgstr "Ver"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:143
 msgid "Data Type Deleted"
-msgstr ""
+msgstr "Tipo de dado excluído"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:150
 #: packages/data/controllers/dashboard/data/management/controller.php:153
@@ -164,15 +166,15 @@ msgstr "Editar"
 #: packages/data/controllers/dashboard/data/administration/controller.php:178
 #: packages/data/controllers/dashboard/data/administration/controller.php:184
 msgid "Invalid File"
-msgstr ""
+msgstr "Arquivo inválido"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:188
 msgid "File must be .xml"
-msgstr ""
+msgstr "Arquivo deve ser .xml"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:196
 msgid "Data Type Imported"
-msgstr ""
+msgstr "Tipo de dado importado"
 
 #: packages/data/controllers/dashboard/data/management/controller.php:29
 #: packages/data/controllers/dashboard/data/management/controller.php:66
@@ -180,19 +182,19 @@ msgstr ""
 #: packages/data/controllers/dashboard/data/management/controller.php:152
 #: packages/data/single_pages/dashboard/data/management/search.php:7
 msgid "Search"
-msgstr ""
+msgstr "Procurar"
 
 #: packages/data/controllers/dashboard/data/management/controller.php:61
 msgid "Data Created"
-msgstr ""
+msgstr "Dado criado"
 
 #: packages/data/controllers/dashboard/data/management/controller.php:107
 msgid "Data Updated"
-msgstr ""
+msgstr "Dado atualizado"
 
 #: packages/data/controllers/dashboard/data/management/controller.php:141
 msgid "Data Deleted"
-msgstr ""
+msgstr "Dado excluído"
 
 #: packages/data/elements/permission/lists/data_type.php:31
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:50
@@ -203,7 +205,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/delete.php:12
 #: packages/data/single_pages/dashboard/data/management/edit.php:13
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: packages/data/elements/permission/lists/data_type.php:32
 #: packages/data/single_pages/dashboard/data/administration/edit.php:12
@@ -212,19 +214,19 @@ msgstr "Salvar"
 
 #: packages/data/models/attribute/types/data_simple_association/type_form.php:3
 msgid "Simple Association"
-msgstr ""
+msgstr "Associação única"
 
 #: packages/data/models/attribute/types/data_simple_association/type_form.php:12
 msgid "Allow Mutliple Associations"
-msgstr ""
+msgstr "Permitir associação múltipla"
 
 #: packages/data/models/attribute/types/data_single_child_association/type_form.php:3
 msgid "Single Child Association"
-msgstr ""
+msgstr "Associação de único filho"
 
 #: packages/data/models/data.php:157 packages/data/models/data_type.php:86
 msgid "Invalid Element"
-msgstr ""
+msgstr "Elemento inválido"
 
 #: packages/data/models/data.php:161
 msgid "DataType handle dtHandle not found"
@@ -236,7 +238,7 @@ msgstr ""
 
 #: packages/data/models/data_type.php:125
 msgid "Maximum Name length is 255 characters"
-msgstr ""
+msgstr "Comprimento máximo de nome é 255 caracteres"
 
 #: packages/data/models/data_type.php:128
 msgid "Maximum Handle length is 255 characters"
@@ -248,7 +250,7 @@ msgstr ""
 
 #: packages/data/models/data_type.php:134
 msgid "Name is required"
-msgstr ""
+msgstr "Nome é obrigatório"
 
 #: packages/data/models/data_type.php:137
 msgid "Handle is required"
@@ -257,7 +259,7 @@ msgstr ""
 #: packages/data/models/data_type.php:148
 #, php-format
 msgid "Name already in use by %s"
-msgstr ""
+msgstr "Nome já usado por %s"
 
 #: packages/data/models/data_type.php:155
 #, php-format
@@ -267,7 +269,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:3
 #, php-format
 msgid "Add %s Attribute"
-msgstr ""
+msgstr "Adicionar atributo %s"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:8
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:8
@@ -327,18 +329,18 @@ msgstr "Criar"
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:3
 #, php-format
 msgid "Delete %s Attribute"
-msgstr ""
+msgstr "Excluir atributo %s"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:6
 #: packages/data/single_pages/dashboard/data/management/delete.php:6
 msgid "Warning"
-msgstr ""
+msgstr "Alerta"
 
 #. %s is an attribute name
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:7
 #, php-format
 msgid "You are about to delete the attribute \"%s\". There is no undo."
-msgstr ""
+msgstr "Você vai excluir o atributo \"%s\". Não há como desfazer."
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:11
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:50
@@ -347,12 +349,12 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/management/delete.php:11
 #: packages/data/single_pages/dashboard/data/management/edit.php:12
 msgid "Delete"
-msgstr "Apagar"
+msgstr "Excluir"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:3
 #, php-format
 msgid "Edit %s Attribute"
-msgstr ""
+msgstr "Editar atributo %s"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:49
 #: packages/data/single_pages/dashboard/data/management/edit.php:11
@@ -362,15 +364,15 @@ msgstr "Atualizar"
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:2
 #, php-format
 msgid "%s Attributes"
-msgstr ""
+msgstr "%s atributos"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:11
 msgid "Add Attribute"
-msgstr ""
+msgstr "Adicionar atributo"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:14
 msgid "Add"
-msgstr ""
+msgstr "Adicionar"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/view.php:21
 msgid "Done"
@@ -378,37 +380,37 @@ msgstr "Feito"
 
 #: packages/data/single_pages/dashboard/data/administration/create.php:2
 msgid "Create Data Type"
-msgstr ""
+msgstr "Criar tipo de dado"
 
 #: packages/data/single_pages/dashboard/data/administration/import.php:2
 msgid "Import Data Type"
-msgstr ""
+msgstr "Importar tipo de dado"
 
 #: packages/data/single_pages/dashboard/data/administration/import.php:9
 #: packages/data/single_pages/dashboard/data/administration/search.php:6
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 #: packages/data/single_pages/dashboard/data/administration/search.php:2
 msgid "Data Type Administration"
-msgstr ""
+msgstr "Administração de tipos de dados"
 
 #: packages/data/single_pages/dashboard/data/administration/search.php:15
 msgid "No Data Types found"
-msgstr ""
+msgstr "Nenhum tipo de dado encontrado"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:11
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:14
 msgid "No attributes found"
-msgstr ""
+msgstr "Nenhum atributo encontrado"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:31
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Permissions"
-msgstr ""
+msgstr "Permissões"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Metadata"
@@ -416,22 +418,22 @@ msgstr ""
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Export"
-msgstr ""
+msgstr "Exportar"
 
 #: packages/data/single_pages/dashboard/data/management/data_types.php:2
 msgid "Data Type Management"
-msgstr ""
+msgstr "Gerenciamento de tipos de dados"
 
 #: packages/data/single_pages/dashboard/data/management/delete.php:3
 msgid "Delete Attribute"
-msgstr ""
+msgstr "Excluir atributo"
 
 #. %s is a DataType Name and a Data Name
 #: packages/data/single_pages/dashboard/data/management/delete.php:7
 #, php-format
 msgid "You are about to delete %s. There is no undo."
-msgstr ""
+msgstr "Você vai excluir %s. Não há como desfazer."
 
 #: packages/data/single_pages/dashboard/data/management/view.php:10
 msgid "Value"
-msgstr ""
+msgstr "Valor"

@@ -1,12 +1,14 @@
 # 
 # Translators:
+# Marcelo Ghelman <marcelo.ghelman@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2014-04-18 19:33+0000\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/concrete5-packages/language/pt_BR/)\n"
+"PO-Revision-Date: 2016-01-25 19:59+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,20 +28,20 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/controller.php:43
 msgid "Choose Image/File"
-msgstr ""
+msgstr "Escolher imagem/arquivo"
 
 #: packages/cu3er/blocks/cu3er/controller.php:44
 msgid "Please choose at least two images."
-msgstr ""
+msgstr "Escolha pelo menos duas imagens."
 
 #: packages/cu3er/blocks/cu3er/controller.php:45
 msgid "Please choose a file set."
-msgstr ""
+msgstr "Escolha um conjunto de arquivos."
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:5
 #: packages/cu3er/blocks/cu3er/image_row_include.php:12
 msgid "Duration"
-msgstr ""
+msgstr "Duração"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:7
 #: packages/cu3er/blocks/cu3er/image_row_include.php:14
@@ -53,37 +55,37 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:10
 msgid "Vertical"
-msgstr ""
+msgstr "Vertical"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:11
 msgid "Horizontal"
-msgstr ""
+msgstr "Horizontal"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:14
 #: packages/cu3er/blocks/cu3er/image_row_include.php:21
 msgid "Direction"
-msgstr ""
+msgstr "Sentido"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:16
 msgid "Left"
-msgstr ""
+msgstr "Esquerda"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:17
 msgid "Right"
-msgstr ""
+msgstr "Direita"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:18
 msgid "Up"
-msgstr ""
+msgstr "Cima"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:19
 msgid "Down"
-msgstr ""
+msgstr "Baixo"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:21
 #: packages/cu3er/blocks/cu3er/image_row_include.php:28
 msgid "Shader"
-msgstr ""
+msgstr "Sombreador"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:23
 msgid "None"
@@ -91,20 +93,20 @@ msgstr "Nenhum"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:24
 msgid "Flat"
-msgstr ""
+msgstr "Liso"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:25
 msgid "Phong"
-msgstr ""
+msgstr "Phong"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:28
 #: packages/cu3er/blocks/cu3er/image_row_include.php:34
 msgid "Z Multiplier"
-msgstr ""
+msgstr "Multiplicador Z"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:34
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:36
 msgid "Custom Slideshow"
@@ -112,7 +114,7 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:37
 msgid "Pictures from File Set"
-msgstr ""
+msgstr "Imagens de conjunto de arquivos"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:41
 msgid "Playback"
@@ -120,27 +122,27 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:43
 msgid "Display Order"
-msgstr ""
+msgstr "Ordem de exibição"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:44
 msgid "Random (But keep sets together)"
-msgstr ""
+msgstr "Aleatória (mas mantém conjuntos unidos)"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:45
 msgid "Completely Random"
-msgstr ""
+msgstr "Completamente aleatória"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:51
 msgid "Width/Height (px)"
-msgstr ""
+msgstr "Largura/Altura (px)"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:56
 msgid "Cube Colour"
-msgstr ""
+msgstr "Cubo de cores"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:62
 msgid "Hide Nav Buttons"
-msgstr ""
+msgstr "Ocultar botões de navegação"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:66
 msgid "Duration Before Transition"
@@ -152,15 +154,15 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:83
 msgid "Add Image"
-msgstr ""
+msgstr "Adicionar imagem"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:33
 msgid "Delay"
-msgstr ""
+msgstr "Atraso"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:37
 msgid "Link URL (optional)"
-msgstr ""
+msgstr "URL de link (opcional)"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:39
 msgid "Caption Heading"

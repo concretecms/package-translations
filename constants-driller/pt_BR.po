@@ -1,12 +1,14 @@
 # 
 # Translators:
+# Marcelo Ghelman <marcelo.ghelman@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-20 12:06+0000\n"
-"PO-Revision-Date: 2014-03-17 12:51+0000\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/concrete5-packages/language/pt_BR/)\n"
+"PO-Revision-Date: 2016-01-25 20:12+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +19,7 @@ msgstr ""
 
 #: packages/constants_driller/controller.php:10
 msgid "Deep analysis and report of PHP constants used by concrete5."
-msgstr ""
+msgstr "Análise profunda e relatório de constantes PHP usadas pelo concrete5."
 
 #: packages/constants_driller/controller.php:14
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:211
@@ -28,64 +30,64 @@ msgstr ""
 #: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:93
 #, php-format
 msgid "Invalid parameter: %s"
-msgstr ""
+msgstr "Parâmetro inválido: %s"
 
 #: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:104
 msgid ""
 "You have to do a first-time scan (under the options pane available clicking "
 "the upper-right \"Option\" label)."
-msgstr ""
+msgstr "Você precisa fazer uma varredura inicial (no painel de opções disponível ao clicar no rótulo superior direito \"Opções\")."
 
 #: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:175
 msgid "never accomplished"
-msgstr ""
+msgstr "nunca concluída"
 
 #: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:177
 #, php-format
 msgid "Last scan: %s"
-msgstr ""
+msgstr "Última varredura: %s"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:51
 msgid "Not defined"
-msgstr ""
+msgstr "Não definido"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:105
 msgid "This operation may take a few minutes."
-msgstr ""
+msgstr "Esta operação pode durar alguns minutos."
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:105
 msgid "Do you want to proceed anyway?"
-msgstr ""
+msgstr "Quer proceder assim mesmo?"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:133
 #, php-format
 msgid "Constant %s defined in…"
-msgstr ""
+msgstr "Constante %s definida em…"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:133
 msgid "Defined in…"
-msgstr ""
+msgstr "Definida em…"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:137
 #, php-format
 msgid "Constant %s used in…"
-msgstr ""
+msgstr "Constante %s usada em…"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:137
 msgid "Used in…"
-msgstr ""
+msgstr "Usada em…"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:149
 msgid "Nowhere"
-msgstr ""
+msgstr "Nenhum lugar"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
 msgid "File"
-msgstr ""
+msgstr "Arquivo"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
 msgid "Line"
-msgstr ""
+msgstr "Linha"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:161
 msgid "Close"
@@ -93,15 +95,15 @@ msgstr "Fechar"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
 msgid "We have to do a first-time scan to locate all the constants."
-msgstr ""
+msgstr "Precisamos fazer uma varredura inicial para localizar todas as constantes."
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
 msgid "Do you want to do it now?"
-msgstr ""
+msgstr "Quer fazer isso agora?"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
 msgid "PS: this may take a few minites."
-msgstr ""
+msgstr "PS: isto pode durar alguns minutos."
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:211
 msgid ""
@@ -115,45 +117,45 @@ msgstr "Opções"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:215
 msgid "Rescan"
-msgstr ""
+msgstr "Varrer novamente"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:223
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:252
 msgid "Constant"
-msgstr ""
+msgstr "Constante"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:225
 msgid "Constant name"
-msgstr ""
+msgstr "Nome da constante"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
 msgid "Defined or used in file"
-msgstr ""
+msgstr "Definida ou usada no arquivo"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
 msgid "Defined in file"
-msgstr ""
+msgstr "Definida no arquivo"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:229
 msgid "Used in file"
-msgstr ""
+msgstr "Usada no arquivo"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:230
 msgid "File name"
-msgstr "Nome Arquivo"
+msgstr "Nome do arquivo"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:233
 msgid "Search"
-msgstr ""
+msgstr "Procurar"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:243
 msgid "Exclude 3rd party libraries"
-msgstr ""
+msgstr "Excluir bibliotecas de terceiros"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:253
 msgid "Current value"
-msgstr ""
+msgstr "Valor atual"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:254
 msgid "Found in"
-msgstr ""
+msgstr "Encontrada em"

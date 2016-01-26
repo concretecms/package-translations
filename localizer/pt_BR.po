@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-05 12:51+0000\n"
-"PO-Revision-Date: 2015-08-17 03:56+0000\n"
+"PO-Revision-Date: 2016-01-25 20:05+0000\n"
 "Last-Translator: gilberto dos santos alves <gsavix@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:129
 msgid "File"
-msgstr ""
+msgstr "Arquivo"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:132
 msgid "Area"
