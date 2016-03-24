@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Marc Antoine THEVENET <mat@idimweb.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-04 14:07+0000\n"
-"PO-Revision-Date: 2014-04-21 17:28+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
-"Language-Team: French (France) (http://www.transifex.com/projects/p/concrete5-packages/language/fr_FR/)\n"
+"POT-Creation-Date: 2014-10-09 08:55+0000\n"
+"PO-Revision-Date: 2016-03-23 13:31+0000\n"
+"Last-Translator: Marc Antoine THEVENET <mat@idimweb.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/concrete5/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,31 +28,31 @@ msgstr ""
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:11
 msgid "Select template"
-msgstr ""
+msgstr "Sélectionner un modèle"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:42
 msgid "Block Title (Optional)"
-msgstr ""
+msgstr "Titre du bloc (Facultatif)"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:53
 msgid "Extra CSS classes"
-msgstr ""
+msgstr "Classes CSS supplémentaires"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:64
 msgid "Extra HTML attribute"
-msgstr ""
+msgstr "Attribut HTML supplémentaire"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:75
 msgid "Link to page"
-msgstr ""
+msgstr "Lien vers la page"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php:7
 msgid "Close Wrapper"
-msgstr ""
+msgstr "Fermer l'encapsuleur"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php:13
 msgid "Open Wrapper"
-msgstr ""
+msgstr "Ouvrir l'encapsuleur"
 
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/view.php:4
 msgid ""
@@ -71,4 +72,4 @@ msgstr "Fermer"
 #: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php
 msgctxt "TemplateFileName"
 msgid "Open"
-msgstr ""
+msgstr "Ouvrir"
