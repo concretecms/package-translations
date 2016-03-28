@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-17 12:52+0000\n"
-"PO-Revision-Date: 2016-01-25 19:50+0000\n"
+"PO-Revision-Date: 2016-03-28 03:04+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -123,7 +123,7 @@ msgstr "Resolver um <a href=\"%s\" target=\"_blank\">CAPTCHA</a> é necessário 
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:53
 msgid "Alert Email Address when Review Posted"
-msgstr ""
+msgstr "Endereço de email de alerta quando uma revisão é publicada"
 
 #: packages/reviews/blocks/reviews/view.php:77
 msgid "Average Rating:"

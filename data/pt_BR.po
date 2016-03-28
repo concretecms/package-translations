@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2016-01-25 19:14+0000\n"
+"PO-Revision-Date: 2016-03-28 03:58+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "Dado para concrete5"
 
 #: packages/data/controller.php:60
 msgid "Data Simple Association"
-msgstr ""
+msgstr "Associação simples de dado"
 
 #: packages/data/controller.php:61
 msgid "Data Single Child Association"
@@ -230,11 +230,11 @@ msgstr "Elemento inválido"
 
 #: packages/data/models/data.php:161
 msgid "DataType handle dtHandle not found"
-msgstr ""
+msgstr "Manipulador de tipo de dado dtHandle não encontrado"
 
 #: packages/data/models/data.php:165
 msgid "DataType not found"
-msgstr ""
+msgstr "Tipo de dado não encontrado"
 
 #: packages/data/models/data_type.php:125
 msgid "Maximum Name length is 255 characters"
@@ -242,11 +242,11 @@ msgstr "Comprimento máximo de nome é 255 caracteres"
 
 #: packages/data/models/data_type.php:128
 msgid "Maximum Handle length is 255 characters"
-msgstr ""
+msgstr "Tamanho máximo do manipulador é 255 caracteres"
 
 #: packages/data/models/data_type.php:131
 msgid "Handle can only contain a-z 0-9 and _"
-msgstr ""
+msgstr "Manipulador pode conter apenas a-z 0-9 e _"
 
 #: packages/data/models/data_type.php:134
 msgid "Name is required"
@@ -254,7 +254,7 @@ msgstr "Nome é obrigatório"
 
 #: packages/data/models/data_type.php:137
 msgid "Handle is required"
-msgstr ""
+msgstr "Manipulador é obrigatório"
 
 #: packages/data/models/data_type.php:148
 #, php-format
@@ -264,7 +264,7 @@ msgstr "Nome já usado por %s"
 #: packages/data/models/data_type.php:155
 #, php-format
 msgid "Handle already in use by %s"
-msgstr ""
+msgstr "Manipulador já em uso por %s"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:3
 #, php-format
@@ -275,7 +275,7 @@ msgstr "Adicionar atributo %s"
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:8
 #, php-format
 msgid "%s: Basic Details"
-msgstr ""
+msgstr "%s: Detalhes básicos"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:11
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:11
@@ -284,7 +284,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/view.php:5
 #: packages/data/single_pages/dashboard/data/administration/view.php:10
 msgid "Handle"
-msgstr ""
+msgstr "Manipulador"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:18
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:18
@@ -301,17 +301,17 @@ msgstr "Nome"
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:25
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:25
 msgid "Set"
-msgstr ""
+msgstr "Conjunto"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:32
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:32
 msgid "Searchable"
-msgstr ""
+msgstr "Buscável"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:35
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:35
 msgid "Content included in data keyword search."
-msgstr ""
+msgstr "Conteúdo incluído na busca de chave de dados."
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:36
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:36
@@ -414,7 +414,7 @@ msgstr "Permissões"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Metadata"
-msgstr ""
+msgstr "Metadado"
 
 #: packages/data/single_pages/dashboard/data/administration/view.php:36
 msgid "Export"
