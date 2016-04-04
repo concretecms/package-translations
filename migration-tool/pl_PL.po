@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2015-12-05 09:06+0000\n"
+"PO-Revision-Date: 2016-04-03 21:19+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/concrete5/concrete5-packages/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
@@ -326,7 +326,7 @@ msgstr ""
 
 #: packages/migration_tool/elements/export/search/page.php:7
 msgid "** Choose a page type"
-msgstr ""
+msgstr "** Wybierz typ strony"
 
 #: packages/migration_tool/elements/export/search/page.php:13
 msgid "Keywords"
