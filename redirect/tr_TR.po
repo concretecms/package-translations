@@ -1,0 +1,161 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-15T08:28:32+02:00\n"
+"PO-Revision-Date: 2016-04-15 06:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/concrete5/concrete5-packages/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: packages/redirect/controller.php:21
+#: packages/redirect/blocks/redirect/controller.php:131
+msgid "Redirect"
+msgstr ""
+
+#: packages/redirect/controller.php:26
+msgid "This package offers a block to redirect users."
+msgstr ""
+
+#: packages/redirect/blocks/redirect/controller.php:141
+msgid "Redirect specific users to another page."
+msgstr ""
+
+#: packages/redirect/blocks/redirect/controller.php:180
+msgid "No data received"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/controller.php:189
+#: packages/redirect/blocks/redirect/controller.php:200
+msgid "Please specify the destination page"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/controller.php:193
+#: packages/redirect/blocks/redirect/controller.php:206
+msgid "The destination page is the current page."
+msgstr ""
+
+#: packages/redirect/blocks/redirect/controller.php:212
+msgid "Please specify the kind of the destination page"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/controller.php:236
+#, php-format
+msgid "Invalid IP address: %s"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/controller.php:255
+msgid "Please specify if the message should be shown"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/controller.php:482
+msgid "Redirect block"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/controller.php:502
+msgid "This block will redirect selected users."
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:9
+msgid "Destination page"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:10
+msgid "Redirect by user groups"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:11
+msgid "Redirect by IP address"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:12
+msgid "Options"
+msgstr "Seçenekler"
+
+#: packages/redirect/blocks/redirect/edit.php:23
+msgid "Please select"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:26
+msgid "Another page"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:30
+msgid "External URL"
+msgstr "Harici URL"
+
+#: packages/redirect/blocks/redirect/edit.php:39
+msgid "Choose page"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:43
+msgid "URL"
+msgstr "URL"
+
+#: packages/redirect/blocks/redirect/edit.php:61
+msgid "Redirect members of these groups"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:62
+msgid "Never redirect members of these groups"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:82
+#: packages/redirect/blocks/redirect/edit.php:87
+msgid "Select group"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:146
+msgid "Redirect these IP addresses"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:147
+msgid "Never redirect these IP addresses"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:161
+#, php-format
+msgid ""
+"Separate multiple values by spaces, new lines or commas.<br />IPv4 and IPv6 "
+"addresses are supported.<br />You can specify single IP addresses as well as"
+" ranges (examples: %s)"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:171
+#, php-format
+msgid "Your IP address is %s"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:181
+msgid "Redirect users with permission to edit the page contents"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:186
+msgid "Show block message"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:190
+msgid "Never"
+msgstr "Hiçbir zaman"
+
+#: packages/redirect/blocks/redirect/edit.php:191
+msgid "Only for users that can edit the page contents"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:192
+msgid "Always"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:204
+msgid "Use a custom message"
+msgstr ""
+
+#: packages/redirect/blocks/redirect/edit.php:209
+msgid "Custom message"
+msgstr ""
