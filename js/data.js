@@ -1,5 +1,5 @@
 {
-    "updated": 1460619024,
+    "updated": 1460705426,
     "packages": [
         {
             "handle": "addthis",
@@ -3484,6 +3484,167 @@
                     "fuzzy": 0,
                     "total": 7,
                     "perc": 14
+                }
+            }
+        },
+        {
+            "handle": "redirect",
+            "name": "Redirect",
+            "sourceURL": "https://github.com/mlocati/concrete5_addon_redirect",
+            "locales": {
+                "de_DE": {
+                    "translated": 5,
+                    "untranslated": 29,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 14
+                },
+                "it_IT": {
+                    "translated": 34,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 100
+                },
+                "lt_LT": {
+                    "translated": 4,
+                    "untranslated": 30,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 11
+                },
+                "sv_SE": {
+                    "translated": 5,
+                    "untranslated": 29,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 14
+                },
+                "el_GR": {
+                    "translated": 5,
+                    "untranslated": 29,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 14
+                },
+                "fi_FI": {
+                    "translated": 4,
+                    "untranslated": 30,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 11
+                },
+                "fr_FR": {
+                    "translated": 5,
+                    "untranslated": 29,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 14
+                },
+                "nl_NL": {
+                    "translated": 5,
+                    "untranslated": 29,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 14
+                },
+                "ru_RU": {
+                    "translated": 5,
+                    "untranslated": 29,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 14
+                },
+                "sl_SI": {
+                    "translated": 5,
+                    "untranslated": 29,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 14
+                },
+                "ro_RO": {
+                    "translated": 4,
+                    "untranslated": 30,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 11
+                },
+                "vi_VN": {
+                    "translated": 5,
+                    "untranslated": 29,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 14
+                },
+                "ast_ES": {
+                    "translated": 1,
+                    "untranslated": 33,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 2
+                },
+                "ja_JP": {
+                    "translated": 4,
+                    "untranslated": 30,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 11
+                },
+                "pl_PL": {
+                    "translated": 4,
+                    "untranslated": 30,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 11
+                },
+                "tr_TR": {
+                    "translated": 4,
+                    "untranslated": 30,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 11
+                },
+                "da_DK": {
+                    "translated": 4,
+                    "untranslated": 30,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 11
+                },
+                "bg_BG": {
+                    "translated": 4,
+                    "untranslated": 30,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 11
+                },
+                "zh_TW": {
+                    "translated": 5,
+                    "untranslated": 29,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 14
+                },
+                "pt_BR": {
+                    "translated": 4,
+                    "untranslated": 30,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 11
+                },
+                "he_IL": {
+                    "translated": 4,
+                    "untranslated": 30,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 11
+                },
+                "fa_IR": {
+                    "translated": 4,
+                    "untranslated": 30,
+                    "fuzzy": 0,
+                    "total": 34,
+                    "perc": 11
                 }
             }
         },
