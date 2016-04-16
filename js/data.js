@@ -1,5 +1,5 @@
 {
-    "updated": 1460705426,
+    "updated": 1460791824,
     "packages": [
         {
             "handle": "addthis",
@@ -2891,11 +2891,11 @@
             "sourceURL": "https://github.com/concrete5/addon_migration_tool",
             "locales": {
                 "de_DE": {
-                    "translated": 80,
-                    "untranslated": 150,
+                    "translated": 82,
+                    "untranslated": 148,
                     "fuzzy": 0,
                     "total": 230,
-                    "perc": 34
+                    "perc": 35
                 },
                 "it_IT": {
                     "translated": 230,
@@ -3493,11 +3493,11 @@
             "sourceURL": "https://github.com/mlocati/concrete5_addon_redirect",
             "locales": {
                 "de_DE": {
-                    "translated": 5,
-                    "untranslated": 29,
+                    "translated": 33,
+                    "untranslated": 1,
                     "fuzzy": 0,
                     "total": 34,
-                    "perc": 14
+                    "perc": 97
                 },
                 "it_IT": {
                     "translated": 34,
@@ -3514,18 +3514,18 @@
                     "perc": 11
                 },
                 "sv_SE": {
-                    "translated": 5,
-                    "untranslated": 29,
+                    "translated": 34,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 34,
-                    "perc": 14
+                    "perc": 100
                 },
                 "el_GR": {
-                    "translated": 5,
-                    "untranslated": 29,
+                    "translated": 34,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 34,
-                    "perc": 14
+                    "perc": 100
                 },
                 "fi_FI": {
                     "translated": 4,
