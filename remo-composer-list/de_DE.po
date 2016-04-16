@@ -1,14 +1,15 @@
 # Translators:
 # Translators:
+# Ettore Atalan <atalanttore@googlemail.com>, 2016
 # Remo Laubacher <remo.laubacher@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: remo.laubacher@gmail.com\n"
 "POT-Creation-Date: 2014-03-17 13:45+0100\n"
-"PO-Revision-Date: 2014-03-17 12:47+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
-"Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
+"PO-Revision-Date: 2016-04-15 18:46+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/concrete5/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -28,7 +29,7 @@ msgstr "Zugriff verweigert."
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:16
 msgid "Adds a blocks which allows you to edit the page attributes."
-msgstr "Block hinzufügen um Attribute zu bearbeiten"
+msgstr "Fügt einen Block hinzu, der Ihnen das Bearbeiten der Seitenattribute ermöglicht."
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:20
 msgid "Page Attributes"

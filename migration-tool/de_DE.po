@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Ettore Atalan <atalanttore@googlemail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2015-12-05 09:06+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2016-04-15 18:46+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/concrete5/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -800,7 +801,7 @@ msgstr "Zensierte Wörter"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/BlockTypeSetFormatter.php:10
 msgid "Block Type Sets"
-msgstr ""
+msgstr "Blocktypensätze"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/CaptchaFormatter.php:10
 msgid "Captcha Libraries"
@@ -968,7 +969,7 @@ msgstr ""
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateBlockTypesTask.php:28
 #, php-format
 msgid "Block type <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "Blocktyp <strong>%s</strong> ist nicht vorhanden."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Content/PageFeedItemValidator.php:32
 #, php-format

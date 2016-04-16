@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Vasilis Fotopoulos <basalba@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-15T08:28:32+02:00\n"
-"PO-Revision-Date: 2016-04-15 06:28+0000\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2016-04-15 08:28+0000\n"
+"Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/concrete5/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,62 +18,62 @@ msgstr ""
 #: packages/redirect/controller.php:21
 #: packages/redirect/blocks/redirect/controller.php:131
 msgid "Redirect"
-msgstr ""
+msgstr "Ανακατεύθυνση"
 
 #: packages/redirect/controller.php:26
 msgid "This package offers a block to redirect users."
-msgstr ""
+msgstr "Αυτό το πακέτο προσφέρει ένα μπλοκ για να ανακατευθύνει τους χρήστες."
 
 #: packages/redirect/blocks/redirect/controller.php:141
 msgid "Redirect specific users to another page."
-msgstr ""
+msgstr "Ανακατευθύνει συγκεκριμένους χρήστες σε μια άλλη σελίδα."
 
 #: packages/redirect/blocks/redirect/controller.php:180
 msgid "No data received"
-msgstr ""
+msgstr "Δεν έγινε λήψη δεδομένων"
 
 #: packages/redirect/blocks/redirect/controller.php:189
 #: packages/redirect/blocks/redirect/controller.php:200
 msgid "Please specify the destination page"
-msgstr ""
+msgstr "Παρακαλείσθε να διευκρινίσετε τη σελίδα προορισμού"
 
 #: packages/redirect/blocks/redirect/controller.php:193
 #: packages/redirect/blocks/redirect/controller.php:206
 msgid "The destination page is the current page."
-msgstr ""
+msgstr "Η σελίδα προορισμού είναι η τρέχουσα σελίδα."
 
 #: packages/redirect/blocks/redirect/controller.php:212
 msgid "Please specify the kind of the destination page"
-msgstr ""
+msgstr "Παρακαλείσθε να διευκρινίσετε το είδος της σελίδας προορισμού"
 
 #: packages/redirect/blocks/redirect/controller.php:236
 #, php-format
 msgid "Invalid IP address: %s"
-msgstr ""
+msgstr "Μη έγκυρη διεύθυνση IP: %s"
 
 #: packages/redirect/blocks/redirect/controller.php:255
 msgid "Please specify if the message should be shown"
-msgstr ""
+msgstr "Παρακαλείσθε να διευκρινίσετε εάν θα πρέπει να εμφανίζεται το μήνυμα"
 
 #: packages/redirect/blocks/redirect/controller.php:482
 msgid "Redirect block"
-msgstr ""
+msgstr "Ανακατεύθυνση μπλοκ"
 
 #: packages/redirect/blocks/redirect/controller.php:502
 msgid "This block will redirect selected users."
-msgstr ""
+msgstr "Αυτό το μπλοκ θα ανακατευθύνει τους επιλεγμένους χρήστες."
 
 #: packages/redirect/blocks/redirect/edit.php:9
 msgid "Destination page"
-msgstr ""
+msgstr "Σελίδα προορισμού"
 
 #: packages/redirect/blocks/redirect/edit.php:10
 msgid "Redirect by user groups"
-msgstr ""
+msgstr "Ανακατεύθυνση ανά ομάδα χρηστών"
 
 #: packages/redirect/blocks/redirect/edit.php:11
 msgid "Redirect by IP address"
-msgstr ""
+msgstr "Ανακατεύθυνση ανά διεύθυνση IP"
 
 #: packages/redirect/blocks/redirect/edit.php:12
 msgid "Options"
@@ -84,7 +85,7 @@ msgstr "Παρακαλώ επιλέξτε"
 
 #: packages/redirect/blocks/redirect/edit.php:26
 msgid "Another page"
-msgstr ""
+msgstr "Μια άλλη σελίδα"
 
 #: packages/redirect/blocks/redirect/edit.php:30
 msgid "External URL"
@@ -92,7 +93,7 @@ msgstr "Εξωτερική URL"
 
 #: packages/redirect/blocks/redirect/edit.php:39
 msgid "Choose page"
-msgstr ""
+msgstr "Επιλέξτε Σελίδα"
 
 #: packages/redirect/blocks/redirect/edit.php:43
 msgid "URL"
@@ -100,24 +101,24 @@ msgstr "URL"
 
 #: packages/redirect/blocks/redirect/edit.php:61
 msgid "Redirect members of these groups"
-msgstr ""
+msgstr "Ανακατεύθυνση μελών αυτών των ομάδων"
 
 #: packages/redirect/blocks/redirect/edit.php:62
 msgid "Never redirect members of these groups"
-msgstr ""
+msgstr "Μην ανακατευθύνετε ποτέ τα μέλη αυτών των ομάδων"
 
 #: packages/redirect/blocks/redirect/edit.php:82
 #: packages/redirect/blocks/redirect/edit.php:87
 msgid "Select group"
-msgstr ""
+msgstr "Επιλογή Ομάδας "
 
 #: packages/redirect/blocks/redirect/edit.php:146
 msgid "Redirect these IP addresses"
-msgstr ""
+msgstr "Ανακατευθύνετε αυτές τις διευθύνσεις IP"
 
 #: packages/redirect/blocks/redirect/edit.php:147
 msgid "Never redirect these IP addresses"
-msgstr ""
+msgstr "Μην ανακατευθύνετε αυτές τις διευθύνσεις IP"
 
 #: packages/redirect/blocks/redirect/edit.php:161
 #, php-format
@@ -125,20 +126,20 @@ msgid ""
 "Separate multiple values by spaces, new lines or commas.<br />IPv4 and IPv6 "
 "addresses are supported.<br />You can specify single IP addresses as well as"
 " ranges (examples: %s)"
-msgstr ""
+msgstr "Διαχωρίστε πολλαπλές τιμές με διαστήματα, νέες γραμμές ή κόμματα.<br />IPv4 and IPv6 addresses are supported.<br />Μπορείτε να καθορίσετε μόνο διευθύνσεις IP, καθώς και περιοχές IP (Παραδείγματα: %s)"
 
 #: packages/redirect/blocks/redirect/edit.php:171
 #, php-format
 msgid "Your IP address is %s"
-msgstr ""
+msgstr "Η διεύθυνση IP σας είναι %s"
 
 #: packages/redirect/blocks/redirect/edit.php:181
 msgid "Redirect users with permission to edit the page contents"
-msgstr ""
+msgstr "Ανακατευθύνete τους χρήστες με άδεια για να επεξεργ;azontai το περιεχόμενο της σελίδας"
 
 #: packages/redirect/blocks/redirect/edit.php:186
 msgid "Show block message"
-msgstr ""
+msgstr "Εμφάνιση μηνύματος μπλοκ"
 
 #: packages/redirect/blocks/redirect/edit.php:190
 msgid "Never"
@@ -146,16 +147,16 @@ msgstr "Ποτέ"
 
 #: packages/redirect/blocks/redirect/edit.php:191
 msgid "Only for users that can edit the page contents"
-msgstr ""
+msgstr "Μόνο για χρήστες που μπορούν να επεξεργάζονται το περιεχόμενο της σελίδας"
 
 #: packages/redirect/blocks/redirect/edit.php:192
 msgid "Always"
-msgstr ""
+msgstr "Πάντοτε"
 
 #: packages/redirect/blocks/redirect/edit.php:204
 msgid "Use a custom message"
-msgstr ""
+msgstr "Χρησιμοποιήστε ένα προσαρμοσμένο μήνυμα"
 
 #: packages/redirect/blocks/redirect/edit.php:209
 msgid "Custom message"
-msgstr ""
+msgstr "Προσαρμοσμένο μήνυμα"
