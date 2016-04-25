@@ -1,5 +1,5 @@
 {
-    "updated": 1461483023,
+    "updated": 1461569424,
     "packages": [
         {
             "handle": "addthis",
@@ -525,11 +525,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/49820/0/",
             "locales": {
                 "de_DE": {
-                    "translated": 31,
-                    "untranslated": 7,
+                    "translated": 35,
+                    "untranslated": 3,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 81
+                    "perc": 92
                 },
                 "it_IT": {
                     "translated": 38,
@@ -819,11 +819,11 @@
             "sourceURL": "https://github.com/akodde/d3_cache_warmer",
             "locales": {
                 "de_DE": {
-                    "translated": 4,
-                    "untranslated": 2,
+                    "translated": 6,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 6,
-                    "perc": 66
+                    "perc": 100
                 },
                 "it_IT": {
                     "translated": 6,
@@ -2891,11 +2891,11 @@
             "sourceURL": "https://github.com/concrete5/addon_migration_tool",
             "locales": {
                 "de_DE": {
-                    "translated": 82,
-                    "untranslated": 148,
+                    "translated": 153,
+                    "untranslated": 77,
                     "fuzzy": 0,
                     "total": 230,
-                    "perc": 35
+                    "perc": 66
                 },
                 "it_IT": {
                     "translated": 230,
@@ -3493,11 +3493,11 @@
             "sourceURL": "https://github.com/mlocati/concrete5_addon_redirect",
             "locales": {
                 "de_DE": {
-                    "translated": 33,
-                    "untranslated": 1,
+                    "translated": 34,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 34,
-                    "perc": 97
+                    "perc": 100
                 },
                 "it_IT": {
                     "translated": 34,
@@ -3948,11 +3948,11 @@
             "sourceURL": "https://github.com/concrete5/addon_reviews",
             "locales": {
                 "de_DE": {
-                    "translated": 38,
-                    "untranslated": 3,
+                    "translated": 40,
+                    "untranslated": 1,
                     "fuzzy": 0,
                     "total": 41,
-                    "perc": 92
+                    "perc": 97
                 },
                 "it_IT": {
                     "translated": 41,
