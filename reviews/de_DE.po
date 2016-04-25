@@ -1,13 +1,14 @@
 # 
 # Translators:
 # Remo Laubacher <remo.laubacher@gmail.com>, 2014
+# Roland Greim <roland@stempelgreim.de>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-17 12:52+0000\n"
-"PO-Revision-Date: 2016-02-16 11:24+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2016-04-24 22:59+0000\n"
+"Last-Translator: Roland Greim <roland@stempelgreim.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/concrete5/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,7 +27,7 @@ msgstr "Bewertungen"
 #: packages/reviews/blocks/reviews/controller.php:36
 #: packages/reviews/controller.php:12
 msgid "Adds the ability to add ratings and comments to a page."
-msgstr ""
+msgstr "Möglichkeit um eine Seite zu bewerten oder zu kommentieren hinzufügen."
 
 #: packages/reviews/blocks/reviews/controller.php:145
 msgid "Your session has expired.  Please log back in."
@@ -198,4 +199,4 @@ msgid ""
 "To view this review, visit: \n"
 "%s \n"
 "\n"
-msgstr ""
+msgstr "\nEs gibt einen neuen Kommentar im Gästebuch auf Ihrer Concrete5 Seite.\n\n%s\n\nHier gelangen Sie zu dem Kommentar: \n%s \n\n"

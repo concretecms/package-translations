@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Ettore Atalan <atalanttore@googlemail.com>, 2014
+# Roland Greim <roland@stempelgreim.de>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2014-11-09 16:48+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
-"Language-Team: German (Germany) (http://www.transifex.com/projects/p/concrete5-packages/language/de_DE/)\n"
+"PO-Revision-Date: 2016-04-24 23:11+0000\n"
+"Last-Translator: Roland Greim <roland@stempelgreim.de>\n"
+"Language-Team: German (Germany) (http://www.transifex.com/concrete5/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -146,7 +147,7 @@ msgstr "Navigationsschaltflächen ausblenden"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:66
 msgid "Duration Before Transition"
-msgstr ""
+msgstr "Wartezeit vor dem Wechsel"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:72
 msgid "Select Fallback Image"
@@ -166,12 +167,12 @@ msgstr "Verweis auf eine Adresse (optional)"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:39
 msgid "Caption Heading"
-msgstr ""
+msgstr "Titel Überschrift"
 
 #: packages/cu3er/blocks/cu3er/image_row_include.php:41
 msgid "Caption Body"
-msgstr ""
+msgstr "Titel Inhalt"
 
 #: packages/cu3er/controller.php:22
 msgid "Converts static images into 3D Flash-based slideshow"
-msgstr ""
+msgstr "Konvertiert Bilder in eine 3D Flash Diashow"

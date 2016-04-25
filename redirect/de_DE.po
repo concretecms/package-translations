@@ -1,13 +1,14 @@
 # 
 # Translators:
 # Ettore Atalan <atalanttore@googlemail.com>, 2016
+# Roland Greim <roland@stempelgreim.de>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-15T08:28:32+02:00\n"
-"PO-Revision-Date: 2016-04-15 18:43+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"PO-Revision-Date: 2016-04-24 22:19+0000\n"
+"Last-Translator: Roland Greim <roland@stempelgreim.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/concrete5/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -126,7 +127,7 @@ msgid ""
 "Separate multiple values by spaces, new lines or commas.<br />IPv4 and IPv6 "
 "addresses are supported.<br />You can specify single IP addresses as well as"
 " ranges (examples: %s)"
-msgstr ""
+msgstr "Trennen Sie mehrere Variablen mit Leerzeichen, Zeilenumbrüchen oder Kommas.<br/>Es werden IPv4 und IPv6 Adressen unterstützt.<br/>Sie können eine einzelne IP Adresse oder einen Bereich angeben. (Beispiel: %s)"
 
 #: packages/redirect/blocks/redirect/edit.php:171
 #, php-format
