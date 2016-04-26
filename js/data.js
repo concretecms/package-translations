@@ -1,5 +1,5 @@
 {
-    "updated": 1461569424,
+    "updated": 1461655824,
     "packages": [
         {
             "handle": "addthis",
@@ -1974,11 +1974,11 @@
             "sourceURL": "https://github.com/mlocati/concrete5-handle_https",
             "locales": {
                 "de_DE": {
-                    "translated": 13,
-                    "untranslated": 4,
+                    "translated": 14,
+                    "untranslated": 3,
                     "fuzzy": 0,
                     "total": 17,
-                    "perc": 76
+                    "perc": 82
                 },
                 "it_IT": {
                     "translated": 17,
