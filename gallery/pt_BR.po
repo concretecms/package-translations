@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:33+0100\n"
-"PO-Revision-Date: 2016-01-25 19:33+0000\n"
+"PO-Revision-Date: 2016-04-28 19:45+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -120,7 +120,7 @@ msgstr "Imagens de conjunto de arquivos"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:88
 msgid "Playback"
-msgstr ""
+msgstr "Reprodução"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:90
 msgid "Display Order"
@@ -140,7 +140,7 @@ msgstr "Adicionar imagem"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:18
 msgid "Set Number"
-msgstr ""
+msgstr "Definir número"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:24
 msgid "Link URL (optional)"

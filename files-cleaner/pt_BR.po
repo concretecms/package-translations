@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-20 09:39+0000\n"
-"PO-Revision-Date: 2016-01-25 20:42+0000\n"
+"PO-Revision-Date: 2016-04-28 19:45+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -19,17 +19,17 @@ msgstr ""
 
 #: packages/files_cleaner/controller.php:24
 msgid "Files Cleaner"
-msgstr ""
+msgstr "Limpador de arquivos"
 
 #: packages/files_cleaner/controller.php:31
 msgid "**USE AT YOUR OWN RISK**"
-msgstr ""
+msgstr "**USE POR SUA PRÓPRIA CONTA E RISCO**"
 
 #: packages/files_cleaner/controller.php:31
 msgid ""
 "Helps you removing temporary files & unuseful files (you’ll find it under "
 "Dashboard -> System & Settings -> Optimization -> Clear Files)."
-msgstr ""
+msgstr "Ajuda a remover arquivos temporários e arquivos inúteis (disponível em Painel -> Sistema e Configuração -> Otimização -> Limpar arquivos)."
 
 #: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:19
 #: packages/files_cleaner/controllers/dashboard/system/optimization/clear_files.php:24
@@ -207,4 +207,4 @@ msgstr "Limpar arquivos"
 msgid ""
 "This page allows you to clear potentially unuseful files. **USE AT YOUR OWN "
 "RISK**"
-msgstr ""
+msgstr "Esta página permite a você limpar arquivos potencialmente inúteis. **USE POR SUA PRÓPRIA CONTA E RISCO**"

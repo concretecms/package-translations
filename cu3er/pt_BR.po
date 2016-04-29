@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:27+0000\n"
-"PO-Revision-Date: 2016-01-25 19:59+0000\n"
+"PO-Revision-Date: 2016-04-28 19:45+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -118,7 +118,7 @@ msgstr "Imagens de conjunto de arquivos"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:41
 msgid "Playback"
-msgstr ""
+msgstr "Reprodução"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:43
 msgid "Display Order"
