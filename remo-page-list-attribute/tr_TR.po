@@ -44,15 +44,15 @@ msgstr ""
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/search.php:18
 msgid "All"
-msgstr ""
+msgstr "Tamamı"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:7
 msgid "Select Options"
-msgstr ""
+msgstr "Seçenekleri Seçin"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:10
 msgid "Page Type"
-msgstr ""
+msgstr "Sayfa Türü"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:26
 msgid "Display Drop-Down"

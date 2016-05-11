@@ -25,7 +25,7 @@ msgstr ""
 
 #: packages/jb_youtubebackground_free/blocks/jb_youtubebackground_free/form_setup_html.php:51
 msgid "Choose Image"
-msgstr ""
+msgstr "Resim Seç"
 
 #: packages/jb_youtubebackground_free/blocks/jb_youtubebackground_free/view.php:11
 msgid "Background video disabled in edit mode."

@@ -32,7 +32,7 @@ msgstr ""
 #: packages/irc_chat/blocks/irc_chat/controller.php:42
 msgctxt "KiwiIrcTheme"
 msgid "Basic"
-msgstr ""
+msgstr "Temel"
 
 #: packages/irc_chat/blocks/irc_chat/controller.php:43
 msgctxt "KiwiIrcTheme"
@@ -78,7 +78,7 @@ msgstr ""
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:40
 msgid "About"
-msgstr ""
+msgstr "Hakkında"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:62
 msgid "IRC network"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:107
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: packages/irc_chat/blocks/irc_chat/edit.php:108
 msgctxt "KiwiIrcTheme"

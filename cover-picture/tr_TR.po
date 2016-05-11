@@ -32,11 +32,11 @@ msgstr ""
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:11
 msgid "Picture"
-msgstr ""
+msgstr "Resim"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:16
 msgid "Text"
-msgstr ""
+msgstr "Metin"
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:25
 msgid "Overlay Color"

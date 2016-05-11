@@ -40,7 +40,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/controller.php:159
 msgid "Incorrect captcha code"
-msgstr ""
+msgstr "Hatalı güvenlik kodu"
 
 #: packages/reviews/blocks/reviews/controller.php:164
 msgid "a comment is required"
@@ -48,7 +48,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/controller.php:178
 msgid "Please correct the following errors:"
-msgstr ""
+msgstr "Lütfen bu hataları düzeltiniz:"
 
 #: packages/reviews/blocks/reviews/controller.php:187
 msgid "The comment has been saved"
@@ -80,7 +80,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:6
 msgid "Title"
-msgstr ""
+msgstr "Başlık"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:13
 msgid "Comments Require Moderator Approval?"
@@ -90,13 +90,13 @@ msgstr ""
 #: packages/reviews/blocks/reviews/form_setup_html.php:26
 #: packages/reviews/blocks/reviews/form_setup_html.php:46
 msgid "Yes"
-msgstr ""
+msgstr "Evet"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:17
 #: packages/reviews/blocks/reviews/form_setup_html.php:27
 #: packages/reviews/blocks/reviews/form_setup_html.php:47
 msgid "No"
-msgstr ""
+msgstr "Hayır"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:23
 msgid "Posting Reviews is Enabled?"
@@ -117,7 +117,7 @@ msgstr ""
 #: packages/reviews/blocks/reviews/form_setup_html.php:43
 #, php-format
 msgid "Solving a <a href=\"%s\" target=\"_blank\">CAPTCHA</a> Required to Post?"
-msgstr ""
+msgstr "Göndermek için bir <a href=\"%s\" target=\"_blank\">güvenlik kodu</a>nu çözmek zorunlu mudur?"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:53
 msgid "Alert Email Address when Review Posted"
@@ -129,7 +129,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/view.php:99
 msgid "Edit"
-msgstr ""
+msgstr "Düzenle"
 
 #: packages/reviews/blocks/reviews/view.php:100
 msgid "Are you sure you would like to remove this review?"
@@ -137,7 +137,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/view.php:100
 msgid "Remove"
-msgstr ""
+msgstr "Kaldır"
 
 #: packages/reviews/blocks/reviews/view.php:102
 msgid "Un-Approve"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/view.php:104
 msgid "Approve"
-msgstr ""
+msgstr "Onayla"
 
 #. %s is an username, %2$s is a date
 #: packages/reviews/blocks/reviews/view.php:121
@@ -159,7 +159,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/view.php:144
 msgid "Login"
-msgstr ""
+msgstr "Oturum Aç"
 
 #: packages/reviews/blocks/reviews/view.php:148
 msgid "Leave a Review"

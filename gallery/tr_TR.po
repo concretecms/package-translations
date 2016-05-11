@@ -26,7 +26,7 @@ msgstr ""
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/view.php:1
 #: C:\Work\addon_gallery/packages/gallery/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Erişim Engellendi."
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/controller.php:25
 msgid "Display a gallery of images."
@@ -51,12 +51,12 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:8
 msgid "File Set"
-msgstr ""
+msgstr "Dosya Grubu"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:14
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:14
 msgid "Duration"
-msgstr ""
+msgstr "Süre"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/fileset_row_include.php:16
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/image_row_include.php:16
@@ -74,7 +74,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:22
 msgid "Options"
-msgstr ""
+msgstr "Seçenekler"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:29
 msgid "Thumbnail Width"
@@ -99,7 +99,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:65
 msgid "** Default"
-msgstr ""
+msgstr "** Varsayılan"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:70
 msgid "Thumbnail to Use"
@@ -107,7 +107,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:80
 msgid "Type"
-msgstr ""
+msgstr "Tür"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:82
 msgid "Custom Gallery"
@@ -123,7 +123,7 @@ msgstr ""
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:90
 msgid "Display Order"
-msgstr ""
+msgstr "Gösterim Sıralaması"
 
 #: C:\Work\addon_gallery/packages/gallery/blocks/gallery/form_setup_html.php:91
 msgid "Random (But keep sets together)"

@@ -5,42 +5,32 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2015-01-03 11:01+0000\n"
+"POT-Creation-Date: 2015-07-02 07:09+0000\n"
+"PO-Revision-Date: 2016-05-10 15:21+0000\n"
 "Last-Translator: Count Raven Amiant <cravener@gmail.com>\n"
-"Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/concrete5-packages/language/ru_RU/)\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/concrete5/concrete5-packages/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ru_RU\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-#: packages/multilingual/blocks/switch_language/controller.php:13
-msgid "Adds a front-end language switcher to your website."
-msgstr "Добавление переключателя языков на страницы сайта."
+#: packages/multilingual/blocks/switch_language/templates/flags
+msgctxt "TemplateFileName"
+msgid "Flags"
+msgstr "Флаги"
 
-#: packages/multilingual/blocks/switch_language/controller.php:17
-msgid "Switch Language"
-msgstr "Переключатель языков"
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default
+msgctxt "TemplateFileName"
+msgid "Flags Set Default"
+msgstr "Флаги с умолчанием"
 
-#: packages/multilingual/blocks/switch_language/controller.php:25
-#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
-msgid "Choose Language"
-msgstr "Выбор языка"
-
-#: packages/multilingual/blocks/switch_language/form.php:3
-msgid "Label"
-msgstr "Заголовок"
-
-#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
-msgid "Remember my choice on this computer."
-msgstr "Запомнить мой выбор на этом компьютере."
-
-#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
-msgid "Save"
-msgstr "Сохранить"
+#: packages/multilingual/blocks/switch_language/templates/seo_flags
+msgctxt "TemplateFileName"
+msgid "Seo Flags"
+msgstr ""
 
 #: packages/multilingual/controller.php:10
 msgid "Translate your site with this free multilingual solution."
@@ -75,6 +65,31 @@ msgstr "Сводка по страницам"
 #: packages/multilingual/controller.php:164
 msgid "Exclude from Internationalization Copy"
 msgstr "Не копировать в языковые разделы"
+
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
+msgid "Remember my choice on this computer."
+msgstr "Запомнить мой выбор на этом компьютере."
+
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
+msgid "Save"
+msgstr "Сохранить"
+
+#: packages/multilingual/blocks/switch_language/controller.php:13
+msgid "Adds a front-end language switcher to your website."
+msgstr "Добавление переключателя языков на страницы сайта."
+
+#: packages/multilingual/blocks/switch_language/controller.php:17
+msgid "Switch Language"
+msgstr "Переключатель языков"
+
+#: packages/multilingual/blocks/switch_language/controller.php:25
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
+msgid "Choose Language"
+msgstr "Выбор языка"
+
+#: packages/multilingual/blocks/switch_language/form.php:3
+msgid "Label"
+msgstr "Заголовок"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:84
 msgid "You cannot assign this page to itself."
@@ -223,10 +238,12 @@ msgid "Re-Map"
 msgstr "Переопределить соответствие"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:132
+#: packages/multilingual/tools/switch_language_for_page.php:52
 msgid "Map"
 msgstr "Определить соответствие"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:138
+#: packages/multilingual/tools/switch_language_for_page.php:51
 msgid "Create"
 msgstr "Создать"
 
@@ -243,6 +260,7 @@ msgid "No pages found."
 msgstr "Страницы не найдены."
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:187
+#: packages/multilingual/tools/switch_language_for_page.php:67
 msgid "Choose A Page"
 msgstr "Выберите страницу"
 
@@ -359,32 +377,17 @@ msgstr "Перенаправлять посетителя с главной ст
 msgid "Save Settings"
 msgstr "Сохранить"
 
-#: packages/multilingual/tools/switch_language_for_page.php:44
+#: packages/multilingual/tools/switch_language_for_page.php:45
 #, php-format
 msgid "%s: %s"
 msgstr "%s: %s"
 
-#: packages/multilingual/tools/switch_language_for_page.php:47
+#: packages/multilingual/tools/switch_language_for_page.php:48
 #, php-format
 msgid "Currently Viewing: %s"
 msgstr "Вы просматриваете страницу: %s"
 
-#: packages/multilingual/tools/switch_language_for_page.php:48
+#: packages/multilingual/tools/switch_language_for_page.php:49
 #, php-format
 msgid "%s: None Created"
 msgstr "%s: не создано"
-
-#: packages/multilingual/blocks/switch_language/templates/flags
-msgctxt "TemplateFileName"
-msgid "Flags"
-msgstr "Флаги"
-
-#: packages/multilingual/blocks/switch_language/templates/flags_set_default
-msgctxt "TemplateFileName"
-msgid "Flags Set Default"
-msgstr "Флаги с умолчанием"
-
-#: packages/multilingual/blocks/switch_language/templates/seo_flags
-msgctxt "TemplateFileName"
-msgid "Seo Flags"
-msgstr ""

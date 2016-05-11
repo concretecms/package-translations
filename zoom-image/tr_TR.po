@@ -18,7 +18,7 @@ msgstr ""
 #: packages/zoom_image/blocks/zoom_image/controller.php:17
 #: packages/zoom_image/controller.php:12
 msgid "Adds images and onstates from the library to pages."
-msgstr ""
+msgstr "Sayfalara, kütüphaneden resim ekler."
 
 #: packages/zoom_image/blocks/zoom_image/controller.php:21
 #: packages/zoom_image/controller.php:16
@@ -27,15 +27,15 @@ msgstr ""
 
 #: packages/zoom_image/blocks/zoom_image/controller.php:26
 msgid "You must select an image."
-msgstr ""
+msgstr "Bir resim seçmeniz gerekiyor."
 
 #: packages/zoom_image/blocks/zoom_image/form.php:2
 msgid "Image"
-msgstr ""
+msgstr "Resim"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:3
 msgid "Choose Image"
-msgstr ""
+msgstr "Resim Seç"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:7
 msgid "Alt Text"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: packages/zoom_image/blocks/zoom_image/form.php:25
 msgid "Options"
-msgstr ""
+msgstr "Seçenekler"
 
 #: packages/zoom_image/blocks/zoom_image/form.php:28
 msgid "Hide original image when zoomed"

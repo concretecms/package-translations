@@ -156,7 +156,7 @@ msgstr ""
 
 #: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:17
 msgid "Refresh"
-msgstr ""
+msgstr "Yenile"
 
 #: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:27
 msgid "Please wait"
@@ -185,7 +185,7 @@ msgstr ""
 
 #: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:131
 msgid "Files"
-msgstr ""
+msgstr "Dosyalar"
 
 #: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:141
 msgid "Are you sure you want to proceed?"

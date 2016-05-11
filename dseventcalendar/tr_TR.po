@@ -26,7 +26,7 @@ msgstr ""
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/controller.php:2
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/edit.php:2
 msgid "Access Denied."
-msgstr ""
+msgstr "Erişim Engellendi."
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controller.php:14
 msgid ""
@@ -105,7 +105,7 @@ msgstr ""
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/calendar.php:18
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:23
 msgid "Settings"
-msgstr ""
+msgstr "Ayarlar"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/help.php:4
 msgid "Help for dsEventCalendar"
@@ -144,7 +144,7 @@ msgstr ""
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:44
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:97
 msgid "Color"
-msgstr ""
+msgstr "Renk"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:36
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:45
@@ -156,17 +156,17 @@ msgstr ""
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:44
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:53
 msgid "Options"
-msgstr ""
+msgstr "Seçenekler"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:68
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:79
 msgid "Edit"
-msgstr ""
+msgstr "Düzenle"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:69
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:82
 msgid "Delete"
-msgstr ""
+msgstr "Sil"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/types.php:79
 msgid "Type has been edited"
@@ -209,7 +209,7 @@ msgstr ""
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:41
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:50
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:42
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:51
@@ -267,12 +267,12 @@ msgstr ""
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:65
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:135
 msgid "Description"
-msgstr ""
+msgstr "Açıklama"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:66
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:136
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/event.php:71
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:111
@@ -323,7 +323,7 @@ msgstr ""
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:29
 msgid "Language"
-msgstr ""
+msgstr "Dil"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:41
 msgid "Language - datepicker"
@@ -373,7 +373,7 @@ msgstr ""
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:151
 msgid "Help"
-msgstr ""
+msgstr "Yardım"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/settings.php:153
 msgid ""
@@ -425,20 +425,20 @@ msgstr ""
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:116
 msgid "Default"
-msgstr ""
+msgstr "Varsayılan"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:165
 msgid "Remove"
-msgstr ""
+msgstr "Kaldır"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:166
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/view.php:35
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:167
 msgid "Update"
-msgstr ""
+msgstr "Güncelle"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_event.php:478
 msgid "Event has been removed"
@@ -481,31 +481,31 @@ msgstr ""
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:57
 msgid "Monday"
-msgstr ""
+msgstr "Pazartesi"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:57
 msgid "Tuesday"
-msgstr ""
+msgstr "Salı"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:57
 msgid "Wednesday"
-msgstr ""
+msgstr "Çarşamba"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:57
 msgid "Thursday"
-msgstr ""
+msgstr "Perşembe"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:57
 msgid "Friday"
-msgstr ""
+msgstr "Cuma"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:57
 msgid "Saturday"
-msgstr ""
+msgstr "Cumartesi"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/settings.php:57
 msgid "Sunday"
-msgstr ""
+msgstr "Pazar"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/calendar.php:21
 #: /var/www/c5packlh/packages/dsEventCalendar/controllers/dashboard/event_calendar/calendar.php:59
@@ -538,7 +538,7 @@ msgstr ""
 
 #: /var/www/c5packlh/packages/dsEventCalendar/libraries/dsEventCalendar.php:74
 msgid "All"
-msgstr ""
+msgstr "Tamamı"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/view.php:9
 msgid "No calendar choose"

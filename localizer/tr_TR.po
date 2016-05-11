@@ -134,7 +134,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:111
 msgid "Page"
-msgstr ""
+msgstr "Sayfa"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:114
 msgid "Single page"
@@ -142,7 +142,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:117
 msgid "Stack"
-msgstr ""
+msgstr "Yığın"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:120
 msgid "Composer page"
@@ -150,7 +150,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:123
 msgid "User"
-msgstr ""
+msgstr "Kullanıcı"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:126
 msgid "File set"
@@ -158,7 +158,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:129
 msgid "File"
-msgstr ""
+msgstr "Dosya"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:132
 msgid "Area"
@@ -170,7 +170,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:138
 msgid "Block"
-msgstr ""
+msgstr "Blok"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:141
 msgid "Administration"
@@ -285,7 +285,7 @@ msgstr ""
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:70
 #: packages/localizer/single_pages/dashboard/system/basics/localizer/options.php:42
 msgid "Save"
-msgstr ""
+msgstr "Kaydet"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:5
 msgid "Translate special items"
@@ -301,8 +301,8 @@ msgstr ""
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:42
 msgid "Language"
-msgstr ""
+msgstr "Dil"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:69
 msgid "Options"
-msgstr ""
+msgstr "Seçenekler"

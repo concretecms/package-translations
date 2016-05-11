@@ -39,7 +39,7 @@ msgstr ""
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:5
 #: packages/cu3er/blocks/cu3er/image_row_include.php:12
 msgid "Duration"
-msgstr ""
+msgstr "Süre"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:7
 #: packages/cu3er/blocks/cu3er/image_row_include.php:14
@@ -62,19 +62,19 @@ msgstr ""
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:14
 #: packages/cu3er/blocks/cu3er/image_row_include.php:21
 msgid "Direction"
-msgstr ""
+msgstr "Yön"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:16
 msgid "Left"
-msgstr ""
+msgstr "Sol"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:17
 msgid "Right"
-msgstr ""
+msgstr "Sağ"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:18
 msgid "Up"
-msgstr ""
+msgstr "Yukarı"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:19
 msgid "Down"
@@ -87,11 +87,11 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:23
 msgid "None"
-msgstr ""
+msgstr "Hiçbiri"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:24
 msgid "Flat"
-msgstr ""
+msgstr "Düz"
 
 #: packages/cu3er/blocks/cu3er/fileset_row_include.php:25
 msgid "Phong"
@@ -104,7 +104,7 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:34
 msgid "Type"
-msgstr ""
+msgstr "Tür"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:36
 msgid "Custom Slideshow"
@@ -120,7 +120,7 @@ msgstr ""
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:43
 msgid "Display Order"
-msgstr ""
+msgstr "Gösterim Sıralaması"
 
 #: packages/cu3er/blocks/cu3er/form_setup_html.php:44
 msgid "Random (But keep sets together)"

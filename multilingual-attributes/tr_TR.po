@@ -30,23 +30,23 @@ msgstr ""
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/controller.php:74
 msgid "Title"
-msgstr ""
+msgstr "Başlık"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/controller.php:75
 msgid "Description"
-msgstr ""
+msgstr "Açıklama"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/controller.php:460
 msgid "Text"
-msgstr ""
+msgstr "Metin"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/controller.php:461
 msgid "Text Area"
-msgstr ""
+msgstr "Metin Alanı"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/controller.php:462
 msgid "Rich Text"
-msgstr ""
+msgstr "Zengin Metin"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/search_form.php:3
 msgid "all languages"
@@ -65,7 +65,7 @@ msgstr ""
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:38
 msgctxt "No attribute"
 msgid "none"
-msgstr ""
+msgstr "hiçbiri"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:40
 #, php-format
@@ -79,7 +79,7 @@ msgstr ""
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:52
 msgid "Type"
-msgstr ""
+msgstr "Tür"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:64
 msgid "When not set for a language, use the value of:"

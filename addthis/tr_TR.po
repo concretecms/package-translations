@@ -24,7 +24,7 @@ msgstr ""
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/view.php:2
 #: C:\Work\addon_addthis/packages/addthis/controller.php:3
 msgid "Access Denied."
-msgstr ""
+msgstr "Erişim Engellendi."
 
 #: C:\Work\addon_addthis/packages/addthis/blocks/addthis/controller.php:18
 #: C:\Work\addon_addthis/packages/addthis/controller.php:12

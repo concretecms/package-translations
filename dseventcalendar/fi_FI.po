@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2015-06-13 17:08+0100\n"
-"PO-Revision-Date: 2015-06-14 08:50+0000\n"
+"PO-Revision-Date: 2016-05-10 15:25+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
-"Language-Team: Finnish (Finland) (http://www.transifex.com/projects/p/concrete5-packages/language/fi_FI/)\n"
+"Language-Team: Finnish (Finland) (http://www.transifex.com/concrete5/concrete5-packages/language/fi_FI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -210,7 +210,7 @@ msgstr "Kalentereita ei ole. Siirry Lisää kalenteri -sivulle lisätäksesi uud
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:41
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:50
 msgid "ID"
-msgstr ""
+msgstr "Tunniste"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:42
 #: /var/www/c5packlh/packages/dsEventCalendar/single_pages/dashboard/event_calendar/list_calendar.php:51
@@ -539,7 +539,7 @@ msgstr "Tyyppi:"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/libraries/dsEventCalendar.php:74
 msgid "All"
-msgstr ""
+msgstr "Kaikki"
 
 #: /var/www/c5packlh/packages/dsEventCalendar/blocks/event_calendar/view.php:9
 msgid "No calendar choose"

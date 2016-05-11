@@ -23,7 +23,7 @@ msgstr ""
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/form.php:3
 #: C:\Work\concrete5-composer-list/elements/page_attributes.php:2
 msgid "Access Denied."
-msgstr ""
+msgstr "Erişim Engellendi."
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:16
 msgid "Adds a blocks which allows you to edit the page attributes."
@@ -31,7 +31,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/blocks/remo_attribute_edit/controller.php:20
 msgid "Page Attributes"
-msgstr ""
+msgstr "Sayfa Özellikleri"
 
 #: C:\Work\concrete5-composer-list/controller.php:13
 msgid "Composer List"
@@ -76,7 +76,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:24
 msgid "Search"
-msgstr ""
+msgstr "Ara"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:28
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:35
@@ -85,11 +85,11 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:72
 msgid "Edit"
-msgstr ""
+msgstr "Düzenle"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:73
 msgid "Delete"
-msgstr ""
+msgstr "Sil"
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:75
 msgid "Are you sure you want to remove this page?"
@@ -97,7 +97,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:134
 msgid "No pages found."
-msgstr ""
+msgstr "Sayfa Bulunamadı."
 
 #: C:\Work\concrete5-composer-list/single_pages/dashboard/composer/list.php:138
 msgid "What type of page would you like to edit?"
@@ -109,27 +109,27 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:9
 msgid "Page Type"
-msgstr ""
+msgstr "Sayfa Türü"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:10
 msgid "Page Name"
-msgstr ""
+msgstr "Sayfa Adı"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:11
 msgid "Path"
-msgstr ""
+msgstr "Yol"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:12
 msgid "Date Created"
-msgstr ""
+msgstr "Oluşturulma Tarihi"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:13
 msgid "Date Modified"
-msgstr ""
+msgstr "Değiştirilme Tarihi"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:14
 msgid "Page Owner"
-msgstr ""
+msgstr "Sayfa Sahibi"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:30
 msgid "Choose Headers"
@@ -137,7 +137,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:33
 msgid "Standard Properties"
-msgstr ""
+msgstr "Standart Özellikler"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:48
 msgid "Additional Attributes"
@@ -145,11 +145,11 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:64
 msgid "Column Order"
-msgstr ""
+msgstr "Sütun Sıralaması"
 
 #: C:\Work\concrete5-composer-list/tools/customize_columns.php:83
 msgid "Save"
-msgstr ""
+msgstr "Kaydet"
 
 #~ msgid " "
 #~ msgstr " "

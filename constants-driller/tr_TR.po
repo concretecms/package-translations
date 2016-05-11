@@ -81,7 +81,7 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
 msgid "File"
-msgstr ""
+msgstr "Dosya"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:156
 msgid "Line"
@@ -89,7 +89,7 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:161
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:200
 msgid "We have to do a first-time scan to locate all the constants."
@@ -111,11 +111,11 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:213
 msgid "Options"
-msgstr ""
+msgstr "Seçenekler"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:215
 msgid "Rescan"
-msgstr ""
+msgstr "Yeniden Tara"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:223
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:252
@@ -140,11 +140,11 @@ msgstr ""
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:230
 msgid "File name"
-msgstr ""
+msgstr "Dosya adı"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:233
 msgid "Search"
-msgstr ""
+msgstr "Ara"
 
 #: packages/constants_driller/single_pages/dashboard/system/environment/constants_driller.php:243
 msgid "Exclude 3rd party libraries"
