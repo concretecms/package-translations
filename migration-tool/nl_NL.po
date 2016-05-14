@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2016-02-16 19:16+0000\n"
+"PO-Revision-Date: 2016-05-14 01:21+0000\n"
 "Last-Translator: Volluta <volluta@tutanota.com>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/concrete5/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -785,7 +785,7 @@ msgstr "Attribuut Categorieën"
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeKeyFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/AttributeKey.php:75
 msgid "Attribute Keys"
-msgstr ""
+msgstr "Attribuut sleutels"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeSetFormatter.php:10
 msgid "Attribute Sets"
@@ -793,7 +793,7 @@ msgstr "Attribute Sets"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeTypeFormatter.php:10
 msgid "Attribute Types"
-msgstr ""
+msgstr "Attribuut types"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/BannedWordFormatter.php:10
 msgid "Banned Words"
@@ -935,7 +935,7 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PermissionKey/AccessEntityFormatter.php:21
 msgid "Entity"
-msgstr ""
+msgstr "Entiteit"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PermissionKey/GroupAccessEntityFormatter.php:11
 msgid "Group"
