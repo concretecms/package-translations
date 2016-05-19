@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2016-05-14 01:21+0000\n"
+"PO-Revision-Date: 2016-05-18 14:12+0000\n"
 "Last-Translator: Volluta <volluta@tutanota.com>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/concrete5/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -1102,7 +1102,7 @@ msgstr "Genegeerd"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Entity/ContentMapper/UnmappedTargetItem.php:17
 msgid "Unmapped"
-msgstr ""
+msgstr "Niet verwezen"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/SearchResult/StandardFormatter.php:54
 msgid "Request must be passed to the StandardFormatter"
