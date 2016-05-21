@@ -43,7 +43,7 @@ msgstr ""
 
 #: C:\Work\concrete5-composer-list/controller.php:44
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 #: C:\Work\concrete5-composer-list/controller.php:44
 msgid "List of Pages"

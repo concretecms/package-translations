@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2016-01-25 19:10+0000\n"
+"PO-Revision-Date: 2016-05-20 19:42+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -784,7 +784,7 @@ msgstr "Categorias de Atributos"
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeKeyFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/AttributeKey.php:75
 msgid "Attribute Keys"
-msgstr ""
+msgstr "Chaves de Atributo"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeSetFormatter.php:10
 msgid "Attribute Sets"
@@ -792,7 +792,7 @@ msgstr "Conjunto de Atributos"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeTypeFormatter.php:10
 msgid "Attribute Types"
-msgstr ""
+msgstr "Tipos de Atributo"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/BannedWordFormatter.php:10
 msgid "Banned Words"
@@ -800,11 +800,11 @@ msgstr "Palavras banidas"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/BlockTypeSetFormatter.php:10
 msgid "Block Type Sets"
-msgstr ""
+msgstr "Tipo de Conjuntos de Blocos"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/CaptchaFormatter.php:10
 msgid "Captcha Libraries"
-msgstr ""
+msgstr "Bibliotecas Captcha"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConfigValueFormatter.php:10
 msgid "Config Values"
@@ -855,7 +855,7 @@ msgstr ""
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageTypePublishTargetTypeFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/PageTypePublishTargetType.php:75
 msgid "Page Type Publish Target Types"
-msgstr ""
+msgstr "Tipo de Página de Tipos de Alvo de Publicação"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionAccessEntityTypeFormatter.php:10
 msgid "Access Entity Types"
@@ -863,11 +863,11 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionKeyCategoryFormatter.php:10
 msgid "Permission Categories"
-msgstr ""
+msgstr "Permissão de Categorias"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionKeyFormatter.php:10
 msgid "Permission Keys"
-msgstr ""
+msgstr "Chaves de Permissão"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/SinglePageFormatter.php:15
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/SinglePage.php:77
@@ -893,11 +893,11 @@ msgstr "Tópicos"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowProgressCategoryFormatter.php:10
 msgid "Workflow Progress Categories"
-msgstr ""
+msgstr "Fluxo de Progresso de Categorias"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowTypeFormatter.php:10
 msgid "Workflow Types"
-msgstr ""
+msgstr "Fluxo de Tipos"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Page/TreeJsonFormatter.php:23
 msgid "Page Path"
@@ -934,7 +934,7 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PermissionKey/AccessEntityFormatter.php:21
 msgid "Entity"
-msgstr ""
+msgstr "Entidade"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PermissionKey/GroupAccessEntityFormatter.php:11
 msgid "Group"
@@ -1113,11 +1113,11 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/ConversationRatingType.php:75
 msgid "Conversation Rating Type"
-msgstr ""
+msgstr "Tipo de Conversação de Classificação"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/PageTypeComposerControlType.php:75
 msgid "Page Type Composer Control Types"
-msgstr ""
+msgstr "Tipo de Página de Tipos de Controle de Compositor"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Importer/CIF/CIFParser.php:19
 msgid "concrete5 XML Export"
