@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2016-05-18 14:12+0000\n"
+"PO-Revision-Date: 2016-06-02 08:38+0000\n"
 "Last-Translator: Volluta <volluta@tutanota.com>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/concrete5/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -805,7 +805,7 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/CaptchaFormatter.php:10
 msgid "Captcha Libraries"
-msgstr ""
+msgstr "Captcha-bibliotheken"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConfigValueFormatter.php:10
 msgid "Config Values"
