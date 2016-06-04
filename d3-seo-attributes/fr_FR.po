@@ -1,12 +1,14 @@
 # 
 # Translators:
+# Marc Antoine THEVENET <mat@idimweb.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-02 09:42+0000\n"
-"PO-Revision-Date: 2014-12-02 13:53+0000\n"
-"Language-Team: French (France) (http://www.transifex.com/projects/p/concrete5-packages/language/fr_FR/)\n"
+"PO-Revision-Date: 2016-06-03 15:16+0000\n"
+"Last-Translator: Marc Antoine THEVENET <mat@idimweb.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/concrete5/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,21 +19,21 @@ msgstr ""
 
 #: packages/d3_seo_attributes/controller.php:11
 msgid "Adds a character counter to the meta title and meta description fields"
-msgstr ""
+msgstr "Ajoute un compteur du nombre de caractères pour les champs méta titre et méta description"
 
 #: packages/d3_seo_attributes/controller.php:15
 msgid "SEO Attributes"
-msgstr ""
+msgstr "SEO Attributs"
 
 #: packages/d3_seo_attributes/controller.php:59
 msgid "SEO Meta Title"
-msgstr ""
+msgstr "SEO méta titre"
 
 #: packages/d3_seo_attributes/controller.php:71
 msgid "SEO Meta Description"
-msgstr ""
+msgstr "SEO méta description"
 
 #: packages/d3_seo_attributes/models/attribute/types/seo_meta_description/form.php:13
 #: packages/d3_seo_attributes/models/attribute/types/seo_meta_title/form.php:13
 msgid "Chars: "
-msgstr ""
+msgstr "Carac. :"
