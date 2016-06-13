@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-20 09:39+0000\n"
-"PO-Revision-Date: 2016-05-10 15:22+0000\n"
+"PO-Revision-Date: 2016-06-12 22:46+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
 "Language-Team: Finnish (Finland) (http://www.transifex.com/concrete5/concrete5-packages/language/fi_FI/)\n"
 "MIME-Version: 1.0\n"
@@ -196,7 +196,7 @@ msgstr "Tiedostot"
 
 #: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:141
 msgid "Are you sure you want to proceed?"
-msgstr ""
+msgstr "Haluatko varmasti jatkaa?"
 
 #: packages/files_cleaner/single_pages/dashboard/system/optimization/clear_files/view.php:260
 msgid "Clear Files"
