@@ -5,10 +5,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-25 08:55+0000\n"
-"PO-Revision-Date: 2014-03-25 12:15+0000\n"
+"POT-Creation-Date: 2015-07-02 07:09+0000\n"
+"PO-Revision-Date: 2016-06-16 15:35+0000\n"
 "Last-Translator: Takuro Hishikawa <hishikawa@concrete5.co.jp>\n"
-"Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/concrete5-packages/language/ja_JP/)\n"
+"Language-Team: Japanese (Japan) (http://www.transifex.com/concrete5/concrete5-packages/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,30 +17,20 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-#: packages/multilingual/blocks/switch_language/controller.php:13
-msgid "Adds a front-end language switcher to your website."
-msgstr "フロントエンド言語切り替え機能をウェブサイトに追加します。"
+#: packages/multilingual/blocks/switch_language/templates/flags
+msgctxt "TemplateFileName"
+msgid "Flags"
+msgstr "国旗"
 
-#: packages/multilingual/blocks/switch_language/controller.php:17
-msgid "Switch Language"
-msgstr "言語切り替え"
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default
+msgctxt "TemplateFileName"
+msgid "Flags Set Default"
+msgstr "国旗セットデフォルト"
 
-#: packages/multilingual/blocks/switch_language/controller.php:25
-#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
-msgid "Choose Language"
-msgstr "言語を選択"
-
-#: packages/multilingual/blocks/switch_language/form.php:3
-msgid "Label"
-msgstr "ラベル"
-
-#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
-msgid "Remember my choice on this computer."
-msgstr "選択をコンピューターに保存します。"
-
-#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
-msgid "Save"
-msgstr "保存"
+#: packages/multilingual/blocks/switch_language/templates/seo_flags
+msgctxt "TemplateFileName"
+msgid "Seo Flags"
+msgstr "SEO国旗"
 
 #: packages/multilingual/controller.php:10
 msgid "Translate your site with this free multilingual solution."
@@ -75,6 +65,31 @@ msgstr "ページレポート"
 #: packages/multilingual/controller.php:164
 msgid "Exclude from Internationalization Copy"
 msgstr "多言語コピーから除く"
+
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:25
+msgid "Remember my choice on this computer."
+msgstr "選択をコンピューターに保存します。"
+
+#: packages/multilingual/blocks/switch_language/templates/flags_set_default/view.php:28
+msgid "Save"
+msgstr "保存"
+
+#: packages/multilingual/blocks/switch_language/controller.php:13
+msgid "Adds a front-end language switcher to your website."
+msgstr "フロントエンド言語切り替え機能をウェブサイトに追加します。"
+
+#: packages/multilingual/blocks/switch_language/controller.php:17
+msgid "Switch Language"
+msgstr "言語切り替え"
+
+#: packages/multilingual/blocks/switch_language/controller.php:25
+#: packages/multilingual/single_pages/dashboard/multilingual/setup.php:35
+msgid "Choose Language"
+msgstr "言語を選択"
+
+#: packages/multilingual/blocks/switch_language/form.php:3
+msgid "Label"
+msgstr "ラベル"
 
 #: packages/multilingual/controllers/dashboard/multilingual/page_report.php:84
 msgid "You cannot assign this page to itself."
@@ -223,10 +238,12 @@ msgid "Re-Map"
 msgstr "再マッピング"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:132
+#: packages/multilingual/tools/switch_language_for_page.php:52
 msgid "Map"
 msgstr "マッピング"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:138
+#: packages/multilingual/tools/switch_language_for_page.php:51
 msgid "Create"
 msgstr "作成"
 
@@ -243,6 +260,7 @@ msgid "No pages found."
 msgstr "ページが見つかりません。"
 
 #: packages/multilingual/single_pages/dashboard/multilingual/page_report.php:187
+#: packages/multilingual/tools/switch_language_for_page.php:67
 msgid "Choose A Page"
 msgstr "ページを選択"
 
@@ -359,32 +377,17 @@ msgstr "ホームページからデフォルト言語セクションにリダイ
 msgid "Save Settings"
 msgstr "設定を保存"
 
-#: packages/multilingual/tools/switch_language_for_page.php:44
+#: packages/multilingual/tools/switch_language_for_page.php:45
 #, php-format
 msgid "%s: %s"
 msgstr "%s: %s"
 
-#: packages/multilingual/tools/switch_language_for_page.php:47
+#: packages/multilingual/tools/switch_language_for_page.php:48
 #, php-format
 msgid "Currently Viewing: %s"
 msgstr "現在閲覧中：%s"
 
-#: packages/multilingual/tools/switch_language_for_page.php:48
+#: packages/multilingual/tools/switch_language_for_page.php:49
 #, php-format
 msgid "%s: None Created"
 msgstr "%s：未作成"
-
-#: packages/multilingual/blocks/switch_language/templates/flags
-msgctxt "TemplateFileName"
-msgid "Flags"
-msgstr "国旗"
-
-#: packages/multilingual/blocks/switch_language/templates/flags_set_default
-msgctxt "TemplateFileName"
-msgid "Flags Set Default"
-msgstr "国旗セットデフォルト"
-
-#: packages/multilingual/blocks/switch_language/templates/seo_flags
-msgctxt "TemplateFileName"
-msgid "Seo Flags"
-msgstr "SEO国旗"
