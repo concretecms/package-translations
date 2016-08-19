@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2016-06-07 09:22+0000\n"
+"PO-Revision-Date: 2016-08-18 19:15+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/concrete5/concrete5-packages/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
@@ -235,7 +235,7 @@ msgstr ""
 #: packages/migration_tool/elements/batch_content_types/content_editor_snippet.php:6
 #: packages/migration_tool/elements/batch_content_types/theme.php:5
 msgid "Activated"
-msgstr ""
+msgstr "Активированные"
 
 #: packages/migration_tool/elements/batch_content_types/content_editor_snippet.php:19
 #: packages/migration_tool/elements/batch_content_types/conversation_editor.php:19
