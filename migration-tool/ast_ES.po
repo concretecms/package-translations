@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2015-12-05 09:06+0000\n"
+"PO-Revision-Date: 2016-09-18 15:37+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Asturian (Spain) (http://www.transifex.com/concrete5/concrete5-packages/language/ast_ES/)\n"
 "MIME-Version: 1.0\n"
@@ -293,7 +293,7 @@ msgstr ""
 
 #: packages/migration_tool/elements/batch_content_types/social_link.php:5
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: packages/migration_tool/elements/batch_content_types/stack.php:8
 msgid "Stack"
@@ -301,11 +301,11 @@ msgstr ""
 
 #: packages/migration_tool/elements/batch_content_types/thumbnail_type.php:6
 msgid "Width"
-msgstr ""
+msgstr "Anchor"
 
 #: packages/migration_tool/elements/batch_content_types/thumbnail_type.php:7
 msgid "Height"
-msgstr ""
+msgstr "Altor"
 
 #: packages/migration_tool/elements/batch_content_types/thumbnail_type.php:8
 msgid "Required"

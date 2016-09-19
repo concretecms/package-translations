@@ -96,7 +96,7 @@ msgstr ""
 
 #: packages/redirect/blocks/redirect/edit.php:43
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: packages/redirect/blocks/redirect/edit.php:61
 msgid "Redirect members of these groups"
