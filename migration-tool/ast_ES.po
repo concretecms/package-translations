@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2016-09-18 15:37+0000\n"
+"PO-Revision-Date: 2016-09-19 22:53+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Asturian (Spain) (http://www.transifex.com/concrete5/concrete5-packages/language/ast_ES/)\n"
 "MIME-Version: 1.0\n"
@@ -829,7 +829,7 @@ msgstr ""
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/JobFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/Job.php:72
 msgid "Jobs"
-msgstr ""
+msgstr "Trabayos"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/JobSetFormatter.php:10
 msgid "Job Sets"
