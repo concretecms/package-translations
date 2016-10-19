@@ -1,13 +1,14 @@
 # 
 # Translators:
+# enolp <enolp@softastur.org>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-18 19:28+0000\n"
-"PO-Revision-Date: 2014-04-18 19:32+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
-"Language-Team: Asturian (Spain) (http://www.transifex.com/projects/p/concrete5-packages/language/ast_ES/)\n"
+"PO-Revision-Date: 2016-10-19 01:01+0000\n"
+"Last-Translator: enolp <enolp@softastur.org>\n"
+"Language-Team: Asturian (Spain) (http://www.transifex.com/concrete5/concrete5-packages/language/ast_ES/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,11 +19,11 @@ msgstr ""
 
 #: packages/jb_youtubebackground_free/blocks/jb_youtubebackground_free/form_setup_html.php:36
 msgid "4/3"
-msgstr ""
+msgstr "4/3"
 
 #: packages/jb_youtubebackground_free/blocks/jb_youtubebackground_free/form_setup_html.php:37
 msgid "16/9"
-msgstr ""
+msgstr "16/9"
 
 #: packages/jb_youtubebackground_free/blocks/jb_youtubebackground_free/form_setup_html.php:51
 msgid "Choose Image"
@@ -30,7 +31,7 @@ msgstr ""
 
 #: packages/jb_youtubebackground_free/blocks/jb_youtubebackground_free/view.php:11
 msgid "Background video disabled in edit mode."
-msgstr ""
+msgstr "Deshabilitóse'l videu de fondu nel mou edición."
 
 #: packages/jb_youtubebackground_free/controller.php:11
 msgid "Add YouTube video to page background"
@@ -38,4 +39,4 @@ msgstr ""
 
 #: packages/jb_youtubebackground_free/controller.php:15
 msgid "YouTube Background FREE"
-msgstr ""
+msgstr "YouTube Background FREE"
