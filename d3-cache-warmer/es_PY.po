@@ -1,0 +1,46 @@
+# 
+# Translators:
+# Miguel Morel <mmorel@senatur.gov.py>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-30 08:37+0000\n"
+"PO-Revision-Date: 2016-10-20 19:31+0000\n"
+"Last-Translator: Miguel Morel <mmorel@senatur.gov.py>\n"
+"Language-Team: Spanish (Paraguay) (http://www.transifex.com/concrete5/concrete5-packages/language/es_PY/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_PY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/d3_cache_warmer/controller.php:16
+msgid "Cache Warmer Job"
+msgstr "Memoria caché del Warmer Job"
+
+#: packages/d3_cache_warmer/controller.php:20
+msgid "Installs a job that creates cache files for pages."
+msgstr "Instalar tarea que crea archivos de memoria cache para páginas."
+
+#: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:67
+#, php-format
+msgid "Page cache couldn't be created for '%s'"
+msgstr "Memoria cache de página no ha podido ser creada por '%s'"
+
+#: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:76
+#, php-format
+msgid "%s has loaded %d pages. Max: %d"
+msgstr "%s ha sido cargado %d págimas. Máximo: %d"
+
+#: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:78
+#, php-format
+msgid "%s did not load any pages. Page types: %s. Max pages: %d"
+msgstr "%s no ha cargado ninguna página. Tipos de páginas: %s. Máximo de páginas: %d"
+
+#: packages/d3_cache_warmer/jobs/d3_cache_warmer.php:86
+#, php-format
+msgid "%s failed with an exception: %s"
+msgstr "%s falló mediante una excepción: %s"

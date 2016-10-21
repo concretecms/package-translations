@@ -1,0 +1,67 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-08 19:44+0000\n"
+"PO-Revision-Date: 2016-10-20 19:35+0000\n"
+"Last-Translator: Michele Locati <michele@locati.it>\n"
+"Language-Team: Spanish (Paraguay) (http://www.transifex.com/concrete5/concrete5-packages/language/es_PY/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_PY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/zoom_image/blocks/zoom_image/controller.php:17
+#: packages/zoom_image/controller.php:12
+msgid "Adds images and onstates from the library to pages."
+msgstr ""
+
+#: packages/zoom_image/blocks/zoom_image/controller.php:21
+#: packages/zoom_image/controller.php:16
+msgid "Zoom Image"
+msgstr ""
+
+#: packages/zoom_image/blocks/zoom_image/controller.php:26
+msgid "You must select an image."
+msgstr ""
+
+#: packages/zoom_image/blocks/zoom_image/form.php:2
+msgid "Image"
+msgstr ""
+
+#: packages/zoom_image/blocks/zoom_image/form.php:3
+msgid "Choose Image"
+msgstr ""
+
+#: packages/zoom_image/blocks/zoom_image/form.php:7
+msgid "Alt Text"
+msgstr ""
+
+#: packages/zoom_image/blocks/zoom_image/form.php:10
+msgid "Display as sub title"
+msgstr ""
+
+#: packages/zoom_image/blocks/zoom_image/form.php:15
+msgid "Max Thumbnail Width"
+msgstr ""
+
+#: packages/zoom_image/blocks/zoom_image/form.php:20
+msgid "Max Thumbnail Height"
+msgstr ""
+
+#: packages/zoom_image/blocks/zoom_image/form.php:25
+msgid "Options"
+msgstr "Opciones"
+
+#: packages/zoom_image/blocks/zoom_image/form.php:28
+msgid "Hide original image when zoomed"
+msgstr ""
+
+#: packages/zoom_image/blocks/zoom_image/form.php:32
+msgid "Limit max zoom to window size"
+msgstr ""

@@ -1,0 +1,75 @@
+# 
+# Translators:
+# Miguel Morel <mmorel@senatur.gov.py>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: concrete5 packages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-09 08:55+0000\n"
+"PO-Revision-Date: 2016-10-20 19:31+0000\n"
+"Last-Translator: Miguel Morel <mmorel@senatur.gov.py>\n"
+"Language-Team: Spanish (Paraguay) (http://www.transifex.com/concrete5/concrete5-packages/language/es_PY/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_PY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:18
+msgid "Meant to wrap blocks in an HTML-element"
+msgstr "Significa envolver los bloques en un elemento HTML"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/controller.php:22
+#: packages/d3_block_wrapper/controller.php:15
+msgid "Block Wrapper"
+msgstr "Bloquear envoltura"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:11
+msgid "Select template"
+msgstr "Seleccionar plantilla"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:42
+msgid "Block Title (Optional)"
+msgstr "Bloquear título (Opcional)"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:53
+msgid "Extra CSS classes"
+msgstr "Clases CSS extras"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:64
+msgid "Extra HTML attribute"
+msgstr "Atributo HTML adicional"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/edit.php:75
+msgid "Link to page"
+msgstr "Link a página"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php:7
+msgid "Close Wrapper"
+msgstr "Cerrar Envoltura"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php:13
+msgid "Open Wrapper"
+msgstr "Abrir Envoltura"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/view.php:4
+msgid ""
+"Please select a custom template for this block to either open or close the "
+"wrapper"
+msgstr "Por favor seleccione una plantilla personalizada para este bloque o abra o cierre la envoltura"
+
+#: packages/d3_block_wrapper/controller.php:11
+msgid "Installs a block called 'Block Wrapper'"
+msgstr "Instalar un bloque llamado 'Block Wrapper'"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/close.php
+msgctxt "TemplateFileName"
+msgid "Close"
+msgstr "Cerrar"
+
+#: packages/d3_block_wrapper/blocks/d3_block_wrapper/templates/open.php
+msgctxt "TemplateFileName"
+msgid "Open"
+msgstr "Abrir"
