@@ -1,5 +1,5 @@
 {
-    "updated": 1479198627,
+    "updated": 1479285032,
     "packages": [
         {
             "handle": "addthis",
@@ -3122,11 +3122,11 @@
             "sourceURL": "https://github.com/concrete5/addon_migration_tool",
             "locales": {
                 "de_DE": {
-                    "translated": 153,
-                    "untranslated": 77,
+                    "translated": 160,
+                    "untranslated": 70,
                     "fuzzy": 0,
                     "total": 230,
-                    "perc": 66
+                    "perc": 69
                 },
                 "it_IT": {
                     "translated": 230,
