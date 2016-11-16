@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2016-04-24 22:52+0000\n"
+"PO-Revision-Date: 2016-11-15 17:56+0000\n"
 "Last-Translator: Roland Greim <roland@stempelgreim.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/concrete5/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -806,7 +806,7 @@ msgstr "Blocktypensätze"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/CaptchaFormatter.php:10
 msgid "Captcha Libraries"
-msgstr ""
+msgstr "CAPTCHA-Bibliotheken"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConfigValueFormatter.php:10
 msgid "Config Values"
@@ -857,7 +857,7 @@ msgstr ""
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageTypePublishTargetTypeFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/PageTypePublishTargetType.php:75
 msgid "Page Type Publish Target Types"
-msgstr ""
+msgstr "Zieltypen für die Veröffentlichung von Seitentypen"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionAccessEntityTypeFormatter.php:10
 msgid "Access Entity Types"
@@ -865,7 +865,7 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionKeyCategoryFormatter.php:10
 msgid "Permission Categories"
-msgstr ""
+msgstr "Berechtigungskategorien"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionKeyFormatter.php:10
 msgid "Permission Keys"
@@ -895,11 +895,11 @@ msgstr "Themen"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowProgressCategoryFormatter.php:10
 msgid "Workflow Progress Categories"
-msgstr ""
+msgstr "Workflow-Fortschritt-Kategorien"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowTypeFormatter.php:10
 msgid "Workflow Types"
-msgstr ""
+msgstr "Workflow-Typen"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Page/TreeJsonFormatter.php:23
 msgid "Page Path"
@@ -1115,11 +1115,11 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/ConversationRatingType.php:75
 msgid "Conversation Rating Type"
-msgstr ""
+msgstr "Konversations-Bewertungstyp"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/PageTypeComposerControlType.php:75
 msgid "Page Type Composer Control Types"
-msgstr ""
+msgstr "Steu"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Importer/CIF/CIFParser.php:19
 msgid "concrete5 XML Export"
