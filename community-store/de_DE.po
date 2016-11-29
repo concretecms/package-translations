@@ -56,7 +56,7 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product/form.php:11
 msgid "Select Product"
-msgstr ""
+msgstr "Produkt auswählen"
 
 #: packages/community_store/blocks/community_product/form.php:14
 msgid "Display Options"
@@ -259,7 +259,7 @@ msgstr "Übereinstimmend"
 
 #: packages/community_store/blocks/community_product_list/form.php:65
 msgid "All groups selected"
-msgstr ""
+msgstr "Alle Gruppen markiert"
 
 #: packages/community_store/blocks/community_product_list/form.php:65
 msgid "Any group selected"
@@ -283,7 +283,7 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product_list/form.php:97
 msgid "Number of Products to Display"
-msgstr ""
+msgstr "Anzahl anzuzeigende Produkte"
 
 #: packages/community_store/blocks/community_product_list/form.php:98
 msgid "leave blank or 0 to list all matching products"
@@ -995,14 +995,14 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:333
 #: packages/community_store/single_pages/dashboard/store/orders.php:533
 msgid "Paid"
-msgstr ""
+msgstr "Bezahlt"
 
 #: packages/community_store/elements/order_slip.php:44
 #: packages/community_store/single_pages/dashboard/store/orders.php:39
 #: packages/community_store/single_pages/dashboard/store/orders.php:316
 #: packages/community_store/single_pages/dashboard/store/orders.php:535
 msgid "Unpaid"
-msgstr ""
+msgstr "Unbezahlt"
 
 #: packages/community_store/elements/order_slip.php:46
 #: packages/community_store/single_pages/dashboard/store/orders.php:41
@@ -1259,7 +1259,7 @@ msgstr "Filter Ergebniss(e)"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:75
 msgid "Export CSV"
-msgstr ""
+msgstr "CSV exportieren"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:127
 msgid "Total Quantity Sold"
