@@ -1,5 +1,5 @@
 {
-    "updated": 1480411579,
+    "updated": 1480494626,
     "packages": [
         {
             "handle": "addthis",
@@ -259,11 +259,11 @@
                     "perc": 85
                 },
                 "it_IT": {
-                    "translated": 568,
-                    "untranslated": 27,
+                    "translated": 573,
+                    "untranslated": 22,
                     "fuzzy": 0,
                     "total": 595,
-                    "perc": 95
+                    "perc": 96
                 },
                 "lt_LT": {
                     "translated": 53,
@@ -420,11 +420,11 @@
             "sourceURL": "https://github.com/concrete5-community-store/community_store_stripe",
             "locales": {
                 "de_DE": {
-                    "translated": 5,
-                    "untranslated": 20,
+                    "translated": 6,
+                    "untranslated": 19,
                     "fuzzy": 0,
                     "total": 25,
-                    "perc": 20
+                    "perc": 24
                 },
                 "it_IT": {
                     "translated": 6,
