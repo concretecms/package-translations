@@ -17,7 +17,7 @@ msgstr ""
 
 #: packages/community_store/controller.php:22
 msgid "Add a Store to your Site"
-msgstr "Aggiungi uno store al tuo sito"
+msgstr "Aggiungi un negozio al tuo sito"
 
 #: packages/community_store/controller.php:27
 msgid "Community Store"
@@ -33,7 +33,7 @@ msgstr "La quantità deve essere maggiore di zero"
 
 #: packages/community_store/blocks/community_product/controller.php:21
 msgid "Add a Product to the Page"
-msgstr "Aggiungi un prodotto alla pagina"
+msgstr "Aggiungi un articolo alla pagina"
 
 #: packages/community_store/blocks/community_product/controller.php:26
 #: packages/community_store/blocks/community_product/form.php:2
@@ -47,11 +47,11 @@ msgstr "Articolo"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "A selected product"
-msgstr "Prodotto selezionato"
+msgstr "Articolo selezionato"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "Product associated with this page"
-msgstr "Prodotto associato a questa pagina"
+msgstr "Articolo associato a questa pagina"
 
 #: packages/community_store/blocks/community_product/form.php:11
 msgid "Select Product"
@@ -59,11 +59,11 @@ msgstr "Seleziona un articolo"
 
 #: packages/community_store/blocks/community_product/form.php:14
 msgid "Display Options"
-msgstr "Mostra opzioni"
+msgstr "Opzioni di visualizzazione"
 
 #: packages/community_store/blocks/community_product/form.php:21
 msgid "Show Product Name"
-msgstr "Mostra il nome del articolo"
+msgstr "Mostra il nome dell’articolo"
 
 #: packages/community_store/blocks/community_product/form.php:27
 msgid "Show Short Description"
@@ -71,7 +71,7 @@ msgstr "Mostra la descrizione breve"
 
 #: packages/community_store/blocks/community_product/form.php:33
 msgid "Show Product Details"
-msgstr "Mostra i dettagli del articolo"
+msgstr "Mostra i dettagli dell’articolo"
 
 #: packages/community_store/blocks/community_product/form.php:39
 msgid "Show Price"
@@ -83,15 +83,15 @@ msgstr "Mostra il peso"
 
 #: packages/community_store/blocks/community_product/form.php:53
 msgid "Show Product Image"
-msgstr "Mostra l'immagine del articolo"
+msgstr "Mostra l’immagine dell’articolo"
 
 #: packages/community_store/blocks/community_product/form.php:59
 msgid "Show \"Add to Cart\" Button"
-msgstr "Mostra il pulsante \"Aggiungi al carrello\""
+msgstr "Mostra il pulsante “Aggiungi al carrello”"
 
 #: packages/community_store/blocks/community_product/form.php:65
 msgid "Show If Featured"
-msgstr "Mostra se \"In evidenza\""
+msgstr "Mostra se “In evidenza”"
 
 #: packages/community_store/blocks/community_product/form.php:71
 msgid "Show Dimensions"
@@ -99,11 +99,11 @@ msgstr "Mostra dimensioni"
 
 #: packages/community_store/blocks/community_product/form.php:77
 msgid "Show Quantity Selector"
-msgstr "Mostra il select per la quantità"
+msgstr "Mostra il selettore di quantità"
 
 #: packages/community_store/blocks/community_product/form.php:87
 msgid "Add to Cart Button Text"
-msgstr "Testo per il bottone aggiungi al carrello"
+msgstr "Testo per il pulsante Aggiungi al carrello"
 
 #: packages/community_store/blocks/community_product/form.php:88
 msgid "Add To Cart"
@@ -167,7 +167,7 @@ msgstr "Articolo non disponibile"
 
 #: packages/community_store/blocks/community_product_list/controller.php:22
 msgid "Add a Product List for Community Store"
-msgstr ""
+msgstr "Aggiungi un elenco di articoli per il Community Store"
 
 #: packages/community_store/blocks/community_product_list/controller.php:27
 msgid "Product List"
@@ -175,7 +175,7 @@ msgstr "Elenco articoli"
 
 #: packages/community_store/blocks/community_product_list/controller.php:165
 msgid "A page must be selected"
-msgstr "Devi selezionare una pagina"
+msgstr "È necessario selezionare una pagina"
 
 #: packages/community_store/blocks/community_product_list/controller.php:169
 msgid "Number of Products must be a whole number"
@@ -200,7 +200,7 @@ msgstr "Articoli"
 
 #: packages/community_store/blocks/community_product_list/form.php:11
 msgid "List Products"
-msgstr "Includi i articoli"
+msgstr "Elenco articoli"
 
 #: packages/community_store/blocks/community_product_list/form.php:13
 msgid "All"
@@ -245,7 +245,7 @@ msgstr "Filtra"
 
 #: packages/community_store/blocks/community_product_list/form.php:49
 msgid "Filter by Product Groups"
-msgstr "Filtra per gruppi articolo"
+msgstr "Filtra per gruppi di articoli"
 
 #: packages/community_store/blocks/community_product_list/form.php:53
 #: packages/community_store/single_pages/dashboard/store/products.php:255
@@ -258,7 +258,7 @@ msgstr "Corrisponde"
 
 #: packages/community_store/blocks/community_product_list/form.php:65
 msgid "All groups selected"
-msgstr "Tutti i gruppi selezionai"
+msgstr "Tutti i gruppi selezionati"
 
 #: packages/community_store/blocks/community_product_list/form.php:65
 msgid "Any group selected"
@@ -287,7 +287,7 @@ msgstr "Numero di articoli da mostrare"
 #: packages/community_store/blocks/community_product_list/form.php:98
 msgid "leave blank or 0 to list all matching products"
 msgstr ""
-"lascia vuoto o inserisci 0 per elencare tutti i articoli corrispondenti"
+"lasciare vuoto o inserire 0 per elencare tutti gli articoli corrispondenti"
 
 #: packages/community_store/blocks/community_product_list/form.php:104
 msgid ""
@@ -311,35 +311,35 @@ msgstr "Mostra pulsante Aggiungi al carrello"
 
 #: packages/community_store/blocks/community_product_list/form.php:125
 msgid "Add To Cart Button Text"
-msgstr "Testo per il pulsante aggiungi al carrello"
+msgstr "Testo per il pulsante Aggiungi al carrello"
 
 #: packages/community_store/blocks/community_product_list/form.php:126
 msgid "Defaults to: Add To Cart"
-msgstr "Default: Aggiungi al carrello"
+msgstr "Predefinito: Aggiungi al carrello"
 
 #: packages/community_store/blocks/community_product_list/form.php:131
 msgid "Display Quantity Selector"
-msgstr "Mostra select della quantità"
+msgstr "Mostra selettore quantità"
 
 #: packages/community_store/blocks/community_product_list/form.php:137
 msgid "Display Product Description"
-msgstr "Mostra la descrizione del articolo"
+msgstr "Mostra la descrizione dell’articolo"
 
 #: packages/community_store/blocks/community_product_list/form.php:146
 msgid "Display Quickview Link (Modal Window)"
-msgstr ""
+msgstr "Mostra collegamento QuickView (finestra modale)"
 
 #: packages/community_store/blocks/community_product_list/form.php:152
 msgid "Display Link To Product Page"
-msgstr "Mostra il link alla pagina del prodotto"
+msgstr "Mostra il collegamenti alla pagina dell’articolo"
 
 #: packages/community_store/blocks/community_product_list/form.php:156
 msgid "Link To Product Page Text"
-msgstr ""
+msgstr "Testo del collegamento alla pagina dell’articolo"
 
 #: packages/community_store/blocks/community_product_list/form.php:157
 msgid "Defaults to: More Details"
-msgstr "Default: Maggiori informazioni"
+msgstr "Predefinito: Maggiori informazioni"
 
 #: packages/community_store/blocks/community_product_list/view.php:88
 msgid "More Details"
@@ -351,23 +351,23 @@ msgstr "Nessun articolo disponibile"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:22
 msgid "Add your cart links for Community Store"
-msgstr ""
+msgstr "Aggiungi i tuoi collegamenti al carrello del Community Store"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:27
 msgid "Utility Links"
-msgstr "Utility Link"
+msgstr "Collegamenti utilità"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:80
 msgid "Cart Label must be set"
-msgstr "La label Carrello va impostata"
+msgstr "È necessario impostare l’etichett del carrello"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:83
 msgid "Cart Link Label exceeds 255 characters"
-msgstr "La label del link Carrello supera i 255 caratteri"
+msgstr "L’etichetta del collegamento del carrello supera i 255 caratteri"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:86
 msgid "Cart Items Label exceeds 255 characters"
-msgstr "La label degli Articoli in carrello supera i 255 caratteri"
+msgstr "L’etichetta degli elementi del carrello supera i 255 caratteri"
 
 #: packages/community_store/blocks/community_utility_links/form.php:5
 msgid "Show Number Of Items In Cart"
@@ -375,27 +375,27 @@ msgstr "Mostra il numero di articoli nel carrello"
 
 #: packages/community_store/blocks/community_utility_links/form.php:12
 msgid "Show Cart Total"
-msgstr "Mostra il totale carrello"
+msgstr "Mostra il totale del carrello"
 
 #: packages/community_store/blocks/community_utility_links/form.php:19
 msgid "Show Checkout Link"
-msgstr "Mostra il link per il checkout"
+msgstr "Mostra il collegamento alla cassa"
 
 #: packages/community_store/blocks/community_utility_links/form.php:26
 msgid "Display Cart In Popup"
-msgstr "Mostra il carrello in finestra modale (Popup)"
+msgstr "Mostra il carrello in un popup"
 
 #: packages/community_store/blocks/community_utility_links/form.php:33
 msgid "Show Greeting"
-msgstr "Mostra saluto (Bentornato)"
+msgstr "Mostra saluto"
 
 #: packages/community_store/blocks/community_utility_links/form.php:40
 msgid "Show Sign-In Link"
-msgstr "Mostra il link Registrati"
+msgstr "Mostra collegamento alla pagina di registrazione"
 
 #: packages/community_store/blocks/community_utility_links/form.php:46
 msgid "Cart Link Label"
-msgstr "Etichetta link Carrello"
+msgstr "Etichetta del collegamento al carrello"
 
 #: packages/community_store/blocks/community_utility_links/form.php:47
 msgid "View Cart"
@@ -403,7 +403,7 @@ msgstr "Mostra carrello"
 
 #: packages/community_store/blocks/community_utility_links/form.php:50
 msgid "Cart Items Label"
-msgstr "Etichetta per Articoli nel carrello"
+msgstr "Etichetta per articoli nel carrello"
 
 #: packages/community_store/blocks/community_utility_links/form.php:51
 msgid "Items in Cart"
@@ -431,7 +431,7 @@ msgstr "Vai alla cassa"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:28
 msgid "Order Attributes"
-msgstr "Attributi ordine"
+msgstr "Ordina attributi"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:38
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:36
@@ -455,7 +455,7 @@ msgstr "ID attributo non valido."
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:79
 msgid "Create Order Attribute"
-msgstr "Crea attributo per l'ordine"
+msgstr "Crea attributo per l’ordine"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:26
 msgid "Product Attributes"
@@ -463,7 +463,7 @@ msgstr "Attributi articolo"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:77
 msgid "Create Product Attribute"
-msgstr "Crea attributo per il articolo"
+msgstr "Crea attributo per l’articolo"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:56
 #: packages/community_store/controllers/single_page/dashboard/store/orders.php:63
@@ -472,7 +472,7 @@ msgstr "Crea attributo per il articolo"
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:223
 #: packages/community_store/single_pages/dashboard/store.php:145
 msgid "Order #"
-msgstr "Ordine n."
+msgstr "Ordine n°"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:57
 #: packages/community_store/single_pages/checkout.php:69
@@ -498,7 +498,7 @@ msgstr "Nome"
 #: packages/community_store/single_pages/checkout.php:79
 #: packages/community_store/single_pages/checkout.php:178
 msgid "Email"
-msgstr "E-mail"
+msgstr "Email"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:60
 #: packages/community_store/elements/order_slip.php:70
@@ -534,7 +534,7 @@ msgstr "Ordini del %s"
 #. file name for product customer exports
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:92
 msgid "product_orders"
-msgstr ""
+msgstr "ordini_prodotto"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:21
 msgid "Add Shipping Method"
@@ -581,7 +581,7 @@ msgstr "Eliminato con successo"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:95
 msgid "Method Name must be set"
-msgstr "Il metodo deve avere un Nome"
+msgstr "Il metodo deve avere un nome"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:22
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:105
@@ -598,15 +598,15 @@ msgstr "Nuova aliquota tasse aggiunta correttamente"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:91
 msgid "You need a label for this Tax Rate"
-msgstr "Specificare una etichetta per questa aliquota tasse"
+msgstr "Specificare un’etichetta per questa aliquota tasse"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:95
 msgid "Tax Rate must be a number"
-msgstr "L'aliquota deve essere un numero"
+msgstr "L’aliquota deve essere un numero"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:98
 msgid "You need to enter a tax rate"
-msgstr "Devi inserire una aliquota di tassa"
+msgstr "È necessario inserire un’aliquota tassa"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:148
 msgid "You need a name for this Tax Class"
@@ -615,8 +615,8 @@ msgstr "Specificare un nome per questa classe di tasse"
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:152
 msgid "You can only have one tax rate with your current tax settings"
 msgstr ""
-"Puoi avere sono una aliquota di tassa in base all'attuale impostazioni di "
-"tasse"
+"È possibile avere sono una aliquota di tassa in base alle attuali "
+"impostazioni sulla tassazione"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:166
 msgid "Tax Class removed"
