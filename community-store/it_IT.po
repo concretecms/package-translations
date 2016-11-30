@@ -534,7 +534,7 @@ msgstr "Ordini del %s"
 #. file name for product customer exports
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:92
 msgid "product_orders"
-msgstr "ordini_prodotto"
+msgstr "ordini_articoli"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:21
 msgid "Add Shipping Method"
@@ -590,23 +590,23 @@ msgstr "Aggiungi aliquota tasse"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:29
 msgid "Edit Tax Rate"
-msgstr "Modifica aliquota tasse"
+msgstr "Modifica aliquota fiscale"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:48
 msgid "Successfully added a new Tax Rate"
-msgstr "Nuova aliquota tasse aggiunta correttamente"
+msgstr "Nuova aliquota fiscale aggiunta correttamente"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:91
 msgid "You need a label for this Tax Rate"
-msgstr "Specificare un’etichetta per questa aliquota tasse"
+msgstr "Specificare un’etichetta per questa aliquota fiscale"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:95
 msgid "Tax Rate must be a number"
-msgstr "L’aliquota deve essere un numero"
+msgstr "L’aliquota fiscale deve essere un numero"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:98
 msgid "You need to enter a tax rate"
-msgstr "È necessario inserire un’aliquota tassa"
+msgstr "È necessario inserire un’aliquota fiscale"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:148
 msgid "You need a name for this Tax Class"
@@ -615,20 +615,20 @@ msgstr "Specificare un nome per questa classe di tasse"
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:152
 msgid "You can only have one tax rate with your current tax settings"
 msgstr ""
-"È possibile avere sono una aliquota di tassa in base alle attuali "
+"È possibile avere sono una aliquota fiscale in base alle attuali "
 "impostazioni sulla tassazione"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:166
 msgid "Tax Class removed"
-msgstr "Classe tasse rimossa"
+msgstr "Classe di tassazione rimossa"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:171
 msgid "Tax Class Added"
-msgstr "Classe tassa aggiunta"
+msgstr "Classe di tassazione aggiunta"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:177
 msgid "Tax Class updated"
-msgstr "Classe tassa aggiornata"
+msgstr "Classe di tassazione aggiornata"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:24
 msgid "Discount Rules"
@@ -650,15 +650,15 @@ msgstr "Codici per regola di sconto"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:153
 msgid "Discount Rule Added"
-msgstr "Regola sconto aggiunta"
+msgstr "Regola di sconto aggiunta"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:158
 msgid "Discount Rule Updated"
-msgstr "Regola sconto aggiornata"
+msgstr "Regola di sconto aggiornata"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:163
 msgid "Discount Rule Deleted"
-msgstr "Regola sconto eliminata"
+msgstr "Regola di sconto eliminata"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders.php:43
 msgid "Orders"
@@ -699,43 +699,43 @@ msgstr "Modifica articolo"
 #: packages/community_store/single_pages/dashboard/store/products.php:37
 #: packages/community_store/single_pages/dashboard/store/products.php:1157
 msgid "Duplicate Product"
-msgstr "Clona articolo"
+msgstr "Duplica articolo"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:336
 msgid "Please enter a Product Name"
-msgstr "Inserisci il nome del articolo"
+msgstr "Inserire il nome dell’articolo"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:339
 msgid "The Product Name can not be greater than 255 Characters"
-msgstr "Il nome del articolo non può essere più lungo di 255 caratteri"
+msgstr "Il nome dell’articolo non può essere più lungo di 255 caratteri"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:342
 msgid "The Price must be set, and numeric"
-msgstr "Il prezzo va impostato e deve essere numerico"
+msgstr "È necessario impostare il prezzo, che deve essere numerico"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:345
 msgid "The Quantity must be set, and numeric"
-msgstr "La quantità va impostata e deve essere numerica"
+msgstr "È necessario impostare la quantità, che deve essere numerica"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:348
 msgid "The Product Width must be a number"
-msgstr "La larghezza deve essere un numero"
+msgstr "La larghezza dell’articolo deve essere un numero"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:351
 msgid "The Product Height must be a number"
-msgstr "L'altezza deve essere un numero"
+msgstr "L’altezza dell’articolo deve essere un numero"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:354
 msgid "The Product Length must be a number"
-msgstr "La lunghezza deve essere un numero"
+msgstr "La lunghezza dell’articolo deve essere un numero"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:357
 msgid "The Product Weight must be a number"
-msgstr "Il peso dell'articolo deve essere un numero"
+msgstr "Il peso dell’articolo deve essere un numero"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:397
 msgid "Please enter a Group Name"
-msgstr "Inserisci un nome del gruppo"
+msgstr "Assegnare un nome al gruppo"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:400
 msgid "A Group Name can not be more than 100 characters"
@@ -747,38 +747,43 @@ msgstr "Impostazioni salvate"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:148
 msgid "You must set a currency symbol"
-msgstr "Devi impostare un simbolo per la valuta"
+msgstr "È necessario impostare un simbolo per la valuta"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:152
 msgid "Tax Rate must be set, and a number"
-msgstr "Aliquota deve essere impostata, come numero"
+msgstr "È necessario impostare l’aliquota fiscale, che deve essere numerica"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:157
 msgid "Shipping Base Rate must be set, and a number"
-msgstr "Prezzo base spedizione deve essere impostato, come numero"
+msgstr ""
+"È necessario impostare il prezzo base di spedizione, che deve essere "
+"numerico"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:160
 msgid "Shipping Base Rate must be set, and a number (even if just zero)"
 msgstr ""
-"Prezzo base spedizione deve essere impostato, come numero (anche se zero)"
+"È necessario impostare il prezzo base di spedizione, che deve essere "
+"numerico (anche solo zero)"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:170
 msgid "At least one payment method must be enabled"
-msgstr "Almeno un metodo di pagamento deve essere attivo"
+msgstr "È necessario che sia abilitato almeno un metodo di pagamento"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:179
 msgid "You must have at least one Order Status."
-msgstr "Devi impostare almeno uno stato per l'ordine"
+msgstr "È necessario avere almeno uno stato per gli ordini."
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:187
 msgid ""
 "The %s Tax Class can't contain more than 1 Tax Rate if you change how the "
 "taxes are calculated"
 msgstr ""
+"La classe di tassazione %s non può contenere più di un’aliquota fiscale, se "
+"si modifica la modalità di calcolo delle tasse"
 
 #: packages/community_store/controllers/single_page/dashboard/store.php:53
 msgid "Store"
-msgstr "Store"
+msgstr "Negozio"
 
 #: packages/community_store/elements/attribute/type_form_order_groups.php:7
 msgid "For customers in these groups"
@@ -797,36 +802,37 @@ msgstr "Nessun addebito"
 
 #: packages/community_store/elements/checkout/shipping_methods.php:47
 msgid "There are no shipping options to process your order."
-msgstr "Non ci sono metodi di spedizione per evadere l'ordine."
+msgstr "Non ci sono metodi di spedizione per evadere l’ordine."
 
 #: packages/community_store/elements/invoice/checkout_form.php:5
 msgid "An invoice will be sent to you upon ordering"
-msgstr "Una fattura ti sarà inviata per questo ordine"
+msgstr ""
+"Al completamento dell’ordine provvederemo ad inviare la relativa ricevuta"
 
 #: packages/community_store/elements/invoice/dashboard_form.php:7
 msgid "Minimum Order Value"
-msgstr "Valore minimo dell'ordine"
+msgstr "Valore minimo dell’ordine"
 
 #: packages/community_store/elements/invoice/dashboard_form.php:12
 msgid "Maximum Order Value"
-msgstr "Valore massimo dell'ordine"
+msgstr "Valore massimo dell’ordine"
 
 #: packages/community_store/elements/invoice/dashboard_form.php:17
 msgid "Payment Instructions"
-msgstr "Istruzioni pagamento"
+msgstr "Istruzioni per il pagamento"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:9
 #: packages/community_store/single_pages/dashboard/store/products.php:729
 msgid "Base Price"
-msgstr "Prezzo fisso di base"
+msgstr "Prezzo di base"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:17
 msgid "Rate Based On"
-msgstr "Tariffa basata su"
+msgstr "Tariffa calcolata in base a"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:23
 msgid "Price per Item"
-msgstr "Prezzo per oggetto"
+msgstr "Prezzo per articolo"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:27
 msgid "Price per "
@@ -850,7 +856,7 @@ msgstr "Alcune nazioni"
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:44
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:13
 msgid "If Certain Countries, which?"
-msgstr "Se solo in certi paesi, quali?"
+msgstr "Se solo in alcune nazioni, quali?"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:57
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:26
@@ -867,7 +873,7 @@ msgstr "Importo massimo di acquisto per applicare questo tasso"
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:34
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:55
 msgid "Leave at 0 for no maximum"
-msgstr "Lascia 0 per non impostare un valore massimo"
+msgstr "Lasciare 0 per non impostare un valore massimo"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:72
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:41
@@ -877,7 +883,7 @@ msgstr "Valore minimo di peso per applicare questo tasso"
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:81
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:50
 msgid "Maximum Weight Amount for this rate to apply"
-msgstr "Valore massimo di peso per applicare  questo tasso"
+msgstr "Valore massimo di peso per applicare questo tasso"
 
 #: packages/community_store/elements/cart_list.php:17
 #: packages/community_store/elements/cart_modal.php:42
@@ -920,8 +926,8 @@ msgstr "Articolo rimosso"
 #: packages/community_store/single_pages/cart.php:25
 msgid "Due to stock levels your quantity has been limited"
 msgstr ""
-"A seguito della scorta disponibile a magazzino la quantità è scelta è stata "
-"limitata"
+"A seguito della scorta disponibile a magazzino la quantità selezionata è "
+"stata limitata"
 
 #: packages/community_store/elements/cart_modal.php:152
 #: packages/community_store/single_pages/cart.php:177
@@ -965,7 +971,7 @@ msgstr "Il carrello è vuoto"
 
 #: packages/community_store/elements/cart_modal.php:172
 msgid "Continue Shopping"
-msgstr "Continua lo shopping"
+msgstr "Continua gli acquisti"
 
 #: packages/community_store/elements/cart_modal.php:174
 #: packages/community_store/single_pages/cart.php:124
@@ -977,7 +983,7 @@ msgstr "Svuota carrello"
 #: packages/community_store/mail/order_receipt.php:30
 #: packages/community_store/single_pages/dashboard/store/orders.php:22
 msgid "Order placed"
-msgstr "Inserimento ordine"
+msgstr "Ordine inserito"
 
 #: packages/community_store/elements/order_slip.php:36
 #: packages/community_store/single_pages/dashboard/store/orders.php:31
@@ -1011,7 +1017,7 @@ msgstr "Non pagato"
 #: packages/community_store/single_pages/dashboard/store/orders.php:313
 #: packages/community_store/single_pages/dashboard/store/orders.php:537
 msgid "Free Order"
-msgstr ""
+msgstr "Libera ordine"
 
 #: packages/community_store/elements/order_slip.php:54
 #: packages/community_store/single_pages/dashboard/store/orders.php:49
@@ -1154,11 +1160,11 @@ msgstr "Istruzioni per la consegna"
 
 #: packages/community_store/mail/new_order_notification.php:9
 msgid "New Order Notification #%s"
-msgstr "Nuova notifica dell'ordine #%s"
+msgstr "Notifica nuovo ordine n. %s"
 
 #: packages/community_store/mail/new_order_notification.php:21
 msgid "An order has been placed"
-msgstr "Un nuovo ordine è stato inserito"
+msgstr "È stato inserito un ordine"
 
 #: packages/community_store/mail/new_order_notification.php:23
 #: packages/community_store/mail/order_receipt.php:29
@@ -1178,7 +1184,7 @@ msgstr "Dati per la spedizione"
 #: packages/community_store/mail/new_order_notification.php:72
 #: packages/community_store/mail/order_receipt.php:78
 msgid "Order Details"
-msgstr "Dettagli dell'ordine"
+msgstr "Dettagli dell’ordine"
 
 #: packages/community_store/mail/new_order_notification.php:78
 #: packages/community_store/mail/order_receipt.php:84
@@ -1193,11 +1199,11 @@ msgstr "Riferimento transazione"
 
 #: packages/community_store/mail/new_order_notification.php:158
 msgid "View this order within the Dashboard"
-msgstr "Visualizza questo ordine nella Dashboard"
+msgstr "Visualizza questo ordine nel pannello di controllo"
 
 #: packages/community_store/mail/new_order_notification.php:176
 msgid "Order #:"
-msgstr "Ordine #:"
+msgstr "Ordine n°:"
 
 #: packages/community_store/mail/new_order_notification.php:177
 msgid "A new order has been placed on your website"
@@ -1210,12 +1216,11 @@ msgstr "account creato"
 #: packages/community_store/mail/new_user.php:16
 #: packages/community_store/mail/new_user.php:39
 msgid "Thank you for your order, an account has been created for you at"
-msgstr ""
-"Grazie per aver effettuato l'ordine, un account è stato creato per voi in"
+msgstr "Grazie per aver effettuato l’ordine, un account è stato creato in"
 
 #: packages/community_store/mail/order_receipt.php:8
 msgid "Order Receipt #%s"
-msgstr "Ricevuta ordine #%s"
+msgstr "Ricevuta ordine n° %s"
 
 #: packages/community_store/mail/order_receipt.php:26
 msgid "Your Order"
@@ -1228,16 +1233,16 @@ msgstr "I tuoi download"
 
 #: packages/community_store/single_pages/checkout/complete.php:3
 msgid "Order #%s has been placed"
-msgstr "Ordine #%s inviato"
+msgstr "L’ordine n° %s è stato inserito"
 
 #: packages/community_store/single_pages/checkout/complete.php:5
 msgid "Thank you for your order. A receipt will be emailed to you shortly."
-msgstr "Grazie per l'ordine. Riceverete una notifica via e-mail a breve."
+msgstr "Grazie per l’ordine. A breve riceverai una ricevuta via email."
 
 #: packages/community_store/single_pages/dashboard/store/orders/attributes.php:31
 #: packages/community_store/single_pages/dashboard/store/products/attributes.php:29
 msgid "Add Attribute"
-msgstr "Nuovo attributo"
+msgstr "Aggiungi attributo"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:15
 msgid "From"
@@ -1347,7 +1352,7 @@ msgstr "Attivo"
 #: packages/community_store/single_pages/dashboard/store/products.php:314
 #: packages/community_store/single_pages/dashboard/store/settings.php:108
 msgid "Yes"
-msgstr "Si"
+msgstr "Sì"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:33
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:21
@@ -1366,11 +1371,11 @@ msgstr "Dettagli"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:60
 msgid "%s Shipping Method"
-msgstr "%s metodo di spedizione"
+msgstr "Metodo di spedizione %s"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:71
 msgid "Add Method"
-msgstr "Nuovo metodo"
+msgstr "Aggiungi metodo"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:81
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:107
@@ -1408,7 +1413,7 @@ msgstr "Elimina"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:20
 msgid "Enable Tax Rate"
-msgstr "Abilita aliquota tassa"
+msgstr "Abilita aliquota fiscale"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:26
 msgid "Tax Label"
@@ -1416,7 +1421,7 @@ msgstr "Etichetta tassa"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:32
 msgid "Tax Rate %"
-msgstr "% aliquota tassa"
+msgstr "% aliquota fiscale"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:42
 msgid "Tax is Based on the"
@@ -1424,11 +1429,11 @@ msgstr "La tassa è calcolata in base a"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:43
 msgid "Product Total"
-msgstr "Totale articolo"
+msgstr "Totale articoli"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:43
 msgid "Product Total + Shipping"
-msgstr "Totale articolo + spedizione"
+msgstr "Totale articoli + spedizione"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:46
 msgid "When to Charge Tax"
@@ -1440,7 +1445,7 @@ msgstr "Se i clienti..."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:62
 msgid "Matches..."
-msgstr "Soddisfano i seguenti criteri..."
+msgstr "Soddisfa..."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:64
 #: packages/community_store/single_pages/checkout.php:126
@@ -1454,7 +1459,7 @@ msgstr "Richiesto"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:73
 msgid "Region"
-msgstr "Provincia"
+msgstr "Regione"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:73
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:82
@@ -1473,24 +1478,24 @@ msgstr "Città"
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:97
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:216
 msgid "%s Tax Rate"
-msgstr "%s aliquota tasse"
+msgstr "Aliquota fiscale %s"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:106
 msgid "Add Tax Class"
-msgstr "Aggiungi classe tassa"
+msgstr "Aggiungi classe fiscale"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:114
 #: packages/community_store/single_pages/dashboard/store/products.php:138
 msgid "Tax Class"
-msgstr "Classe tassa"
+msgstr "Classe fiscale"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:115
 msgid "Associated Tax Rates"
-msgstr ""
+msgstr "Aliquote fiscali associate"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:147
 msgid "Tax Rate"
-msgstr "Aliquota tasse"
+msgstr "Aliquota fiscale"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:148
 msgid "Rate"
@@ -1498,7 +1503,7 @@ msgstr "Aliquota"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:179
 msgid "Tax Class Name"
-msgstr "Nome classe tasse"
+msgstr "Nome classe fiscale"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:184
 msgid ""
@@ -1506,10 +1511,13 @@ msgid ""
 "class. If you need more, you must change this setting in the %stax setting "
 "here%s"
 msgstr ""
+"Dal momento che i prezzi INCLUDONO le tasse, è possibile specificare solo "
+"una aliquota fiscale per classe. Se è necessario averne di ulteriori, è "
+"necessario modificare questa opzioni nette %simpostazioni fiscali%s"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:188
 msgid "Select Tax Class Rates"
-msgstr "Seleziona le aliquote di tasse"
+msgstr "Selezionare le aliquote della classe fiscale"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:28
 msgid "Display"
@@ -1579,7 +1587,7 @@ msgstr "Disabilitato"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:100
 msgid "Manage Codes"
-msgstr "Gestisci i codici"
+msgstr "Gestione codici"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:166
 msgid "Display Text"
@@ -1621,7 +1629,7 @@ msgstr "Applica"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:208
 msgid "Automatically, (when matching all restrictions)"
-msgstr "Automaticamente, (quando c'è corrispondenza con tutte le restrizioni)"
+msgstr "Automaticamente (quando c’è corrispondenza con tutte le restrizioni)"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:209
 msgid "When valid code entered"
@@ -1653,7 +1661,7 @@ msgstr "Da una specifica data"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:240
 msgid "Ends"
-msgstr "Finisce"
+msgstr "Termina"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:243
 msgid "Never"
@@ -1665,7 +1673,7 @@ msgstr "A una data specifica"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:257
 msgid "Description / Notes"
-msgstr "Descrizione / Note"
+msgstr "Descrizione / note"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:267
 msgid "Cancel"
@@ -1673,7 +1681,7 @@ msgstr "Annulla"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:277
 msgid "Are you sure you want to delete this discount rule?"
-msgstr "Sei sicuro di voler eliminare questa regola di sconto?"
+msgstr "Eliminare questa regola di sconto?"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:336
 msgid "code added"
@@ -1685,11 +1693,11 @@ msgstr "codici aggiunti"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:340
 msgid "The following codes are were invalid or are already active:"
-msgstr "I seguenti codici non sono validi o sono già stati attivati:"
+msgstr "I seguenti codici non sono validi o sono già attivi:"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:347
 msgid "Current Codes"
-msgstr ""
+msgstr "Codici attuali"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:351
 msgid "Single Use Codes"
@@ -1732,7 +1740,7 @@ msgstr "Codice/i"
 #: packages/community_store/single_pages/dashboard/store/discounts.php:416
 msgid "Seperate codes via lines or commas. Codes are case-insensitive."
 msgstr ""
-"Codici su ogni riga o separati da virgola. I codici non distinguono "
+"Un codice per riga, o codici separati da virgola. I codici non distinguono "
 "maiuscole e minuscole."
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:427
@@ -1750,11 +1758,11 @@ msgstr "Subtotale articoli"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:175
 msgid "Displayed"
-msgstr ""
+msgstr "Mostrati"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:176
 msgid "Deducted From"
-msgstr "Detrai da"
+msgstr "Detratto da"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:177
 msgid "Amount"
@@ -1762,7 +1770,7 @@ msgstr "Importo"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:178
 msgid "Triggered"
-msgstr ""
+msgstr "Attivato/disattivato"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:189
 msgid "by code"
@@ -1792,7 +1800,7 @@ msgstr "Stato pagamento"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:324
 msgid "Date / Reference"
-msgstr "Data / Riferimento"
+msgstr "Data / riferimento"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:325
 msgid "By"
@@ -1808,7 +1816,7 @@ msgstr "pagamento"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:350
 msgid "Are you sure you wish to reverse this payment?"
-msgstr "Sei sicuro di voler revocare questo pagamento?"
+msgstr "Revocare questo pagamento?"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:350
 #: packages/community_store/single_pages/dashboard/store/orders.php:373
@@ -1817,7 +1825,7 @@ msgstr "revoca"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:373
 msgid "Are you sure you wish to reverse this refund?"
-msgstr "Sei sicuro di voler revocare questo rimborso?"
+msgstr "Revocare questo rimborso?"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:388
 msgid "Update Payment Status"
@@ -1825,7 +1833,7 @@ msgstr "Aggiorna stato pagamento"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:398
 msgid "Mark Paid"
-msgstr "Segna pagato"
+msgstr "Segna come pagato"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:403
 msgid "Refund Reason"
@@ -1838,19 +1846,19 @@ msgstr "Segna come rimborsato"
 #: packages/community_store/single_pages/dashboard/store/orders.php:426
 #: packages/community_store/single_pages/dashboard/store/orders.php:428
 msgid "Cancel Order"
-msgstr "Elimina ordine"
+msgstr "Annulla ordine"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:428
 msgid "Are you sure you wish to cancel this order?"
-msgstr "Sei sicuro di voler eliminare questo ordine?"
+msgstr "Annullare questo ordine?"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:433
 msgid "Are you sure you wish to reverse this cancellation?"
-msgstr "Sei sicuro di voler revocare la cancellazione?"
+msgstr "Revocare l’annullamento?"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:433
 msgid "Reverse Cancellation"
-msgstr "Revoca la cancellazione"
+msgstr "Revoca l’annullamento"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:438
 #: packages/community_store/single_pages/dashboard/store/orders.php:439
@@ -1862,8 +1870,8 @@ msgid ""
 "Are you sure you wish to completely delete this order? The order number will"
 " be reused."
 msgstr ""
-"Sei sicuro di voler eliminare completamente questo ordine? Il numero "
-"d'ordine sarà riutilizzato."
+"Eliminare completamente questo ordine? Il numero d’ordine verrà "
+"riutilizzato."
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:450
 #: packages/community_store/single_pages/dashboard/store.php:17
@@ -1912,7 +1920,7 @@ msgstr "Vedi"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:519
 msgid "Not found"
-msgstr "non trovato"
+msgstr "Non trovato"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:33
 msgid "Delete Product"
@@ -1920,11 +1928,11 @@ msgstr "Elimina articolo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:45
 msgid "Are you sure you want to delete this product?"
-msgstr "Sei sicuro di voler eliminare questo articolo?"
+msgstr "Eliminare questo articolo?"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:58
 msgid "Overview"
-msgstr "Generale"
+msgstr "Anteprima"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:59
 msgid "Categories"
@@ -1989,15 +1997,15 @@ msgstr "Illimitata"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:181
 msgid "Allow Back Orders"
-msgstr "Consentire ordini oltre la scorta"
+msgstr "Consenti ordini oltre la scorta"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:186
 msgid "Offer quantity selection"
-msgstr "Scelta della quantità disponibile"
+msgstr "Selezione quantità disponibile"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:187
 msgid "No, only allow one of this product in a cart"
-msgstr "No, solo uno di questi prodotti può essere messo in carrello"
+msgstr "No, solo uno di questi articoli può essere messo in carrello"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:195
 msgid "Date Added"
@@ -2009,7 +2017,7 @@ msgstr "Descrizione breve"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:219
 msgid "Product Details (Long Description)"
-msgstr "Descrizione articolo (estesa)"
+msgstr "Dettagli articolo (descrizione estesa)"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:230
 msgid "Categorized under pages"
@@ -2017,15 +2025,15 @@ msgstr "Classifica sotto le pagine"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:252
 msgid "In product groups"
-msgstr "Nei seguenti gruppi di prodotti"
+msgstr "Nei gruppi di articoli"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:255
 msgid "No Product Groups Available"
-msgstr "Nessun gruppo di prodotti disponibile"
+msgstr "Nessun gruppo di articoli disponibile"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:313
 msgid "Product is Shippable"
-msgstr "Articolo disponibile per la spedizione"
+msgstr "L’articolo può essere spedito"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:328
 msgid "Number Of Items"
@@ -2048,12 +2056,12 @@ msgstr "Altezza"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:368
 msgid "Primary Product Image"
-msgstr "Immagine principale del articolo"
+msgstr "Immagine principale dell’articolo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:370
 #: packages/community_store/single_pages/dashboard/store/products.php:760
 msgid "Choose Image"
-msgstr "Scegli immagine"
+msgstr "Seleziona immagine"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:374
 msgid "Additional Images"
@@ -2061,11 +2069,11 @@ msgstr "Immagini aggiuntive"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:384
 msgid "Choose Images"
-msgstr "Scegli immagini"
+msgstr "Seleziona immagini"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:423
 msgid "Add Option Group"
-msgstr "Nuovo gruppo opzioni"
+msgstr "Aggiungi gruppo di opzioni"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:431
 msgid "Group Name:"
@@ -2073,11 +2081,11 @@ msgstr "Nome gruppo:"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:437
 msgid "Delete the Option Group"
-msgstr "Elimina gruppo opzioni"
+msgstr "Elimina il gruppo di opzioni"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:444
 msgid "Add Option"
-msgstr "Nuova opzione"
+msgstr "Aggiungi opzione"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:522
 msgid "Option"
@@ -2089,26 +2097,30 @@ msgstr "Nascosto"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:634
 msgid "Options have different prices, SKUs or stock levels"
-msgstr "Le opzioni hanno prezzi, scorte in magazzino o SKU diversi"
+msgstr "Le opzioni hanno prezzi, SKU o scorte a magazzino differenti"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:637
 msgid ""
 "After creating options add the product to configure product variations."
 msgstr ""
+"Dopo la creazione delle opzioni, aggiungi l’articolo per configurarne le "
+"varianti."
 
 #: packages/community_store/single_pages/dashboard/store/products.php:646
 msgid "Variations"
-msgstr "Variazioni"
+msgstr "Varianti"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:649
 msgid ""
 "Product options have changed, update the product to configure updated "
 "variations"
 msgstr ""
+"Le opzioni dell’articolo sono state modificate: aggiornare l’articolo per "
+"configurarne le varianti aggiornate"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:675
 msgid "More options"
-msgstr "Più opzioni"
+msgstr "Altre opzioni"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:692
 msgid "SKU"
@@ -2116,11 +2128,11 @@ msgstr "SKU"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:695
 msgid "Base SKU"
-msgstr ""
+msgstr "SKU di base"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:745
 msgid "Base Sale Price"
-msgstr ""
+msgstr "Prezzo di vendita di base"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:753
 #: packages/community_store/single_pages/dashboard/store/products.php:1025
@@ -2129,41 +2141,43 @@ msgstr "Immagine principale"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:769
 msgid "Base Weight"
-msgstr ""
+msgstr "Peso di base"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:776
 msgid "Number of Items"
-msgstr ""
+msgstr "Numero di articoli"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:779
 msgid "Base Number Of Items"
-msgstr ""
+msgstr "Numero di base di articoli"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:788
 msgid "Base Length"
-msgstr ""
+msgstr "Lunghezza di base"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:800
 msgid "Base Width"
-msgstr ""
+msgstr "Larghezza di base"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:811
 msgid "Base Height"
-msgstr ""
+msgstr "Altezza di base"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:829
 msgid ""
 "While you can set and assign attributes, they're are currently only able to "
 "be accessed programmatically"
 msgstr ""
+"Sebbene sia possibile impostare e assegnare attributi, questi sono al "
+"momento accessibili solo via programmazione"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:848
 msgid "You haven't created product attributes"
-msgstr ""
+msgstr "Non è stato creato alcun attributo degli articoli"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:865
 msgid "File to download on purchase"
-msgstr ""
+msgstr "File da scaricare dopo l’acquisto"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:866
 msgid "Choose File"
@@ -2174,24 +2188,23 @@ msgid ""
 "In order to have digital downloads, you need to %sturn on advanced "
 "permissions%s."
 msgstr ""
-"Per attivare i download digitali, devi %sattivare le autorizzazioni "
+"Per attivare i download digitali, è necessario %sattivare le autorizzazioni "
 "avanzate%s."
 
 #: packages/community_store/single_pages/dashboard/store/products.php:881
 msgid "Create user account on purchase"
-msgstr "Crea un account utente al momento dell'acquisto"
+msgstr "Crea un account utente al momento dell’acquisto"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:882
 msgid ""
 "When checked, if customer is guest, will create a user account on purchase"
 msgstr ""
-"Quando selezionata, se il cliente è ospite, creerà un account utente al "
-"momento dell'acquisto"
+"Quando selezionato, se il cliente è ospite, verrà creato un account utente "
+"al momento dell’acquisto"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:886
 msgid "On purchase add user to user groups"
-msgstr ""
-"Al momento dell'acquisto aggiungi l'utente ai seguenti gruppi di utenti"
+msgstr "Al momento dell’acquisto aggiungi l’utente ai gruppi di utenti"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:888
 msgid "Select user groups"
@@ -2203,7 +2216,8 @@ msgstr "Porta il cliente direttamente alla cassa quando aggiunto al carrello"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:906
 msgid "Prevent this item from being in the cart with other items"
-msgstr "Evita che questo articolo sia messo al carrello con altri articoli"
+msgstr ""
+"Evita che questo articolo venga inserito nel carrello con altri articoli"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:926
 msgid "Detail Page is set to: "
@@ -2211,7 +2225,7 @@ msgstr "La pagina di dettaglio è: "
 
 #: packages/community_store/single_pages/dashboard/store/products.php:931
 msgid "This product is missing a corresponding page in the sitemap"
-msgstr "Questo prodotto non ha una corrispondente pagina nella sitemap"
+msgstr "Questo articolo non ha una corrispondente pagina nella mappa del sito"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:936
 #: packages/community_store/single_pages/dashboard/store/products.php:952
@@ -2221,24 +2235,24 @@ msgstr "Modello pagina"
 #: packages/community_store/single_pages/dashboard/store/products.php:940
 msgid "Any changes to the product will not be saved. Create product page?"
 msgstr ""
-"Non verranno salvate eventuali modifiche al prodotto. Creare la pagina del "
-"prodotto?"
+"Non verranno salvate eventuali modifiche dell’articolo. Creare la pagina "
+"dell’articolo?"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:940
 msgid "Generate a Product Page"
-msgstr "Genera una pagina prodotto"
+msgstr "Genera pagina dell’articolo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:943
 msgid "No page is configured as the parent page for new products"
-msgstr "Nessuna pagina configurata come pagina padre per i nuovi prodotti"
+msgstr "Nessuna pagina configurata come pagina padre per i nuovi articoli"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:965
 msgid "Cancel / View All Products"
-msgstr "Annulla / Torna alla lista articoli"
+msgstr "Annulla / Vedi tutti gli articoli"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:966
 msgid "%s Product"
-msgstr "%s articolo"
+msgstr "Articolo %s"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:993
 msgid "Manage Attributes"
@@ -2285,7 +2299,7 @@ msgstr "Nessuno"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1128
 msgid "You have not added a group yet"
-msgstr "Non hai ancora aggiunto un gruppo"
+msgstr "Non è stato ancora creato alcun gruppo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1132
 msgid "Add a Group"
@@ -2301,7 +2315,7 @@ msgstr "Aggiungi gruppo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1148
 msgid "New Product Name"
-msgstr "Nuovo nome prodotto"
+msgstr "Nuovo nome articolo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1149
 msgid "(Copy)"
@@ -2309,7 +2323,7 @@ msgstr "(Copia)"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1153
 msgid "New Product SKU"
-msgstr "Nuovo SKU prodotto"
+msgstr "Nuovo SKU articolo"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:4
 msgid "Shipping Methods"
@@ -2317,7 +2331,7 @@ msgstr "Metodi di spedizione"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:5
 msgid "Tax Rates"
-msgstr "Aliquote tasse"
+msgstr "Aliquote fiscali"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:14
 msgid "Currency"
@@ -2330,7 +2344,7 @@ msgstr "Pagamenti"
 #: packages/community_store/single_pages/dashboard/store/settings.php:18
 #: packages/community_store/single_pages/dashboard/store/settings.php:157
 msgid "Order Statuses"
-msgstr "Stati dell'ordine"
+msgstr "Stati dell’ordine"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:19
 msgid "Notifications and Receipts"
@@ -2338,7 +2352,7 @@ msgstr "Notifiche e ricevute"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:21
 msgid "Cart and Checkout"
-msgstr "Carrello e checkout"
+msgstr "Carrello e cassa"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:27
 msgid "Currency Settings"
@@ -2358,7 +2372,7 @@ msgstr "Separatore migliaia"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:43
 msgid "e.g. , or a space"
-msgstr "es. spazio"
+msgstr "es. , o uno spazio"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:46
 msgid "Whole Number Separator"
@@ -2370,7 +2384,7 @@ msgstr "es. virgola o punto"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:55
 msgid "Tax Settings"
-msgstr "Impostazioni tasse"
+msgstr "Impostazioni fiscali"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:58
 msgid "Are Prices Entered with Tax Included?"
@@ -2378,15 +2392,15 @@ msgstr "I prezzi sono IVA/tasse incluse?"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:59
 msgid "No, I will enter product prices EXCLUSIVE of tax"
-msgstr "No, inserirò i prezzi dei articoli ESCLUSE le tasse"
+msgstr "No, i prezzi degli articoli inseriti sono tasse ESCLUSE"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:59
 msgid "Yes, I will enter product prices INCLUSIVE of tax"
-msgstr "Si, inserirò i prezzi dei articoli tasse INCLUSE"
+msgstr "Sì, i prezzi degli articoli inseriti sono tasse INCLUSE"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:66
 msgid "Shipping Units"
-msgstr ""
+msgstr "Unità di spedizione"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:70
 msgid "Units for Weight"
@@ -2410,7 +2424,7 @@ msgstr "Unità di misura dimensioni"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:79
 msgid "in"
-msgstr "pollice"
+msgstr "in"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:79
 msgid "cm"
@@ -2422,7 +2436,7 @@ msgstr "mm"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:87
 msgid "Include Delivery Instructions field in checkout"
-msgstr "Attiva il campo di istruzioni per la consegna durante il checkout"
+msgstr "Includi campo con istruzioni per la spedizione durante il checkout"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:95
 msgid "Payment Methods"
@@ -2430,15 +2444,15 @@ msgstr "Metodi di pagamento"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:114
 msgid "Display Name (on checkout)"
-msgstr "Mostra nome (durante checkout)"
+msgstr "Mostra nome (al checkout)"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:118
 msgid "Button Label"
-msgstr "Dicitura bottone"
+msgstr "Etichetta pulsante"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:138
 msgid "No Payment Methods are Installed"
-msgstr "Nessun metodo di pagamento risulta installato"
+msgstr "Non è installato alcun metodo di pagamento"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:166
 msgid "Display Name"
@@ -2450,7 +2464,7 @@ msgstr "Stato predefinito"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:168
 msgid "Send Change Notifications to..."
-msgstr "Invia notifica di modifica a..."
+msgstr "Invia notifica di modifica a…"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:171
 msgid "Site"
@@ -2462,39 +2476,39 @@ msgstr "Cliente"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:203
 msgid "No Order Statuses are available"
-msgstr "Nessun stato dell'ordine è disponibile"
+msgstr "Non è disponibile alcuno stato dell’ordine"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:211
 msgid "Notification Emails"
-msgstr "Notifica email"
+msgstr "Email di notifica"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:214
 msgid ""
 "Send order notification to email %sseparate multiple emails with commas%s"
 msgstr ""
-"Invia una notifica di ogni ordine alle e-mail %sseparare gli indirizzi con "
-"virgola%s"
+"Invia una notifica di ogni ordine agli indirizzi email %sseparare gli "
+"indirizzi con virgola%s"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:215
 msgid "Email Address"
-msgstr "Indirizzi e-mail"
+msgstr "Indirizzi email"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:218
 msgid "Emails Sent From"
-msgstr "Mittente delle e-mail"
+msgstr "Email inviate da"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:223
 msgid "From Email"
-msgstr "Da e-mail"
+msgstr "Email mittente"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:224
 msgid "From Email Address"
-msgstr "Da indirizzo email"
+msgstr "Indirizzo email mittente"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:230
 #: packages/community_store/single_pages/dashboard/store/settings.php:231
 msgid "From Name"
-msgstr "Da"
+msgstr "Nome mittente"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:236
 msgid "Receipt Emails"
@@ -2502,23 +2516,23 @@ msgstr "Email di ricevuta"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:239
 msgid "Receipt Email Header Content"
-msgstr "Intestazione della mail di ricevimento ordine"
+msgstr "Contenuto intestazione dell’email di ricevuta"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:245
 msgid "Receipt Email Footer Content"
-msgstr "Footer della mail di ricevimento ordine"
+msgstr "Contenuto pié pagina dell’email di ricevuta"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:257
 msgid "Page to Publish Product Pages Under"
-msgstr "Crea gli articoli sotto la pagina"
+msgstr "Pagina sotto cui pubblicare le pagine degli articoli"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:265
 msgid "Cart and Ordering"
-msgstr "Carrello e vendita"
+msgstr "Carrello e ordini"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:270
 msgid "Disabled (Catalog Mode)"
-msgstr "Disabilitato (Modalità catalogo)"
+msgstr "Disabilitato (modalità catalogo)"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:275
 msgid "Guest checkout"
@@ -2526,12 +2540,13 @@ msgstr "Acquista come ospite"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:281
 msgid "Offer as checkout option"
-msgstr "Offri la possibilità"
+msgstr "Offri come opzione per il checkout"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:282
 msgid "Always (unless login required for products in cart)"
 msgstr ""
-"Sempre (a meno che non è richiesto l'accesso per i articoli nel carrello)"
+"Sempre (a meno che non sia richiesto l’accesso per gli articoli nel "
+"carrello)"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:292
 msgid "Save Settings"
@@ -2539,7 +2554,7 @@ msgstr "Salva impostazioni"
 
 #: packages/community_store/single_pages/dashboard/store.php:78
 msgid "Sales this Week"
-msgstr "Le vendite di questa settimana"
+msgstr "Vendite di questa settimana"
 
 #: packages/community_store/single_pages/dashboard/store.php:98
 #: packages/community_store/single_pages/dashboard/store.php:100
@@ -2571,22 +2586,22 @@ msgstr "Sub-totale articoli"
 #: packages/community_store/single_pages/cart.php:170
 #: packages/community_store/single_pages/checkout.php:475
 msgid "to be determined"
-msgstr "deve essere calcolata"
+msgstr "da calcolare"
 
 #: packages/community_store/single_pages/checkout.php:27
 msgid "Sign in, Register or Checkout as Guest"
-msgstr "Entra, registrati o acquista come ospite"
+msgstr "Accedi, registrati o acquista come ospite"
 
 #: packages/community_store/single_pages/checkout.php:29
 msgid "Sign in or Register"
-msgstr "Entra o registrati"
+msgstr "Accedi o registrati"
 
 #: packages/community_store/single_pages/checkout.php:38
 msgid ""
 "In order to proceed, you'll need to either register, or sign in with your "
 "existing account."
 msgstr ""
-"Per procedere, è necessario registrarsi o accedere con un account esistente."
+"Per procedere è necessario registrarsi o accedere con un account esistente."
 
 #: packages/community_store/single_pages/checkout.php:42
 msgid "Register"
@@ -2594,7 +2609,7 @@ msgstr "Registrati"
 
 #: packages/community_store/single_pages/checkout.php:47
 msgid "Or optionally, you may choose to checkout as a guest."
-msgstr "Oppure opzionalmente, puoi continuare l'acquisto come ospite."
+msgstr "Alternativamente è possibile continuare l’acquisto come ospite."
 
 #: packages/community_store/single_pages/checkout.php:49
 msgid "Checkout as Guest"
@@ -2634,7 +2649,7 @@ msgstr "Codice di avviamento postale"
 
 #: packages/community_store/single_pages/checkout.php:136
 msgid "Use these details for shipping"
-msgstr "Usa questo indirizzo per la spedizione"
+msgstr "Usa questi dettagli per la spedizione"
 
 #: packages/community_store/single_pages/checkout.php:163
 #: packages/community_store/single_pages/checkout.php:273
@@ -2655,17 +2670,17 @@ msgstr "Indietro"
 
 #: packages/community_store/single_pages/checkout.php:301
 msgid "Please select a shipping method"
-msgstr "Seleziona un metodo di spedizione"
+msgstr "Selezionare un metodo di spedizione"
 
 #: packages/community_store/single_pages/checkout.php:380
 msgid "Complete Order"
-msgstr "Completa l'ordine"
+msgstr "Completa l’ordine"
 
 #: packages/community_store/single_pages/checkout.php:387
 msgid ""
 "There are currently no payment methods available to process your order."
 msgstr ""
-"Al momento non ci sono metodi di pagamento disponibili per evadere l'ordine."
+"Al momento non ci sono metodi di pagamento disponibili per evadere l’ordine."
 
 #: packages/community_store/single_pages/checkout.php:403
 msgid "Your Cart"
@@ -2673,7 +2688,7 @@ msgstr "Carrello"
 
 #: packages/community_store/single_pages/checkout.php:439
 msgid "Enter discount code"
-msgstr "Inserisci il codice di sconto"
+msgstr "Inserisci codice di sconto"
 
 #: packages/community_store/single_pages/checkout.php:442
 msgid "Enter code"
@@ -2685,37 +2700,37 @@ msgstr "tasse inc."
 
 #: packages/community_store/single_pages/checkout.php:508
 msgid "Click here if you are not automatically redirected"
-msgstr "Clicca qui se non sei automaticamente reindirizzato"
+msgstr "Fare clic qui se il reindirizzamento automatico non funziona"
 
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:384
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:388
 msgid "off"
-msgstr ""
+msgstr "disattivato"
 
 #: packages/community_store/src/CommunityStore/Payment/Methods/Invoice/InvoicePaymentMethod.php:12
 msgid "Invoice"
-msgstr "Fattura"
+msgstr "Ricevuta"
 
 #: packages/community_store/src/CommunityStore/Payment/Methods/Invoice/InvoicePaymentMethod.php:43
 msgid "Processing..."
-msgstr "In elaborazione..."
+msgstr "In fase di elaborazione…"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:198
 msgid "Please set a Base Rate"
-msgstr "Il prezzo fisso di base deve essere impostato"
+msgstr "Specificare un’aliquota di base"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:201
 msgid "Base Rate should be a number"
-msgstr "Il prezzo fisso di base deve essere un numero"
+msgstr "L’aliquota di base dovrebbe essere numerica"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:205
 msgid ""
 "The Price Per Item doesn't have to be set, but it does have to be numeric"
-msgstr "Il prezzo per articolo è facoltativo, ma deve essere numerico"
+msgstr "Il prezzo unitario è facoltativo, ma deve essere numerico"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:337
 msgid "Flat Rate"
-msgstr "Tasso fisso"
+msgstr "Aliquota fissa"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FreeShippingShippingMethod.php:231
 msgid "Free Shipping"
@@ -2726,66 +2741,66 @@ msgid ""
 "The email address you have entered has already been used to create an "
 "account. Please login first or enter a different email address."
 msgstr ""
-"L'e-mail inserito è già in uso. Fai il login oppure usa un indirizzo e-mail "
-"diverso per registrarti."
+"L’indirizzo email inserito è già stato usato per creare un account. "
+"Effettuare l’accesso o inserire un indirizzo email differente."
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:151
 msgid "You must enter a valid email address"
-msgstr "Devi inserire un indirizzo e-mail valido"
+msgstr "È necessario inserire un indirizzo email valido"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:157
 msgid "You must enter a first name"
-msgstr "Devi inserire il nome"
+msgstr "È necessario inserire il nome"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:160
 msgid "Please enter a first name under 255 characters"
-msgstr "Inserisci un nome più corto di 255 caratteri"
+msgstr "Inserire un nome più breve di 255 caratteri"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:163
 msgid "You must enter a Last Name"
-msgstr "E' necessario inserire il Cognome"
+msgstr "È necessario inserire il cognome"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:166
 msgid "Please enter a last name under 255 characters"
-msgstr "Inserisci un cognome più corto di 255 caratteri"
+msgstr "Inserire un cognome più breve di 255 caratteri"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:169
 msgid "You must enter an address"
-msgstr "Devi inserire un indirizzo"
+msgstr "È necessario inserire un indirizzo"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:172
 msgid "Please enter a street name under 255 characters"
-msgstr "Inserisci un indirizzo più corto di 255 caratteri"
+msgstr "Inserire un indirizzo più breve di 255 caratteri"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:175
 msgid "You must enter a Country"
-msgstr "Inserire la nazione"
+msgstr "È necessario inserire una nazione"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:178
 msgid "You did not select a Country from the list"
-msgstr "Non hai selezionato una nazione dalla lista"
+msgstr "Non è stata selezionata una nazione tra quelle dell’elenco"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:181
 msgid "You must enter a City"
-msgstr "Inserire la città"
+msgstr "È necessario inserire una città"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:184
 msgid "You must enter a valid City"
-msgstr "Devi inserire una città valida"
+msgstr "È necessario inserire una città valida"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:187
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:190
 msgid "You must enter a valid Postal Code"
-msgstr "Devi inserire un codice di avviamento postale valido"
+msgstr "È necessario inserire un codice di avviamento postale valido"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:187
 msgid "Registered Customer in your store"
-msgstr "Clienti registrati nello store"
+msgstr "Clienti registrati nel negozio"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:200
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:248
 msgid "Store Customer Info"
-msgstr "Dati del cliente"
+msgstr "Informazioni sul cliente del negozio"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:249
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:346
@@ -2795,7 +2810,7 @@ msgstr "Altre informazioni da chiedere al cliente"
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:298
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:300
 msgid "Digital Downloads"
-msgstr "Download digitale"
+msgstr "Download digitali"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:309
 msgid "Awaiting Processing"
@@ -2803,7 +2818,7 @@ msgstr "In attesa di lavorazione"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:310
 msgid "Processing"
-msgstr "Lavorazione"
+msgstr "In lavorazione"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:311
 msgid "Shipped"
