@@ -33,7 +33,7 @@ msgstr ""
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:5
 msgid "Currency"
-msgstr ""
+msgstr "Valuta"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:10
 msgid "Integration Type"
@@ -69,11 +69,11 @@ msgstr ""
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:109
 msgid "Processing..."
-msgstr ""
+msgstr "Behandler..."
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:154
 msgid "Complete Order"
-msgstr ""
+msgstr "Afslut Ordre"
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:167
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:173

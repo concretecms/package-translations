@@ -4,9 +4,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-25 16:33+0100\n"
-"PO-Revision-Date: 2014-08-15 17:41+0000\n"
+"PO-Revision-Date: 2016-11-30 15:34+0000\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
-"Language-Team: Danish (Denmark) (http://www.transifex.com/projects/p/concrete5-packages/language/da_DK/)\n"
+"Language-Team: Danish (Denmark) (http://www.transifex.com/concrete5/concrete5-packages/language/da_DK/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -51,7 +51,7 @@ msgstr "Vælg et filsæt."
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:18
 msgid "Choose Images"
-msgstr ""
+msgstr "Vælg Billeder"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:19
 msgid "Options"
@@ -161,7 +161,7 @@ msgstr ""
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:125
 msgid "Order"
-msgstr ""
+msgstr "Ordre"
 
 #: C:\Work\addon_image_slider/packages/image_slider/blocks/image_slider/form_setup_html.php:127
 msgid "Display Order"
