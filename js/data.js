@@ -1,5 +1,5 @@
 {
-    "updated": 1480581034,
+    "updated": 1480667430,
     "packages": [
         {
             "handle": "addthis",
@@ -252,18 +252,18 @@
             "sourceURL": "https://github.com/concrete5-community-store/community_store",
             "locales": {
                 "de_DE": {
-                    "translated": 503,
-                    "untranslated": 126,
+                    "translated": 545,
+                    "untranslated": 84,
                     "fuzzy": 0,
                     "total": 629,
-                    "perc": 79
+                    "perc": 86
                 },
                 "it_IT": {
-                    "translated": 587,
-                    "untranslated": 42,
+                    "translated": 629,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 629,
-                    "perc": 93
+                    "perc": 100
                 },
                 "lt_LT": {
                     "translated": 53,
@@ -280,11 +280,11 @@
                     "perc": 12
                 },
                 "el_GR": {
-                    "translated": 106,
-                    "untranslated": 523,
+                    "translated": 131,
+                    "untranslated": 498,
                     "fuzzy": 0,
                     "total": 629,
-                    "perc": 16
+                    "perc": 20
                 },
                 "fi_FI": {
                     "translated": 79,
@@ -294,8 +294,8 @@
                     "perc": 12
                 },
                 "fr_FR": {
-                    "translated": 587,
-                    "untranslated": 42,
+                    "translated": 588,
+                    "untranslated": 41,
                     "fuzzy": 0,
                     "total": 629,
                     "perc": 93
@@ -420,11 +420,11 @@
             "sourceURL": "https://github.com/concrete5-community-store/community_store_stripe",
             "locales": {
                 "de_DE": {
-                    "translated": 6,
-                    "untranslated": 19,
+                    "translated": 16,
+                    "untranslated": 9,
                     "fuzzy": 0,
                     "total": 25,
-                    "perc": 24
+                    "perc": 64
                 },
                 "it_IT": {
                     "translated": 25,
@@ -441,11 +441,11 @@
                     "perc": 12
                 },
                 "el_GR": {
-                    "translated": 3,
-                    "untranslated": 22,
+                    "translated": 8,
+                    "untranslated": 17,
                     "fuzzy": 0,
                     "total": 25,
-                    "perc": 12
+                    "perc": 32
                 },
                 "fi_FI": {
                     "translated": 3,
@@ -3444,11 +3444,11 @@
             "sourceURL": "https://github.com/concrete5/addon_migration_tool",
             "locales": {
                 "de_DE": {
-                    "translated": 160,
-                    "untranslated": 70,
+                    "translated": 164,
+                    "untranslated": 66,
                     "fuzzy": 0,
                     "total": 230,
-                    "perc": 69
+                    "perc": 71
                 },
                 "it_IT": {
                     "translated": 230,
