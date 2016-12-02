@@ -1,12 +1,13 @@
 # Translators:
 # Michele Locati <michele@locati.it>, 2016
+# Vasilis Fotopoulos <basalba@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: community_store_stripe 0.9.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-29T09:22:25+00:00\n"
 "PO-Revision-Date: 2016-11-29T09:22:26+00:00\n"
-"Last-Translator: Michele Locati <michele@locati.it>, 2016\n"
+"Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>, 2016\n"
 "Language-Team: Greek (Greece) (https://www.transifex.com/concrete5/teams/10374/el_GR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,23 +17,24 @@ msgstr ""
 
 #: packages/community_store_stripe/controller.php:24
 msgid "Stripe Payment Method for Community Store"
-msgstr ""
+msgstr "Stripe Μέθοδος πληρωμής για το κοινοτικό  Κατάστημα"
 
 #: packages/community_store_stripe/controller.php:29
 msgid "Stripe Payment Method"
-msgstr ""
+msgstr "Stripe Μέθοδος Πληρωμής"
 
 #: packages/community_store_stripe/controller.php:36
 msgid "This package requires that Community Store be installed"
 msgstr ""
+"Αυτό το Πακέτο απαιτεί να έχει εγκατασταθεί το πακέτο Κατάστημα Κοινότητας"
 
 #: packages/community_store_stripe/elements/community_store_stripe/checkout_form.php:13
 msgid "API Keys not entered"
-msgstr ""
+msgstr "Τα Κλειδιά API δεν έχουν καταχωρηθεί"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:5
 msgid "Currency"
-msgstr ""
+msgstr "Νόμισμα"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:10
 msgid "Integration Type"

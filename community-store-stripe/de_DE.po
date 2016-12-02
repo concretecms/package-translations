@@ -1,13 +1,14 @@
 # Translators:
 # Remo Laubacher <remo.laubacher@gmail.com>, 2016
 # Torsten Silbermann <mail@tsilbermann.de>, 2016
+# Ettore Atalan <atalanttore@googlemail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: community_store_stripe 0.9.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-29T09:22:25+00:00\n"
 "PO-Revision-Date: 2016-11-29T09:22:26+00:00\n"
-"Last-Translator: Torsten Silbermann <mail@tsilbermann.de>, 2016\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>, 2016\n"
 "Language-Team: German (Germany) (https://www.transifex.com/concrete5/teams/10374/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +30,7 @@ msgstr ""
 
 #: packages/community_store_stripe/elements/community_store_stripe/checkout_form.php:13
 msgid "API Keys not entered"
-msgstr ""
+msgstr "API-Schlüssel nicht eingegeben"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:5
 msgid "Currency"
@@ -37,7 +38,7 @@ msgstr "Währung"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:10
 msgid "Integration Type"
-msgstr ""
+msgstr "Integrationstyp"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:15
 msgid "Mode"
@@ -69,7 +70,7 @@ msgstr ""
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:109
 msgid "Processing..."
-msgstr ""
+msgstr "In Bearbeitung..."
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:154
 msgid "Complete Order"
@@ -78,7 +79,7 @@ msgstr "Jetzt verbindlich bestellen"
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:167
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:173
 msgid "Card Number"
-msgstr ""
+msgstr "Kartennummer"
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:184
 msgid "Expiration Date"
@@ -94,24 +95,24 @@ msgstr ""
 
 #: packages/community_store_stripe/src/CommunityStore/Payment/Methods/CommunityStoreStripe/CommunityStoreStripePaymentMethod.php:41
 msgid "US Dollars"
-msgstr ""
+msgstr "US-Dollar"
 
 #: packages/community_store_stripe/src/CommunityStore/Payment/Methods/CommunityStoreStripe/CommunityStoreStripePaymentMethod.php:42
 msgid "Canadian Dollar"
-msgstr ""
+msgstr "Kanadischer Dollar"
 
 #: packages/community_store_stripe/src/CommunityStore/Payment/Methods/CommunityStoreStripe/CommunityStoreStripePaymentMethod.php:43
 msgid "Australian Dollar"
-msgstr ""
+msgstr "Australischer Dollar"
 
 #: packages/community_store_stripe/src/CommunityStore/Payment/Methods/CommunityStoreStripe/CommunityStoreStripePaymentMethod.php:44
 msgid "British Pound"
-msgstr ""
+msgstr "Britisches Pfund"
 
 #: packages/community_store_stripe/src/CommunityStore/Payment/Methods/CommunityStoreStripe/CommunityStoreStripePaymentMethod.php:45
 msgid "Euro"
-msgstr ""
+msgstr "Euro"
 
 #: packages/community_store_stripe/src/CommunityStore/Payment/Methods/CommunityStoreStripe/CommunityStoreStripePaymentMethod.php:46
 msgid "Swiss Franc"
-msgstr ""
+msgstr "Schweizer Franken"

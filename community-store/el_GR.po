@@ -40,7 +40,7 @@ msgstr "Η ποσότητα πρέπει να είναι μεγαλύτερη α
 
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php:33
 msgid "Empty Auto-Nav Block."
-msgstr ""
+msgstr "Κενό  Auto-Nav Μπλοκ"
 
 #: packages/community_store/blocks/community_product/controller.php:21
 msgid "Add a Product to the Page"
@@ -141,7 +141,7 @@ msgstr "Διαστάσεις"
 #: packages/community_store/single_pages/dashboard/store/products.php:327
 #: packages/community_store/single_pages/dashboard/store/products.php:898
 msgid "Weight"
-msgstr ""
+msgstr "Βάρος"
 
 #: packages/community_store/blocks/community_product/view.php:74
 msgid "Featured Item"
@@ -158,7 +158,7 @@ msgstr "Προτεινόμενο Στοιχείο"
 #: packages/community_store/single_pages/dashboard/store/orders.php:116
 #: packages/community_store/single_pages/cart.php:41
 msgid "Quantity"
-msgstr ""
+msgstr "Ποσότητα"
 
 #: packages/community_store/blocks/community_product/view.php:97
 #: packages/community_store/blocks/community_product_list/view.php:111
@@ -171,33 +171,33 @@ msgstr "Υποχρεωτικό"
 #: packages/community_store/blocks/community_product_list/view.php:148
 #: packages/community_store/elements/product_modal.php:56
 msgid "Add to Cart"
-msgstr ""
+msgstr "Προσθήκη στο καλάθι"
 
 #: packages/community_store/blocks/community_product/view.php:139
 #: packages/community_store/blocks/community_product_list/view.php:149
 #: packages/community_store/elements/product_modal.php:57
 msgid "Out of Stock"
-msgstr ""
+msgstr "Εξάντληση αποθέματος"
 
 #: packages/community_store/blocks/community_product/view.php:269
 msgid "Product not available"
-msgstr ""
+msgstr "Το προϊόν δεν είναι διαθέσιμο"
 
 #: packages/community_store/blocks/community_product_list/controller.php:23
 msgid "Add a Product List for Community Store"
-msgstr ""
+msgstr "Προσθέστε μια λίστα προϊόντων για τα Kοινοτικό Κατάστημα"
 
 #: packages/community_store/blocks/community_product_list/controller.php:28
 msgid "Product List"
-msgstr ""
+msgstr "Λίστα προϊόντων"
 
 #: packages/community_store/blocks/community_product_list/controller.php:199
 msgid "A page must be selected"
-msgstr ""
+msgstr "Μια σελίδα πρέπει να επιλεγεί"
 
 #: packages/community_store/blocks/community_product_list/controller.php:203
 msgid "Number of Products must be a whole number"
-msgstr ""
+msgstr "Ο αριθμός προϊόντων πρέπει να είναι ακέραιος αριθμός"
 
 #: packages/community_store/blocks/community_product_list/form.php:8
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:31
@@ -214,11 +214,11 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store.php:147
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:70
 msgid "Products"
-msgstr ""
+msgstr "Προϊόντα"
 
 #: packages/community_store/blocks/community_product_list/form.php:11
 msgid "List Products"
-msgstr ""
+msgstr "Κατάλογος Προϊόντων"
 
 #: packages/community_store/blocks/community_product_list/form.php:13
 msgid "All"
@@ -226,37 +226,37 @@ msgstr "Όλα"
 
 #: packages/community_store/blocks/community_product_list/form.php:14
 msgid "Under current page"
-msgstr ""
+msgstr "Κάτω από την παρούσα σελίδα"
 
 #: packages/community_store/blocks/community_product_list/form.php:15
 msgid "Under current page and child pages"
-msgstr ""
+msgstr "Κάτω από την παρούσα σελίδα και από τις θυγατρικές σελίδες"
 
 #: packages/community_store/blocks/community_product_list/form.php:16
 msgid "Under a specified page"
-msgstr ""
+msgstr "Κάτω από μια συγκεκριμένη σελίδα"
 
 #: packages/community_store/blocks/community_product_list/form.php:17
 msgid "Under a specified page and child pages"
-msgstr ""
+msgstr "Κάτω από μια συγκεκριμένη σελίδα και τις θυγατρικές σελίδες"
 
 #: packages/community_store/blocks/community_product_list/form.php:18
 msgid "Related to product displayed on this page"
-msgstr ""
+msgstr "Σχετικά με το προϊόν που εμφανίζεται σε αυτή τη σελίδα"
 
 #: packages/community_store/blocks/community_product_list/form.php:19
 msgid "Related to a specified product"
-msgstr ""
+msgstr "Που σχετίζονται με ένα συγκεκριμένο προϊόν"
 
 #: packages/community_store/blocks/community_product_list/form.php:33
 #: packages/community_store/single_pages/dashboard/store/products.php:976
 msgid "Search for a Product"
-msgstr ""
+msgstr "Αναζήτηση ενός προϊόντος"
 
 #: packages/community_store/blocks/community_product_list/form.php:37
 #: packages/community_store/single_pages/dashboard/store/settings.php:123
 msgid "Sort Order"
-msgstr ""
+msgstr "Σειρά Ταξινόμησης "
 
 #: packages/community_store/blocks/community_product_list/form.php:39
 msgid "Alphabetical"
@@ -269,19 +269,19 @@ msgstr "Ημερομηνία Προσθήκης"
 
 #: packages/community_store/blocks/community_product_list/form.php:41
 msgid "Price Ascending"
-msgstr ""
+msgstr "Κατά Αύξουσα Τιμή"
 
 #: packages/community_store/blocks/community_product_list/form.php:42
 msgid "Price Descending"
-msgstr ""
+msgstr "Κατά Φθίνουσα Τιμή "
 
 #: packages/community_store/blocks/community_product_list/form.php:43
 msgid "Best Sellers"
-msgstr ""
+msgstr "Κορυφαία σε πωλήσεις"
 
 #: packages/community_store/blocks/community_product_list/form.php:44
 msgid "Related Products Order"
-msgstr ""
+msgstr "Ταξινόμηση Σχετικών προϊόντων"
 
 #: packages/community_store/blocks/community_product_list/form.php:45
 msgid "Category Sort Order"
@@ -2437,7 +2437,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:14
 msgid "Currency"
-msgstr ""
+msgstr "Νόμισμα"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:17
 msgid "Payments"

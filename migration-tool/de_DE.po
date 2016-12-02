@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2016-11-15 17:56+0000\n"
-"Last-Translator: Roland Greim <roland@stempelgreim.de>\n"
+"PO-Revision-Date: 2016-12-01 19:34+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/concrete5/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -63,7 +63,7 @@ msgstr "Ungültige Stapelverarbeitung."
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:126
 msgid "Invalid item type."
-msgstr ""
+msgstr "Ungültiger Elementstyp."
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:199
 msgid "Items removed."
@@ -439,7 +439,7 @@ msgstr "Fehler"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:101
 msgid "Uploading"
-msgstr ""
+msgstr "Hochladen läuft"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:34
 msgid "Download Files"
@@ -767,7 +767,7 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:36
 msgid "Displayed in Member List"
-msgstr ""
+msgstr "In Benutzerliste angezeigt"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Block/AreaLayoutFormatter.php:11
 msgid "Layout"
@@ -861,7 +861,7 @@ msgstr "Zieltypen für die Veröffentlichung von Seitentypen"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionAccessEntityTypeFormatter.php:10
 msgid "Access Entity Types"
-msgstr ""
+msgstr "Berechtigungseinheitstypen"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionKeyCategoryFormatter.php:10
 msgid "Permission Categories"

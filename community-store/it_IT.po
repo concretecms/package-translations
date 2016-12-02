@@ -18,7 +18,7 @@ msgstr ""
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php
 msgctxt "TemplateFileName"
 msgid "Product Breadcrumb"
-msgstr ""
+msgstr "Linee di navigazione articolo"
 
 #: packages/community_store/controller.php:23
 msgid "Add a Store to your Site"
@@ -38,7 +38,7 @@ msgstr "La quantità deve essere maggiore di zero"
 
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php:33
 msgid "Empty Auto-Nav Block."
-msgstr ""
+msgstr "Blocco Auto-Nav vuoto."
 
 #: packages/community_store/blocks/community_product/controller.php:21
 msgid "Add a Product to the Page"
@@ -240,16 +240,16 @@ msgstr "Sotto una specifica pagina e le pagine figlie"
 
 #: packages/community_store/blocks/community_product_list/form.php:18
 msgid "Related to product displayed on this page"
-msgstr ""
+msgstr "Associati all’articolo mostrato in questa pagina"
 
 #: packages/community_store/blocks/community_product_list/form.php:19
 msgid "Related to a specified product"
-msgstr ""
+msgstr "Associati a uno specifico articolo"
 
 #: packages/community_store/blocks/community_product_list/form.php:33
 #: packages/community_store/single_pages/dashboard/store/products.php:976
 msgid "Search for a Product"
-msgstr ""
+msgstr "Cerca un articolo"
 
 #: packages/community_store/blocks/community_product_list/form.php:37
 #: packages/community_store/single_pages/dashboard/store/settings.php:123
@@ -267,23 +267,23 @@ msgstr "Data di creazione"
 
 #: packages/community_store/blocks/community_product_list/form.php:41
 msgid "Price Ascending"
-msgstr ""
+msgstr "Prezzo crescente"
 
 #: packages/community_store/blocks/community_product_list/form.php:42
 msgid "Price Descending"
-msgstr ""
+msgstr "Prezzo decrescente"
 
 #: packages/community_store/blocks/community_product_list/form.php:43
 msgid "Best Sellers"
-msgstr ""
+msgstr "I più venduti"
 
 #: packages/community_store/blocks/community_product_list/form.php:44
 msgid "Related Products Order"
-msgstr ""
+msgstr "Ordine degli articoli associati"
 
 #: packages/community_store/blocks/community_product_list/form.php:45
 msgid "Category Sort Order"
-msgstr ""
+msgstr "Ordina per categoria"
 
 #: packages/community_store/blocks/community_product_list/form.php:52
 msgid "Filtering"
@@ -393,7 +393,7 @@ msgstr "Maggiori informazioni"
 
 #: packages/community_store/blocks/community_product_list/view.php:245
 msgid "Empty Product List"
-msgstr ""
+msgstr "Elenco di articoli vuoto"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:22
 msgid "Add your cart links for Community Store"
@@ -518,11 +518,11 @@ msgstr "Categorie"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:22
 msgid "Category Order Updated"
-msgstr ""
+msgstr "Ordine categoria aggiornato"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:40
 msgid "Manage Category: "
-msgstr ""
+msgstr "Gestisci categoria:"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:56
 #: packages/community_store/controllers/single_page/dashboard/store/orders.php:64
@@ -995,6 +995,8 @@ msgid ""
 "An issue has occured adding the product to the cart. You may be missing "
 "required information."
 msgstr ""
+"Si è verificato un problema durante l’aggiunta dell’articolo al carrello. "
+"Potrebbero mancare delle informazioni richieste."
 
 #: packages/community_store/elements/cart_modal.php:175
 #: packages/community_store/single_pages/cart.php:193
@@ -1322,22 +1324,22 @@ msgstr "Aggiungi attributo"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:8
 msgid "The following pages have been used to categorise products:"
-msgstr ""
+msgstr "Le seguenti pagine sono state usate per categorizzare gli articoli:"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:10
 msgid "No pages have been used to categorise products"
-msgstr ""
+msgstr "Non è stata usata alcuna pagina per categorizzare gli articoli"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:16
 #, php-format
 msgid "%d product"
 msgid_plural "%d products"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d articolo"
+msgstr[1] "%d articoli"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:23
 msgid "Products within category"
-msgstr ""
+msgstr "Articoli nella categoria"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:31
 #: packages/community_store/single_pages/dashboard/store/products.php:95
@@ -1352,7 +1354,7 @@ msgstr "Annulla"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:48
 msgid "Save Category Product Order"
-msgstr ""
+msgstr "Salva ordine degli articoli nella categoria"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:15
 msgid "From"
@@ -2034,7 +2036,7 @@ msgstr "Non trovato"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:555
 msgid "No Orders Found"
-msgstr ""
+msgstr "Nessun ordine trovato"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:34
 msgid "Delete Product"
@@ -2055,7 +2057,7 @@ msgstr "Immagini"
 #: packages/community_store/single_pages/dashboard/store/products.php:64
 #: packages/community_store/single_pages/dashboard/store/products.php:962
 msgid "Related Products"
-msgstr ""
+msgstr "Articoli associati"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:65
 msgid "Attributes"
@@ -2179,19 +2181,19 @@ msgstr "Seleziona immagini"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:435
 msgid "Add Option List"
-msgstr ""
+msgstr "Aggiungi elenco di opzioni"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:436
 msgid "Add Text Entry"
-msgstr ""
+msgstr "Aggiungi voce di testo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:437
 msgid "Add Text Area"
-msgstr ""
+msgstr "Aggiungi area di testo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:438
 msgid "Add Hidden Value"
-msgstr ""
+msgstr "Aggiungi valore nascosto"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:451
 msgid "Delete the Option Group"
@@ -2199,11 +2201,11 @@ msgstr "Elimina il gruppo di opzioni"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:460
 msgid "Option Name"
-msgstr ""
+msgstr "Nome opzione"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:466
 msgid "Option Handle"
-msgstr ""
+msgstr "Handle dell’opzione"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:485
 msgid "Add Option"
@@ -2211,19 +2213,19 @@ msgstr "Aggiungi opzione"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:535
 msgid "Option List"
-msgstr ""
+msgstr "Elenco di opzioni"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:536
 msgid "Text Input"
-msgstr ""
+msgstr "Testo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:537
 msgid "Text Area Input"
-msgstr ""
+msgstr "Area di testo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:538
 msgid "Hidden Value"
-msgstr ""
+msgstr "Valore nascosto"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:654
 msgid "Option"
@@ -2408,7 +2410,7 @@ msgstr "Tutti i gruppi"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1214
 msgid "Search by Name or SKU"
-msgstr ""
+msgstr "Cerca per nome o SKU"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1231
 #: packages/community_store/single_pages/dashboard/store/products.php:1276
@@ -2480,7 +2482,7 @@ msgstr "Pagamenti"
 #: packages/community_store/single_pages/dashboard/store/settings.php:18
 #: packages/community_store/single_pages/dashboard/store/settings.php:157
 msgid "Fulfilment Statuses"
-msgstr ""
+msgstr "Stati di avanzamento"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:19
 msgid "Notifications and Receipts"
@@ -2612,7 +2614,7 @@ msgstr "Cliente"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:203
 msgid "No Fulfilment Statuses are available"
-msgstr ""
+msgstr "Non è disponibile alcuno stato di avanzamento"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:211
 msgid "Notification Emails"
@@ -2844,45 +2846,47 @@ msgid ""
 "Are you sure you want to remove all products, orders and discounts from "
 "Community Store? (y/n)"
 msgstr ""
+"Rimuovere tutti gli articoli, gli ordini e gli sconti da Community Store? "
+"(y/n)"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:46
 msgid ""
 "Are you sure you want to remove all products from Community Store? (y/n)"
-msgstr ""
+msgstr "Rimuovere tutti gli articoli da Community Store? (y/n)"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:50
 msgid "Are you sure you want to remove all orders from Community Store? (y/n)"
-msgstr ""
+msgstr "Rimuovere tutti gli ordini da Community Store? (y/n)"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:54
 msgid ""
 "Are you sure you want to remove all discounts from Community Store? (y/n)"
-msgstr ""
+msgstr "Rimuovere tutti gli sconti da Community Store? (y/n)"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:63
 msgid "Operation aborted."
-msgstr ""
+msgstr "Operazione annullata."
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:74
 #, php-format
 msgid "%d order deleted"
 msgid_plural "%d orders deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d ordine eliminato"
+msgstr[1] "%d ordini eliminati"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:88
 #, php-format
 msgid "%d product deleted"
 msgid_plural "%d products deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d articolo eliminato"
+msgstr[1] "%d articoli eliminati"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:102
 #, php-format
 msgid "%d discount deleted"
 msgid_plural "%d discounts deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d sconto eliminato"
+msgstr[1] "%d sconti eliminati"
 
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:384
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:388
