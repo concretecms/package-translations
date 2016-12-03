@@ -1,5 +1,5 @@
 {
-    "updated": 1480667430,
+    "updated": 1480753840,
     "packages": [
         {
             "handle": "addthis",
@@ -252,11 +252,11 @@
             "sourceURL": "https://github.com/concrete5-community-store/community_store",
             "locales": {
                 "de_DE": {
-                    "translated": 545,
-                    "untranslated": 84,
+                    "translated": 552,
+                    "untranslated": 77,
                     "fuzzy": 0,
                     "total": 629,
-                    "perc": 86
+                    "perc": 87
                 },
                 "it_IT": {
                     "translated": 629,
@@ -280,11 +280,11 @@
                     "perc": 12
                 },
                 "el_GR": {
-                    "translated": 131,
-                    "untranslated": 498,
+                    "translated": 134,
+                    "untranslated": 495,
                     "fuzzy": 0,
                     "total": 629,
-                    "perc": 20
+                    "perc": 21
                 },
                 "fi_FI": {
                     "translated": 79,
