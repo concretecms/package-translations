@@ -285,7 +285,7 @@ msgstr "Ταξινόμηση Σχετικών προϊόντων"
 
 #: packages/community_store/blocks/community_product_list/form.php:45
 msgid "Category Sort Order"
-msgstr ""
+msgstr "Σειρά Ταξινόμησης Κατηγοριών"
 
 #: packages/community_store/blocks/community_product_list/form.php:52
 msgid "Filtering"
@@ -293,12 +293,12 @@ msgstr "Φιλτράρισμα"
 
 #: packages/community_store/blocks/community_product_list/form.php:63
 msgid "Filter by Product Groups"
-msgstr ""
+msgstr "Φίλτρο ανά Ομάδα Προϊόντων"
 
 #: packages/community_store/blocks/community_product_list/form.php:67
 #: packages/community_store/single_pages/dashboard/store/products.php:263
 msgid "Select Product Groups"
-msgstr ""
+msgstr "Επιλογή Ομάδας Προϊόντων"
 
 #: packages/community_store/blocks/community_product_list/form.php:78
 msgid "Matching"

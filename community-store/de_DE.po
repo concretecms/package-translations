@@ -58,7 +58,7 @@ msgstr "Produkt"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "A selected product"
-msgstr ""
+msgstr "Ein ausgewähltes Produkt"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "Product associated with this page"
@@ -269,11 +269,11 @@ msgstr "Hinzugefügt"
 
 #: packages/community_store/blocks/community_product_list/form.php:41
 msgid "Price Ascending"
-msgstr ""
+msgstr "Preis aufsteigend"
 
 #: packages/community_store/blocks/community_product_list/form.php:42
 msgid "Price Descending"
-msgstr ""
+msgstr "Preis absteigend"
 
 #: packages/community_store/blocks/community_product_list/form.php:43
 msgid "Best Sellers"
@@ -476,7 +476,7 @@ msgstr "Kasse"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:28
 msgid "Order Attributes"
-msgstr ""
+msgstr "Auftragsattribute"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:38
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:36
@@ -500,7 +500,7 @@ msgstr "Ungültige Attribut ID."
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:79
 msgid "Create Order Attribute"
-msgstr ""
+msgstr "Auftragsattribut erstellen"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:26
 msgid "Product Attributes"
@@ -1082,7 +1082,7 @@ msgstr ""
 #: packages/community_store/elements/order_slip.php:54
 #: packages/community_store/single_pages/dashboard/store/orders.php:49
 msgid "Customer Details"
-msgstr ""
+msgstr "Kundendetails"
 
 #: packages/community_store/elements/order_slip.php:57
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:47
@@ -1906,7 +1906,7 @@ msgstr "Datum / Referenz"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:325
 msgid "By"
-msgstr ""
+msgstr "Von"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:337
 msgid "Ref"
