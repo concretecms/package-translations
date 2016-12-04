@@ -19,7 +19,7 @@ msgstr ""
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php
 msgctxt "TemplateFileName"
 msgid "Product Breadcrumb"
-msgstr ""
+msgstr "Διακεκομμένο προϊόν"
 
 #: packages/community_store/controller.php:23
 msgid "Add a Store to your Site"
@@ -302,89 +302,91 @@ msgstr "Επιλογή Ομάδας Προϊόντων"
 
 #: packages/community_store/blocks/community_product_list/form.php:78
 msgid "Matching"
-msgstr ""
+msgstr "Ταίριασμα"
 
 #: packages/community_store/blocks/community_product_list/form.php:79
 msgid "All groups selected"
-msgstr ""
+msgstr "Όλες οι Ομάδες επιλέχτηκαν "
 
 #: packages/community_store/blocks/community_product_list/form.php:79
 msgid "Any group selected"
-msgstr ""
+msgstr "Οποιεσδήποτε Ομάδες επιλέχτηκαν "
 
 #: packages/community_store/blocks/community_product_list/form.php:87
 msgid "Include Featured Only"
-msgstr ""
+msgstr "Περιλαμβάνουν Προτεινόμενα Μόνο"
 
 #: packages/community_store/blocks/community_product_list/form.php:93
 msgid "Include On Sale Only"
-msgstr ""
+msgstr "Περιλαμβάνονται Προσφορές Μόνο"
 
 #: packages/community_store/blocks/community_product_list/form.php:99
 msgid "Include Out of Stock Products"
-msgstr ""
+msgstr "Περιλαμβάνουν Μη Διαθέσιμα Προϊόντα"
 
 #: packages/community_store/blocks/community_product_list/form.php:108
 msgid "Pagination and Display Options"
-msgstr ""
+msgstr "Σελιδοποίηση και Επιλογές εμφάνισης"
 
 #: packages/community_store/blocks/community_product_list/form.php:111
 msgid "Number of Products to Display"
-msgstr ""
+msgstr "Αριθμός προϊόντων για εμφάνιση"
 
 #: packages/community_store/blocks/community_product_list/form.php:112
 msgid "leave blank or 0 to list all matching products"
-msgstr ""
+msgstr "αφήστε το κενό ή 0 για την καταγραφή όσων προϊόντων ταιριάζουν "
 
 #: packages/community_store/blocks/community_product_list/form.php:118
 msgid ""
 "Display pagination interface if more products are available than are "
 "displayed."
 msgstr ""
+"Εμφάνιση σελιδοποίησης εάν περισσότερα προϊόντα είναι διαθέσιμα από αυτά που"
+" εμφανίζονται"
 
 #: packages/community_store/blocks/community_product_list/form.php:123
 msgid "Products per Row"
-msgstr ""
+msgstr "Προϊόντα ανά Σειρά"
 
 #: packages/community_store/blocks/community_product_list/form.php:129
 msgid "Display Price"
-msgstr ""
+msgstr "Εμφάνιση Τιμής"
 
 #: packages/community_store/blocks/community_product_list/form.php:135
 msgid "Display Add To Cart Button"
-msgstr ""
+msgstr "Εμφάνιση κουμπιού \"Προσθήκη στο καλάθι\""
 
 #: packages/community_store/blocks/community_product_list/form.php:139
 msgid "Add To Cart Button Text"
-msgstr ""
+msgstr "Κείμενο κουμπιού Προσθήκη στο Καλάθι "
 
 #: packages/community_store/blocks/community_product_list/form.php:140
 msgid "Defaults to: Add To Cart"
-msgstr ""
+msgstr "Προεπιλογές για: Προσθήκη στο Καλάθι"
 
 #: packages/community_store/blocks/community_product_list/form.php:145
 msgid "Display Quantity Selector"
-msgstr ""
+msgstr "Εμφάνιση Επιλογέα Ποσότητας"
 
 #: packages/community_store/blocks/community_product_list/form.php:151
 msgid "Display Product Description"
-msgstr ""
+msgstr "Εμφάνιση  Περιγραφής προϊόντων"
 
 #: packages/community_store/blocks/community_product_list/form.php:160
 msgid "Display Quickview Link (Modal Window)"
-msgstr ""
+msgstr "Εμφάνιση Συνδέσμου  Quickview (Modal Window)"
 
 #: packages/community_store/blocks/community_product_list/form.php:166
 msgid "Display Link To Product Page"
-msgstr ""
+msgstr "Εμφάνιση συνδέσμου στη σελίδα του προϊόντος"
 
 #: packages/community_store/blocks/community_product_list/form.php:170
 msgid "Link To Product Page Text"
-msgstr ""
+msgstr "Κείμενο συνδέσμου της σελίδας του προϊόντος "
 
 #: packages/community_store/blocks/community_product_list/form.php:171
 msgid "Defaults to: More Details"
-msgstr ""
+msgstr "Προεπιλογές για: Περισσότερες λεπτομέρειες"
 
 #: packages/community_store/blocks/community_product_list/view.php:89
 msgid "More Details"
@@ -392,67 +394,67 @@ msgstr "Περισσότερες Λεπτομέρειες"
 
 #: packages/community_store/blocks/community_product_list/view.php:245
 msgid "Empty Product List"
-msgstr ""
+msgstr "Κενή Λίστα Προϊόντων"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:22
 msgid "Add your cart links for Community Store"
-msgstr ""
+msgstr "Προσθέστε συνδέσμους για το καλάθι σας στο κοινοτικό κατάστημα"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:27
 msgid "Utility Links"
-msgstr ""
+msgstr "Σύνδεσμοι κοινής ωφελείας "
 
 #: packages/community_store/blocks/community_utility_links/controller.php:80
 msgid "Cart Label must be set"
-msgstr ""
+msgstr "Η Ετικέτα του Καλαθιού πρέπει να οριστεί"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:83
 msgid "Cart Link Label exceeds 255 characters"
-msgstr ""
+msgstr "Ο Σύνδεσμος της Ετικέτας του Καλαθιού υπερβαίνει τους 255 χαρακτήρες"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:86
 msgid "Cart Items Label exceeds 255 characters"
-msgstr ""
+msgstr "Η Ετικέτα Ειδών Καλαθιού υπερβαίνει τους 255 χαρακτήρες"
 
 #: packages/community_store/blocks/community_utility_links/form.php:5
 msgid "Show Number Of Items In Cart"
-msgstr ""
+msgstr "Προβολή αριθμού αντικειμένων στο καλάθι"
 
 #: packages/community_store/blocks/community_utility_links/form.php:12
 msgid "Show Cart Total"
-msgstr ""
+msgstr "Εμφάνιση Σύνολου Καλαθιού "
 
 #: packages/community_store/blocks/community_utility_links/form.php:19
 msgid "Show Checkout Link"
-msgstr ""
+msgstr "Εμφάνιση Συνδέσμου Ταμείου"
 
 #: packages/community_store/blocks/community_utility_links/form.php:26
 msgid "Display Cart In Popup"
-msgstr ""
+msgstr "Εμφάνιση Καλαθιού Σε Popup"
 
 #: packages/community_store/blocks/community_utility_links/form.php:33
 msgid "Show Greeting"
-msgstr ""
+msgstr "Εμφάνιση Χαιρετισμού"
 
 #: packages/community_store/blocks/community_utility_links/form.php:40
 msgid "Show Sign-In Link"
-msgstr ""
+msgstr "Εμφάνιση Συνδέσμου Εισόδου"
 
 #: packages/community_store/blocks/community_utility_links/form.php:46
 msgid "Cart Link Label"
-msgstr ""
+msgstr "Ετικέτα  Συνδέσμου Καλαθιού"
 
 #: packages/community_store/blocks/community_utility_links/form.php:47
 msgid "View Cart"
-msgstr ""
+msgstr "Δείτε το καλάθι"
 
 #: packages/community_store/blocks/community_utility_links/form.php:50
 msgid "Cart Items Label"
-msgstr ""
+msgstr "Ετικέτα Ειδών Καλαθιού "
 
 #: packages/community_store/blocks/community_utility_links/form.php:51
 msgid "Items in Cart"
-msgstr ""
+msgstr "Αντικείμενα στο καλάθι"
 
 #: packages/community_store/blocks/community_utility_links/view.php:9
 #: packages/community_store/single_pages/checkout.php:39
@@ -461,37 +463,37 @@ msgstr "Είσοδος"
 
 #: packages/community_store/blocks/community_utility_links/view.php:15
 msgid "Welcome back"
-msgstr ""
+msgstr "Καλώς ήρθατε και πάλι"
 
 #: packages/community_store/blocks/community_utility_links/view.php:18
 msgid "Welcome back, "
-msgstr ""
+msgstr "Καλώς ήρθατε και πάλι,"
 
 #: packages/community_store/blocks/community_utility_links/view.php:51
 #: packages/community_store/elements/cart_modal.php:198
 #: packages/community_store/single_pages/cart.php:213
 #: packages/community_store/single_pages/checkout.php:9
 msgid "Checkout"
-msgstr ""
+msgstr "Ταμείο"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:28
 msgid "Order Attributes"
-msgstr ""
+msgstr "Χαρακτηριστικά Παραγγελίας"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:38
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:36
 msgid "Attribute Deleted."
-msgstr ""
+msgstr "Το Χαρακτηριστικό Διαγράφτηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:43
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:41
 msgid "Attribute Created."
-msgstr ""
+msgstr "Το Χαρακτηριστικό δημιουργήθηκε ."
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:48
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:46
 msgid "Attribute Updated."
-msgstr ""
+msgstr "Το Χαρακτηριστικό ενημερώθηκε "
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:57
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:55
@@ -500,15 +502,15 @@ msgstr "Μη έγκυρο ID χαρακτηριστικού."
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:79
 msgid "Create Order Attribute"
-msgstr ""
+msgstr "Δημιουργία Χαρακτηριστικού παραγγελίας "
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:26
 msgid "Product Attributes"
-msgstr ""
+msgstr "Χαρακτηριστικά προϊόντος"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:77
 msgid "Create Product Attribute"
-msgstr ""
+msgstr "Δημιουργία Χαρακτηριστικού προϊόντος"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:15
 #: packages/community_store/single_pages/dashboard/store/products.php:60
@@ -517,11 +519,11 @@ msgstr "Κατηγορίες"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:22
 msgid "Category Order Updated"
-msgstr ""
+msgstr "Η Κατηγορία Παραγγελίας Ενημερώθηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:40
 msgid "Manage Category: "
-msgstr ""
+msgstr "Διαχειριστείτε Κατηγορία:"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:56
 #: packages/community_store/controllers/single_page/dashboard/store/orders.php:64
@@ -530,7 +532,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:223
 #: packages/community_store/single_pages/dashboard/store.php:145
 msgid "Order #"
-msgstr ""
+msgstr "Παραγγελία #"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:57
 #: packages/community_store/single_pages/checkout.php:67
@@ -538,7 +540,7 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:206
 #: packages/community_store/single_pages/checkout.php:207
 msgid "Last Name"
-msgstr ""
+msgstr "Επίθετο"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:58
 #: packages/community_store/single_pages/checkout.php:63
@@ -546,7 +548,7 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:201
 #: packages/community_store/single_pages/checkout.php:202
 msgid "First Name"
-msgstr ""
+msgstr "Όνομα"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:59
 #: packages/community_store/elements/order_slip.php:62
@@ -579,25 +581,25 @@ msgstr "Επιλογές"
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:64
 #: packages/community_store/single_pages/dashboard/store/orders.php:487
 msgid "Order Date"
-msgstr ""
+msgstr "Ημερομηνία παραγγελίας"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:65
 msgid "Order Status"
-msgstr ""
+msgstr "Κατάσταση παραγγελίας"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:88
 #, php-format
 msgid "Orders of %s"
-msgstr ""
+msgstr "Παραγγελίες του %s"
 
 #. file name for product customer exports
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:92
 msgid "product_orders"
-msgstr ""
+msgstr "παραγγελίες προϊόντων"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:21
 msgid "Add Shipping Method"
-msgstr ""
+msgstr "Προσθέστε Μέθοδος αποστολής"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:24
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:23
@@ -611,7 +613,7 @@ msgstr "Προσθήκη"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:28
 msgid "Edit Shipping Method"
-msgstr ""
+msgstr "Επεξεργασία τρόπος αποστολής"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:33
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:30
@@ -626,118 +628,120 @@ msgstr "Ενημέρωση"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:44
 msgid "Successfully added a new Shipping Method"
-msgstr ""
+msgstr "Προστέθηκε με επιτυχία μια νέα μέθοδο αποστολής"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:49
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:53
 msgid "Successfully updated"
-msgstr ""
+msgstr "Επιτυχής Ενημέρωση"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:54
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:58
 msgid "Successfully removed"
-msgstr ""
+msgstr "Αφαιρέθηκε επιτυχώς"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:95
 msgid "Method Name must be set"
-msgstr ""
+msgstr "Το Όνομα Μεθόδου πρέπει να οριστεί"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:22
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:105
 msgid "Add Tax Rate"
-msgstr ""
+msgstr "Προσθέστε φορολογικό συντελεστή"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:29
 msgid "Edit Tax Rate"
-msgstr ""
+msgstr "Επεξεργασία φορολογικού συντελεστή"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:48
 msgid "Successfully added a new Tax Rate"
-msgstr ""
+msgstr "Προστέθηκε με επιτυχία ένας νέος Φορολογικός Συντελεστής"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:91
 msgid "You need a label for this Tax Rate"
-msgstr ""
+msgstr "Χρειάζεται μια ετικέτα για αυτόν τον φορολογικό συντελεστή"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:95
 msgid "Tax Rate must be a number"
-msgstr ""
+msgstr "Ο Φορολογικός συντελεστής πρέπει να είναι ένας αριθμός"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:98
 msgid "You need to enter a tax rate"
-msgstr ""
+msgstr "Θα πρέπει να εισάγετε ένα φορολογικό συντελεστή"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:148
 msgid "You need a name for this Tax Class"
-msgstr ""
+msgstr "Χρειάζεται ένα όνομα για αυτήν την Φορολογική Κλάση"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:152
 msgid "You can only have one tax rate with your current tax settings"
 msgstr ""
+"Μπορείτε να έχετε μόνο ένα ποσοστό φόρου με τις τρέχουσες φορολογικές "
+"ρυθμίσεις σας"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:166
 msgid "Tax Class removed"
-msgstr ""
+msgstr "Η Φορολογική Κλάση αφαιρέθηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:171
 msgid "Tax Class Added"
-msgstr ""
+msgstr "Η Φορολογική Κλάση προστέθηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:177
 msgid "Tax Class updated"
-msgstr ""
+msgstr "Η Φορολογική Κλάση ενημερώθηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:24
 msgid "Discount Rules"
-msgstr ""
+msgstr "Κανόνες έκπτωσης"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:28
 #: packages/community_store/single_pages/dashboard/store/discounts.php:20
 msgid "Add Discount Rule"
-msgstr ""
+msgstr "Προσθέστε Κανόνα Έκπτωσης"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:36
 #: packages/community_store/single_pages/dashboard/store/discounts.php:333
 msgid "Edit Discount Rule"
-msgstr ""
+msgstr "Επεξεργασία Κανόνα Έκπτωσης "
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:47
 msgid "Codes for discount rule"
-msgstr ""
+msgstr "Κωδικοί για κανόνα έκπτωσης"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:153
 msgid "Discount Rule Added"
-msgstr ""
+msgstr "Ο κανόνας Έκπτωσης προστέθηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:158
 msgid "Discount Rule Updated"
-msgstr ""
+msgstr "Ο κανόνας Έκπτωσης Ενημερώθηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:163
 msgid "Discount Rule Deleted"
-msgstr ""
+msgstr "Ο κανόνας Έκπτωσης Διαγράφεται"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders.php:44
 msgid "Orders"
-msgstr ""
+msgstr "Παραγγελίες"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders.php:68
 msgid "Order Removed"
-msgstr ""
+msgstr "Η Παραγγελία Αφαιρέθηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:63
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:111
 msgid "Product Added"
-msgstr ""
+msgstr "Το προϊόν προστέθηκε "
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:69
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:107
 msgid "Product Updated"
-msgstr ""
+msgstr "Το προϊόν Ενημερώθηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:73
 msgid "Product Removed"
-msgstr ""
+msgstr "Το προϊόν Αφαιρέθηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:101
 #: packages/community_store/single_pages/dashboard/store/products.php:1195
@@ -808,7 +812,7 @@ msgstr ""
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:152
 msgid "Tax Rate must be set, and a number"
-msgstr ""
+msgstr "Ο Φορολογικός συντελεστής πρέπει να οριστεί, και ένας αριθμός"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:157
 msgid "Shipping Base Rate must be set, and a number"
@@ -832,6 +836,8 @@ msgid ""
 "The %s Tax Class can't contain more than 1 Tax Rate if you change how the "
 "taxes are calculated"
 msgstr ""
+"Η %s Φορολογική Κλάση δεν μπορεί να περιέχει περισσότερο από 1 φορολογικό "
+"συντελεστή, αν αλλάξετε τον τρόπο υπολογισμού των φόρων"
 
 #: packages/community_store/controllers/single_page/dashboard/store.php:53
 msgid "Store"
@@ -1515,7 +1521,7 @@ msgstr "Διαγραφή"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:20
 msgid "Enable Tax Rate"
-msgstr ""
+msgstr "Ενεργοποίηση φορολογικού συντελεστή"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:26
 msgid "Tax Label"
@@ -1523,7 +1529,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:32
 msgid "Tax Rate %"
-msgstr ""
+msgstr "Φορολογικός συντελεστής %"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:42
 msgid "Tax is Based on the"
@@ -1578,7 +1584,7 @@ msgstr "Πόλη"
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:220
 #, php-format
 msgid "%s Tax Rate"
-msgstr ""
+msgstr "%s φορολογικός συντελεστής"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:106
 msgid "Add Tax Class"
@@ -1591,11 +1597,11 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:116
 msgid "Associated Tax Rates"
-msgstr ""
+msgstr "Σχετιζόμενοι Φορολογικοί Συντελεστές"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:150
 msgid "Tax Rate"
-msgstr ""
+msgstr "Φορολογικός συντελεστής"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:151
 msgid "Rate"
@@ -1612,10 +1618,13 @@ msgid ""
 "class. If you need more, you must change this setting in the %stax setting "
 "here%s"
 msgstr ""
+"Δεδομένου ότι οι τιμές περιλαμβάνουν φόρους, μπορείτε να καθορίσετε μόνο ένα"
+" φορολογικό συντελεστή ανά τάξη. Αν χρειάζεστε περισσότερο, θα πρέπει να "
+"αλλάξετε αυτή τη ρύθμιση στο %stax setting here%s"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:192
 msgid "Select Tax Class Rates"
-msgstr ""
+msgstr "Επιλέξτε Ποσοστά Φορολογικής Κλάσης"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:29
 msgid "Display"
@@ -2433,7 +2442,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:5
 msgid "Tax Rates"
-msgstr ""
+msgstr "Φορολογικοί Συντελεστές"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:14
 msgid "Currency"
@@ -2570,7 +2579,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:171
 msgid "Site"
-msgstr ""
+msgstr "Site"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:172
 msgid "Customer"
