@@ -746,7 +746,7 @@ msgstr "Το προϊόν Αφαιρέθηκε"
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:101
 #: packages/community_store/single_pages/dashboard/store/products.php:1195
 msgid "Add Product"
-msgstr ""
+msgstr "Προσθέτετε προϊόν"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:115
 msgid "Product Duplicated"
