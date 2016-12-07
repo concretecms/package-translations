@@ -750,65 +750,66 @@ msgstr "Προσθέτετε προϊόν"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:115
 msgid "Product Duplicated"
-msgstr ""
+msgstr "Προϊόντα Εις Διπλούν"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:212
 msgid "Edit Product"
-msgstr ""
+msgstr "Επεξεργασία προϊόντων"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:234
 #: packages/community_store/single_pages/dashboard/store/products.php:38
 #: packages/community_store/single_pages/dashboard/store/products.php:1359
 msgid "Duplicate Product"
-msgstr ""
+msgstr "Δημιουργία Διπλότυπου για Προϊόν"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:335
 msgid "Please enter a Product Name"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα όνομα προϊόντος"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:338
 msgid "The Product Name can not be greater than 255 Characters"
 msgstr ""
+"Το όνομα του προϊόντος δεν μπορεί να είναι μεγαλύτερο από 255 χαρακτήρες"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:341
 msgid "The Price must be set, and numeric"
-msgstr ""
+msgstr "Η τιμή πρέπει να οριστεί, και να είναι αριθμητική"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:344
 msgid "The Quantity must be set, and numeric"
-msgstr ""
+msgstr "Η ποσότητα πρέπει να οριστεί, και πρέπει να είναι αριθμητικό"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:347
 msgid "The Product Width must be a number"
-msgstr ""
+msgstr "Το πλάτος του προϊόντος πρέπει να είναι ένας αριθμός"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:350
 msgid "The Product Height must be a number"
-msgstr ""
+msgstr "Το ύψος του προϊόντος πρέπει να είναι ένας αριθμός"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:353
 msgid "The Product Length must be a number"
-msgstr ""
+msgstr "Το μήκος του προϊόντος πρέπει να είναι ένας αριθμός"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:356
 msgid "The Product Weight must be a number"
-msgstr ""
+msgstr "Το βάρος του προϊόντος πρέπει να είναι ένας αριθμός"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:396
 msgid "Please enter a Group Name"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα όνομα ομάδας"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:399
 msgid "A Group Name can not be more than 100 characters"
-msgstr ""
+msgstr "Ένα όνομα ομάδας δεν μπορεί να είναι πάνω από 100 χαρακτήρες"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:36
 msgid "Settings Saved"
-msgstr ""
+msgstr "Οι ρυθμίσεις Αποθηκεύτηκαν "
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:148
 msgid "You must set a currency symbol"
-msgstr ""
+msgstr "Θα πρέπει να ορίσετε ένα σύμβολο νομίσματος"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:152
 msgid "Tax Rate must be set, and a number"
@@ -817,18 +818,22 @@ msgstr "Ο Φορολογικός συντελεστής πρέπει να ορ�
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:157
 msgid "Shipping Base Rate must be set, and a number"
 msgstr ""
+"Οι Βασικές Τιμές Αποστολής πρέπει να οριστούν, και πρέπει να είναι "
+"αριθμιτικό."
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:160
 msgid "Shipping Base Rate must be set, and a number (even if just zero)"
 msgstr ""
+"Οι Βασικές Τιμές Αποστολής πρέπει να οριστούν, και πρέπει να είναι "
+"αριθμιτικό (ακόμη και αν είναι μηδέν)"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:170
 msgid "At least one payment method must be enabled"
-msgstr ""
+msgstr "Τουλάχιστον μία μέθοδο πληρωμής πρέπει να είναι ενεργοποιημένη"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:179
 msgid "You must have at least one Order Status."
-msgstr ""
+msgstr "Θα πρέπει να έχετε τουλάχιστον μία Κατάσταση παραγγελίας."
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:187
 #, php-format
@@ -841,106 +846,108 @@ msgstr ""
 
 #: packages/community_store/controllers/single_page/dashboard/store.php:53
 msgid "Store"
-msgstr ""
+msgstr "Κατάστημα"
 
 #: packages/community_store/elements/attribute/type_form_order_groups.php:7
 msgid "For customers in these groups"
-msgstr ""
+msgstr "Για τους πελάτες σε αυτές τις ομάδες"
 
 #: packages/community_store/elements/attribute/type_form_order_groups.php:9
 msgid "Available for all Groups"
-msgstr ""
+msgstr "Διαθέσιμα για όλες τις ομάδες"
 
 #: packages/community_store/elements/checkout/shipping_methods.php:33
 #: packages/community_store/single_pages/cart.php:186
 #: packages/community_store/single_pages/checkout.php:294
 #: packages/community_store/single_pages/checkout.php:444
 msgid "No Charge"
-msgstr ""
+msgstr "Χωρίς χρέωση"
 
 #: packages/community_store/elements/checkout/shipping_methods.php:47
 msgid "There are no shipping options to process your order."
 msgstr ""
+"Δεν υπάρχουν επιλογές τρόπου αποστολής για να επεξεργαστούμε την παραγγελία "
+"σας."
 
 #: packages/community_store/elements/invoice/checkout_form.php:5
 msgid "An invoice will be sent to you upon ordering"
-msgstr ""
+msgstr "Ένα τιμολόγιο θα σας αποσταλεί μετά από παραγγελία"
 
 #: packages/community_store/elements/invoice/dashboard_form.php:7
 msgid "Minimum Order Value"
-msgstr ""
+msgstr "Ελάχιστη αξία παραγγελίας"
 
 #: packages/community_store/elements/invoice/dashboard_form.php:12
 msgid "Maximum Order Value"
-msgstr ""
+msgstr "Μέγιστη τιμή Παραγγελίας"
 
 #: packages/community_store/elements/invoice/dashboard_form.php:17
 msgid "Payment Instructions"
-msgstr ""
+msgstr "Οδηγίες πληρωμής"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:9
 #: packages/community_store/single_pages/dashboard/store/products.php:862
 msgid "Base Price"
-msgstr ""
+msgstr "Βασική Τιμή"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:17
 msgid "Rate Based On"
-msgstr ""
+msgstr "Η τιμή ισχύει για"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:23
 msgid "Price per Item"
-msgstr ""
+msgstr "Τιμή ανά τεμάχιο"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:27
 msgid "Price per "
-msgstr ""
+msgstr "Τιμή ανά"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:38
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:7
 msgid "Which Countries does this Apply to?"
-msgstr ""
+msgstr "Για ποιες χώρες ισχύει αυτό;"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:39
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:8
 msgid "All Countries"
-msgstr ""
+msgstr "Όλες οι χώρες"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:39
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:8
 msgid "Certain Countries"
-msgstr ""
+msgstr "ορισμένες χώρες"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:44
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:13
 msgid "If Certain Countries, which?"
-msgstr ""
+msgstr "Αν Ορισμένες χώρες, ποιές;"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:57
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:26
 msgid "Minimum Purchase Amount for this rate to apply"
-msgstr ""
+msgstr "Ελάχιστο Ποσό Αγοράς για να εφαρμόστει αυτό το ποσοστό "
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:63
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:32
 msgid "Maximum Purchase Amount for this rate to apply"
-msgstr ""
+msgstr "Μέγιστο ποσό αγοράς για να εφαρμόστει αυτό το ποσοστό "
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:65
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:86
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:34
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:55
 msgid "Leave at 0 for no maximum"
-msgstr ""
+msgstr "Αφήστε 0 για χωρίς κανένα μέγιστο"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:72
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:41
 msgid "Minimum Weight Amount for this rate to apply"
-msgstr ""
+msgstr "Ελάχιστο Ποσό Βέρους για να εφαρμόστει αυτό το ποσοστό "
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:81
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:50
 msgid "Maximum Weight Amount for this rate to apply"
-msgstr ""
+msgstr "Μέγιστο Ποσό Βέρους για να εφαρμόστει αυτό το ποσοστό "
 
 #: packages/community_store/elements/cart_list.php:17
 #: packages/community_store/elements/cart_modal.php:46
@@ -958,50 +965,52 @@ msgstr "Τιμή"
 #: packages/community_store/elements/cart_modal.php:10
 #: packages/community_store/single_pages/cart.php:9
 msgid "Shopping Cart"
-msgstr ""
+msgstr "Καλάθι αγορών"
 
 #: packages/community_store/elements/cart_modal.php:14
 msgid "has been added to your cart"
-msgstr ""
+msgstr "έχει προστεθεί στο καλάθι σας"
 
 #: packages/community_store/elements/cart_modal.php:18
 #: packages/community_store/single_pages/cart.php:13
 msgid "Your cart has been updated"
-msgstr ""
+msgstr "Το καλάθι σας έχει ενημερωθεί"
 
 #: packages/community_store/elements/cart_modal.php:22
 #: packages/community_store/single_pages/cart.php:17
 msgid "Your cart has been cleared"
-msgstr ""
+msgstr "Το καλάθι σας έχει εκκαθαριστεί"
 
 #: packages/community_store/elements/cart_modal.php:26
 #: packages/community_store/single_pages/cart.php:21
 msgid "Item removed"
-msgstr ""
+msgstr "Το στοιχείο αφαιρέθηκε"
 
 #: packages/community_store/elements/cart_modal.php:30
 #: packages/community_store/single_pages/cart.php:25
 msgid "Due to stock levels your quantity has been limited"
-msgstr ""
+msgstr "Λόγω των επιπέδων των αποθεμάτων ποσότητα σας έχει περιοριστεί"
 
 #: packages/community_store/elements/cart_modal.php:34
 msgid ""
 "An issue has occured adding the product to the cart. You may be missing "
 "required information."
 msgstr ""
+"Ένα ζήτημα έχει συμβεί κατά την προσθήκη του προϊόντος στο καλάθι. Μπορεί να"
+" λείπουν οι  απαιτούμενες πληροφορίες."
 
 #: packages/community_store/elements/cart_modal.php:175
 #: packages/community_store/single_pages/cart.php:193
 #: packages/community_store/single_pages/checkout.php:387
 msgid "Discount Applied"
-msgstr ""
+msgstr "Η έκπτωση εφαρμόστηκε"
 
 #: packages/community_store/elements/cart_modal.php:175
 #: packages/community_store/single_pages/dashboard/store/orders.php:169
 #: packages/community_store/single_pages/cart.php:193
 #: packages/community_store/single_pages/checkout.php:387
 msgid "Discounts Applied"
-msgstr ""
+msgstr "Η έκπτωση εφαρμόστηκε"
 
 #: packages/community_store/elements/cart_modal.php:186
 #: packages/community_store/mail/new_order_notification.php:148
@@ -1023,67 +1032,67 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store.php:150
 #: packages/community_store/single_pages/cart.php:207
 msgid "Total"
-msgstr ""
+msgstr "Σύνολο"
 
 #: packages/community_store/elements/cart_modal.php:190
 #: packages/community_store/single_pages/cart.php:216
 msgid "Your cart is empty"
-msgstr ""
+msgstr "Το καλάθι σας είναι άδειο"
 
 #: packages/community_store/elements/cart_modal.php:195
 msgid "Continue Shopping"
-msgstr ""
+msgstr "Συνεχίστε τις αγορές"
 
 #: packages/community_store/elements/cart_modal.php:197
 #: packages/community_store/single_pages/cart.php:140
 msgid "Clear Cart"
-msgstr ""
+msgstr "Καθαρισμός καλαθιού"
 
 #: packages/community_store/elements/order_slip.php:27
 #: packages/community_store/mail/new_order_notification.php:24
 #: packages/community_store/mail/order_receipt.php:30
 #: packages/community_store/single_pages/dashboard/store/orders.php:22
 msgid "Order placed"
-msgstr ""
+msgstr "Ολοκλήρωση παραγγελίας"
 
 #: packages/community_store/elements/order_slip.php:36
 #: packages/community_store/single_pages/dashboard/store/orders.php:31
 #: packages/community_store/single_pages/dashboard/store/orders.php:511
 msgid "Cancelled"
-msgstr ""
+msgstr "Ακυρώθηκε"
 
 #: packages/community_store/elements/order_slip.php:40
 #: packages/community_store/single_pages/dashboard/store/orders.php:35
 #: packages/community_store/single_pages/dashboard/store/orders.php:360
 #: packages/community_store/single_pages/dashboard/store/orders.php:535
 msgid "Refunded"
-msgstr ""
+msgstr "Έγινε επιστροφή χρημάτων"
 
 #: packages/community_store/elements/order_slip.php:42
 #: packages/community_store/single_pages/dashboard/store/orders.php:37
 #: packages/community_store/single_pages/dashboard/store/orders.php:333
 #: packages/community_store/single_pages/dashboard/store/orders.php:537
 msgid "Paid"
-msgstr ""
+msgstr "Πληρωμένη"
 
 #: packages/community_store/elements/order_slip.php:44
 #: packages/community_store/single_pages/dashboard/store/orders.php:39
 #: packages/community_store/single_pages/dashboard/store/orders.php:316
 #: packages/community_store/single_pages/dashboard/store/orders.php:539
 msgid "Unpaid"
-msgstr ""
+msgstr "Απλήρωτη"
 
 #: packages/community_store/elements/order_slip.php:46
 #: packages/community_store/single_pages/dashboard/store/orders.php:41
 #: packages/community_store/single_pages/dashboard/store/orders.php:313
 #: packages/community_store/single_pages/dashboard/store/orders.php:541
 msgid "Free Order"
-msgstr ""
+msgstr "Δωρεάν Παραγγελία"
 
 #: packages/community_store/elements/order_slip.php:54
 #: packages/community_store/single_pages/dashboard/store/orders.php:49
 msgid "Customer Details"
-msgstr ""
+msgstr "Πληροφορίες Πελάτη"
 
 #: packages/community_store/elements/order_slip.php:57
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:47
@@ -1108,7 +1117,7 @@ msgstr "Χρήστης"
 #: packages/community_store/single_pages/checkout.php:59
 #: packages/community_store/single_pages/checkout.php:152
 msgid "Billing Address"
-msgstr ""
+msgstr "Διεύθυνση χρέωσης"
 
 #: packages/community_store/elements/order_slip.php:100
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:55
@@ -1116,7 +1125,7 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:197
 #: packages/community_store/single_pages/checkout.php:248
 msgid "Shipping Address"
-msgstr ""
+msgstr "Διεύθυνση αποστολής"
 
 #: packages/community_store/elements/order_slip.php:111
 #: packages/community_store/mail/new_order_notification.php:59
@@ -1125,12 +1134,12 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:128
 #: packages/community_store/single_pages/checkout.php:179
 msgid "Other Choices"
-msgstr ""
+msgstr "Άλλες Επιλογές"
 
 #: packages/community_store/elements/order_slip.php:124
 #: packages/community_store/single_pages/dashboard/store/orders.php:109
 msgid "Order Items"
-msgstr ""
+msgstr "Στοιχεία Παραγγελίας "
 
 #: packages/community_store/elements/order_slip.php:129
 #: packages/community_store/mail/new_order_notification.php:76
@@ -1222,11 +1231,11 @@ msgstr ""
 #: packages/community_store/mail/new_order_notification.php:9
 #, php-format
 msgid "New Order Notification #%s"
-msgstr ""
+msgstr "Ειδοποίηση Νέας Παραγγελίας #%s"
 
 #: packages/community_store/mail/new_order_notification.php:21
 msgid "An order has been placed"
-msgstr ""
+msgstr "Μια παραγγελία έχει τοποθετηθεί"
 
 #: packages/community_store/mail/new_order_notification.php:23
 #: packages/community_store/mail/order_receipt.php:29
@@ -1246,7 +1255,7 @@ msgstr ""
 #: packages/community_store/mail/new_order_notification.php:72
 #: packages/community_store/mail/order_receipt.php:78
 msgid "Order Details"
-msgstr ""
+msgstr "Λεπτομέρειες Παραγγελίας"
 
 #: packages/community_store/mail/new_order_notification.php:78
 #: packages/community_store/mail/order_receipt.php:84
@@ -1267,15 +1276,15 @@ msgstr ""
 
 #: packages/community_store/mail/new_order_notification.php:158
 msgid "View this order within the Dashboard"
-msgstr ""
+msgstr "Δείτε αυτή την παραγγελία στον Πίνακα ελέγχου"
 
 #: packages/community_store/mail/new_order_notification.php:176
 msgid "Order #:"
-msgstr ""
+msgstr "Παραγγελία #:"
 
 #: packages/community_store/mail/new_order_notification.php:177
 msgid "A new order has been placed on your website"
-msgstr ""
+msgstr "Μια παραγγελία έχει τοποθετηθεί στο site σας"
 
 #: packages/community_store/mail/new_user.php:4
 msgid "account Created"
