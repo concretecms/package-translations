@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Vasilis Fotopoulos <basalba@gmail.com>, 2016
 # Vasilis Fotopoulos <basalba@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:24+0100\n"
-"PO-Revision-Date: 2016-05-10 15:24+0000\n"
+"PO-Revision-Date: 2016-12-07 21:22+0000\n"
 "Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>\n"
 "Language-Team: Greek (Greece) (http://www.transifex.com/concrete5/concrete5-packages/language/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +30,7 @@ msgstr "Κάλυψη εικόνας, όπου μπορείτε να προσθέ
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:8
 #: C:\Work\concrete5-cover-picture/controller.php:16
 msgid "Cover Picture"
-msgstr "Cover Picture"
+msgstr "Εικόνα εξωφύλλου "
 
 #: C:\Work\concrete5-cover-picture/blocks/cover_picture/form_setup_html.php:11
 msgid "Picture"

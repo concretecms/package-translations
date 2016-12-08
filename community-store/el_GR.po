@@ -1148,12 +1148,12 @@ msgstr "Στοιχεία Παραγγελίας "
 #: packages/community_store/single_pages/dashboard/store/products.php:75
 #: packages/community_store/single_pages/dashboard/store/products.php:1227
 msgid "Product Name"
-msgstr ""
+msgstr "Όνoμα Προϊόντος"
 
 #: packages/community_store/elements/order_slip.php:130
 #: packages/community_store/single_pages/dashboard/store/orders.php:114
 msgid "Product Options"
-msgstr ""
+msgstr "Επιλογές προϊόντος"
 
 #: packages/community_store/elements/order_slip.php:133
 #: packages/community_store/elements/order_slip.php:173
@@ -1161,7 +1161,7 @@ msgstr ""
 #: packages/community_store/mail/order_receipt.php:86
 #: packages/community_store/single_pages/dashboard/store/orders.php:117
 msgid "Subtotal"
-msgstr ""
+msgstr "Μερικό σύνολο"
 
 #: packages/community_store/elements/order_slip.php:178
 #: packages/community_store/mail/new_order_notification.php:120
@@ -1185,40 +1185,40 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:289
 #: packages/community_store/single_pages/checkout.php:443
 msgid "Shipping"
-msgstr ""
+msgstr "Αποστολή"
 
 #: packages/community_store/elements/order_slip.php:182
 #: packages/community_store/mail/new_order_notification.php:132
 #: packages/community_store/mail/order_receipt.php:168
 msgid "Discounts"
-msgstr ""
+msgstr "Εκπτώσεις"
 
 #: packages/community_store/elements/order_slip.php:182
 #: packages/community_store/mail/new_order_notification.php:132
 #: packages/community_store/mail/order_receipt.php:168
 #: packages/community_store/single_pages/dashboard/store/discounts.php:30
 msgid "Discount"
-msgstr ""
+msgstr "Έκπτωση"
 
 #: packages/community_store/elements/order_slip.php:193
 #: packages/community_store/single_pages/dashboard/store/orders.php:216
 #: packages/community_store/single_pages/checkout.php:464
 msgid "Grand Total"
-msgstr ""
+msgstr "Γενικό σύνολο"
 
 #: packages/community_store/elements/order_slip.php:197
 #: packages/community_store/mail/new_order_notification.php:150
 #: packages/community_store/mail/order_receipt.php:185
 #: packages/community_store/single_pages/dashboard/store/orders.php:219
 msgid "Payment Method"
-msgstr ""
+msgstr "Μέθοδος πληρωμής"
 
 #: packages/community_store/elements/order_slip.php:199
 #: packages/community_store/mail/new_order_notification.php:121
 #: packages/community_store/mail/order_receipt.php:157
 #: packages/community_store/single_pages/dashboard/store/orders.php:228
 msgid "Shipping Method"
-msgstr ""
+msgstr "Μέθοδος αποστολής"
 
 #: packages/community_store/elements/order_slip.php:206
 #: packages/community_store/mail/new_order_notification.php:126
@@ -1226,7 +1226,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:235
 #: packages/community_store/single_pages/checkout.php:275
 msgid "Delivery Instructions"
-msgstr ""
+msgstr "Οδηγίες παράδοσης"
 
 #: packages/community_store/mail/new_order_notification.php:9
 #, php-format
@@ -1245,12 +1245,12 @@ msgstr "Ταξινόμηση "
 #: packages/community_store/mail/new_order_notification.php:29
 #: packages/community_store/mail/order_receipt.php:35
 msgid "Billing Information"
-msgstr ""
+msgstr "Πληροφορίες χρέωσης"
 
 #: packages/community_store/mail/new_order_notification.php:41
 #: packages/community_store/mail/order_receipt.php:46
 msgid "Shipping Information"
-msgstr ""
+msgstr "Πληροφορίες αποστολής"
 
 #: packages/community_store/mail/new_order_notification.php:72
 #: packages/community_store/mail/order_receipt.php:78
@@ -1260,7 +1260,7 @@ msgstr "Λεπτομέρειες Παραγγελίας"
 #: packages/community_store/mail/new_order_notification.php:78
 #: packages/community_store/mail/order_receipt.php:84
 msgid "Qty"
-msgstr ""
+msgstr "Ποσότητα"
 
 #: packages/community_store/mail/new_order_notification.php:101
 #: packages/community_store/single_pages/dashboard/store/orders.php:141
@@ -1272,7 +1272,7 @@ msgstr "Κανένα"
 #: packages/community_store/single_pages/dashboard/store/orders.php:222
 #: packages/community_store/single_pages/dashboard/store/orders.php:395
 msgid "Transaction Reference"
-msgstr ""
+msgstr "Αναφορά συναλλαγής "
 
 #: packages/community_store/mail/new_order_notification.php:158
 msgid "View this order within the Dashboard"
@@ -1288,35 +1288,39 @@ msgstr "Μια παραγγελία έχει τοποθετηθεί στο site 
 
 #: packages/community_store/mail/new_user.php:4
 msgid "account Created"
-msgstr ""
+msgstr "Δημιουργήθηκε λογαριασμός"
 
 #: packages/community_store/mail/new_user.php:16
 #: packages/community_store/mail/new_user.php:39
 msgid "Thank you for your order, an account has been created for you at"
 msgstr ""
+"Σας ευχαριστούμε για την παραγγελία σας, ένας λογαριασμός έχει δημιουργηθεί "
+"για σας"
 
 #: packages/community_store/mail/order_receipt.php:8
 #, php-format
 msgid "Order Receipt #%s"
-msgstr ""
+msgstr "Απόδειξη  Παραγγελίας #%s"
 
 #: packages/community_store/mail/order_receipt.php:26
 msgid "Your Order"
-msgstr ""
+msgstr "Η Παραγγελία σας"
 
 #: packages/community_store/mail/order_receipt.php:142
 #: packages/community_store/single_pages/checkout/complete.php:20
 msgid "Your Downloads"
-msgstr ""
+msgstr "Οι Λήψεις σας"
 
 #: packages/community_store/single_pages/checkout/complete.php:3
 #, php-format
 msgid "Order #%s has been placed"
-msgstr ""
+msgstr "Η Παραγγελία #%s έχει τοποθετηθεί"
 
 #: packages/community_store/single_pages/checkout/complete.php:5
 msgid "Thank you for your order. A receipt will be emailed to you shortly."
 msgstr ""
+"Σας ευχαριστούμε για την παραγγελία σας. Μια απόδειξη θα σας αποσταλεί με "
+"email σύντομα."
 
 #: packages/community_store/single_pages/dashboard/store/orders/attributes.php:31
 #: packages/community_store/single_pages/dashboard/store/products/attributes.php:29
@@ -1326,21 +1330,24 @@ msgstr "Προσθήκη Χαρακτηριστικού"
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:8
 msgid "The following pages have been used to categorise products:"
 msgstr ""
+"Οι σελίδες που ακολουθούν έχουν χρησιμοποιηθεί για την κατηγοριοποίηση "
+"προϊόντων:"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:10
 msgid "No pages have been used to categorise products"
 msgstr ""
+"Δεν έχουν χρησιμοποιηθεί σελίδες για την κατηγοριοποίηση των προϊόντων"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:16
 #, php-format
 msgid "%d product"
 msgid_plural "%d products"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d προϊόν"
+msgstr[1] "%d προϊόντα"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:23
 msgid "Products within category"
-msgstr ""
+msgstr "Προϊόντα στην κατηγορία"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:31
 #: packages/community_store/single_pages/dashboard/store/products.php:95
@@ -1355,7 +1362,7 @@ msgstr "Ακύρωση"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:48
 msgid "Save Category Product Order"
-msgstr ""
+msgstr "Αποθηκεύστε Κατηγορία Παραγγελίας Προϊόντος"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:15
 msgid "From"
@@ -1367,34 +1374,34 @@ msgstr "Προς"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:31
 msgid "Order By"
-msgstr ""
+msgstr "Ταξινόμηση κατά"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:33
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:48
 msgid "Quantity Sold"
-msgstr ""
+msgstr "Η ποσότητα Εξαντλήθηκε"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:38
 msgid "Filter Results"
-msgstr ""
+msgstr "Αποτελέσματα φίλτρου"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:75
 msgid "Export CSV"
-msgstr ""
+msgstr "Εξαγωγή CSV"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:127
 msgid "Total Quantity Sold"
-msgstr ""
+msgstr "Συνολική ποσότητα που πωλήθηκε"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:11
 #: packages/community_store/single_pages/dashboard/store.php:9
 msgid "Incl."
-msgstr ""
+msgstr "Συμπ."
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:23
 #: packages/community_store/single_pages/dashboard/store.php:26
 msgid "Today's Sales"
-msgstr ""
+msgstr "Οι σημερινές Πωλήσεις"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:36
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:62
@@ -1408,24 +1415,24 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:455
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:107
 msgid "Tax"
-msgstr ""
+msgstr "Φόρος"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:49
 msgid "Past 30 Days"
-msgstr ""
+msgstr "ΤωνΤελευταίων 30 ημερών"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:75
 #: packages/community_store/single_pages/dashboard/store.php:52
 msgid "Year to Date"
-msgstr ""
+msgstr "Σαν σήμερα"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:183
 msgid "View Orders by Date"
-msgstr ""
+msgstr "Προβολή παραγγελιών ανά ημερομηνία"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:198
 msgid "Summary"
-msgstr ""
+msgstr "Περίληψη"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:206
 msgid "Export"
@@ -1443,7 +1450,7 @@ msgstr "Ημερομηνία"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:26
 msgid "Method Name"
-msgstr ""
+msgstr "Όνομα μεθόδου"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:32
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:152
@@ -1487,16 +1494,16 @@ msgstr "Λεπτομέριες"
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:60
 #, php-format
 msgid "%s Shipping Method"
-msgstr ""
+msgstr "%s Τρόπος αποστολής"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:71
 msgid "Add Method"
-msgstr ""
+msgstr "Προσθέστε Μέθοδο"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:81
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:107
 msgid "General Settings"
-msgstr ""
+msgstr "Γενικές Ρυθμίσεις"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:91
 #, php-format
