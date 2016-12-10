@@ -1688,7 +1688,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:168
 msgid "Display Text"
-msgstr ""
+msgstr "Mostrar texto"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:175
 msgid "Deduction Type"
@@ -2569,7 +2569,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:171
 msgid "Site"
-msgstr ""
+msgstr "Sitio"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:172
 msgid "Customer"

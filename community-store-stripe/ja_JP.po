@@ -49,7 +49,7 @@ msgstr "テスト"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:16
 msgid "Live"
-msgstr ""
+msgstr "公開"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:21
 msgid "Test Secret Key"
