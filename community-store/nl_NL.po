@@ -2,7 +2,7 @@
 # Remo Laubacher <remo.laubacher@gmail.com>, 2016
 # Michele Locati <michele@locati.it>, 2016
 # Ruud Walraven <ruud.walraven+transifex@gmail.com>, 2016
-# PAMB <pambanis@magicworks.nl>, 2016
+# PAMB <banis.pam@gmail.com>, 2016
 # Rob Roosen <info@swup.nl>, 2016
 # Ramon Leenders <ramon_leenders@hotmail.com>, 2016
 msgid ""

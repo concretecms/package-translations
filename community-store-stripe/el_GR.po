@@ -50,7 +50,7 @@ msgstr "Τεστ"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:16
 msgid "Live"
-msgstr ""
+msgstr "Απευθείας "
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:21
 msgid "Test Secret Key"
@@ -70,11 +70,11 @@ msgstr ""
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:109
 msgid "Processing..."
-msgstr ""
+msgstr "Επεξεργασία..."
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:154
 msgid "Complete Order"
-msgstr ""
+msgstr "Ολοκληρωμένη Παραγγελία"
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:167
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:173
