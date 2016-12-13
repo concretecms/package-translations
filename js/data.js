@@ -1,5 +1,5 @@
 {
-    "updated": 1481617837,
+    "updated": 1481643160,
     "packages": [
         {
             "handle": "addthis",
@@ -252,164 +252,164 @@
             "sourceURL": "https://github.com/concrete5-community-store/community_store",
             "locales": {
                 "de_DE": {
-                    "translated": 552,
-                    "untranslated": 77,
+                    "translated": 550,
+                    "untranslated": 83,
                     "fuzzy": 0,
-                    "total": 629,
-                    "perc": 87
+                    "total": 633,
+                    "perc": 86
                 },
                 "it_IT": {
-                    "translated": 629,
-                    "untranslated": 0,
+                    "translated": 627,
+                    "untranslated": 6,
                     "fuzzy": 0,
-                    "total": 629,
-                    "perc": 100
+                    "total": 633,
+                    "perc": 99
                 },
                 "lt_LT": {
                     "translated": 53,
-                    "untranslated": 576,
+                    "untranslated": 580,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 8
                 },
                 "sv_SE": {
                     "translated": 79,
-                    "untranslated": 550,
+                    "untranslated": 554,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 12
                 },
                 "el_GR": {
-                    "translated": 629,
-                    "untranslated": 0,
+                    "translated": 627,
+                    "untranslated": 6,
                     "fuzzy": 0,
-                    "total": 629,
-                    "perc": 100
+                    "total": 633,
+                    "perc": 99
                 },
                 "fi_FI": {
                     "translated": 79,
-                    "untranslated": 550,
+                    "untranslated": 554,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 12
                 },
                 "fr_FR": {
-                    "translated": 588,
-                    "untranslated": 41,
+                    "translated": 586,
+                    "untranslated": 47,
                     "fuzzy": 0,
-                    "total": 629,
-                    "perc": 93
+                    "total": 633,
+                    "perc": 92
                 },
                 "nl_NL": {
                     "translated": 238,
-                    "untranslated": 391,
+                    "untranslated": 395,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 37
                 },
                 "ru_RU": {
                     "translated": 77,
-                    "untranslated": 552,
+                    "untranslated": 556,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 12
                 },
                 "sl_SI": {
                     "translated": 74,
-                    "untranslated": 555,
+                    "untranslated": 559,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 11
                 },
                 "ro_RO": {
                     "translated": 66,
-                    "untranslated": 563,
+                    "untranslated": 567,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 10
                 },
                 "vi_VN": {
                     "translated": 60,
-                    "untranslated": 569,
+                    "untranslated": 573,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 9
                 },
                 "ast_ES": {
                     "translated": 20,
-                    "untranslated": 609,
+                    "untranslated": 613,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 3
                 },
                 "ja_JP": {
-                    "translated": 214,
-                    "untranslated": 415,
+                    "translated": 213,
+                    "untranslated": 420,
                     "fuzzy": 0,
-                    "total": 629,
-                    "perc": 34
+                    "total": 633,
+                    "perc": 33
                 },
                 "pl_PL": {
                     "translated": 72,
-                    "untranslated": 557,
+                    "untranslated": 561,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 11
                 },
                 "tr_TR": {
                     "translated": 74,
-                    "untranslated": 555,
+                    "untranslated": 559,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 11
                 },
                 "da_DK": {
-                    "translated": 587,
-                    "untranslated": 42,
+                    "translated": 585,
+                    "untranslated": 48,
                     "fuzzy": 0,
-                    "total": 629,
-                    "perc": 93
+                    "total": 633,
+                    "perc": 92
                 },
                 "bg_BG": {
                     "translated": 60,
-                    "untranslated": 569,
+                    "untranslated": 573,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 9
                 },
                 "zh_TW": {
                     "translated": 65,
-                    "untranslated": 564,
+                    "untranslated": 568,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 10
                 },
                 "es_PY": {
                     "translated": 77,
-                    "untranslated": 552,
+                    "untranslated": 556,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 12
                 },
                 "pt_BR": {
                     "translated": 77,
-                    "untranslated": 552,
+                    "untranslated": 556,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 12
                 },
                 "he_IL": {
                     "translated": 63,
-                    "untranslated": 566,
+                    "untranslated": 570,
                     "fuzzy": 0,
-                    "total": 629,
-                    "perc": 10
+                    "total": 633,
+                    "perc": 9
                 },
                 "fa_IR": {
                     "translated": 60,
-                    "untranslated": 569,
+                    "untranslated": 573,
                     "fuzzy": 0,
-                    "total": 629,
+                    "total": 633,
                     "perc": 9
                 }
             }
@@ -4877,6 +4877,174 @@
                     "fuzzy": 0,
                     "total": 13,
                     "perc": 38
+                }
+            }
+        },
+        {
+            "handle": "translations-updater",
+            "name": "Translations Updater",
+            "sourceURL": "https://github.com/mlocati/concrete5-translations-updater",
+            "locales": {
+                "de_DE": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "it_IT": {
+                    "translated": 27,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 100
+                },
+                "lt_LT": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "sv_SE": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "el_GR": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "fi_FI": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "fr_FR": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "nl_NL": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "ru_RU": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "sl_SI": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "ro_RO": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "vi_VN": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "ast_ES": {
+                    "translated": 1,
+                    "untranslated": 26,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 3
+                },
+                "ja_JP": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "pl_PL": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "tr_TR": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "da_DK": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "bg_BG": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "zh_TW": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "es_PY": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "pt_BR": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "he_IL": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
+                },
+                "fa_IR": {
+                    "translated": 2,
+                    "untranslated": 25,
+                    "fuzzy": 0,
+                    "total": 27,
+                    "perc": 7
                 }
             }
         },
