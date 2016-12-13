@@ -38,7 +38,7 @@ msgstr "Νόμισμα"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:10
 msgid "Integration Type"
-msgstr ""
+msgstr "Τύπος ολοκλήρωσης"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:15
 msgid "Mode"
@@ -54,19 +54,19 @@ msgstr "Απευθείας "
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:21
 msgid "Test Secret Key"
-msgstr ""
+msgstr "Δοκιμή μυστικού κλειδιού"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:26
 msgid "Test Publishable Key"
-msgstr ""
+msgstr "Δοκιμή δημοσιεύσιμου Κλειδιού"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:31
 msgid "Live Secret Key"
-msgstr ""
+msgstr "Ζωντανό μυστικό κλειδί"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:36
 msgid "Live Publishable Key"
-msgstr ""
+msgstr "Ζωντανό δημοσιεύσιμο Κλειδί"
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:109
 msgid "Processing..."
@@ -79,7 +79,7 @@ msgstr "Ολοκληρωμένη Παραγγελία"
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:167
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:173
 msgid "Card Number"
-msgstr ""
+msgstr "Αριθμός κάρτας"
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:184
 msgid "Expiration Date"
@@ -87,32 +87,32 @@ msgstr "Ημερομηνία Λήξης"
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:196
 msgid "CV Code"
-msgstr ""
+msgstr "Κωδικός CV "
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:201
 msgid "CVC"
-msgstr ""
+msgstr "CVC"
 
 #: packages/community_store_stripe/src/CommunityStore/Payment/Methods/CommunityStoreStripe/CommunityStoreStripePaymentMethod.php:41
 msgid "US Dollars"
-msgstr ""
+msgstr "Δολλάρια Ηνωμένων Πολιτειών"
 
 #: packages/community_store_stripe/src/CommunityStore/Payment/Methods/CommunityStoreStripe/CommunityStoreStripePaymentMethod.php:42
 msgid "Canadian Dollar"
-msgstr ""
+msgstr "Δολάριο Καναδά"
 
 #: packages/community_store_stripe/src/CommunityStore/Payment/Methods/CommunityStoreStripe/CommunityStoreStripePaymentMethod.php:43
 msgid "Australian Dollar"
-msgstr ""
+msgstr "Δολάριο Αυστραλίας"
 
 #: packages/community_store_stripe/src/CommunityStore/Payment/Methods/CommunityStoreStripe/CommunityStoreStripePaymentMethod.php:44
 msgid "British Pound"
-msgstr ""
+msgstr "Λίρα Αγγλίας"
 
 #: packages/community_store_stripe/src/CommunityStore/Payment/Methods/CommunityStoreStripe/CommunityStoreStripePaymentMethod.php:45
 msgid "Euro"
-msgstr ""
+msgstr "Ευρώ"
 
 #: packages/community_store_stripe/src/CommunityStore/Payment/Methods/CommunityStoreStripe/CommunityStoreStripePaymentMethod.php:46
 msgid "Swiss Franc"
-msgstr ""
+msgstr "Ελβετικό Φράγκο"

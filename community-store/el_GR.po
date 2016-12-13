@@ -892,7 +892,7 @@ msgstr "Βασική Τιμή"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:17
 msgid "Rate Based On"
-msgstr "Η τιμή ισχύει για"
+msgstr "Ο συντελεστής ισχύει για"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:23
 msgid "Price per Item"
@@ -942,12 +942,12 @@ msgstr "Αφήστε 0 για χωρίς κανένα μέγιστο"
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:72
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:41
 msgid "Minimum Weight Amount for this rate to apply"
-msgstr "Ελάχιστο Ποσό Βέρους για να εφαρμόστει αυτό το ποσοστό "
+msgstr "Ελάχιστο Ποσό Βάρους για να εφαρμοστεί αυτό το ποσοστό "
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:81
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:50
 msgid "Maximum Weight Amount for this rate to apply"
-msgstr "Μέγιστο Ποσό Βέρους για να εφαρμόστει αυτό το ποσοστό "
+msgstr "Μέγιστο Ποσό Βάρους για να εφαρμοστεί αυτό το ποσοστό "
 
 #: packages/community_store/elements/cart_list.php:17
 #: packages/community_store/elements/cart_modal.php:46
@@ -1640,7 +1640,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:192
 msgid "Select Tax Class Rates"
-msgstr "Επιλέξτε Ποσοστά Φορολογικής Κλάσης"
+msgstr "Επιλέξτε συντελεστή Φορολογικής Κλάσης"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:29
 msgid "Display"
@@ -2337,6 +2337,8 @@ msgid ""
 "In order to have digital downloads, you need to %sturn on advanced "
 "permissions%s."
 msgstr ""
+"Για να έχετε ψηφιακές λήψεις, θα πρέπει να  %sΕνεργοποιήστε τα προχωρημένα "
+"δικαιώματα%s."
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1081
 msgid "Create user account on purchase"
@@ -2917,122 +2919,126 @@ msgstr "Επεξεργασία..."
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:198
 msgid "Please set a Base Rate"
-msgstr "Παρακαλούμε να ορίσετε ένα Βασικό Επιτόκιο"
+msgstr "Παρακαλούμε να ορίσετε ένα Βασικό Συντελεστή"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:201
 msgid "Base Rate should be a number"
-msgstr ""
+msgstr "Ο Βασικός Συντελεστής θα πρέπει να είναι ένας αριθμός"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:205
 msgid ""
 "The Price Per Item doesn't have to be set, but it does have to be numeric"
 msgstr ""
+"Η τιμή ανά τεμάχιο δεν πρέπει να οριστεί, αλλά πρέπει να είναι αριθμητικό"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:342
 msgid "Flat Rate"
-msgstr ""
+msgstr "Επίπεδος Συντελεστής"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FreeShippingShippingMethod.php:231
 msgid "Free Shipping"
-msgstr ""
+msgstr "Δωρεάν Αποστολή"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:43
 msgid ""
 "The email address you have entered has already been used to create an "
 "account. Please login first or enter a different email address."
 msgstr ""
+"Η διεύθυνση ηλεκτρονικού ταχυδρομείου που έχετε εισάγει έχει ήδη "
+"χρησιμοποιηθεί για δημιουργία λογαριασμού. Παρακαλώ συνδεθείτε πρώτα ή "
+"εισάγετε μια διαφορετική διεύθυνση ηλεκτρονικού ταχυδρομείου."
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:151
 msgid "You must enter a valid email address"
-msgstr ""
+msgstr "Πρέπει να εισάγετε μια έγκυρη διεύθυνση ηλεκτρονικού ταχυδρομείου"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:157
 msgid "You must enter a first name"
-msgstr ""
+msgstr "Πρέπει να εισάγετε ένα όνομα"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:160
 msgid "Please enter a first name under 255 characters"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα όνομα κάτω από 255 χαρακτήρες"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:163
 msgid "You must enter a Last Name"
-msgstr ""
+msgstr "Θα πρέπει να εισάγετε ένα Επώνυμο"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:166
 msgid "Please enter a last name under 255 characters"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα επώνυμο κάτω από 255 χαρακτήρες"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:169
 msgid "You must enter an address"
-msgstr ""
+msgstr "Πρέπει να εισάγετε μια διεύθυνση"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:172
 msgid "Please enter a street name under 255 characters"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα όνομα οδού κάτω από 255 χαρακτήρες"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:175
 msgid "You must enter a Country"
-msgstr ""
+msgstr "Πρέπει να εισάγετε μια Χώρα"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:178
 msgid "You did not select a Country from the list"
-msgstr ""
+msgstr "Δεν έχετε επιλέξει μια χώρα από τη λίστα"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:181
 msgid "You must enter a City"
-msgstr ""
+msgstr "Πρέπει να εισάγετε μια πόλη"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:184
 msgid "You must enter a valid City"
-msgstr ""
+msgstr "Πρέπει να εισάγετε μια έγκυρη Πόλη"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:187
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:190
 msgid "You must enter a valid Postal Code"
-msgstr ""
+msgstr "Πρέπει να εισάγετε έναν έγκυρο Τ.Κ."
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:188
 msgid "Registered Customer in your store"
-msgstr ""
+msgstr "Εγγεγραμμένος πελάτης στο κατάστημα σας"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:201
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:248
 msgid "Store Customer Info"
-msgstr ""
+msgstr "Πληροφορίες Πελατών Καταστήματος "
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:249
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:347
 msgid "Other Customer Choices"
-msgstr ""
+msgstr "Άλλες επιλογές των πελατών"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:298
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:300
 msgid "Digital Downloads"
-msgstr ""
+msgstr "Ψηφιακές Λήψεις"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:310
 msgid "Awaiting Processing"
-msgstr ""
+msgstr "Εν αναμονή Επεξεργασίας"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:311
 msgid "Processing"
-msgstr ""
+msgstr "Επεξεργασία"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:312
 msgid "Shipped"
-msgstr ""
+msgstr "Απεστάλησαν"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:313
 msgid "Delivered"
-msgstr ""
+msgstr "Παραδόθηκε"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:314
 msgid "Will not deliver"
-msgstr ""
+msgstr "Δεν θα παραδώσει"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:315
 msgid "Returned"
-msgstr ""
+msgstr "Επέστρεψε"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:330
 msgid "Default"
