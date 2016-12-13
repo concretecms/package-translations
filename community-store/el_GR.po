@@ -4,10 +4,10 @@
 # Remo Laubacher <remo.laubacher@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: community_store 0.9.9.8\n"
+"Project-Id-Version: community_store 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-30T14:13:51+00:00\n"
-"PO-Revision-Date: 2016-11-30T14:13:51+00:00\n"
+"POT-Creation-Date: 2016-12-12T11:13:08+00:00\n"
+"PO-Revision-Date: 2016-12-12T11:13:08+00:00\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>, 2016\n"
 "Language-Team: Greek (Greece) (https://www.transifex.com/concrete5/teams/10374/el_GR/)\n"
 "MIME-Version: 1.0\n"
@@ -22,8 +22,8 @@ msgid "Product Breadcrumb"
 msgstr "Διακεκομμένο προϊόν"
 
 #: packages/community_store/controller.php:23
-msgid "Add a Store to your Site"
-msgstr "Προσθέστε ένα Kατάστημα στο Site σας"
+msgid "Add a store to your site"
+msgstr ""
 
 #: packages/community_store/controller.php:28
 msgid "Community Store"
@@ -191,11 +191,11 @@ msgstr "Προσθέστε μια λίστα προϊόντων για τα Kο�
 msgid "Product List"
 msgstr "Λίστα προϊόντων"
 
-#: packages/community_store/blocks/community_product_list/controller.php:199
+#: packages/community_store/blocks/community_product_list/controller.php:207
 msgid "A page must be selected"
 msgstr "Μια σελίδα πρέπει να επιλεγεί"
 
-#: packages/community_store/blocks/community_product_list/controller.php:203
+#: packages/community_store/blocks/community_product_list/controller.php:211
 msgid "Number of Products must be a whole number"
 msgstr "Ο αριθμός προϊόντων πρέπει να είναι ακέραιος αριθμός"
 
@@ -248,95 +248,103 @@ msgstr "Σχετικά με το προϊόν που εμφανίζεται σε
 msgid "Related to a specified product"
 msgstr "Που σχετίζονται με ένα συγκεκριμένο προϊόν"
 
-#: packages/community_store/blocks/community_product_list/form.php:33
+#: packages/community_store/blocks/community_product_list/form.php:20
+msgid "Random order, changing each display"
+msgstr ""
+
+#: packages/community_store/blocks/community_product_list/form.php:21
+msgid "Random order, changing each day"
+msgstr ""
+
+#: packages/community_store/blocks/community_product_list/form.php:35
 #: packages/community_store/single_pages/dashboard/store/products.php:976
 msgid "Search for a Product"
 msgstr "Αναζήτηση ενός προϊόντος"
 
-#: packages/community_store/blocks/community_product_list/form.php:37
+#: packages/community_store/blocks/community_product_list/form.php:39
 #: packages/community_store/single_pages/dashboard/store/settings.php:123
 msgid "Sort Order"
 msgstr "Σειρά Ταξινόμησης "
 
-#: packages/community_store/blocks/community_product_list/form.php:39
+#: packages/community_store/blocks/community_product_list/form.php:41
 msgid "Alphabetical"
 msgstr "Αλφαβητικά"
 
-#: packages/community_store/blocks/community_product_list/form.php:40
+#: packages/community_store/blocks/community_product_list/form.php:42
 #: packages/community_store/single_pages/dashboard/store/products.php:197
 msgid "Date Added"
 msgstr "Ημερομηνία Προσθήκης"
 
-#: packages/community_store/blocks/community_product_list/form.php:41
+#: packages/community_store/blocks/community_product_list/form.php:43
 msgid "Price Ascending"
 msgstr "Κατά Αύξουσα Τιμή"
 
-#: packages/community_store/blocks/community_product_list/form.php:42
+#: packages/community_store/blocks/community_product_list/form.php:44
 msgid "Price Descending"
 msgstr "Κατά Φθίνουσα Τιμή "
 
-#: packages/community_store/blocks/community_product_list/form.php:43
+#: packages/community_store/blocks/community_product_list/form.php:45
 msgid "Best Sellers"
 msgstr "Κορυφαία σε πωλήσεις"
 
-#: packages/community_store/blocks/community_product_list/form.php:44
+#: packages/community_store/blocks/community_product_list/form.php:46
 msgid "Related Products Order"
 msgstr "Ταξινόμηση Σχετικών προϊόντων"
 
-#: packages/community_store/blocks/community_product_list/form.php:45
+#: packages/community_store/blocks/community_product_list/form.php:47
 msgid "Category Sort Order"
 msgstr "Σειρά Ταξινόμησης Κατηγοριών"
 
-#: packages/community_store/blocks/community_product_list/form.php:52
+#: packages/community_store/blocks/community_product_list/form.php:54
 msgid "Filtering"
 msgstr "Φιλτράρισμα"
 
-#: packages/community_store/blocks/community_product_list/form.php:63
+#: packages/community_store/blocks/community_product_list/form.php:65
 msgid "Filter by Product Groups"
 msgstr "Φίλτρο ανά Ομάδα Προϊόντων"
 
-#: packages/community_store/blocks/community_product_list/form.php:67
+#: packages/community_store/blocks/community_product_list/form.php:69
 #: packages/community_store/single_pages/dashboard/store/products.php:263
 msgid "Select Product Groups"
 msgstr "Επιλογή Ομάδας Προϊόντων"
 
-#: packages/community_store/blocks/community_product_list/form.php:78
+#: packages/community_store/blocks/community_product_list/form.php:80
 msgid "Matching"
 msgstr "Ταίριασμα"
 
-#: packages/community_store/blocks/community_product_list/form.php:79
+#: packages/community_store/blocks/community_product_list/form.php:81
 msgid "All groups selected"
 msgstr "Όλες οι Ομάδες επιλέχτηκαν "
 
-#: packages/community_store/blocks/community_product_list/form.php:79
+#: packages/community_store/blocks/community_product_list/form.php:81
 msgid "Any group selected"
 msgstr "Οποιεσδήποτε Ομάδες επιλέχτηκαν "
 
-#: packages/community_store/blocks/community_product_list/form.php:87
+#: packages/community_store/blocks/community_product_list/form.php:89
 msgid "Include Featured Only"
 msgstr "Περιλαμβάνουν Προτεινόμενα Μόνο"
 
-#: packages/community_store/blocks/community_product_list/form.php:93
+#: packages/community_store/blocks/community_product_list/form.php:95
 msgid "Include On Sale Only"
 msgstr "Περιλαμβάνονται Προσφορές Μόνο"
 
-#: packages/community_store/blocks/community_product_list/form.php:99
+#: packages/community_store/blocks/community_product_list/form.php:101
 msgid "Include Out of Stock Products"
 msgstr "Περιλαμβάνουν Μη Διαθέσιμα Προϊόντα"
 
-#: packages/community_store/blocks/community_product_list/form.php:108
+#: packages/community_store/blocks/community_product_list/form.php:110
 msgid "Pagination and Display Options"
 msgstr "Σελιδοποίηση και Επιλογές εμφάνισης"
 
-#: packages/community_store/blocks/community_product_list/form.php:111
+#: packages/community_store/blocks/community_product_list/form.php:113
 msgid "Number of Products to Display"
 msgstr "Αριθμός προϊόντων για εμφάνιση"
 
-#: packages/community_store/blocks/community_product_list/form.php:112
+#: packages/community_store/blocks/community_product_list/form.php:114
 msgid "leave blank or 0 to list all matching products"
 msgstr "αφήστε το κενό ή 0 για την καταγραφή όσων προϊόντων ταιριάζουν "
 
-#: packages/community_store/blocks/community_product_list/form.php:118
+#: packages/community_store/blocks/community_product_list/form.php:120
 msgid ""
 "Display pagination interface if more products are available than are "
 "displayed."
@@ -344,47 +352,47 @@ msgstr ""
 "Εμφάνιση σελιδοποίησης εάν περισσότερα προϊόντα είναι διαθέσιμα από αυτά που"
 " εμφανίζονται"
 
-#: packages/community_store/blocks/community_product_list/form.php:123
+#: packages/community_store/blocks/community_product_list/form.php:125
 msgid "Products per Row"
 msgstr "Προϊόντα ανά Σειρά"
 
-#: packages/community_store/blocks/community_product_list/form.php:129
+#: packages/community_store/blocks/community_product_list/form.php:131
 msgid "Display Price"
 msgstr "Εμφάνιση Τιμής"
 
-#: packages/community_store/blocks/community_product_list/form.php:135
+#: packages/community_store/blocks/community_product_list/form.php:137
 msgid "Display Add To Cart Button"
 msgstr "Εμφάνιση κουμπιού \"Προσθήκη στο καλάθι\""
 
-#: packages/community_store/blocks/community_product_list/form.php:139
+#: packages/community_store/blocks/community_product_list/form.php:141
 msgid "Add To Cart Button Text"
 msgstr "Κείμενο κουμπιού Προσθήκη στο Καλάθι "
 
-#: packages/community_store/blocks/community_product_list/form.php:140
+#: packages/community_store/blocks/community_product_list/form.php:142
 msgid "Defaults to: Add To Cart"
 msgstr "Προεπιλογές για: Προσθήκη στο Καλάθι"
 
-#: packages/community_store/blocks/community_product_list/form.php:145
+#: packages/community_store/blocks/community_product_list/form.php:147
 msgid "Display Quantity Selector"
 msgstr "Εμφάνιση Επιλογέα Ποσότητας"
 
-#: packages/community_store/blocks/community_product_list/form.php:151
+#: packages/community_store/blocks/community_product_list/form.php:153
 msgid "Display Product Description"
 msgstr "Εμφάνιση  Περιγραφής προϊόντων"
 
-#: packages/community_store/blocks/community_product_list/form.php:160
+#: packages/community_store/blocks/community_product_list/form.php:162
 msgid "Display Quickview Link (Modal Window)"
 msgstr "Εμφάνιση Συνδέσμου  Quickview (Modal Window)"
 
-#: packages/community_store/blocks/community_product_list/form.php:166
+#: packages/community_store/blocks/community_product_list/form.php:168
 msgid "Display Link To Product Page"
 msgstr "Εμφάνιση συνδέσμου στη σελίδα του προϊόντος"
 
-#: packages/community_store/blocks/community_product_list/form.php:170
+#: packages/community_store/blocks/community_product_list/form.php:172
 msgid "Link To Product Page Text"
 msgstr "Κείμενο συνδέσμου της σελίδας του προϊόντος "
 
-#: packages/community_store/blocks/community_product_list/form.php:171
+#: packages/community_store/blocks/community_product_list/form.php:173
 msgid "Defaults to: More Details"
 msgstr "Προεπιλογές για: Περισσότερες λεπτομέρειες"
 
@@ -554,6 +562,7 @@ msgstr "Όνομα"
 #: packages/community_store/elements/order_slip.php:62
 #: packages/community_store/mail/new_order_notification.php:35
 #: packages/community_store/single_pages/dashboard/store/orders.php:59
+#: packages/community_store/single_pages/dashboard/store/orders.php:421
 #: packages/community_store/single_pages/checkout.php:72
 #: packages/community_store/single_pages/checkout.php:73
 #: packages/community_store/single_pages/checkout.php:160
@@ -579,7 +588,7 @@ msgid "Options"
 msgstr "Επιλογές"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:64
-#: packages/community_store/single_pages/dashboard/store/orders.php:487
+#: packages/community_store/single_pages/dashboard/store/orders.php:498
 msgid "Order Date"
 msgstr "Ημερομηνία παραγγελίας"
 
@@ -1024,7 +1033,7 @@ msgstr "Η έκπτωση εφαρμόστηκε"
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:131
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:205
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:228
-#: packages/community_store/single_pages/dashboard/store/orders.php:488
+#: packages/community_store/single_pages/dashboard/store/orders.php:499
 #: packages/community_store/single_pages/dashboard/store.php:31
 #: packages/community_store/single_pages/dashboard/store.php:57
 #: packages/community_store/single_pages/dashboard/store.php:111
@@ -1056,36 +1065,44 @@ msgid "Order placed"
 msgstr "Ολοκλήρωση παραγγελίας"
 
 #: packages/community_store/elements/order_slip.php:36
+#: packages/community_store/mail/order_receipt.php:199
 #: packages/community_store/single_pages/dashboard/store/orders.php:31
-#: packages/community_store/single_pages/dashboard/store/orders.php:511
+#: packages/community_store/single_pages/dashboard/store/orders.php:522
 msgid "Cancelled"
 msgstr "Ακυρώθηκε"
 
 #: packages/community_store/elements/order_slip.php:40
+#: packages/community_store/mail/order_receipt.php:202
 #: packages/community_store/single_pages/dashboard/store/orders.php:35
-#: packages/community_store/single_pages/dashboard/store/orders.php:360
-#: packages/community_store/single_pages/dashboard/store/orders.php:535
+#: packages/community_store/single_pages/dashboard/store/orders.php:358
+#: packages/community_store/single_pages/dashboard/store/orders.php:546
 msgid "Refunded"
 msgstr "Έγινε επιστροφή χρημάτων"
 
 #: packages/community_store/elements/order_slip.php:42
+#: packages/community_store/mail/new_order_notification.php:157
+#: packages/community_store/mail/order_receipt.php:204
 #: packages/community_store/single_pages/dashboard/store/orders.php:37
-#: packages/community_store/single_pages/dashboard/store/orders.php:333
-#: packages/community_store/single_pages/dashboard/store/orders.php:537
+#: packages/community_store/single_pages/dashboard/store/orders.php:331
+#: packages/community_store/single_pages/dashboard/store/orders.php:548
 msgid "Paid"
 msgstr "Πληρωμένη"
 
 #: packages/community_store/elements/order_slip.php:44
+#: packages/community_store/mail/new_order_notification.php:159
+#: packages/community_store/mail/order_receipt.php:206
 #: packages/community_store/single_pages/dashboard/store/orders.php:39
-#: packages/community_store/single_pages/dashboard/store/orders.php:316
-#: packages/community_store/single_pages/dashboard/store/orders.php:539
+#: packages/community_store/single_pages/dashboard/store/orders.php:314
+#: packages/community_store/single_pages/dashboard/store/orders.php:550
 msgid "Unpaid"
 msgstr "Απλήρωτη"
 
 #: packages/community_store/elements/order_slip.php:46
+#: packages/community_store/mail/new_order_notification.php:169
+#: packages/community_store/mail/order_receipt.php:189
 #: packages/community_store/single_pages/dashboard/store/orders.php:41
-#: packages/community_store/single_pages/dashboard/store/orders.php:313
-#: packages/community_store/single_pages/dashboard/store/orders.php:541
+#: packages/community_store/single_pages/dashboard/store/orders.php:311
+#: packages/community_store/single_pages/dashboard/store/orders.php:552
 msgid "Free Order"
 msgstr "Δωρεάν Παραγγελία"
 
@@ -1207,8 +1224,8 @@ msgid "Grand Total"
 msgstr "Γενικό σύνολο"
 
 #: packages/community_store/elements/order_slip.php:197
-#: packages/community_store/mail/new_order_notification.php:150
-#: packages/community_store/mail/order_receipt.php:185
+#: packages/community_store/mail/new_order_notification.php:151
+#: packages/community_store/mail/order_receipt.php:187
 #: packages/community_store/single_pages/dashboard/store/orders.php:219
 msgid "Payment Method"
 msgstr "Μέθοδος πληρωμής"
@@ -1268,21 +1285,27 @@ msgstr "Ποσότητα"
 msgid "None"
 msgstr "Κανένα"
 
-#: packages/community_store/mail/new_order_notification.php:153
+#: packages/community_store/mail/new_order_notification.php:162
+#: packages/community_store/mail/order_receipt.php:212
+#: packages/community_store/single_pages/dashboard/store/orders.php:308
+msgid "Payment Status"
+msgstr "Κατάσταση πληρωμής"
+
+#: packages/community_store/mail/new_order_notification.php:166
 #: packages/community_store/single_pages/dashboard/store/orders.php:222
-#: packages/community_store/single_pages/dashboard/store/orders.php:395
+#: packages/community_store/single_pages/dashboard/store/orders.php:393
 msgid "Transaction Reference"
 msgstr "Αναφορά συναλλαγής "
 
-#: packages/community_store/mail/new_order_notification.php:158
+#: packages/community_store/mail/new_order_notification.php:173
 msgid "View this order within the Dashboard"
 msgstr "Δείτε αυτή την παραγγελία στον Πίνακα ελέγχου"
 
-#: packages/community_store/mail/new_order_notification.php:176
+#: packages/community_store/mail/new_order_notification.php:191
 msgid "Order #:"
 msgstr "Παραγγελία #:"
 
-#: packages/community_store/mail/new_order_notification.php:177
+#: packages/community_store/mail/new_order_notification.php:192
 msgid "A new order has been placed on your website"
 msgstr "Μια παραγγελία έχει τοποθετηθεί στο site σας"
 
@@ -1811,8 +1834,8 @@ msgid "codes added"
 msgstr "οι κωδικοί προστέθηκαν"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:342
-msgid "The following codes are were invalid or are already active:"
-msgstr "Οι ακόλουθοι κωδικοί είτε είναι άκυροι ή είναι ήδη ενεργοί:"
+msgid "The following codes are invalid or are already active:"
+msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:349
 msgid "Current Codes"
@@ -1900,12 +1923,12 @@ msgid "Automatically"
 msgstr "Αυτόματα"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:263
-#: packages/community_store/single_pages/dashboard/store/orders.php:490
+#: packages/community_store/single_pages/dashboard/store/orders.php:501
 msgid "Fulfilment"
 msgstr "Εκπλήρωση"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:267
-#: packages/community_store/single_pages/dashboard/store/orders.php:323
+#: packages/community_store/single_pages/dashboard/store/orders.php:321
 msgid "Status"
 msgstr "Κατάσταση"
 
@@ -1913,78 +1936,82 @@ msgstr "Κατάσταση"
 msgid "Update Fulfilment Status"
 msgstr "Ενημέρωση Κατάστασης Εκπλήρωσης "
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:308
-msgid "Payment Status"
-msgstr "Κατάσταση πληρωμής"
-
-#: packages/community_store/single_pages/dashboard/store/orders.php:324
+#: packages/community_store/single_pages/dashboard/store/orders.php:322
 msgid "Date / Reference"
 msgstr "Ημερομηνία / Αναφορά"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:325
+#: packages/community_store/single_pages/dashboard/store/orders.php:323
 msgid "By"
 msgstr "Από"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:337
+#: packages/community_store/single_pages/dashboard/store/orders.php:335
 msgid "Ref"
 msgstr "Σχετ"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:344
+#: packages/community_store/single_pages/dashboard/store/orders.php:342
 msgid "payment"
 msgstr "πληρωμή"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:350
+#: packages/community_store/single_pages/dashboard/store/orders.php:348
 msgid "Are you sure you wish to reverse this payment?"
 msgstr "Είστε σίγουροι ότι θέλετε να αντιστραφεί αυτή η πληρωμή;"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:350
-#: packages/community_store/single_pages/dashboard/store/orders.php:373
+#: packages/community_store/single_pages/dashboard/store/orders.php:348
+#: packages/community_store/single_pages/dashboard/store/orders.php:371
 msgid "reverse"
 msgstr "απόσυρση"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:373
+#: packages/community_store/single_pages/dashboard/store/orders.php:371
 msgid "Are you sure you wish to reverse this refund?"
 msgstr "Είστε σίγουροι ότι θέλετε να αποσύρεται αυτή η επιστροφή;"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:388
+#: packages/community_store/single_pages/dashboard/store/orders.php:386
 msgid "Update Payment Status"
 msgstr "Ενημέρωση Κατάστασης Πληρωμής"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:398
+#: packages/community_store/single_pages/dashboard/store/orders.php:396
 msgid "Mark Paid"
 msgstr "Ένδειξη Πληρωμένο"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:403
+#: packages/community_store/single_pages/dashboard/store/orders.php:401
 msgid "Refund Reason"
 msgstr "Αιτιολογία Επιστροφής Χρημάτων"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:406
+#: packages/community_store/single_pages/dashboard/store/orders.php:404
 msgid "Mark Refunded"
 msgstr "Ένδειξη επιστροφή χρημάτων"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:426
-#: packages/community_store/single_pages/dashboard/store/orders.php:428
+#: packages/community_store/single_pages/dashboard/store/orders.php:416
+msgid "Resend Invoice Email"
+msgstr ""
+
+#: packages/community_store/single_pages/dashboard/store/orders.php:424
+msgid "Resend Invoice"
+msgstr ""
+
+#: packages/community_store/single_pages/dashboard/store/orders.php:437
+#: packages/community_store/single_pages/dashboard/store/orders.php:439
 msgid "Cancel Order"
 msgstr "Ακύρωση παραγγελίας"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:428
+#: packages/community_store/single_pages/dashboard/store/orders.php:439
 msgid "Are you sure you wish to cancel this order?"
 msgstr "Είστε σίγουροι ότι θέλετε να ακυρώσετε αυτήν την παραγγελία;"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:433
+#: packages/community_store/single_pages/dashboard/store/orders.php:444
 msgid "Are you sure you wish to reverse this cancellation?"
 msgstr "Είστε σίγουροι ότι θέλετε να αποσύρεται αυτή την  ακύρωση;"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:433
+#: packages/community_store/single_pages/dashboard/store/orders.php:444
 msgid "Reverse Cancellation"
 msgstr "Ανατροπή  ακύρωσης"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:438
-#: packages/community_store/single_pages/dashboard/store/orders.php:439
+#: packages/community_store/single_pages/dashboard/store/orders.php:449
+#: packages/community_store/single_pages/dashboard/store/orders.php:450
 msgid "Delete Order"
 msgstr "Διαγραφή Παραγγελίας"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:439
+#: packages/community_store/single_pages/dashboard/store/orders.php:450
 msgid ""
 "Are you sure you wish to completely delete this order? The order number will"
 " be reused."
@@ -1992,7 +2019,7 @@ msgstr ""
 "Είστε σίγουροι ότι θέλετε να διαγράψετε εντελώς αυτή την παραγγελία; Ο "
 "αριθμός παραγγελίας θα επαναχρησιμοποιηθεί."
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:450
+#: packages/community_store/single_pages/dashboard/store/orders.php:461
 #: packages/community_store/single_pages/dashboard/store.php:17
 msgid ""
 "Cart and Ordering features are currently disabled. This setting can be "
@@ -2001,48 +2028,48 @@ msgstr ""
 "Οι δυνατότητες Καλάθι και Παραγγελία είναι απενεργοποιημένα αυτή τη στιγμή. "
 "Αυτή η ρύθμιση μπορεί να αλλάξει μέσω του"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:450
+#: packages/community_store/single_pages/dashboard/store/orders.php:461
 #: packages/community_store/single_pages/dashboard/store.php:17
 msgid "settings page."
 msgstr "σελίδα ρυθμίσεων."
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:458
+#: packages/community_store/single_pages/dashboard/store/orders.php:469
 msgid "All Statuses"
 msgstr "Όλες οι καταστάσεις"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:472
+#: packages/community_store/single_pages/dashboard/store/orders.php:483
 msgid "Search Orders"
 msgstr "Αναζήτηση Παραγγελιών"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:475
+#: packages/community_store/single_pages/dashboard/store/orders.php:486
 #: packages/community_store/single_pages/dashboard/store/products.php:1218
 msgid "Search"
 msgstr "Αναζήτηση"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:485
+#: packages/community_store/single_pages/dashboard/store/orders.php:496
 #, php-format
 msgid "Order %s"
 msgstr "Παραγγελία %s"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:486
+#: packages/community_store/single_pages/dashboard/store/orders.php:497
 msgid "Customer Name"
 msgstr "Όνομα πελάτη"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:489
+#: packages/community_store/single_pages/dashboard/store/orders.php:500
 #: packages/community_store/single_pages/checkout.php:309
 msgid "Payment"
 msgstr "Πληρωμή"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:491
-#: packages/community_store/single_pages/dashboard/store/orders.php:546
+#: packages/community_store/single_pages/dashboard/store/orders.php:502
+#: packages/community_store/single_pages/dashboard/store/orders.php:557
 msgid "View"
 msgstr "Προβολή"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:523
+#: packages/community_store/single_pages/dashboard/store/orders.php:534
 msgid "Not found"
 msgstr "Δεν βρέθηκε"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:555
+#: packages/community_store/single_pages/dashboard/store/orders.php:566
 msgid "No Orders Found"
 msgstr "Δεν Βρέθηκαν Παραγγελίες"
 
