@@ -22,7 +22,7 @@ msgstr "Linee di navigazione articolo"
 
 #: packages/community_store/controller.php:23
 msgid "Add a store to your site"
-msgstr ""
+msgstr "Aggiungi un negozio al tuo sito"
 
 #: packages/community_store/controller.php:28
 msgid "Community Store"
@@ -248,11 +248,11 @@ msgstr "Associati a uno specifico articolo"
 
 #: packages/community_store/blocks/community_product_list/form.php:20
 msgid "Random order, changing each display"
-msgstr ""
+msgstr "Ordine casuale, cambia ad ogni visualizzazione"
 
 #: packages/community_store/blocks/community_product_list/form.php:21
 msgid "Random order, changing each day"
-msgstr ""
+msgstr "Ordine casuale, cambia ad ogni giorno"
 
 #: packages/community_store/blocks/community_product_list/form.php:35
 #: packages/community_store/single_pages/dashboard/store/products.php:976
@@ -1827,7 +1827,7 @@ msgstr "codici aggiunti"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:342
 msgid "The following codes are invalid or are already active:"
-msgstr ""
+msgstr "I seguenti codici non sono validi o sono già attivi:"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:349
 msgid "Current Codes"
@@ -1975,11 +1975,11 @@ msgstr "Segna come rimborsato"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:416
 msgid "Resend Invoice Email"
-msgstr ""
+msgstr "Inviadi nuovo email con ricevuta"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:424
 msgid "Resend Invoice"
-msgstr ""
+msgstr "Re-invia ricevuta"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:437
 #: packages/community_store/single_pages/dashboard/store/orders.php:439
