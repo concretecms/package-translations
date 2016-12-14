@@ -17,7 +17,7 @@ msgstr ""
 
 #: packages/community_store_stripe/controller.php:24
 msgid "Stripe Payment Method for Community Store"
-msgstr "Stripe Μέθοδος πληρωμής για το κοινοτικό  Κατάστημα"
+msgstr "Stripe Μέθοδος πληρωμής για το Κοινοτικό  Κατάστημα"
 
 #: packages/community_store_stripe/controller.php:29
 msgid "Stripe Payment Method"

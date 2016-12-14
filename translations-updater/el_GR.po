@@ -1,13 +1,14 @@
 # Translators:
 # Remo Laubacher <remo.laubacher@gmail.com>, 2016
 # Michele Locati <michele@locati.it>, 2016
+# Vasilis Fotopoulos <basalba@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: translations_updater 1.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-13T14:46:07+00:00\n"
 "PO-Revision-Date: 2016-12-13T14:46:07+00:00\n"
-"Last-Translator: Michele Locati <michele@locati.it>, 2016\n"
+"Last-Translator: Vasilis Fotopoulos <basalba@gmail.com>, 2016\n"
 "Language-Team: Greek (Greece) (https://www.transifex.com/concrete5/teams/10374/el_GR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,98 +18,100 @@ msgstr ""
 
 #: packages/translations_updater/config/install.xml:4
 msgid "Update Translations"
-msgstr ""
+msgstr "Ενημέρωση Μεταφράσεων"
 
 #: packages/translations_updater/controller.php:25
 msgid "Translations Updater"
-msgstr ""
+msgstr "Ενημερότης Μεταφράσεων"
 
 #: packages/translations_updater/controller.php:30
 msgid "Update the translations of concrete5 and of some packages"
-msgstr ""
+msgstr "Ενημερώστε τις μεταφράσεις του concrete5 και κάποιων πακέτων"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:222
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:235
 msgid "Invalid parameters"
-msgstr ""
+msgstr "Μη έγκυρες παράμετροι"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:246
 msgid "Failed to create the local language directory"
-msgstr ""
+msgstr "Απέτυχε να δημιουργήσει το τοπικό κατάλογο γλώσσας"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:251
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:274
 msgid "The local translations have been correctly updated."
-msgstr ""
+msgstr "Οι τοπικές μεταφράσεις έχουν ενημερωθεί σωστά."
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:256
 msgid "Failed to update the local language file: access denied"
 msgstr ""
+"Απέτυχε να ενημερώσει το τοπικό αρχείο γλώσσας: δεν επιτρέπεται η πρόσβαση"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:258
 msgid "Failed to update the local language file"
-msgstr ""
+msgstr "Απέτυχε να ενημερώσει το τοπικό αρχείο γλώσσας"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:262
 msgid "Failed to create the local language file: access denied"
 msgstr ""
+"Απέτυχε να ενημερώσει το τοπικό αρχείο γλώσσας: δεν επιτρέπεται η πρόσβαση"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:264
 msgid "Failed to create the local language file"
-msgstr ""
+msgstr "Απέτυχε να δημιουργήσει το τοπικό αρχείου γλώσσας"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:25
 msgid "Select Component"
-msgstr ""
+msgstr "Επιλέξτε Στοιχείο"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:27
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:80
 msgid "** Please Select"
-msgstr ""
+msgstr "** Παρακαλώ επιλέξτε"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:36
 msgid "Locally available packages"
-msgstr ""
+msgstr "Locally available packages"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:50
 msgid "Other core versions"
-msgstr ""
+msgstr "Άλλες βασικές εκδόσεις"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:63
 msgid "Other packages"
-msgstr ""
+msgstr "Άλλα Πακέτα"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:78
 msgid "Select Language"
-msgstr ""
+msgstr "Επιλέξτε Γλώσσα"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:81
 msgid "Used languages"
-msgstr ""
+msgstr "Χρησιμοποιούμενες Γλώσσες"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:90
 msgid "Other languages"
-msgstr ""
+msgstr "Άλλες γλώσσες"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:111
 msgid "Translation progress"
-msgstr ""
+msgstr "Πρόοδος Μετάφρασης"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:115
 msgid "Position of compiled (.mo) language file"
-msgstr ""
+msgstr "Θέση αρχείου γλώσσας (.mo)"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:122
 msgid "No translations available for the selected language"
-msgstr ""
+msgstr "Δεν υπάρχουν διαθέσιμες μεταφράσεις για την επιλεγμένη γλώσσα"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:127
 msgid "Download .mo file"
-msgstr ""
+msgstr "Κατεβάστε το αρχείο .mo"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:128
 msgid "Download .po file"
-msgstr ""
+msgstr "Κατεβάστε το αρχείο .po"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:129
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:222
@@ -117,11 +120,11 @@ msgstr "Ενημέρωση"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:229
 msgid "No server response"
-msgstr ""
+msgstr "Καμία απάντηση του server"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:233
 msgid "No valid server response"
-msgstr ""
+msgstr "Δεν υπάρχει έγκυρη απάντηση από τον server"
 
 #: packages/translations_updater/src/ResourceStats.php:103
 msgid "concrete5"

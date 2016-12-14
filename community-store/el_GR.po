@@ -23,7 +23,7 @@ msgstr "Διακεκομμένο προϊόν"
 
 #: packages/community_store/controller.php:23
 msgid "Add a store to your site"
-msgstr ""
+msgstr "Προσθέστε ένα κατάστημα στο site σας"
 
 #: packages/community_store/controller.php:28
 msgid "Community Store"
@@ -250,11 +250,11 @@ msgstr "Που σχετίζονται με ένα συγκεκριμένο πρ�
 
 #: packages/community_store/blocks/community_product_list/form.php:20
 msgid "Random order, changing each display"
-msgstr ""
+msgstr "Τυχαία σειρά, αλλάζοντας με κάθε απεικόνιση"
 
 #: packages/community_store/blocks/community_product_list/form.php:21
 msgid "Random order, changing each day"
-msgstr ""
+msgstr "Τυχαία σειρά, αλλάζοντας με κάθε μέρα"
 
 #: packages/community_store/blocks/community_product_list/form.php:35
 #: packages/community_store/single_pages/dashboard/store/products.php:976
@@ -1835,7 +1835,7 @@ msgstr "οι κωδικοί προστέθηκαν"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:342
 msgid "The following codes are invalid or are already active:"
-msgstr ""
+msgstr "Οι παρακάτω κωδικοί είναι άκυροι ή είναι ήδη ενεργοί:"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:349
 msgid "Current Codes"
@@ -1983,11 +1983,11 @@ msgstr "Ένδειξη επιστροφή χρημάτων"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:416
 msgid "Resend Invoice Email"
-msgstr ""
+msgstr "Επανάληψη αποστολής Τιμολόγιο Email"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:424
 msgid "Resend Invoice"
-msgstr ""
+msgstr "Επανάληψη αποστολής Τιμολόγιο"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:437
 #: packages/community_store/single_pages/dashboard/store/orders.php:439
