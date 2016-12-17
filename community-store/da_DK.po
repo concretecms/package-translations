@@ -17,11 +17,11 @@ msgstr ""
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php
 msgctxt "TemplateFileName"
 msgid "Product Breadcrumb"
-msgstr ""
+msgstr "Produkt Breadcrumb"
 
 #: packages/community_store/controller.php:23
 msgid "Add a store to your site"
-msgstr ""
+msgstr "Føj en butik til din hjemmeside"
 
 #: packages/community_store/controller.php:28
 msgid "Community Store"
@@ -37,7 +37,7 @@ msgstr "Antal skal være større end nul"
 
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php:33
 msgid "Empty Auto-Nav Block."
-msgstr ""
+msgstr "Tom Auto-Nav Block."
 
 #: packages/community_store/blocks/community_product/controller.php:21
 msgid "Add a Product to the Page"
@@ -239,24 +239,24 @@ msgstr "Under en bestemt side og underordnede sider"
 
 #: packages/community_store/blocks/community_product_list/form.php:18
 msgid "Related to product displayed on this page"
-msgstr ""
+msgstr "Relateret til produkt vist på denne side"
 
 #: packages/community_store/blocks/community_product_list/form.php:19
 msgid "Related to a specified product"
-msgstr ""
+msgstr "Relateret til et bestemt produkt"
 
 #: packages/community_store/blocks/community_product_list/form.php:20
 msgid "Random order, changing each display"
-msgstr ""
+msgstr "Tilfældig rækkefølge, ændre hver visning"
 
 #: packages/community_store/blocks/community_product_list/form.php:21
 msgid "Random order, changing each day"
-msgstr ""
+msgstr "Tilfældig rækkefølge, ændre hver dag"
 
 #: packages/community_store/blocks/community_product_list/form.php:35
 #: packages/community_store/single_pages/dashboard/store/products.php:976
 msgid "Search for a Product"
-msgstr ""
+msgstr "Søg efter et Produkt"
 
 #: packages/community_store/blocks/community_product_list/form.php:39
 #: packages/community_store/single_pages/dashboard/store/settings.php:123
@@ -274,23 +274,23 @@ msgstr "Dato Tilføjet"
 
 #: packages/community_store/blocks/community_product_list/form.php:43
 msgid "Price Ascending"
-msgstr ""
+msgstr "Pris Stigende"
 
 #: packages/community_store/blocks/community_product_list/form.php:44
 msgid "Price Descending"
-msgstr ""
+msgstr "Pris Faldende"
 
 #: packages/community_store/blocks/community_product_list/form.php:45
 msgid "Best Sellers"
-msgstr ""
+msgstr "Bestsellere"
 
 #: packages/community_store/blocks/community_product_list/form.php:46
 msgid "Related Products Order"
-msgstr ""
+msgstr "Rækkefølge for Relaterede Produkter"
 
 #: packages/community_store/blocks/community_product_list/form.php:47
 msgid "Category Sort Order"
-msgstr ""
+msgstr "Kategori Sorteringsrækkefølge"
 
 #: packages/community_store/blocks/community_product_list/form.php:54
 msgid "Filtering"
@@ -399,7 +399,7 @@ msgstr "Flere Detaljer"
 
 #: packages/community_store/blocks/community_product_list/view.php:245
 msgid "Empty Product List"
-msgstr ""
+msgstr "Tom Produktliste"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:22
 msgid "Add your cart links for Community Store"
@@ -524,11 +524,11 @@ msgstr "Kategorier"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:22
 msgid "Category Order Updated"
-msgstr ""
+msgstr "Kategori Sorteringsrækkefølge Opdateret"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:40
 msgid "Manage Category: "
-msgstr ""
+msgstr "Administrer Kategori:"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:56
 #: packages/community_store/controllers/single_page/dashboard/store/orders.php:64
@@ -996,6 +996,8 @@ msgid ""
 "An issue has occured adding the product to the cart. You may be missing "
 "required information."
 msgstr ""
+"Er et problem er opstået, da varen blev tilføjet til indkøbskurven. Du "
+"mangler krævede oplysninger."
 
 #: packages/community_store/elements/cart_modal.php:175
 #: packages/community_store/single_pages/cart.php:193
@@ -1337,22 +1339,22 @@ msgstr "Tilføj Attribut"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:8
 msgid "The following pages have been used to categorise products:"
-msgstr ""
+msgstr "De følgende sider er blevet anvendt til at kategorisere produkter:"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:10
 msgid "No pages have been used to categorise products"
-msgstr ""
+msgstr "Ingen sider er blevet brugt til at kategorisere produkter"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:16
 #, php-format
 msgid "%d product"
 msgid_plural "%d products"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d produkt"
+msgstr[1] "%d produkter"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:23
 msgid "Products within category"
-msgstr ""
+msgstr "Produkter i kategori"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:31
 #: packages/community_store/single_pages/dashboard/store/products.php:95
@@ -1367,7 +1369,7 @@ msgstr "Annuller"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:48
 msgid "Save Category Product Order"
-msgstr ""
+msgstr "Gem Kategori Produkt Sorteringsrækkefølge"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:15
 msgid "From"
@@ -1817,7 +1819,7 @@ msgstr "koder tilføjet"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:342
 msgid "The following codes are invalid or are already active:"
-msgstr ""
+msgstr "Følgende koder er  ugyldige eller er allerede aktive:"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:349
 msgid "Current Codes"
@@ -1965,11 +1967,11 @@ msgstr "Marker Refunderet"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:416
 msgid "Resend Invoice Email"
-msgstr ""
+msgstr "Gensend Faktura Email"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:424
 msgid "Resend Invoice"
-msgstr ""
+msgstr "Gensend Faktura"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:437
 #: packages/community_store/single_pages/dashboard/store/orders.php:439
@@ -2053,7 +2055,7 @@ msgstr "Ikke fundet"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:566
 msgid "No Orders Found"
-msgstr ""
+msgstr "Ingen Ordrer Fundet"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:34
 msgid "Delete Product"
@@ -2074,7 +2076,7 @@ msgstr "Billeder"
 #: packages/community_store/single_pages/dashboard/store/products.php:64
 #: packages/community_store/single_pages/dashboard/store/products.php:962
 msgid "Related Products"
-msgstr ""
+msgstr "Relaterede Produkter"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:65
 msgid "Attributes"
@@ -2198,19 +2200,19 @@ msgstr "Vælg Billeder"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:435
 msgid "Add Option List"
-msgstr ""
+msgstr "Tilføj Option Liste"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:436
 msgid "Add Text Entry"
-msgstr ""
+msgstr "Tilføj Tekst Indtastningsfelt"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:437
 msgid "Add Text Area"
-msgstr ""
+msgstr "Tilføj Tekstområdefelt"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:438
 msgid "Add Hidden Value"
-msgstr ""
+msgstr "Tilføj skjult Værdi"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:451
 msgid "Delete the Option Group"
@@ -2218,11 +2220,11 @@ msgstr "Slet Option Gruppe"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:460
 msgid "Option Name"
-msgstr ""
+msgstr "Option Navn"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:466
 msgid "Option Handle"
-msgstr ""
+msgstr "Option Handle"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:485
 msgid "Add Option"
@@ -2230,19 +2232,19 @@ msgstr "Tilføj Option"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:535
 msgid "Option List"
-msgstr ""
+msgstr "Option Liste"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:536
 msgid "Text Input"
-msgstr ""
+msgstr "Tekst felt"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:537
 msgid "Text Area Input"
-msgstr ""
+msgstr "Tekst Område"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:538
 msgid "Hidden Value"
-msgstr ""
+msgstr "Skjult Værdi"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:654
 msgid "Option"
@@ -2424,7 +2426,7 @@ msgstr "Alle Grupper"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1214
 msgid "Search by Name or SKU"
-msgstr ""
+msgstr "Søg efter Navn eller SKU"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1231
 #: packages/community_store/single_pages/dashboard/store/products.php:1276
@@ -2496,7 +2498,7 @@ msgstr "Betalinger"
 #: packages/community_store/single_pages/dashboard/store/settings.php:18
 #: packages/community_store/single_pages/dashboard/store/settings.php:157
 msgid "Fulfilment Statuses"
-msgstr ""
+msgstr "Opfyldelse Statusser"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:19
 msgid "Notifications and Receipts"
@@ -2628,7 +2630,7 @@ msgstr "Kunde"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:203
 msgid "No Fulfilment Statuses are available"
-msgstr ""
+msgstr "Ingen Opfyldte Statusangivelser er tilgængelige"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:211
 msgid "Notification Emails"
@@ -2857,45 +2859,53 @@ msgid ""
 "Are you sure you want to remove all products, orders and discounts from "
 "Community Store? (y/n)"
 msgstr ""
+"Er du sikker på du vil fjerne alle produkter, ordrer og rabatter fra "
+"Community Store Webshoppe? (y/n)"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:46
 msgid ""
 "Are you sure you want to remove all products from Community Store? (y/n)"
 msgstr ""
+"Er du sikker på du vil fjerne alle produkter fra Community Store Webshoppe? "
+"(y/n)"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:50
 msgid "Are you sure you want to remove all orders from Community Store? (y/n)"
 msgstr ""
+"Er du sikker på du vil fjerne alle ordrer fra Community Store Webshoppe? "
+"(y/n)"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:54
 msgid ""
 "Are you sure you want to remove all discounts from Community Store? (y/n)"
 msgstr ""
+"Er du sikker på du vil fjerne alle rabatter fra Community Store Webshoppe? "
+"(y/n)"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:63
 msgid "Operation aborted."
-msgstr ""
+msgstr "Operation afbrudt."
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:74
 #, php-format
 msgid "%d order deleted"
 msgid_plural "%d orders deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d ordre slettet"
+msgstr[1] "%d ordrer slettet"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:88
 #, php-format
 msgid "%d product deleted"
 msgid_plural "%d products deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d produkt slettet"
+msgstr[1] "%d produkter slettet"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:102
 #, php-format
 msgid "%d discount deleted"
 msgid_plural "%d discounts deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d rabat slettet"
+msgstr[1] "%d rabatter slettet"
 
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:384
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:388
