@@ -23,7 +23,7 @@ msgstr "Διακεκομμένο προϊόν"
 
 #: packages/community_store/controller.php:23
 msgid "Add a store to your site"
-msgstr "Προσθέστε ένα κατάστημα στο site σας"
+msgstr "Προσθέστε ένα Kατάστημα στο Site σας"
 
 #: packages/community_store/controller.php:28
 msgid "Community Store"

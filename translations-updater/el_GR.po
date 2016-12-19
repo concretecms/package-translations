@@ -22,7 +22,7 @@ msgstr "Ενημέρωση Μεταφράσεων"
 
 #: packages/translations_updater/controller.php:25
 msgid "Translations Updater"
-msgstr "Ενημερότης Μεταφράσεων"
+msgstr "Ενημερότητα Μεταφράσεων"
 
 #: packages/translations_updater/controller.php:30
 msgid "Update the translations of concrete5 and of some packages"
@@ -35,7 +35,7 @@ msgstr "Μη έγκυρες παράμετροι"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:246
 msgid "Failed to create the local language directory"
-msgstr "Απέτυχε να δημιουργήσει το τοπικό κατάλογο γλώσσας"
+msgstr "Απέτυχε η δημιουργία του τοπικού κατάλογου γλώσσας"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:251
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:274
@@ -45,20 +45,21 @@ msgstr "Οι τοπικές μεταφράσεις έχουν ενημερωθε
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:256
 msgid "Failed to update the local language file: access denied"
 msgstr ""
-"Απέτυχε να ενημερώσει το τοπικό αρχείο γλώσσας: δεν επιτρέπεται η πρόσβαση"
+"Απέτυχε η ενημέρωση του τοπικού αρχείου γλώσσας: δεν επιτρέπεται η πρόσβαση"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:258
 msgid "Failed to update the local language file"
-msgstr "Απέτυχε να ενημερώσει το τοπικό αρχείο γλώσσας"
+msgstr "Απέτυχε η ενημέρωση του τοπικού αρχείου γλώσσας"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:262
 msgid "Failed to create the local language file: access denied"
 msgstr ""
-"Απέτυχε να ενημερώσει το τοπικό αρχείο γλώσσας: δεν επιτρέπεται η πρόσβαση"
+"Απέτυχε η δημιουργία του τοπικού κατάλογου γλώσσας: δεν επιτρέπεται η "
+"πρόσβαση"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:264
 msgid "Failed to create the local language file"
-msgstr "Απέτυχε να δημιουργήσει το τοπικό αρχείου γλώσσας"
+msgstr "Απέτυχε η δημιουργία του τοπικού κατάλογου γλώσσας"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:25
 msgid "Select Component"
@@ -71,7 +72,7 @@ msgstr "** Παρακαλώ επιλέξτε"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:36
 msgid "Locally available packages"
-msgstr "Locally available packages"
+msgstr "Πακέτα διαθέσιμα Τοπικά"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:50
 msgid "Other core versions"
@@ -99,7 +100,7 @@ msgstr "Πρόοδος Μετάφρασης"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:115
 msgid "Position of compiled (.mo) language file"
-msgstr "Θέση αρχείου γλώσσας (.mo)"
+msgstr "Θέση μεταγλωτισμένου αρχείου γλώσσας (.mo)"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:122
 msgid "No translations available for the selected language"
@@ -120,7 +121,7 @@ msgstr "Ενημέρωση"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:229
 msgid "No server response"
-msgstr "Καμία απάντηση του server"
+msgstr "Καμιά απάντηση του server"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:233
 msgid "No valid server response"
