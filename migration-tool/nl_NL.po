@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2016-10-02 18:07+0000\n"
+"PO-Revision-Date: 2016-12-22 09:43+0000\n"
 "Last-Translator: Volluta <volluta@tutanota.com>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/concrete5/concrete5-packages/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -894,11 +894,11 @@ msgstr "Onderwerpen"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowProgressCategoryFormatter.php:10
 msgid "Workflow Progress Categories"
-msgstr ""
+msgstr "Workflow voortgang categorieën"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowTypeFormatter.php:10
 msgid "Workflow Types"
-msgstr ""
+msgstr "Workflow types"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Page/TreeJsonFormatter.php:23
 msgid "Page Path"

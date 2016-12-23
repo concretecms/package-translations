@@ -1,0 +1,123 @@
+# Translators:
+# Ivaylo Malinov <mals@mail.bg>, 2016
+# Remo Laubacher <remo.laubacher@gmail.com>, 2016
+# Cossara <tdyulgyarska@yahoo.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: datetime_shifter 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-23T08:49:13+01:00\n"
+"PO-Revision-Date: 2016-12-23T08:49:13+01:00\n"
+"Last-Translator: Cossara <tdyulgyarska@yahoo.com>, 2016\n"
+"Language-Team: Bulgarian (Bulgaria) (https://www.transifex.com/concrete5/teams/10374/bg_BG/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg_BG\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: packages/datetime_shifter/install.xml:4
+#: packages/datetime_shifter/controller.php:17
+msgid "DATETIME shifter"
+msgstr ""
+
+#: packages/datetime_shifter/install.xml:4
+#: packages/datetime_shifter/controller.php:22
+msgid ""
+"Add or substract a specified amount of time from DATETIME database fields"
+msgstr ""
+
+#: packages/datetime_shifter/controllers/single_page/dashboard/system/basics/timezone/datetime_shifter.php:140
+#, php-format
+msgid "%d record has been updated"
+msgid_plural "%d records have been updated"
+msgstr[0] ""
+msgstr[1] ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:7
+msgid "Table"
+msgstr "Таблица"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:11
+msgid "Field"
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:45
+msgid "Options"
+msgstr "Опции"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:48
+msgid "Operation"
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:51
+msgid "Add"
+msgstr "Добавяне"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:52
+msgid "Substract"
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:57
+msgid "Hours"
+msgstr "Часове"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:63
+msgid "Minutes"
+msgstr "Минути"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:69
+msgid "For date/times after"
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:75
+msgid "For date/times before"
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:86
+msgid "Process"
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:97
+msgid "Apply"
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:109
+msgid ""
+"Table fields are being updated. Are you sure you want to leave this page?"
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:136
+msgid "Start"
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:182
+msgid "Cancel"
+msgstr "Отмяна"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:206
+#, php-format
+msgid "%d row updated"
+msgid_plural "%d rows updated"
+msgstr[0] ""
+msgstr[1] ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:217
+msgid "You can't close this dialog: table fields are being updated..."
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:232
+msgid "Operations completed."
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:239
+msgid "Processing..."
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:260
+msgid "No server response."
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:268
+msgid "Invalid server response."
+msgstr ""

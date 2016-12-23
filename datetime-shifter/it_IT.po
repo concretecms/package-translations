@@ -1,0 +1,128 @@
+# Translators:
+# Michele Locati <michele@locati.it>, 2016
+# Remo Laubacher <remo.laubacher@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: datetime_shifter 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-23T08:49:13+01:00\n"
+"PO-Revision-Date: 2016-12-23T08:49:13+01:00\n"
+"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>, 2016\n"
+"Language-Team: Italian (Italy) (https://www.transifex.com/concrete5/teams/10374/it_IT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: packages/datetime_shifter/install.xml:4
+#: packages/datetime_shifter/controller.php:17
+msgid "DATETIME shifter"
+msgstr "DATETIME shifter"
+
+#: packages/datetime_shifter/install.xml:4
+#: packages/datetime_shifter/controller.php:22
+msgid ""
+"Add or substract a specified amount of time from DATETIME database fields"
+msgstr ""
+"Aggiungi o sottrai uno specifico intervallo di tempo ai campi DATETIME del "
+"database"
+
+#: packages/datetime_shifter/controllers/single_page/dashboard/system/basics/timezone/datetime_shifter.php:140
+#, php-format
+msgid "%d record has been updated"
+msgid_plural "%d records have been updated"
+msgstr[0] "%d record è stato aggiornato"
+msgstr[1] "%d record sono stati aggiornati"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:7
+msgid "Table"
+msgstr "Tabella"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:11
+msgid "Field"
+msgstr "Campo"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:45
+msgid "Options"
+msgstr "Opzioni"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:48
+msgid "Operation"
+msgstr "Operazione"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:51
+msgid "Add"
+msgstr "Aggiungi"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:52
+msgid "Substract"
+msgstr "Sottrai"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:57
+msgid "Hours"
+msgstr "Ore"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:63
+msgid "Minutes"
+msgstr "Minuti"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:69
+msgid "For date/times after"
+msgstr "Per date/ore dopo di"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:75
+msgid "For date/times before"
+msgstr "Per date/ore prima di"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:86
+msgid "Process"
+msgstr "Processo"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:97
+msgid "Apply"
+msgstr "Applica"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:109
+msgid ""
+"Table fields are being updated. Are you sure you want to leave this page?"
+msgstr ""
+"I campi delle tabelle sono in fase di aggiornamento. Lasciare questa pagina "
+"comunque?"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:136
+msgid "Start"
+msgstr "Avvia"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:182
+msgid "Cancel"
+msgstr "Annulla"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:206
+#, php-format
+msgid "%d row updated"
+msgid_plural "%d rows updated"
+msgstr[0] "%d riga aggiornata"
+msgstr[1] "%d righe aggiornate"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:217
+msgid "You can't close this dialog: table fields are being updated..."
+msgstr ""
+"Non è possibile chiudere questa finestra di dialogo: i campi delle tabelle "
+"sono in fase di aggiornamento…"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:232
+msgid "Operations completed."
+msgstr "Operazioni completate."
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:239
+msgid "Processing..."
+msgstr "In fase di elaborazione…"
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:260
+msgid "No server response."
+msgstr "Nessuna risposta dal server."
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:268
+msgid "Invalid server response."
+msgstr "Risposta dal server non valida."
