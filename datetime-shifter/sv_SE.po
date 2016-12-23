@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: datetime_shifter 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-23T08:49:13+01:00\n"
-"PO-Revision-Date: 2016-12-23T08:49:13+01:00\n"
+"POT-Creation-Date: 2016-12-23T09:02:08+01:00\n"
+"PO-Revision-Date: 2016-12-23T09:02:09+01:00\n"
 "Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>, 2016\n"
 "Language-Team: Swedish (Sweden) (https://www.transifex.com/concrete5/teams/10374/sv_SE/)\n"
 "MIME-Version: 1.0\n"
@@ -84,6 +84,10 @@ msgstr ""
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:109
 msgid ""
 "Table fields are being updated. Are you sure you want to leave this page?"
+msgstr ""
+
+#: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:124
+msgid "Please select at least one table field."
 msgstr ""
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:136
