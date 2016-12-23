@@ -1,5 +1,5 @@
 {
-    "updated": 1482395440,
+    "updated": 1482479740,
     "packages": [
         {
             "handle": "addthis",
@@ -462,11 +462,11 @@
                     "perc": 24
                 },
                 "nl_NL": {
-                    "translated": 5,
-                    "untranslated": 20,
+                    "translated": 6,
+                    "untranslated": 19,
                     "fuzzy": 0,
                     "total": 25,
-                    "perc": 20
+                    "perc": 24
                 },
                 "ru_RU": {
                     "translated": 4,
@@ -1636,6 +1636,174 @@
                     "fuzzy": 0,
                     "total": 83,
                     "perc": 33
+                }
+            }
+        },
+        {
+            "handle": "datetime-shifter",
+            "name": "DATETIME shifter",
+            "sourceURL": "https://github.com/mlocati/concrete5_datetime_shifter",
+            "locales": {
+                "de_DE": {
+                    "translated": 8,
+                    "untranslated": 16,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 33
+                },
+                "it_IT": {
+                    "translated": 24,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 100
+                },
+                "lt_LT": {
+                    "translated": 5,
+                    "untranslated": 19,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 20
+                },
+                "sv_SE": {
+                    "translated": 6,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 25
+                },
+                "el_GR": {
+                    "translated": 8,
+                    "untranslated": 16,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 33
+                },
+                "fi_FI": {
+                    "translated": 6,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 25
+                },
+                "fr_FR": {
+                    "translated": 8,
+                    "untranslated": 16,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 33
+                },
+                "nl_NL": {
+                    "translated": 6,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 25
+                },
+                "ru_RU": {
+                    "translated": 6,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 25
+                },
+                "sl_SI": {
+                    "translated": 6,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 25
+                },
+                "ro_RO": {
+                    "translated": 5,
+                    "untranslated": 19,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 20
+                },
+                "vi_VN": {
+                    "translated": 5,
+                    "untranslated": 19,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 20
+                },
+                "ast_ES": {
+                    "translated": 3,
+                    "untranslated": 21,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 12
+                },
+                "ja_JP": {
+                    "translated": 6,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 25
+                },
+                "pl_PL": {
+                    "translated": 6,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 25
+                },
+                "tr_TR": {
+                    "translated": 6,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 25
+                },
+                "da_DK": {
+                    "translated": 8,
+                    "untranslated": 16,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 33
+                },
+                "bg_BG": {
+                    "translated": 6,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 25
+                },
+                "zh_TW": {
+                    "translated": 5,
+                    "untranslated": 19,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 20
+                },
+                "es_PY": {
+                    "translated": 6,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 25
+                },
+                "pt_BR": {
+                    "translated": 6,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 25
+                },
+                "he_IL": {
+                    "translated": 5,
+                    "untranslated": 19,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 20
+                },
+                "fa_IR": {
+                    "translated": 6,
+                    "untranslated": 18,
+                    "fuzzy": 0,
+                    "total": 24,
+                    "perc": 25
                 }
             }
         },
@@ -3486,18 +3654,18 @@
                     "perc": 40
                 },
                 "fr_FR": {
-                    "translated": 86,
-                    "untranslated": 144,
+                    "translated": 87,
+                    "untranslated": 143,
                     "fuzzy": 0,
                     "total": 230,
                     "perc": 37
                 },
                 "nl_NL": {
-                    "translated": 93,
-                    "untranslated": 137,
+                    "translated": 95,
+                    "untranslated": 135,
                     "fuzzy": 0,
                     "total": 230,
-                    "perc": 40
+                    "perc": 41
                 },
                 "ru_RU": {
                     "translated": 92,
