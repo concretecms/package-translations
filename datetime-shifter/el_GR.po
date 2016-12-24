@@ -18,20 +18,22 @@ msgstr ""
 #: packages/datetime_shifter/install.xml:4
 #: packages/datetime_shifter/controller.php:17
 msgid "DATETIME shifter"
-msgstr ""
+msgstr "DATETIME επιλογέας"
 
 #: packages/datetime_shifter/install.xml:4
 #: packages/datetime_shifter/controller.php:22
 msgid ""
 "Add or substract a specified amount of time from DATETIME database fields"
 msgstr ""
+"Προσθέσετε ή να αφαιρέσετε ένα συγκεκριμένο χρονικό διάστημα από τα DATETIME"
+"  πεδία της βάσης δεδομένων"
 
 #: packages/datetime_shifter/controllers/single_page/dashboard/system/basics/timezone/datetime_shifter.php:140
 #, php-format
 msgid "%d record has been updated"
 msgid_plural "%d records have been updated"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d εγγραφή έχει ενημερωθεί"
+msgstr[1] "%d εγγραφές έχουν ενημερωθεί"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:7
 msgid "Table"
@@ -39,7 +41,7 @@ msgstr "Πίνακας"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:11
 msgid "Field"
-msgstr ""
+msgstr "Πεδίο"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:45
 msgid "Options"
@@ -47,7 +49,7 @@ msgstr "Επιλογές"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:48
 msgid "Operation"
-msgstr ""
+msgstr "Λειτουργία"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:51
 msgid "Add"
@@ -55,7 +57,7 @@ msgstr "Προσθήκη"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:52
 msgid "Substract"
-msgstr ""
+msgstr "Αφαιρείται "
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:57
 msgid "Hours"
@@ -67,15 +69,15 @@ msgstr "Λεπτά"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:69
 msgid "For date/times after"
-msgstr ""
+msgstr "Για μετά την ημερομηνία / φορές"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:75
 msgid "For date/times before"
-msgstr ""
+msgstr "Για πριν την ημερομηνία / φορές"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:86
 msgid "Process"
-msgstr ""
+msgstr "Επεξεργασία"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:97
 msgid "Apply"
@@ -85,14 +87,16 @@ msgstr "Iσχύει"
 msgid ""
 "Table fields are being updated. Are you sure you want to leave this page?"
 msgstr ""
+"Τα πεδία του πίνακα έχουν ενημερωθεί. Είστε σίγουροι ότι θέλετε να "
+"αποχωρήσετε από αυτήν τη σελίδα;"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:124
 msgid "Please select at least one table field."
-msgstr ""
+msgstr "Πρέπει να επιλέξετε τουλάχιστον ένα πεδίο πίνακα."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:136
 msgid "Start"
-msgstr ""
+msgstr "Έναρξη"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:182
 msgid "Cancel"
@@ -102,16 +106,18 @@ msgstr "Ακύρωση"
 #, php-format
 msgid "%d row updated"
 msgid_plural "%d rows updated"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d σειρά έχει ενημερωθεί"
+msgstr[1] "%d σειρές έχουν ενημερωθεί"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:217
 msgid "You can't close this dialog: table fields are being updated..."
 msgstr ""
+"Δεν μπορείτε να κλείσετε αυτό το παράθυρο διαλόγου: τα πεδία πίνακα "
+"ενημερώνονται ..."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:232
 msgid "Operations completed."
-msgstr ""
+msgstr "Οι Λειτουργίες έχουν ολοκληρωθεί."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:239
 msgid "Processing..."
@@ -119,8 +125,8 @@ msgstr "Επεξεργασία..."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:260
 msgid "No server response."
-msgstr ""
+msgstr "Καμιά απάντηση του server"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:268
 msgid "Invalid server response."
-msgstr ""
+msgstr "Μη έγκυρη απάντηση από τον server"
