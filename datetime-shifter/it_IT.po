@@ -92,7 +92,7 @@ msgstr ""
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:124
 msgid "Please select at least one table field."
-msgstr ""
+msgstr "Selezionare almeno un campo delle tabelle."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:136
 msgid "Start"
