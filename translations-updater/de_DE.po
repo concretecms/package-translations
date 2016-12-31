@@ -1,12 +1,13 @@
 # Translators:
 # Remo Laubacher <remo.laubacher@gmail.com>, 2016
+# Ettore Atalan <atalanttore@googlemail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: translations_updater 1.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-13T14:46:07+00:00\n"
 "PO-Revision-Date: 2016-12-13T14:46:07+00:00\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>, 2016\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>, 2016\n"
 "Language-Team: German (Germany) (https://www.transifex.com/concrete5/teams/10374/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 
 #: packages/translations_updater/config/install.xml:4
 msgid "Update Translations"
-msgstr ""
+msgstr "Übersetzungen aktualisieren"
 
 #: packages/translations_updater/controller.php:25
 msgid "Translations Updater"
@@ -24,90 +25,92 @@ msgstr ""
 
 #: packages/translations_updater/controller.php:30
 msgid "Update the translations of concrete5 and of some packages"
-msgstr ""
+msgstr "Übersetzungen von concrete5 und einigen Paketen aktualisieren"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:222
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:235
 msgid "Invalid parameters"
-msgstr ""
+msgstr "Ungültige Parameter"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:246
 msgid "Failed to create the local language directory"
-msgstr ""
+msgstr "Das lokale Sprachverzeichnis konnte nicht erstellt werden"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:251
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:274
 msgid "The local translations have been correctly updated."
-msgstr ""
+msgstr "Die lokalen Übersetzungen wurden korrekt aktualisiert."
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:256
 msgid "Failed to update the local language file: access denied"
 msgstr ""
+"Die lokale Sprachdatei konnte nicht aktualisiert werden: Zugriff verweigert"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:258
 msgid "Failed to update the local language file"
-msgstr ""
+msgstr "Die lokale Sprachdatei konnte nicht aktualisiert werden"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:262
 msgid "Failed to create the local language file: access denied"
 msgstr ""
+"Die lokale Sprachdatei konnte nicht erstellt werden: Zugriff verweigert"
 
 #: packages/translations_updater/controllers/single_page/dashboard/system/multilingual/update_translations.php:264
 msgid "Failed to create the local language file"
-msgstr ""
+msgstr "Die lokale Sprachdatei konnte nicht erstellt werden"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:25
 msgid "Select Component"
-msgstr ""
+msgstr "Komponente auswählen"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:27
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:80
 msgid "** Please Select"
-msgstr ""
+msgstr "** Bitte auswählen"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:36
 msgid "Locally available packages"
-msgstr ""
+msgstr "Lokal verfügbare Pakete"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:50
 msgid "Other core versions"
-msgstr ""
+msgstr "Andere Kernversionen"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:63
 msgid "Other packages"
-msgstr ""
+msgstr "Andere Pakete"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:78
 msgid "Select Language"
-msgstr ""
+msgstr "Sprache auswählen"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:81
 msgid "Used languages"
-msgstr ""
+msgstr "Genutzte Sprachen"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:90
 msgid "Other languages"
-msgstr ""
+msgstr "Andere Sprachen"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:111
 msgid "Translation progress"
-msgstr ""
+msgstr "Übersetzungsfortschritt"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:115
 msgid "Position of compiled (.mo) language file"
-msgstr ""
+msgstr "Ort der kompilierten Sprachdatei (.mo)"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:122
 msgid "No translations available for the selected language"
-msgstr ""
+msgstr "Für die ausgewählte Sprache sind keine Übersetzungen verfügbar"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:127
 msgid "Download .mo file"
-msgstr ""
+msgstr "Datei .mo herunterladen"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:128
 msgid "Download .po file"
-msgstr ""
+msgstr "Datei .po herunterladen"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:129
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:222
@@ -116,11 +119,11 @@ msgstr "Aktualisieren"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:229
 msgid "No server response"
-msgstr ""
+msgstr "Keine Serverreaktion"
 
 #: packages/translations_updater/single_pages/dashboard/system/multilingual/update_translations.php:233
 msgid "No valid server response"
-msgstr ""
+msgstr "Keine gültige Serverreaktion"
 
 #: packages/translations_updater/src/ResourceStats.php:103
 msgid "concrete5"

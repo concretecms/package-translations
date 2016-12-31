@@ -30,8 +30,8 @@ msgstr ""
 #, php-format
 msgid "%d record has been updated"
 msgid_plural "%d records have been updated"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d Eintrag wurde aktualisiert"
+msgstr[1] "%d Einträge wurde aktualisiert"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:7
 msgid "Table"
@@ -39,7 +39,7 @@ msgstr "Tabelle"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:11
 msgid "Field"
-msgstr ""
+msgstr "Feld"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:45
 msgid "Options"
@@ -47,7 +47,7 @@ msgstr "Optionen"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:48
 msgid "Operation"
-msgstr ""
+msgstr "Vorgang"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:51
 msgid "Add"
@@ -67,15 +67,15 @@ msgstr "Minuten"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:69
 msgid "For date/times after"
-msgstr ""
+msgstr "Für Datum/Zeiten nach"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:75
 msgid "For date/times before"
-msgstr ""
+msgstr "Für Datum/Zeiten vor"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:86
 msgid "Process"
-msgstr ""
+msgstr "Bearbeiten"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:97
 msgid "Apply"
@@ -85,14 +85,16 @@ msgstr "Übernehmen"
 msgid ""
 "Table fields are being updated. Are you sure you want to leave this page?"
 msgstr ""
+"Tabellenfelder werden aktualisiert. Sind Sie sicher, dass Sie diese Seite "
+"wirklich verlassen möchten?"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:124
 msgid "Please select at least one table field."
-msgstr ""
+msgstr "Bitte wählen Sie mindestens ein Tabellenfeld aus."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:136
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:182
 msgid "Cancel"
@@ -102,16 +104,18 @@ msgstr "Abbrechen"
 #, php-format
 msgid "%d row updated"
 msgid_plural "%d rows updated"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d Zeile aktualisiert"
+msgstr[1] "%d Zeilen aktualisiert"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:217
 msgid "You can't close this dialog: table fields are being updated..."
 msgstr ""
+"Sie können diesen Dialog nicht schließen: Tabellenfelder werden "
+"aktualisiert..."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:232
 msgid "Operations completed."
-msgstr ""
+msgstr "Vorgänge abgeschlossen."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:239
 msgid "Processing..."
@@ -119,8 +123,8 @@ msgstr "In Bearbeitung..."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:260
 msgid "No server response."
-msgstr ""
+msgstr "Keine Serverreaktion."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:268
 msgid "Invalid server response."
-msgstr ""
+msgstr "Ungültige Serverreaktion."
