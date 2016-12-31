@@ -1,5 +1,5 @@
 {
-    "updated": 1483086642,
+    "updated": 1483173040,
     "packages": [
         {
             "handle": "addthis",
@@ -1645,11 +1645,11 @@
             "sourceURL": "https://github.com/mlocati/concrete5_datetime_shifter",
             "locales": {
                 "de_DE": {
-                    "translated": 8,
-                    "untranslated": 17,
+                    "translated": 22,
+                    "untranslated": 3,
                     "fuzzy": 0,
                     "total": 25,
-                    "perc": 32
+                    "perc": 88
                 },
                 "it_IT": {
                     "translated": 25,
@@ -5054,11 +5054,11 @@
             "sourceURL": "https://github.com/mlocati/concrete5-translations-updater",
             "locales": {
                 "de_DE": {
-                    "translated": 2,
-                    "untranslated": 25,
+                    "translated": 26,
+                    "untranslated": 1,
                     "fuzzy": 0,
                     "total": 27,
-                    "perc": 7
+                    "perc": 96
                 },
                 "it_IT": {
                     "translated": 27,
