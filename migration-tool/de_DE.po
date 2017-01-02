@@ -1,13 +1,13 @@
 # 
 # Translators:
-# Ettore Atalan <atalanttore@googlemail.com>, 2016
+# Ettore Atalan <atalanttore@googlemail.com>, 2016-2017
 # Roland Greim <roland@stempelgreim.de>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2016-12-01 19:34+0000\n"
+"PO-Revision-Date: 2017-01-01 18:48+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/concrete5/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -37,12 +37,12 @@ msgstr "Dieses Addon benötigt PHP 5.4 oder höher. "
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:24
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:33
 msgid "Batch added successfully."
-msgstr ""
+msgstr "Stapelverarbeitung erfolgreich hinzugefügt."
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:46
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:59
 msgid "Batch removed successfully."
-msgstr ""
+msgstr "Stapelverarbeitung erfolgreich entfernt."
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:58
 msgid "You have not created any export batches."
@@ -110,7 +110,7 @@ msgstr "Dateien in Stapelverarbeitung"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:271
 msgid "File(s) uploaded successfully"
-msgstr ""
+msgstr "Datei(en) erfolgreich hochgeladen"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:280
 msgid "Find and Replace"
@@ -336,7 +336,7 @@ msgstr "Schlüsselwörter"
 
 #: packages/migration_tool/elements/export/search/page.php:18
 msgid "Published on or After"
-msgstr ""
+msgstr "Veröffentlich am oder nach"
 
 #: packages/migration_tool/elements/export/search/page.php:24
 msgid "Filter by Parent Page"
@@ -457,7 +457,7 @@ msgstr "Kennung"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:63
 msgid "No referenced files found."
-msgstr ""
+msgstr "Keine referenzierten Dateien gefunden"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:67
 msgid "Content XML"
@@ -505,7 +505,7 @@ msgstr "Inhalte hinzufügen"
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:7
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:7
 msgid "Add Content to Batch"
-msgstr ""
+msgstr "Inhalt zu Stapelverarbeitung hinzufügen"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:11
 msgid "Edit Batch"
@@ -539,7 +539,7 @@ msgstr ""
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:80
 msgid "Content File"
-msgstr ""
+msgstr "Inhaltsdatei"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:84
 msgid "File Format"
@@ -555,7 +555,7 @@ msgstr ""
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:93
 msgid "Add content to batch."
-msgstr ""
+msgstr "Inhalt zu Stapelverarbeitung hinzufügen."
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:122
 msgid "Status"

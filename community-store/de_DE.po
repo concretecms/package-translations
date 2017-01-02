@@ -259,7 +259,7 @@ msgstr ""
 #: packages/community_store/blocks/community_product_list/form.php:35
 #: packages/community_store/single_pages/dashboard/store/products.php:976
 msgid "Search for a Product"
-msgstr ""
+msgstr "Nach einem Produkt suchen"
 
 #: packages/community_store/blocks/community_product_list/form.php:39
 #: packages/community_store/single_pages/dashboard/store/settings.php:123
@@ -1970,7 +1970,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:424
 msgid "Resend Invoice"
-msgstr ""
+msgstr "Rechnung erneut senden"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:437
 #: packages/community_store/single_pages/dashboard/store/orders.php:439
@@ -2209,7 +2209,7 @@ msgstr "Textbereich hinzufügen"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:438
 msgid "Add Hidden Value"
-msgstr ""
+msgstr "Ausgeblendeten Wert hinzufügen"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:451
 msgid "Delete the Option Group"
@@ -2237,11 +2237,11 @@ msgstr "Texteingabe"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:537
 msgid "Text Area Input"
-msgstr ""
+msgstr "Textbereichseingabe"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:538
 msgid "Hidden Value"
-msgstr ""
+msgstr "Ausgeblendeter Wert"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:654
 msgid "Option"

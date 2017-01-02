@@ -54,7 +54,7 @@ msgstr "Live"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:21
 msgid "Test Secret Key"
-msgstr ""
+msgstr "Geheimen Schlüssel testen"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:26
 msgid "Test Publishable Key"
