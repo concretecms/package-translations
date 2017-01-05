@@ -1746,7 +1746,7 @@ msgstr ""
 #: packages/community_store/single_pages/cart.php:164
 #: packages/community_store/single_pages/checkout.php:413
 msgid "Apply"
-msgstr ""
+msgstr "適用する"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:210
 msgid "Automatically, (when matching all restrictions)"
@@ -2879,7 +2879,7 @@ msgstr ""
 
 #: packages/community_store/src/CommunityStore/Payment/Methods/Invoice/InvoicePaymentMethod.php:43
 msgid "Processing..."
-msgstr ""
+msgstr "処理中…"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:198
 msgid "Please set a Base Rate"
