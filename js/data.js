@@ -1,5 +1,5 @@
 {
-    "updated": 1484296234,
+    "updated": 1484299719,
     "packages": [
         {
             "handle": "addthis",
@@ -5213,6 +5213,20 @@
                     "fuzzy": 0,
                     "total": 27,
                     "perc": 7
+                }
+            }
+        },
+        {
+            "handle": "warnings-log",
+            "name": "Warnings Log",
+            "sourceURL": "https://github.com/mlocati/warnings_log",
+            "locales": {
+                "it_IT": {
+                    "translated": 47,
+                    "untranslated": 0,
+                    "fuzzy": 0,
+                    "total": 47,
+                    "perc": 100
                 }
             }
         },
