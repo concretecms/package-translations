@@ -3,13 +3,14 @@
 # Torsten Silbermann <mail@tsilbermann.de>, 2016
 # krebbi <sk@krebernik-it.com>, 2016
 # Ettore Atalan <atalanttore@googlemail.com>, 2016
+# Nicolas Barro <info@cahueya.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: community_store 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-12T11:13:08+00:00\n"
 "PO-Revision-Date: 2016-12-12T11:13:08+00:00\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>, 2016\n"
+"Last-Translator: Nicolas Barro <info@cahueya.com>, 2017\n"
 "Language-Team: German (Germany) (https://www.transifex.com/concrete5/teams/10374/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +25,7 @@ msgstr ""
 
 #: packages/community_store/controller.php:23
 msgid "Add a store to your site"
-msgstr ""
+msgstr "Fügen Sie einen Shop zu Ihrer Seite hinzu."
 
 #: packages/community_store/controller.php:28
 msgid "Community Store"
@@ -32,7 +33,7 @@ msgstr "Community Store"
 
 #: packages/community_store/controller.php:55
 msgid "This package requires that the SOAP client for PHP is installed"
-msgstr ""
+msgstr "Dieses Paket verlangt, dass der SOAP Client für PHP installiert ist."
 
 #: packages/community_store/controller.php:138
 msgid "Quantity must be greater than zero"
@@ -40,7 +41,7 @@ msgstr "Menge muss Größer als 0 sein"
 
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php:33
 msgid "Empty Auto-Nav Block."
-msgstr ""
+msgstr "Leerer Autonavigations-Block"
 
 #: packages/community_store/blocks/community_product/controller.php:21
 msgid "Add a Product to the Page"
@@ -197,7 +198,7 @@ msgstr "Bitte eine Seite auswählen"
 
 #: packages/community_store/blocks/community_product_list/controller.php:211
 msgid "Number of Products must be a whole number"
-msgstr ""
+msgstr "Die Menge der Produkte muss eine ganze Zahl sein."
 
 #: packages/community_store/blocks/community_product_list/form.php:8
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:31
@@ -250,11 +251,11 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product_list/form.php:20
 msgid "Random order, changing each display"
-msgstr ""
+msgstr "Zufällige Reihenfolge, die bei jedem Aufruf geändert wird."
 
 #: packages/community_store/blocks/community_product_list/form.php:21
 msgid "Random order, changing each day"
-msgstr ""
+msgstr "Zufällige Reihenfolge, die jeden Tag geändert wird."
 
 #: packages/community_store/blocks/community_product_list/form.php:35
 #: packages/community_store/single_pages/dashboard/store/products.php:976
@@ -285,7 +286,7 @@ msgstr "Preis absteigend"
 
 #: packages/community_store/blocks/community_product_list/form.php:45
 msgid "Best Sellers"
-msgstr ""
+msgstr "Beste Verkäufe"
 
 #: packages/community_store/blocks/community_product_list/form.php:46
 msgid "Related Products Order"
@@ -293,7 +294,7 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product_list/form.php:47
 msgid "Category Sort Order"
-msgstr ""
+msgstr "Sortierungsreihenfolge der Kategorien"
 
 #: packages/community_store/blocks/community_product_list/form.php:54
 msgid "Filtering"
@@ -330,7 +331,7 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product_list/form.php:101
 msgid "Include Out of Stock Products"
-msgstr ""
+msgstr "Ausverkaufte Produkte mit einbeziehen"
 
 #: packages/community_store/blocks/community_product_list/form.php:110
 msgid "Pagination and Display Options"
@@ -342,7 +343,7 @@ msgstr "Anzahl anzuzeigende Produkte"
 
 #: packages/community_store/blocks/community_product_list/form.php:114
 msgid "leave blank or 0 to list all matching products"
-msgstr ""
+msgstr "Leer lassen oder 0 um alle passende Produkte anzuzeigen"
 
 #: packages/community_store/blocks/community_product_list/form.php:120
 msgid ""
@@ -360,35 +361,35 @@ msgstr "Preis anzeigen"
 
 #: packages/community_store/blocks/community_product_list/form.php:137
 msgid "Display Add To Cart Button"
-msgstr ""
+msgstr "Zum Warenkorb hinzufügen-Button anzeigen"
 
 #: packages/community_store/blocks/community_product_list/form.php:141
 msgid "Add To Cart Button Text"
-msgstr ""
+msgstr "Zum Warenkorb hinzufügen-Text"
 
 #: packages/community_store/blocks/community_product_list/form.php:142
 msgid "Defaults to: Add To Cart"
-msgstr ""
+msgstr "Standart: Zum Warenkorb hinzufügen"
 
 #: packages/community_store/blocks/community_product_list/form.php:147
 msgid "Display Quantity Selector"
-msgstr ""
+msgstr "Mengenauswahl anzeigen"
 
 #: packages/community_store/blocks/community_product_list/form.php:153
 msgid "Display Product Description"
-msgstr ""
+msgstr "Produktbeschreibung anzeigen"
 
 #: packages/community_store/blocks/community_product_list/form.php:162
 msgid "Display Quickview Link (Modal Window)"
-msgstr ""
+msgstr "Schnellansicht anzeigen (Modal)"
 
 #: packages/community_store/blocks/community_product_list/form.php:168
 msgid "Display Link To Product Page"
-msgstr ""
+msgstr "Link zur Artikelseite anzeigen"
 
 #: packages/community_store/blocks/community_product_list/form.php:172
 msgid "Link To Product Page Text"
-msgstr ""
+msgstr "Link zur Artikelseite-Text"
 
 #: packages/community_store/blocks/community_product_list/form.php:173
 msgid "Defaults to: More Details"
@@ -997,6 +998,8 @@ msgid ""
 "An issue has occured adding the product to the cart. You may be missing "
 "required information."
 msgstr ""
+"Ein Fehler ist beim hinzufügen des Artikels zum Warenkorb aufgetreten. "
+"Eventuell fehlende notwendige Informationen."
 
 #: packages/community_store/elements/cart_modal.php:175
 #: packages/community_store/single_pages/cart.php:193
@@ -1052,7 +1055,7 @@ msgstr "Warenkorb leeren"
 #: packages/community_store/mail/order_receipt.php:30
 #: packages/community_store/single_pages/dashboard/store/orders.php:22
 msgid "Order placed"
-msgstr ""
+msgstr "Bestellung eingegangen"
 
 #: packages/community_store/elements/order_slip.php:36
 #: packages/community_store/mail/order_receipt.php:199
@@ -1067,7 +1070,7 @@ msgstr "Storniert"
 #: packages/community_store/single_pages/dashboard/store/orders.php:358
 #: packages/community_store/single_pages/dashboard/store/orders.php:546
 msgid "Refunded"
-msgstr ""
+msgstr "Zurückerstattet"
 
 #: packages/community_store/elements/order_slip.php:42
 #: packages/community_store/mail/new_order_notification.php:157
@@ -1141,7 +1144,7 @@ msgstr "Lieferadresse"
 #: packages/community_store/single_pages/checkout.php:128
 #: packages/community_store/single_pages/checkout.php:179
 msgid "Other Choices"
-msgstr ""
+msgstr "Andere Auswahlmöglichkeiten"
 
 #: packages/community_store/elements/order_slip.php:124
 #: packages/community_store/single_pages/dashboard/store/orders.php:109
@@ -1233,12 +1236,12 @@ msgstr "Versandart"
 #: packages/community_store/single_pages/dashboard/store/orders.php:235
 #: packages/community_store/single_pages/checkout.php:275
 msgid "Delivery Instructions"
-msgstr ""
+msgstr "Versandangaben"
 
 #: packages/community_store/mail/new_order_notification.php:9
 #, php-format
 msgid "New Order Notification #%s"
-msgstr ""
+msgstr "Neuer Bestellungshinweis #%s"
 
 #: packages/community_store/mail/new_order_notification.php:21
 msgid "An order has been placed"
@@ -1289,7 +1292,7 @@ msgstr "Transaktionsreferenz"
 
 #: packages/community_store/mail/new_order_notification.php:173
 msgid "View this order within the Dashboard"
-msgstr ""
+msgstr "Sehen Sie die Bestellung im Dashboard an"
 
 #: packages/community_store/mail/new_order_notification.php:191
 msgid "Order #:"
@@ -1311,7 +1314,7 @@ msgstr "Vielen Dank für Ihre Bestellung, es wurde für Sie ein Konto bei"
 #: packages/community_store/mail/order_receipt.php:8
 #, php-format
 msgid "Order Receipt #%s"
-msgstr ""
+msgstr "Bestellbeleg #%s"
 
 #: packages/community_store/mail/order_receipt.php:26
 msgid "Your Order"
@@ -1325,11 +1328,12 @@ msgstr "Ihre Downloads"
 #: packages/community_store/single_pages/checkout/complete.php:3
 #, php-format
 msgid "Order #%s has been placed"
-msgstr ""
+msgstr "Bestellung #%s wurde aufgegeben"
 
 #: packages/community_store/single_pages/checkout/complete.php:5
 msgid "Thank you for your order. A receipt will be emailed to you shortly."
 msgstr ""
+"Vielen Dank für Ihre Bestellung. Ein Beleg wird Ihnen in Kürze zugesandt."
 
 #: packages/community_store/single_pages/dashboard/store/orders/attributes.php:31
 #: packages/community_store/single_pages/dashboard/store/products/attributes.php:29
