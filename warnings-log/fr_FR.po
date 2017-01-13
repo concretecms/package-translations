@@ -1,10 +1,13 @@
-# 
+# Translators:
+# Michele Locati <michele@locati.it>, 2017
+# nebuleu <nebuleu@lusten.org>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: warnings_log 1.3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-13T10:11:43+01:00\n"
-"PO-Revision-Date: 2017-01-13T10:11:43+01:00\n"
+"POT-Creation-Date: 2017-01-13T10:37:29+01:00\n"
+"PO-Revision-Date: 2017-01-13T10:37:29+01:00\n"
+"Last-Translator: nebuleu <nebuleu@lusten.org>, 2017\n"
 "Language-Team: French (France) (https://www.transifex.com/concrete5/teams/10374/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -57,7 +60,7 @@ msgstr ""
 #: packages/warnings_log/controllers/single_page/dashboard/reports/warnings_log.php:110
 #, php-format
 msgid "Invalid parameter: %s"
-msgstr ""
+msgstr "Paramètre invalide : %s"
 
 #: packages/warnings_log/controllers/single_page/dashboard/reports/warnings_log.php:99
 #, php-format
@@ -190,19 +193,19 @@ msgstr ""
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log/settings.php:52
 msgid "Save"
-msgstr ""
+msgstr "Enregistrer"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log.php:15
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log.php:16
 msgid "File"
-msgstr ""
+msgstr "Fichier"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log.php:17
 msgid "Message"
-msgstr ""
+msgstr "Message"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log.php:18
 msgid "# Seen"
@@ -226,8 +229,8 @@ msgstr ""
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log.php:32
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log.php:33
 msgid "Error"
-msgstr ""
+msgstr "Erreur"
