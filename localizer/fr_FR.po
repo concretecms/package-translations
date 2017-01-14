@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Fred Radeff <zpartakov@akademia.ch>, 2017
 # appliculture <mikhael.minisini@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-05 12:51+0000\n"
-"PO-Revision-Date: 2016-05-10 15:22+0000\n"
-"Last-Translator: appliculture <mikhael.minisini@gmail.com>\n"
+"PO-Revision-Date: 2017-01-13 16:22+0000\n"
+"Last-Translator: Fred Radeff <zpartakov@akademia.ch>\n"
 "Language-Team: French (France) (http://www.transifex.com/concrete5/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -99,7 +100,7 @@ msgstr ""
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:305
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:17
 msgid "Values of the select attributes"
-msgstr ""
+msgstr "Valeurs des attributs sélectionnés"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:18
 msgid "Area names"
@@ -107,16 +108,16 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:27
 msgid "Still in development"
-msgstr ""
+msgstr "Encore en développement"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:30
 #, php-format
 msgid "Available from concrete5 %s"
-msgstr ""
+msgstr "Disponible depuis concrete5 %s"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:49
 msgid "The options have been saved."
-msgstr ""
+msgstr "Les options ont été enregistrées"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer/options.php:68
 msgid "Please enable at least one item class to be translated."
@@ -124,15 +125,15 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:65
 msgid "Page attributes"
-msgstr ""
+msgstr "Attributs de la page"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:68
 msgid "User attributes"
-msgstr ""
+msgstr "Attributs utilisateur"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:71
 msgid "File attributes"
-msgstr ""
+msgstr "Attributs du fichier"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:111
 msgid "Page"
@@ -156,7 +157,7 @@ msgstr "Utilisateur"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:126
 msgid "File set"
-msgstr ""
+msgstr "Collection de fichiers"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:129
 msgid "File"
@@ -168,7 +169,7 @@ msgstr ""
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:135
 msgid "Block type"
-msgstr ""
+msgstr "Type de bloc"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:138
 msgid "Block"
@@ -176,7 +177,7 @@ msgstr "Bloc"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:141
 msgid "Administration"
-msgstr ""
+msgstr "Administration"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:144
 msgid "Site map"
@@ -216,13 +217,13 @@ msgstr ""
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:364
 #, php-format
 msgid "Unable to find the attribute type with id '%s'"
-msgstr ""
+msgstr "Impossible de trouver le type d'attribut avec l'id '%s' "
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:371
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:378
 #, php-format
 msgid "Unable to find the permission key with id '%s'"
-msgstr ""
+msgstr "Impossible de trouver la clé de permission avec l'id '%s'"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:385
 #, php-format
@@ -258,7 +259,7 @@ msgstr ""
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:455
 #, php-format
 msgid "Unable to save file %s"
-msgstr ""
+msgstr "Impossible de sauvegarder le fichier %s"
 
 #: packages/localizer/controllers/dashboard/system/basics/localizer.php:493
 msgid "Same as English (US)"

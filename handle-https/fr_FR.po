@@ -1,12 +1,14 @@
 # 
 # Translators:
+# Fred Radeff <zpartakov@akademia.ch>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-11 14:28+0000\n"
-"PO-Revision-Date: 2014-09-11 14:31+0000\n"
-"Language-Team: French (France) (http://www.transifex.com/projects/p/concrete5-packages/language/fr_FR/)\n"
+"PO-Revision-Date: 2017-01-13 16:04+0000\n"
+"Last-Translator: Fred Radeff <zpartakov@akademia.ch>\n"
+"Language-Team: French (France) (http://www.transifex.com/concrete5/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -51,7 +53,7 @@ msgstr ""
 
 #: packages/handle_https/models/attribute/types/handle_https/controller.php:257
 msgid "Use default settings"
-msgstr ""
+msgstr "Utiliser les valeurs par défaut"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:11
 msgid "Type Options"
@@ -67,7 +69,7 @@ msgstr ""
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:25
 msgid "Default behaviour"
-msgstr ""
+msgstr "Comportement par défaut"
 
 #: packages/handle_https/models/attribute/types/handle_https/type_form.php:31
 msgid "HTTP and HTTPS domains are different?"

@@ -1,13 +1,14 @@
 # Translators:
 # Michele Locati <michele@locati.it>, 2016
 # Remo Laubacher <remo.laubacher@gmail.com>, 2016
+# Fred Radeff <zpartakov@akademia.ch>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: datetime_shifter 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-23T09:02:08+01:00\n"
 "PO-Revision-Date: 2016-12-23T09:02:09+01:00\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>, 2016\n"
+"Last-Translator: Fred Radeff <zpartakov@akademia.ch>, 2017\n"
 "Language-Team: French (France) (https://www.transifex.com/concrete5/teams/10374/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,7 +40,7 @@ msgstr "Table"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:11
 msgid "Field"
-msgstr ""
+msgstr "Champ"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:45
 msgid "Options"
@@ -47,7 +48,7 @@ msgstr "Options"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:48
 msgid "Operation"
-msgstr ""
+msgstr "Opération"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:51
 msgid "Add"
@@ -92,7 +93,7 @@ msgstr ""
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:136
 msgid "Start"
-msgstr ""
+msgstr "Début"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:182
 msgid "Cancel"
@@ -108,10 +109,12 @@ msgstr[1] ""
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:217
 msgid "You can't close this dialog: table fields are being updated..."
 msgstr ""
+"Vous ne pouvez pas fermer ce dialogue: les champs de la table sont en cours "
+"de mise à jour..."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:232
 msgid "Operations completed."
-msgstr ""
+msgstr "Opérations terminées."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:239
 msgid "Processing..."
@@ -119,8 +122,8 @@ msgstr "Traitement…"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:260
 msgid "No server response."
-msgstr ""
+msgstr "Pas de réponse du serveur"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:268
 msgid "Invalid server response."
-msgstr ""
+msgstr "Réponse du serveur non valide"

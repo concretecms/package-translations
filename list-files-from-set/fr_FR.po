@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Fred Radeff <zpartakov@akademia.ch>, 2017
 # appliculture <mikhael.minisini@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-01 10:48+0100\n"
-"PO-Revision-Date: 2016-05-10 15:22+0000\n"
-"Last-Translator: appliculture <mikhael.minisini@gmail.com>\n"
+"PO-Revision-Date: 2017-01-13 16:18+0000\n"
+"Last-Translator: Fred Radeff <zpartakov@akademia.ch>\n"
 "Language-Team: French (France) (http://www.transifex.com/concrete5/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,21 +23,21 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/controller.php:15
 msgid "Displays a list of files from a file set."
-msgstr ""
+msgstr "Affiche une liste de fichiers d'une collection"
 
 #: ../blocks/list_files_from_set/controller.php:19
 msgid "List Files From Set"
-msgstr ""
+msgstr "Liste des fichiers d'une collection"
 
 #: ../blocks/list_files_from_set/controller.php:23
 #: ../blocks/list_files_from_set/controller.php:29
 msgid "You must select a file set."
-msgstr ""
+msgstr "Vous devez choisir une collection de fichiers"
 
 #: ../blocks/list_files_from_set/edit.php:8
 #: ../blocks/list_files_from_set/edit.php:25
 msgid "Select File Set"
-msgstr ""
+msgstr "Choisir une collection de fichiers"
 
 #: ../blocks/list_files_from_set/edit.php:19
 msgid "Display"
@@ -68,7 +69,7 @@ msgstr "Alphabétique"
 
 #: ../blocks/list_files_from_set/edit.php:50
 msgid "Alphabetical (reversed)"
-msgstr ""
+msgstr "Alphabétique (inversé)"
 
 #: ../blocks/list_files_from_set/edit.php:51
 msgid "Set order"
@@ -84,7 +85,7 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/edit.php:58
 msgid "Display name of set"
-msgstr ""
+msgstr "Afficher nom de la collection"
 
 #: ../blocks/list_files_from_set/edit.php:60
 msgid "Replace underscores in titles with spaces"
@@ -96,15 +97,15 @@ msgstr ""
 
 #: ../blocks/list_files_from_set/edit.php:64
 msgid "Display file size"
-msgstr ""
+msgstr "Afficher la taille du fichier"
 
 #: ../blocks/list_files_from_set/edit.php:66
 msgid "Display date added"
-msgstr ""
+msgstr "Afficher date d'ajout"
 
 #: ../blocks/list_files_from_set/edit.php:69
 msgid "File extension:"
-msgstr ""
+msgstr "Extension de fichier:"
 
 #: ../blocks/list_files_from_set/edit.php:71
 msgid "Leave in title (if present)"
@@ -156,4 +157,4 @@ msgstr ""
 
 #: ../controller.php:18
 msgid "List files from set"
-msgstr ""
+msgstr "Liste des fichiers de la collection"

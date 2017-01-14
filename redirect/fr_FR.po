@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Fred Radeff <zpartakov@akademia.ch>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-15T08:28:32+02:00\n"
-"PO-Revision-Date: 2016-04-15 06:28+0000\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2017-01-13 16:18+0000\n"
+"Last-Translator: Fred Radeff <zpartakov@akademia.ch>\n"
 "Language-Team: French (France) (http://www.transifex.com/concrete5/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +18,7 @@ msgstr ""
 #: packages/redirect/controller.php:21
 #: packages/redirect/blocks/redirect/controller.php:131
 msgid "Redirect"
-msgstr ""
+msgstr "Rediriger"
 
 #: packages/redirect/controller.php:26
 msgid "This package offers a block to redirect users."
@@ -25,21 +26,21 @@ msgstr ""
 
 #: packages/redirect/blocks/redirect/controller.php:141
 msgid "Redirect specific users to another page."
-msgstr ""
+msgstr "Rediriger certains usagers sur une autre page"
 
 #: packages/redirect/blocks/redirect/controller.php:180
 msgid "No data received"
-msgstr ""
+msgstr "Pas de données reçues"
 
 #: packages/redirect/blocks/redirect/controller.php:189
 #: packages/redirect/blocks/redirect/controller.php:200
 msgid "Please specify the destination page"
-msgstr ""
+msgstr "Merci de spécifier la page de destination"
 
 #: packages/redirect/blocks/redirect/controller.php:193
 #: packages/redirect/blocks/redirect/controller.php:206
 msgid "The destination page is the current page."
-msgstr ""
+msgstr "La page de destination est la page courante"
 
 #: packages/redirect/blocks/redirect/controller.php:212
 msgid "Please specify the kind of the destination page"
@@ -48,11 +49,11 @@ msgstr ""
 #: packages/redirect/blocks/redirect/controller.php:236
 #, php-format
 msgid "Invalid IP address: %s"
-msgstr ""
+msgstr "Adresse IP invalide: %s"
 
 #: packages/redirect/blocks/redirect/controller.php:255
 msgid "Please specify if the message should be shown"
-msgstr ""
+msgstr "Merci de spécifier si le message doit être affiché"
 
 #: packages/redirect/blocks/redirect/controller.php:482
 msgid "Redirect block"
@@ -84,7 +85,7 @@ msgstr "Veuillez sélectionner"
 
 #: packages/redirect/blocks/redirect/edit.php:26
 msgid "Another page"
-msgstr ""
+msgstr "Autre page"
 
 #: packages/redirect/blocks/redirect/edit.php:30
 msgid "External URL"
@@ -92,7 +93,7 @@ msgstr "URL externe"
 
 #: packages/redirect/blocks/redirect/edit.php:39
 msgid "Choose page"
-msgstr ""
+msgstr "Choisir la page"
 
 #: packages/redirect/blocks/redirect/edit.php:43
 msgid "URL"
@@ -130,7 +131,7 @@ msgstr ""
 #: packages/redirect/blocks/redirect/edit.php:171
 #, php-format
 msgid "Your IP address is %s"
-msgstr ""
+msgstr "Votre adresse IP est %s"
 
 #: packages/redirect/blocks/redirect/edit.php:181
 msgid "Redirect users with permission to edit the page contents"
@@ -150,7 +151,7 @@ msgstr ""
 
 #: packages/redirect/blocks/redirect/edit.php:192
 msgid "Always"
-msgstr ""
+msgstr "Toujours"
 
 #: packages/redirect/blocks/redirect/edit.php:204
 msgid "Use a custom message"
@@ -158,4 +159,4 @@ msgstr ""
 
 #: packages/redirect/blocks/redirect/edit.php:209
 msgid "Custom message"
-msgstr ""
+msgstr "Message personnalisé"

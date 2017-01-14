@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Fred Radeff <zpartakov@akademia.ch>, 2017
 # appliculture <mikhael.minisini@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2016-11-29 09:03+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"PO-Revision-Date: 2017-01-13 16:24+0000\n"
+"Last-Translator: Fred Radeff <zpartakov@akademia.ch>\n"
 "Language-Team: French (France) (http://www.transifex.com/concrete5/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +43,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/delete.php:2
 #: packages/data/single_pages/dashboard/data/administration/edit.php:2
 msgid "Edit Data Type"
-msgstr ""
+msgstr "Modifier le type de données"
 
 #: packages/data/controller.php:134 packages/data/controller.php:135
 msgid "Delete Data Type"
@@ -123,7 +124,7 @@ msgstr "Attributs"
 
 #: packages/data/controllers/dashboard/data/administration/attributes/controller.php:135
 msgid "Attribute Deleted"
-msgstr ""
+msgstr "Attribut supprimé"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:27
 #: packages/data/controllers/dashboard/data/administration/controller.php:45
@@ -166,11 +167,11 @@ msgstr "Éditer"
 #: packages/data/controllers/dashboard/data/administration/controller.php:178
 #: packages/data/controllers/dashboard/data/administration/controller.php:184
 msgid "Invalid File"
-msgstr ""
+msgstr "Fichier non valide"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:188
 msgid "File must be .xml"
-msgstr ""
+msgstr "Le fichier doit être au format .xml"
 
 #: packages/data/controllers/dashboard/data/administration/controller.php:196
 msgid "Data Type Imported"
@@ -190,11 +191,11 @@ msgstr ""
 
 #: packages/data/controllers/dashboard/data/management/controller.php:107
 msgid "Data Updated"
-msgstr ""
+msgstr "Donnée mise à jour"
 
 #: packages/data/controllers/dashboard/data/management/controller.php:141
 msgid "Data Deleted"
-msgstr ""
+msgstr "Donnée effacée"
 
 #: packages/data/elements/permission/lists/data_type.php:31
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:50
@@ -218,7 +219,7 @@ msgstr ""
 
 #: packages/data/models/attribute/types/data_simple_association/type_form.php:12
 msgid "Allow Mutliple Associations"
-msgstr ""
+msgstr "Autoriser des associations multiples"
 
 #: packages/data/models/attribute/types/data_single_child_association/type_form.php:3
 msgid "Single Child Association"
@@ -226,7 +227,7 @@ msgstr ""
 
 #: packages/data/models/data.php:157 packages/data/models/data_type.php:86
 msgid "Invalid Element"
-msgstr ""
+msgstr "Élément non valide"
 
 #: packages/data/models/data.php:161
 msgid "DataType handle dtHandle not found"
@@ -242,11 +243,11 @@ msgstr ""
 
 #: packages/data/models/data_type.php:128
 msgid "Maximum Handle length is 255 characters"
-msgstr ""
+msgstr "Longueur maximale du handle: 255 caractères"
 
 #: packages/data/models/data_type.php:131
 msgid "Handle can only contain a-z 0-9 and _"
-msgstr ""
+msgstr "Le handle ne peut contenir que a-z, 0-9 et _"
 
 #: packages/data/models/data_type.php:134
 msgid "Name is required"
@@ -259,7 +260,7 @@ msgstr ""
 #: packages/data/models/data_type.php:148
 #, php-format
 msgid "Name already in use by %s"
-msgstr ""
+msgstr "Le nom est déjà utilisé par %s"
 
 #: packages/data/models/data_type.php:155
 #, php-format
@@ -329,7 +330,7 @@ msgstr "Créer"
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:3
 #, php-format
 msgid "Delete %s Attribute"
-msgstr ""
+msgstr "Supprimer l'attribut %s"
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/delete.php:6
 #: packages/data/single_pages/dashboard/data/management/delete.php:6
@@ -389,7 +390,7 @@ msgstr ""
 #: packages/data/single_pages/dashboard/data/administration/import.php:9
 #: packages/data/single_pages/dashboard/data/administration/search.php:6
 msgid "Import"
-msgstr ""
+msgstr "Importer"
 
 #: packages/data/single_pages/dashboard/data/administration/search.php:2
 msgid "Data Type Administration"

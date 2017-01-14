@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Fred Radeff <zpartakov@akademia.ch>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2016-12-22 11:53+0000\n"
-"Last-Translator: Michele Locati <michele@locati.it>\n"
+"PO-Revision-Date: 2017-01-13 16:34+0000\n"
+"Last-Translator: Fred Radeff <zpartakov@akademia.ch>\n"
 "Language-Team: French (France) (http://www.transifex.com/concrete5/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,15 +19,15 @@ msgstr ""
 #: packages/migration_tool/controller.php:211
 #: packages/migration_tool/controller.php:216
 msgid "Migration Tool"
-msgstr ""
+msgstr "Outil de migration"
 
 #: packages/migration_tool/controller.php:60
 msgid "Import Content"
-msgstr ""
+msgstr "Importer contenu"
 
 #: packages/migration_tool/controller.php:62
 msgid "Export Content"
-msgstr ""
+msgstr "Exporter contenu"
 
 #: packages/migration_tool/controller.php:222
 msgid "This add-on requires PHP 5.4 or greater."
@@ -35,7 +36,7 @@ msgstr ""
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:24
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:33
 msgid "Batch added successfully."
-msgstr ""
+msgstr "Batch ajouté avec succès"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:46
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:59
@@ -44,20 +45,20 @@ msgstr ""
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:58
 msgid "You have not created any export batches."
-msgstr ""
+msgstr "Vous n'avez pas créé de batch d'exportation"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:69
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:82
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:9
 msgid "Export Batch"
-msgstr ""
+msgstr "Batch d'exportation"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:118
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:167
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:142
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:293
 msgid "Invalid batch."
-msgstr ""
+msgstr "Batch invalide"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:126
 msgid "Invalid item type."
@@ -69,7 +70,7 @@ msgstr ""
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/export.php:221
 msgid "Add To Batch"
-msgstr ""
+msgstr "Ajouter au batch"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:89
 msgid "Batch cleared successfully."
@@ -81,11 +82,11 @@ msgstr ""
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:134
 msgid "Invalid XML file."
-msgstr ""
+msgstr "Fichier XML non valide"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:169
 msgid "Content added to batch successfully."
-msgstr ""
+msgstr "Contenu ajouté avec succès au batch"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:187
 msgid "Batch drafts published successfully."
@@ -95,20 +96,20 @@ msgstr ""
 msgid ""
 "You have not created any import batches. Create a batch and add content "
 "records to it."
-msgstr ""
+msgstr "Vous n'avez pas créé de batch d'importation. Créer un batch et ajouter des enregistrements."
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:216
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:46
 msgid "Import Batch"
-msgstr ""
+msgstr "Importer batch"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:233
 msgid "Files in Batch"
-msgstr ""
+msgstr "Fichiers dans le batch"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:271
 msgid "File(s) uploaded successfully"
-msgstr ""
+msgstr "Fichier(s) téléversé(s) avec succès"
 
 #: packages/migration_tool/controllers/single_page/dashboard/system/migration/import.php:280
 msgid "Find and Replace"
@@ -222,11 +223,11 @@ msgstr "Types"
 
 #: packages/migration_tool/elements/batch_content_types/captcha_library.php:4
 msgid "Library"
-msgstr ""
+msgstr "Librairie"
 
 #: packages/migration_tool/elements/batch_content_types/config_value.php:4
 msgid "Key"
-msgstr ""
+msgstr "Clé"
 
 #: packages/migration_tool/elements/batch_content_types/config_value.php:5
 msgid "Value"
@@ -314,7 +315,7 @@ msgstr "Obligatoire"
 #: packages/migration_tool/elements/batch_content_types/tree.php:6
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/TopicsFormatter.php:11
 msgid "Tree"
-msgstr ""
+msgstr "Arborescence"
 
 #: packages/migration_tool/elements/export/results/standard_list.php:46
 msgid "No results found."
@@ -370,7 +371,7 @@ msgstr "Rechercher"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/add_to_export_batch.php:68
 msgid "Add to Batch"
-msgstr ""
+msgstr "Ajouter au batch"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/add_to_export_batch.php:69
 msgid "Results"
@@ -382,7 +383,7 @@ msgstr ""
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:7
 msgid "Delete Files"
-msgstr ""
+msgstr "Supprimer fichiers"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:10
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:111
@@ -410,7 +411,7 @@ msgstr "Annuler"
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:29
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:70
 msgid "Clear Batch"
-msgstr ""
+msgstr "Vider le batch"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:30
 #: packages/migration_tool/single_pages/dashboard/system/migration/find_and_replace.php:11
@@ -419,7 +420,7 @@ msgstr ""
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:16
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:34
 msgid "Batch"
-msgstr ""
+msgstr "Batch"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:42
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:42
@@ -437,11 +438,11 @@ msgstr "Erreur"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/batch_files.php:101
 msgid "Uploading"
-msgstr ""
+msgstr "Téléverser"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:34
 msgid "Download Files"
-msgstr ""
+msgstr "Télécharger fichiers"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:35
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:62
@@ -459,15 +460,15 @@ msgstr ""
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:67
 msgid "Content XML"
-msgstr ""
+msgstr "Contenu XML"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:70
 msgid "View XML"
-msgstr ""
+msgstr "Voir XML"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/finalize_export_batch.php:71
 msgid "Download XML"
-msgstr ""
+msgstr "Télécharger XML"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:26
 msgid "Batch Item"
@@ -480,12 +481,12 @@ msgstr ""
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:49
 #, php-format
 msgid "Installed %s"
-msgstr ""
+msgstr "%s installé"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:64
 #, php-format
 msgid "Batch %s"
-msgstr ""
+msgstr "Batch %s"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:88
 msgid "Save"
@@ -493,7 +494,7 @@ msgstr "Enregistrer"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/map_content.php:96
 msgid "No items of the selected type found in the batch."
-msgstr ""
+msgstr "Pas d'items du type sélectionné trouvé dans le batch"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:7
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:99
@@ -503,26 +504,26 @@ msgstr "Ajout Contenu"
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:7
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:7
 msgid "Add Content to Batch"
-msgstr ""
+msgstr "Ajouter contenu au batch"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:11
 msgid "Edit Batch"
-msgstr ""
+msgstr "Modifier batch"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:25
 msgid "Import Batch to Site"
-msgstr ""
+msgstr "Importer batch sur le site"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:31
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:58
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:10
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:23
 msgid "Delete Batch"
-msgstr ""
+msgstr "Supprimer batch"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:43
 msgid "Create site content from the contents of this batch?"
-msgstr ""
+msgstr "Créer le contenu du site à partir du contenu du batch?"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:55
 msgid ""
@@ -541,19 +542,19 @@ msgstr ""
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:84
 msgid "File Format"
-msgstr ""
+msgstr "Format de fichier"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:88
 msgid "Records"
-msgstr ""
+msgstr "Enregistrements"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:90
 msgid "Replace all batch content."
-msgstr ""
+msgstr "Remplacer tout le contenu du batch"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:93
 msgid "Add content to batch."
-msgstr ""
+msgstr "Ajouter contenu au batch"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:122
 msgid "Status"
@@ -575,26 +576,26 @@ msgstr "Contenu"
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Page/TreePageJsonFormatter.php:30
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AbstractTreeJsonFormatter.php:27
 msgid "Errors"
-msgstr ""
+msgstr "Erreurs"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:191
 msgid "Loading Errors..."
-msgstr ""
+msgstr "Charge erreurs..."
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batch.php:199
 msgid "This content batch is empty."
-msgstr ""
+msgstr "Le contenu du batch est vide."
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:7
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:59
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:71
 msgid "Add Batch"
-msgstr ""
+msgstr "Ajouter batch"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:17
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:53
 msgid "Notes"
-msgstr ""
+msgstr "Notes"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_batches.php:46
 msgid "Date"
@@ -602,7 +603,7 @@ msgstr "Date"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:8
 msgid "Remove Selected"
-msgstr ""
+msgstr "Supprimer sélection"
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:20
 msgid ""
@@ -611,7 +612,7 @@ msgstr ""
 
 #: packages/migration_tool/single_pages/dashboard/system/migration/view_export_batch.php:73
 msgid "This export batch is empty."
-msgstr ""
+msgstr "Le batch d'exportation est vide."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/ContentMapper/Item/BlockItem.php:23
 #, php-format
@@ -631,7 +632,7 @@ msgstr "Types de bloc"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/ContentMapper/Type/ComposerOutputContent.php:18
 msgid "Composer Content"
-msgstr ""
+msgstr "Contenu du compositeur"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/ContentMapper/Type/PageTemplate.php:18
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageTemplateFormatter.php:10
@@ -663,7 +664,7 @@ msgstr "Adresse 2"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/AddressFormatter.php:23
 msgid "Address 3"
-msgstr ""
+msgstr "Adresse 3"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/AddressFormatter.php:24
 msgid "City"
@@ -684,7 +685,7 @@ msgstr "Pays"
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/ImportedFormatter.php:27
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Block/ImportedFormatter.php:18
 msgid "XML Element"
-msgstr ""
+msgstr "Élément XML"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/ImportedFormatter.php:28
 msgid ""
@@ -724,11 +725,11 @@ msgstr "Mode"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/SelectFormatter.php:13
 msgid "Allows Multiple Values"
-msgstr ""
+msgstr "Autorise valeurs multiples"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/SelectFormatter.php:18
 msgid "Allows Other Values"
-msgstr ""
+msgstr "Autorise d'autres valeurs"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/SelectFormatter.php:23
 msgid "Display Order"
@@ -745,27 +746,27 @@ msgstr "Utilisateur"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:31
 msgid "Displayed in Profile"
-msgstr ""
+msgstr "Affiché dans le profil"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:32
 msgid "Editable in Profile"
-msgstr ""
+msgstr "Modifiable dans le profil"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:33
 msgid "Required in Profile"
-msgstr ""
+msgstr "Requis dans le profil"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:34
 msgid "Editable in Registration"
-msgstr ""
+msgstr "Modifiable dans l'inscription"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:35
 msgid "Required in Registration"
-msgstr ""
+msgstr "Requis dans l'inscription"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKeyCategory/UserFormatter.php:36
 msgid "Displayed in Member List"
-msgstr ""
+msgstr "Affiché dans la liste des membres"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Block/AreaLayoutFormatter.php:11
 msgid "Layout"
@@ -784,7 +785,7 @@ msgstr "Catégories d'attributs"
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeKeyFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/AttributeKey.php:75
 msgid "Attribute Keys"
-msgstr ""
+msgstr "Clés d'attribut"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeSetFormatter.php:10
 msgid "Attribute Sets"
@@ -792,7 +793,7 @@ msgstr "Collections d'attributs"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/AttributeTypeFormatter.php:10
 msgid "Attribute Types"
-msgstr ""
+msgstr "Types d'attribut"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/BannedWordFormatter.php:10
 msgid "Banned Words"
@@ -804,11 +805,11 @@ msgstr "Collection de types de blocs"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/CaptchaFormatter.php:10
 msgid "Captcha Libraries"
-msgstr ""
+msgstr "Librairies Captcha"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConfigValueFormatter.php:10
 msgid "Config Values"
-msgstr ""
+msgstr "Valeurs de configuration"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ContentEditorSnippetFormatter.php:10
 msgid "Editor Snippets"
@@ -816,7 +817,7 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConversationEditorFormatter.php:10
 msgid "Editors"
-msgstr ""
+msgstr "Éditeurs"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ConversationFlagTypeFormatter.php:10
 msgid "Flag Types"
@@ -837,7 +838,7 @@ msgstr "collections de tâches"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PackageFormatter.php:10
 msgid "Packages"
-msgstr ""
+msgstr "Paquets"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageFeedFormatter.php:10
 msgid "Page Feeds"
@@ -885,7 +886,7 @@ msgstr "Thèmes"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/ThumbnailTypeFormatter.php:10
 msgid "Thumbnail Types"
-msgstr ""
+msgstr "Types de vignettes"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/TreeFormatter.php:10
 msgid "Topics"
@@ -901,7 +902,7 @@ msgstr "Types de flux de travail"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Page/TreeJsonFormatter.php:23
 msgid "Page Path"
-msgstr ""
+msgstr "Répertoire de la page"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PageType/AllPagesPublishTargetFormatter.php:15
 msgid "All Pages"
@@ -930,7 +931,7 @@ msgstr ""
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PageType/TreeJsonFormatter.php:60
 #, php-format
 msgid "Template: %s"
-msgstr ""
+msgstr "Modèle: %s"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PermissionKey/AccessEntityFormatter.php:21
 msgid "Entity"
@@ -962,13 +963,13 @@ msgstr ""
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateAttributesTask.php:31
 #, php-format
 msgid "Attribute <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "L'attribut <strong>%s</strong> n'existe pas. "
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/BlockTypeSet/Validator.php:25
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateBlockTypesTask.php:28
 #, php-format
 msgid "Block type <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "Le type de bloc  <strong>%s</strong> n'existe pas. "
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Content/PageFeedItemValidator.php:32
 #, php-format
@@ -1032,12 +1033,12 @@ msgstr ""
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidatePageTemplatesTask.php:28
 #, php-format
 msgid "Page template <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "Le modèle de page  <strong>%s</strong> n'existe pas. "
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidatePageTypesTask.php:32
 #, php-format
 msgid "Page Type <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "Le type de page  <strong>%s</strong> n'existe pas. "
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidatePageTypesTask.php:44
 #, php-format
@@ -1048,7 +1049,7 @@ msgstr ""
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateUsersTask.php:29
 #, php-format
 msgid "User <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "Le membre  <strong>%s</strong> n'existe pas. "
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/PageType/BlockComposerFormLayoutSetControlValidator.php:26
 #, php-format
@@ -1093,7 +1094,7 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/BatchMessageCollectionFormatter.php:33
 msgid "No errors detected."
-msgstr ""
+msgstr "Pas d'erreurs détectées."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Entity/ContentMapper/IgnoredTargetItem.php:17
 msgid "Ignored"
