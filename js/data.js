@@ -1,5 +1,5 @@
 {
-    "updated": 1484300365,
+    "updated": 1484382627,
     "packages": [
         {
             "handle": "addthis",
@@ -280,11 +280,11 @@
                     "perc": 11
                 },
                 "fr_FR": {
-                    "translated": 586,
-                    "untranslated": 47,
+                    "translated": 591,
+                    "untranslated": 42,
                     "fuzzy": 0,
                     "total": 633,
-                    "perc": 92
+                    "perc": 93
                 },
                 "de_DE": {
                     "translated": 583,
@@ -441,11 +441,11 @@
                     "perc": 12
                 },
                 "fr_FR": {
-                    "translated": 7,
-                    "untranslated": 18,
+                    "translated": 14,
+                    "untranslated": 11,
                     "fuzzy": 0,
                     "total": 25,
-                    "perc": 28
+                    "perc": 56
                 },
                 "de_DE": {
                     "translated": 17,
@@ -602,11 +602,11 @@
                     "perc": 100
                 },
                 "fr_FR": {
-                    "translated": 16,
-                    "untranslated": 17,
+                    "translated": 22,
+                    "untranslated": 11,
                     "fuzzy": 0,
                     "total": 33,
-                    "perc": 48
+                    "perc": 66
                 },
                 "de_DE": {
                     "translated": 33,
@@ -924,11 +924,11 @@
                     "perc": 100
                 },
                 "fr_FR": {
-                    "translated": 21,
-                    "untranslated": 17,
+                    "translated": 25,
+                    "untranslated": 13,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 55
+                    "perc": 65
                 },
                 "de_DE": {
                     "translated": 35,
@@ -1210,6 +1210,13 @@
             "name": "Cache Warmer",
             "sourceURL": "https://github.com/akodde/d3_cache_warmer",
             "locales": {
+                "fr_FR": {
+                    "translated": 1,
+                    "untranslated": 5,
+                    "fuzzy": 0,
+                    "total": 6,
+                    "perc": 16
+                },
                 "de_DE": {
                     "translated": 6,
                     "untranslated": 0,
@@ -1273,6 +1280,13 @@
             "name": "Page Change Notifier",
             "sourceURL": "https://github.com/akodde/d3_page_change_notifier",
             "locales": {
+                "fr_FR": {
+                    "translated": 9,
+                    "untranslated": 4,
+                    "fuzzy": 0,
+                    "total": 13,
+                    "perc": 69
+                },
                 "de_DE": {
                     "translated": 13,
                     "untranslated": 0,
@@ -1505,11 +1519,11 @@
                     "perc": 100
                 },
                 "fr_FR": {
-                    "translated": 32,
-                    "untranslated": 51,
+                    "translated": 45,
+                    "untranslated": 38,
                     "fuzzy": 0,
                     "total": 83,
-                    "perc": 38
+                    "perc": 54
                 },
                 "de_DE": {
                     "translated": 83,
@@ -1673,11 +1687,11 @@
                     "perc": 24
                 },
                 "fr_FR": {
-                    "translated": 8,
-                    "untranslated": 17,
+                    "translated": 15,
+                    "untranslated": 10,
                     "fuzzy": 0,
                     "total": 25,
-                    "perc": 32
+                    "perc": 60
                 },
                 "de_DE": {
                     "translated": 22,
@@ -1818,6 +1832,13 @@
                     "fuzzy": 0,
                     "total": 22,
                     "perc": 100
+                },
+                "fr_FR": {
+                    "translated": 5,
+                    "untranslated": 17,
+                    "fuzzy": 0,
+                    "total": 22,
+                    "perc": 22
                 },
                 "de_DE": {
                     "translated": 8,
@@ -2338,11 +2359,11 @@
                     "perc": 100
                 },
                 "fr_FR": {
-                    "translated": 12,
-                    "untranslated": 32,
+                    "translated": 17,
+                    "untranslated": 27,
                     "fuzzy": 0,
                     "total": 44,
-                    "perc": 27
+                    "perc": 38
                 },
                 "de_DE": {
                     "translated": 20,
@@ -2637,6 +2658,13 @@
                     "fuzzy": 0,
                     "total": 17,
                     "perc": 100
+                },
+                "fr_FR": {
+                    "translated": 2,
+                    "untranslated": 15,
+                    "fuzzy": 0,
+                    "total": 17,
+                    "perc": 11
                 },
                 "de_DE": {
                     "translated": 14,
@@ -3017,11 +3045,11 @@
                     "perc": 100
                 },
                 "fr_FR": {
-                    "translated": 4,
-                    "untranslated": 15,
+                    "translated": 8,
+                    "untranslated": 11,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 21
+                    "perc": 42
                 },
                 "de_DE": {
                     "translated": 13,
@@ -3318,11 +3346,11 @@
                     "perc": 100
                 },
                 "fr_FR": {
-                    "translated": 11,
-                    "untranslated": 23,
+                    "translated": 21,
+                    "untranslated": 13,
                     "fuzzy": 0,
                     "total": 34,
-                    "perc": 32
+                    "perc": 61
                 },
                 "de_DE": {
                     "translated": 34,
@@ -3479,11 +3507,11 @@
                     "perc": 100
                 },
                 "fr_FR": {
-                    "translated": 17,
-                    "untranslated": 48,
+                    "translated": 30,
+                    "untranslated": 35,
                     "fuzzy": 0,
                     "total": 65,
-                    "perc": 26
+                    "perc": 46
                 },
                 "de_DE": {
                     "translated": 65,
@@ -3640,11 +3668,11 @@
                     "perc": 33
                 },
                 "fr_FR": {
-                    "translated": 87,
-                    "untranslated": 143,
+                    "translated": 158,
+                    "untranslated": 72,
                     "fuzzy": 0,
                     "total": 230,
-                    "perc": 37
+                    "perc": 68
                 },
                 "de_DE": {
                     "translated": 172,
@@ -3969,11 +3997,11 @@
                     "perc": 100
                 },
                 "fr_FR": {
-                    "translated": 7,
-                    "untranslated": 9,
+                    "translated": 11,
+                    "untranslated": 5,
                     "fuzzy": 0,
                     "total": 16,
-                    "perc": 43
+                    "perc": 68
                 },
                 "de_DE": {
                     "translated": 16,
@@ -4270,11 +4298,11 @@
                     "perc": 14
                 },
                 "fr_FR": {
-                    "translated": 5,
-                    "untranslated": 29,
+                    "translated": 17,
+                    "untranslated": 17,
                     "fuzzy": 0,
                     "total": 34,
-                    "perc": 14
+                    "perc": 50
                 },
                 "de_DE": {
                     "translated": 34,
@@ -5082,11 +5110,11 @@
                     "perc": 7
                 },
                 "fr_FR": {
-                    "translated": 2,
-                    "untranslated": 25,
+                    "translated": 15,
+                    "untranslated": 12,
                     "fuzzy": 0,
                     "total": 27,
-                    "perc": 7
+                    "perc": 55
                 },
                 "de_DE": {
                     "translated": 26,
@@ -5250,11 +5278,11 @@
                     "perc": 14
                 },
                 "fr_FR": {
-                    "translated": 7,
-                    "untranslated": 40,
+                    "translated": 17,
+                    "untranslated": 30,
                     "fuzzy": 0,
                     "total": 47,
-                    "perc": 14
+                    "perc": 36
                 },
                 "de_DE": {
                     "translated": 7,
