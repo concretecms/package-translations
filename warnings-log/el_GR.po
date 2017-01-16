@@ -38,23 +38,23 @@ msgstr "%s Η επέκταση PHP δεν έχει εγκατασταθεί."
 #: packages/warnings_log/controller.php:45
 #, php-format
 msgid "%s PDO driver is not installed"
-msgstr ""
+msgstr "%s  PDO driver δεν έχει εγκατασταθεί."
 
 #: packages/warnings_log/controller.php:136
 msgid "Failed to create the destination directory"
-msgstr ""
+msgstr "Απέτυχε η δημιουργία του καταλόγου προορισμού"
 
 #: packages/warnings_log/controller.php:140
 msgid "Failed to copy file to the destination directory"
-msgstr ""
+msgstr "Αποτυχία αντιγραφής του αρχείου στον κατάλογο προορισμού"
 
 #: packages/warnings_log/controller.php:158
 msgid "Warnings Log Settings"
-msgstr ""
+msgstr "Warnings Log Ρυθμίσεις"
 
 #: packages/warnings_log/controllers/single_page/dashboard/reports/warnings_log/settings.php:37
 msgid "Error Handling configured successfully."
-msgstr ""
+msgstr "Ο Χειρισμός λάθους ρυθμίστηκε με επιτυχία."
 
 #: packages/warnings_log/controllers/single_page/dashboard/reports/warnings_log.php:93
 #: packages/warnings_log/controllers/single_page/dashboard/reports/warnings_log.php:110
@@ -66,115 +66,119 @@ msgstr "Μη έγκυρη παράμετρος: %s"
 #, php-format
 msgid "%d element has been hidden"
 msgid_plural "%d elements have been hidden"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d στοιχείο είναι κρυμμένο"
+msgstr[1] "%d στοιχεία είναι κρυμμένα"
 
 #: packages/warnings_log/controllers/single_page/dashboard/reports/warnings_log.php:103
 #, php-format
 msgid "%d element has been shown"
 msgid_plural "%d elements have been shown"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d στοιχείο είναι φανερο"
+msgstr[1] "%d στοιχεία είναι φανερά"
 
 #: packages/warnings_log/controllers/single_page/dashboard/reports/warnings_log.php:107
 #, php-format
 msgid "%d element has been deleted"
 msgid_plural "%d elements have been deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d στοιχείο έχει διαγραφεί"
+msgstr[1] "%d στοιχεία έχουν διαγραφεί"
 
 #: packages/warnings_log/elements/dashboard/install.php:23
 #, php-format
 msgid "Folder %s is writable"
-msgstr ""
+msgstr "Ο φάκελος %s είναι εγγράψιμος"
 
 #: packages/warnings_log/elements/dashboard/install.php:24
 #, php-format
 msgid "This package must be able to write to the %s directory."
-msgstr ""
+msgstr "Αυτό το πακέτο θα πρέπει να μπορεί να γράφει στο %s κατάλογο."
 
 #: packages/warnings_log/elements/dashboard/install.php:34
 #, php-format
 msgid "%s PHP extension installed"
-msgstr ""
+msgstr "%s Η επέκταση PHP έχει εγκατασταθεί."
 
 #: packages/warnings_log/elements/dashboard/install.php:35
 #, php-format
 msgid "This package needs the %s PHP extension."
-msgstr ""
+msgstr "Αυτό το πακέτο χρειάζεται την %s επέκταση PHP."
 
 #: packages/warnings_log/elements/dashboard/install.php:46
 #, php-format
 msgid "%s PDO driver installed"
-msgstr ""
+msgstr "%s  PDO driver έχει εγκατασταθεί."
 
 #: packages/warnings_log/elements/dashboard/install.php:47
 #, php-format
 msgid "This package needs the %s PDO driver."
-msgstr ""
+msgstr "Αυτό το πακέτο χρειάζεται την %s PDO driver."
 
 #: packages/warnings_log/elements/dashboard/install.php:58
 msgid "Before installing this package, please fix all the above errors."
 msgstr ""
+"Πριν την εγκατάσταση αυτού του πακέτου, παρακαλούμε να διορθώσετε όλα τα "
+"παραπάνω λάθη."
 
 #: packages/warnings_log/elements/dashboard/install.php:59
 msgid "Repeat checks"
-msgstr ""
+msgstr "Επανάληψη ελέγχου"
 
 #: packages/warnings_log/elements/dashboard/install_post.php:7
 #, php-format
 msgid "%s has been installed, but it is not yet active."
-msgstr ""
+msgstr "%s έχει εγκατασταθεί αλλά δεν είναι ακόμα ενεργή."
 
 #: packages/warnings_log/elements/dashboard/install_post.php:8
 #, php-format
 msgid "In order to activate it, please go to <a href=\"%s\">this page</a>."
 msgstr ""
+"Για να την ενεργοποιήσετε, παρακαλώ πηγαίνετε στο <a href=\"%s\">this "
+"page</a>."
 
 #: packages/warnings_log/elements/warnings_view_header.php:3
 msgid "View visible warnings"
-msgstr ""
+msgstr "Δείτε τις ορατές προειδοποιήσεις"
 
 #: packages/warnings_log/elements/warnings_view_header.php:4
 msgid "View hidden warnings"
-msgstr ""
+msgstr "Δείτε τις κρυφές προειδοποιήσεις"
 
 #: packages/warnings_log/elements/warnings_view_header.php:7
 msgid "Mark selected warnings as visible"
-msgstr ""
+msgstr "Σημειώστε τις επιλεγμένες προειδοποιήσεις ως ορατές "
 
 #: packages/warnings_log/elements/warnings_view_header.php:8
 msgid "Mark selected warnings as hidden"
-msgstr ""
+msgstr "Σημειώστε τις επιλεγμένες προειδοποιήσεις ως κρυφές"
 
 #: packages/warnings_log/elements/warnings_view_header.php:9
 msgid "Delete selected warnings"
-msgstr ""
+msgstr "Διαγραφή επιλεγμένων προειδοποιήσεων"
 
 #: packages/warnings_log/elements/warnings_view_header.php:12
 msgid "Reload list"
-msgstr ""
+msgstr "Επαναφόρτωση λίστας"
 
 #: packages/warnings_log/elements/warnings_view_header.php:18
 msgid "Auto-reload list"
-msgstr ""
+msgstr "Αυτόματη φόρτωση λίστας"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log/settings.php:16
 msgid "Error Handling"
-msgstr ""
+msgstr "Χειρισμός Σφαλμάτων"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log/settings.php:21
 msgid "Use default error handler"
-msgstr ""
+msgstr "Χρησιμοποιήστε τους προεπιλεγμένους δείκτες"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log/settings.php:27
 msgid "Activate Warnings Log"
-msgstr ""
+msgstr "Ενεργοποιήστε το Warnings Log"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log/settings.php:36
 #, php-format
 msgid "Custom provider (%s)"
-msgstr ""
+msgstr "Προσαρμοσμένος πάροχος (%s)"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log/settings.php:46
 msgid ""
@@ -182,6 +186,10 @@ msgid ""
 "warnings may be intercepted even before the database is configured (and even"
 " before concrete5 is installed)."
 msgstr ""
+"Δεδομένου ότι η αντιμετώπιση των λαθών έχει προετοιμαστεί στο προηγούμενο "
+"στάδιο της εκτέλεσης, οι προειδοποιήσεις μπορεί να αναχαιτιστούν ακόμη και "
+"πριν να γίνει διαμόρφωση της βάσης δεδομένων (και  ακόμη και πριν την "
+"εγκατάσταση του concrete5)."
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log/settings.php:47
 #, php-format
@@ -190,6 +198,10 @@ msgid ""
 "one used by this concrete5 installation, but it's a SQLite file called %1$s "
 "created in your %2$s directory"
 msgstr ""
+"Για αυτούς τους λόγους, η βάση δεδομένων που χρησιμοποιείται για την "
+"αποθήκευση των σφαλμάτων / προειδοποιήσεων, δεν είναι αυτή που "
+"χρησιμοποιείται από αυτή την εγκατάσταση του concrete5, είναι ένα αρχείο "
+"SQLite που ονομάζεται %1$s που δημιουργήθηκε στον κατάλογο %2$s"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log/settings.php:52
 msgid "Save"
@@ -209,23 +221,23 @@ msgstr "Μήνυμα"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log.php:18
 msgid "# Seen"
-msgstr ""
+msgstr "# Ιδωμένη"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log.php:19
 msgid "First Seen"
-msgstr ""
+msgstr "Πρώτη Ιδωμένη"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log.php:20
 msgid "Last Seen"
-msgstr ""
+msgstr "Τελευταία Επίσκεψη"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log.php:21
 msgid "Call stack"
-msgstr ""
+msgstr "Στοίβα Κλήσεων"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log.php:31
 msgid "Call Stack"
-msgstr ""
+msgstr "Στοίβα Κλήσεων"
 
 #: packages/warnings_log/single_pages/dashboard/reports/warnings_log.php:32
 msgid "Close"
