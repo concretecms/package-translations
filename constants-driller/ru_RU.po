@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-20 12:06+0000\n"
-"PO-Revision-Date: 2016-05-10 15:20+0000\n"
+"PO-Revision-Date: 2017-01-18 16:40+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/concrete5/concrete5-packages/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgstr ""
 #: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:93
 #, php-format
 msgid "Invalid parameter: %s"
-msgstr ""
+msgstr "Некорректный параметр: %s"
 
 #: packages/constants_driller/controllers/dashboard/system/environment/constants_driller.php:104
 msgid ""
