@@ -1,5 +1,5 @@
 {
-    "updated": 1484728236,
+    "updated": 1484814625,
     "packages": [
         {
             "handle": "addthis",
@@ -14,11 +14,11 @@
                     "perc": 20
                 },
                 "ru_RU": {
-                    "translated": 1,
-                    "untranslated": 4,
+                    "translated": 5,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 5,
-                    "perc": 20
+                    "perc": 100
                 },
                 "tr_TR": {
                     "translated": 1,
@@ -581,11 +581,11 @@
                     "perc": 15
                 },
                 "ru_RU": {
-                    "translated": 6,
-                    "untranslated": 27,
+                    "translated": 7,
+                    "untranslated": 26,
                     "fuzzy": 0,
                     "total": 33,
-                    "perc": 18
+                    "perc": 21
                 },
                 "tr_TR": {
                     "translated": 6,
@@ -2184,11 +2184,11 @@
                     "perc": 5
                 },
                 "ru_RU": {
-                    "translated": 7,
-                    "untranslated": 30,
+                    "translated": 8,
+                    "untranslated": 29,
                     "fuzzy": 0,
                     "total": 37,
-                    "perc": 18
+                    "perc": 21
                 },
                 "tr_TR": {
                     "translated": 2,
@@ -3773,11 +3773,11 @@
                     "perc": 25
                 },
                 "es_PY": {
-                    "translated": 2,
-                    "untranslated": 228,
+                    "translated": 3,
+                    "untranslated": 227,
                     "fuzzy": 0,
                     "total": 230,
-                    "perc": 0
+                    "perc": 1
                 },
                 "pt_BR": {
                     "translated": 91,
@@ -5257,11 +5257,11 @@
                     "perc": 8
                 },
                 "ru_RU": {
-                    "translated": 6,
-                    "untranslated": 41,
+                    "translated": 27,
+                    "untranslated": 20,
                     "fuzzy": 0,
                     "total": 47,
-                    "perc": 12
+                    "perc": 57
                 },
                 "tr_TR": {
                     "translated": 6,
