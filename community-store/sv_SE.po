@@ -2462,7 +2462,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:14
 msgid "Currency"
-msgstr ""
+msgstr "Valuta"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:17
 msgid "Payments"
