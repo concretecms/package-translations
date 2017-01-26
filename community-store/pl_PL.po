@@ -2393,7 +2393,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1193
 msgid "Manage Attributes"
-msgstr ""
+msgstr "Zarządzaj atrybutami"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1194
 msgid "Manage Groups"
