@@ -70,7 +70,7 @@ msgstr ""
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:66
 msgid "Background Color"
-msgstr ""
+msgstr "Kolor tła"
 
 #: packages/jb_google_adsense_free/blocks/jb_google_adsense_free/form.php:73
 msgid "Border Color"

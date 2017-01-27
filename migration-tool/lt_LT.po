@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2015-12-16 07:50+0000\n"
+"PO-Revision-Date: 2017-01-27 06:58+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Lithuanian (Lithuania) (http://www.transifex.com/concrete5/concrete5-packages/language/lt_LT/)\n"
 "MIME-Version: 1.0\n"
@@ -695,7 +695,7 @@ msgstr ""
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/Attribute/SocialLinksFormatter.php:17
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/SocialLinkFormatter.php:10
 msgid "Social Links"
-msgstr ""
+msgstr "Socialinių tinklų nuorodos"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/AttributeKey/AbstractFormatter.php:21
 msgid "Data"
@@ -921,7 +921,7 @@ msgstr ""
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PageType/TreeJsonFormatter.php:34
 msgid "Compose Form"
-msgstr ""
+msgstr "Kurti formą"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/PageType/TreeJsonFormatter.php:53
 msgid "Page Defaults"
