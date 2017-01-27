@@ -1,5 +1,5 @@
 {
-    "updated": 1485419432,
+    "updated": 1485505831,
     "packages": [
         {
             "handle": "addthis",
@@ -3017,11 +3017,11 @@
             "sourceURL": "http://www.concrete5.org/download_file/-/59452/0/",
             "locales": {
                 "lt_LT": {
-                    "translated": 2,
-                    "untranslated": 17,
+                    "translated": 3,
+                    "untranslated": 16,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 10
+                    "perc": 15
                 },
                 "ru_RU": {
                     "translated": 4,
@@ -3059,11 +3059,11 @@
                     "perc": 68
                 },
                 "pl_PL": {
-                    "translated": 3,
-                    "untranslated": 16,
+                    "translated": 4,
+                    "untranslated": 15,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 15
+                    "perc": 21
                 },
                 "vi_VN": {
                     "translated": 2,
@@ -3640,11 +3640,11 @@
             "sourceURL": "https://github.com/concrete5/addon_migration_tool",
             "locales": {
                 "lt_LT": {
-                    "translated": 48,
-                    "untranslated": 182,
+                    "translated": 50,
+                    "untranslated": 180,
                     "fuzzy": 0,
                     "total": 230,
-                    "perc": 20
+                    "perc": 21
                 },
                 "ru_RU": {
                     "translated": 92,
