@@ -1,5 +1,5 @@
 {
-    "updated": 1485765033,
+    "updated": 1485851435,
     "packages": [
         {
             "handle": "addthis",
@@ -252,8 +252,8 @@
             "sourceURL": "https://github.com/concrete5-community-store/community_store",
             "locales": {
                 "lt_LT": {
-                    "translated": 53,
-                    "untranslated": 580,
+                    "translated": 54,
+                    "untranslated": 579,
                     "fuzzy": 0,
                     "total": 633,
                     "perc": 8
@@ -2009,11 +2009,11 @@
             "sourceURL": "https://github.com/dszymczuk/dsEventCalendar",
             "locales": {
                 "lt_LT": {
-                    "translated": 9,
-                    "untranslated": 101,
+                    "translated": 10,
+                    "untranslated": 100,
                     "fuzzy": 0,
                     "total": 110,
-                    "perc": 8
+                    "perc": 9
                 },
                 "ru_RU": {
                     "translated": 110,
@@ -3479,11 +3479,11 @@
             "sourceURL": "https://github.com/mlocati/concrete5-localizer",
             "locales": {
                 "lt_LT": {
-                    "translated": 6,
-                    "untranslated": 59,
+                    "translated": 7,
+                    "untranslated": 58,
                     "fuzzy": 0,
                     "total": 65,
-                    "perc": 9
+                    "perc": 10
                 },
                 "ru_RU": {
                     "translated": 8,
