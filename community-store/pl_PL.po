@@ -1716,7 +1716,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:168
 msgid "Display Text"
-msgstr ""
+msgstr "Pokaż tekst"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:175
 msgid "Deduction Type"
