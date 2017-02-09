@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2017-01-13 16:34+0000\n"
+"PO-Revision-Date: 2017-02-09 08:22+0000\n"
 "Last-Translator: Fred Radeff <zpartakov@akademia.ch>\n"
 "Language-Team: French (France) (http://www.transifex.com/concrete5/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -856,7 +856,7 @@ msgstr ""
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PageTypePublishTargetTypeFormatter.php:10
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/PageTypePublishTargetType.php:75
 msgid "Page Type Publish Target Types"
-msgstr ""
+msgstr "Type de page de publication des types de cibles"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionAccessEntityTypeFormatter.php:10
 msgid "Access Entity Types"
@@ -868,7 +868,7 @@ msgstr "Catégories de permissions"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/PermissionKeyFormatter.php:10
 msgid "Permission Keys"
-msgstr ""
+msgstr "Clés d'autorisations"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/SinglePageFormatter.php:15
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/SinglePage.php:77
@@ -894,7 +894,7 @@ msgstr "Sujets"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowProgressCategoryFormatter.php:10
 msgid "Workflow Progress Categories"
-msgstr ""
+msgstr "Catégories de progression du flux de travail"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Formatter/ObjectCollection/WorkflowTypeFormatter.php:10
 msgid "Workflow Types"
@@ -1114,11 +1114,11 @@ msgstr "Éditeur de conversation"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/ConversationRatingType.php:75
 msgid "Conversation Rating Type"
-msgstr ""
+msgstr "Type de classement de conversation"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Exporter/Item/Type/PageTypeComposerControlType.php:75
 msgid "Page Type Composer Control Types"
-msgstr ""
+msgstr "Type de page de types de contrôle de compositeur"
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Importer/CIF/CIFParser.php:19
 msgid "concrete5 XML Export"
