@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl_PL\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>=14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php
 msgctxt "TemplateFileName"
@@ -1349,6 +1349,7 @@ msgid_plural "%d products"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+msgstr[3] ""
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:23
 msgid "Products within category"
@@ -2861,6 +2862,7 @@ msgid_plural "%d orders deleted"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+msgstr[3] ""
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:88
 #, php-format
@@ -2869,6 +2871,7 @@ msgid_plural "%d products deleted"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+msgstr[3] ""
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:102
 #, php-format
@@ -2877,6 +2880,7 @@ msgid_plural "%d discounts deleted"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
+msgstr[3] ""
 
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:384
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:388
