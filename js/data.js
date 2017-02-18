@@ -1,5 +1,5 @@
 {
-    "updated": 1487320235,
+    "updated": 1487406637,
     "packages": [
         {
             "handle": "addthis",
@@ -287,8 +287,8 @@
                     "perc": 93
                 },
                 "de_DE": {
-                    "translated": 583,
-                    "untranslated": 50,
+                    "translated": 584,
+                    "untranslated": 49,
                     "fuzzy": 0,
                     "total": 633,
                     "perc": 92
@@ -3675,11 +3675,11 @@
                     "perc": 70
                 },
                 "de_DE": {
-                    "translated": 172,
-                    "untranslated": 58,
+                    "translated": 173,
+                    "untranslated": 57,
                     "fuzzy": 0,
                     "total": 230,
-                    "perc": 74
+                    "perc": 75
                 },
                 "ast_ES": {
                     "translated": 22,
@@ -5285,11 +5285,11 @@
                     "perc": 36
                 },
                 "de_DE": {
-                    "translated": 7,
-                    "untranslated": 40,
+                    "translated": 22,
+                    "untranslated": 25,
                     "fuzzy": 0,
                     "total": 47,
-                    "perc": 14
+                    "perc": 46
                 },
                 "ast_ES": {
                     "translated": 1,
