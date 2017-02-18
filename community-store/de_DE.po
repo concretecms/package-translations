@@ -1357,7 +1357,7 @@ msgstr[1] "%d Produkte"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:23
 msgid "Products within category"
-msgstr ""
+msgstr "Produkte innerhalb der Kategorie"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:31
 #: packages/community_store/single_pages/dashboard/store/products.php:95

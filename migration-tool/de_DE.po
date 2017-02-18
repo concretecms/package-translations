@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2017-01-01 18:48+0000\n"
+"PO-Revision-Date: 2017-02-17 20:08+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/concrete5/concrete5-packages/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -1050,7 +1050,7 @@ msgstr ""
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/Page/Task/ValidateUsersTask.php:29
 #, php-format
 msgid "User <strong>%s</strong> does not exist."
-msgstr ""
+msgstr "Benutzer <strong>%s</strong> nicht vorhanden."
 
 #: packages/migration_tool/src/PortlandLabs/Concrete5/MigrationTool/Batch/Validator/PageType/BlockComposerFormLayoutSetControlValidator.php:26
 #, php-format
