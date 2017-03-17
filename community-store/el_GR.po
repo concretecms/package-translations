@@ -130,7 +130,7 @@ msgstr "ήταν"
 #: packages/community_store/blocks/community_product/view.php:101
 #: packages/community_store/blocks/community_product_list/view.php:159
 msgid "Enter Other Amount"
-msgstr ""
+msgstr "Εισάγετε Άλλο Ποσό"
 
 #: packages/community_store/blocks/community_product/view.php:103
 #: packages/community_store/blocks/community_product_list/view.php:161
@@ -141,12 +141,12 @@ msgstr "Ποσό"
 #: packages/community_store/blocks/community_product/view.php:115
 #: packages/community_store/blocks/community_product_list/view.php:173
 msgid "minimum"
-msgstr ""
+msgstr "ελάχιστο"
 
 #: packages/community_store/blocks/community_product/view.php:122
 #: packages/community_store/blocks/community_product_list/view.php:180
 msgid "maximum"
-msgstr ""
+msgstr "μέγιστο όριο"
 
 #: packages/community_store/blocks/community_product/view.php:140
 msgid "Dimensions"
@@ -186,7 +186,7 @@ msgstr "Υποχρεωτικό"
 #: packages/community_store/blocks/community_product/view.php:207
 #: packages/community_store/blocks/community_product_list/view.php:232
 msgid "out of stock"
-msgstr ""
+msgstr "Εξάντληση αποθέματος"
 
 #: packages/community_store/blocks/community_product/view.php:243
 #: packages/community_store/blocks/community_product_list/view.php:265
@@ -318,7 +318,7 @@ msgstr "Τυχαία σειρά, αλλάζοντας με κάθε μέρα"
 
 #: packages/community_store/blocks/community_product_list/form.php:55
 msgid "Display Sort Option"
-msgstr ""
+msgstr "Εμφανίζει Επιλογή Ταξινόμισης"
 
 #: packages/community_store/blocks/community_product_list/form.php:62
 msgid "Filtering"
@@ -428,15 +428,15 @@ msgstr "Προεπιλογές για: Περισσότερες λεπτομέρ
 
 #: packages/community_store/blocks/community_product_list/view.php:27
 msgid "Sort by"
-msgstr ""
+msgstr "Ταξινόμηση κατά"
 
 #: packages/community_store/blocks/community_product_list/view.php:31
 msgid "price, lowest to highest"
-msgstr ""
+msgstr "Τιμή,  Χαμηλή προς Υψηλή"
 
 #: packages/community_store/blocks/community_product_list/view.php:32
 msgid "price, highest to lowest"
-msgstr ""
+msgstr "Τιμή, Υψηλή προς Χαμηλή"
 
 #: packages/community_store/blocks/community_product_list/view.php:193
 msgid "More Details"
@@ -679,15 +679,15 @@ msgstr "Ενημέρωση"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:44
 msgid "Shipping method created"
-msgstr ""
+msgstr "Μέθοδος αποστολής δημιουργήθηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:49
 msgid "Shipping method updated"
-msgstr ""
+msgstr "Μέθοδος αποστολής ενημερώθηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:54
 msgid "Shipping method removed"
-msgstr ""
+msgstr "Μέθοδος αποστολής αφαιρέθηκε"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:99
 msgid "Method Name must be set"
@@ -1600,11 +1600,11 @@ msgstr "Διαγραφή"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:133
 msgid "No shipping methods are configured"
-msgstr ""
+msgstr "Δεν έχουν ρυθμιστεί μέθοδοι αποστολής "
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:138
 msgid "No shipping methods are currently enabled"
-msgstr ""
+msgstr "Δεν υπάρχουν ενεργοποιημένες μέθοδοι αποστολής"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:20
 msgid "Enable Tax Rate"
@@ -1669,17 +1669,21 @@ msgstr "Πόλη"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:92
 msgid "VAT Number Options"
-msgstr ""
+msgstr "Επιλογές ΦΠΑ"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:99
 msgid "Only apply tax if an EU VAT Number is not supplied or is invalid."
 msgstr ""
+"Ισχύει ο φόρος μόνο εάν δεν παρέχετε ένας αριθμός ΑΦΜ της ΕΕ  ή εάν δεν "
+"είναι έγκυρο."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:101
 msgid ""
 "If the customer has entered a valid VAT Number then this tax will not be "
 "applied in checkout."
 msgstr ""
+"Αν ο πελάτης έχει εισάγει έναν έγκυρο αριθμό ΑΦΜ τότε ο φόρος αυτός δεν θα "
+"εφαρμοστεί στο ταμείο."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:113
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:236
@@ -1980,15 +1984,15 @@ msgstr "Αυτόματα"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:239
 msgid "Carrier"
-msgstr ""
+msgstr "Μεταφορέας"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:243
 msgid "Tracking Code"
-msgstr ""
+msgstr "Κώδικες Παρακολούθησης"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:247
 msgid "View shipment tracking"
-msgstr ""
+msgstr "Προβολή παρακολούθησης αποστολής"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:280
 #: packages/community_store/single_pages/dashboard/store/orders.php:518
@@ -2190,11 +2194,11 @@ msgstr "Προτεινόμενο Προϊόν"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:118
 msgid "Default Price"
-msgstr ""
+msgstr "Προεπιλεγμένη Τιμή"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:124
 msgid "No Price Set"
-msgstr ""
+msgstr "Δεν υπάρχει Τιμή"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:130
 #: packages/community_store/single_pages/dashboard/store/products.php:934
@@ -2203,19 +2207,19 @@ msgstr "Τιμή Πώλησης"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:140
 msgid "Price Suggestions"
-msgstr ""
+msgstr "Προτάσεις Τιμής"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:163
 msgid "Minimum Price"
-msgstr ""
+msgstr "Κατώτατη τιμή"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:175
 msgid "Maximum Price"
-msgstr ""
+msgstr "Μέγιστη Τιμή"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:190
 msgid "Allow customer to enter price"
-msgstr ""
+msgstr "Επιτρέψτε στον πελάτη να εισάγει τιμή"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:198
 msgid "Taxable"
@@ -2662,11 +2666,11 @@ msgstr "Ναι, θα καταχωρίσω τις τιμές των προϊόν�
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:63
 msgid "Enable EU VAT Number Options?"
-msgstr ""
+msgstr "Ενεργοποίηση Επιλογών ΑΦΜ ΕΕ;"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:64
 msgid "No, I don't need this"
-msgstr ""
+msgstr "Όχι, δεν χρειάζεται αυτό"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:64
 msgid "Yes, enable VAT Number options"

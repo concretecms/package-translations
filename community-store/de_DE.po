@@ -59,7 +59,7 @@ msgstr "Ein ausgewähltes Produkt"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "Product associated with this page"
-msgstr ""
+msgstr "Produkte, die mit dieser Seite asoziiert sind"
 
 #: packages/community_store/blocks/community_product/form.php:11
 msgid "Select Product"
@@ -132,7 +132,7 @@ msgstr "war"
 #: packages/community_store/blocks/community_product/view.php:101
 #: packages/community_store/blocks/community_product_list/view.php:159
 msgid "Enter Other Amount"
-msgstr ""
+msgstr "Geben Sie einen anderen Wert an"
 
 #: packages/community_store/blocks/community_product/view.php:103
 #: packages/community_store/blocks/community_product_list/view.php:161
@@ -143,12 +143,12 @@ msgstr "Menge"
 #: packages/community_store/blocks/community_product/view.php:115
 #: packages/community_store/blocks/community_product_list/view.php:173
 msgid "minimum"
-msgstr ""
+msgstr "minimum"
 
 #: packages/community_store/blocks/community_product/view.php:122
 #: packages/community_store/blocks/community_product_list/view.php:180
 msgid "maximum"
-msgstr ""
+msgstr "maximal"
 
 #: packages/community_store/blocks/community_product/view.php:140
 msgid "Dimensions"
@@ -188,7 +188,7 @@ msgstr "Erforderlich"
 #: packages/community_store/blocks/community_product/view.php:207
 #: packages/community_store/blocks/community_product_list/view.php:232
 msgid "out of stock"
-msgstr ""
+msgstr "ausverkauft"
 
 #: packages/community_store/blocks/community_product/view.php:243
 #: packages/community_store/blocks/community_product_list/view.php:265
@@ -265,11 +265,11 @@ msgstr "Unterhalb einer spezifischen Seite und deren Unterseiten"
 
 #: packages/community_store/blocks/community_product_list/form.php:18
 msgid "Related to product displayed on this page"
-msgstr ""
+msgstr "Verwandt du dem Produkt, das auf dieser Seite gezeigt wird"
 
 #: packages/community_store/blocks/community_product_list/form.php:19
 msgid "Related to a specified product"
-msgstr ""
+msgstr "Verwandt mit einem bestimmten Produkt"
 
 #: packages/community_store/blocks/community_product_list/form.php:34
 #: packages/community_store/single_pages/dashboard/store/products.php:1039
@@ -304,7 +304,7 @@ msgstr "Beste Verkäufe"
 
 #: packages/community_store/blocks/community_product_list/form.php:45
 msgid "Related Products Order"
-msgstr ""
+msgstr "Reihenfolge der verwandten Produkte"
 
 #: packages/community_store/blocks/community_product_list/form.php:46
 msgid "Category Sort Order"
@@ -320,7 +320,7 @@ msgstr "Zufällige Reihenfolge, die jeden Tag geändert wird."
 
 #: packages/community_store/blocks/community_product_list/form.php:55
 msgid "Display Sort Option"
-msgstr ""
+msgstr "Sortierungsoptionen anzeigen"
 
 #: packages/community_store/blocks/community_product_list/form.php:62
 msgid "Filtering"
