@@ -2674,7 +2674,7 @@ msgstr "Όχι, δεν χρειάζεται αυτό"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:64
 msgid "Yes, enable VAT Number options"
-msgstr ""
+msgstr "Ναι, Ενεργοποίηση Επιλογών ΦΠΑ;"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:71
 msgid "Shipping Units"
@@ -2686,7 +2686,7 @@ msgstr "Μονάδες Βάρους"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:77
 msgid "oz"
-msgstr ""
+msgstr "oz"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:77
 msgid "lb"
@@ -2844,6 +2844,7 @@ msgstr "Πρόσφατες Παραγγελίες"
 #: packages/community_store/single_pages/cart.php:17
 msgid "Your cart has been updated due to changes in stock levels"
 msgstr ""
+"Το καλάθι σας έχει ενημερωθεί λόγω των αλλαγών στα επίπεδα των αποθεμάτων"
 
 #: packages/community_store/single_pages/cart.php:166
 msgid "Enter Discount Code"
@@ -2962,19 +2963,19 @@ msgstr "Επιλέξτε μια μέθοδο αποστολής"
 #: packages/community_store/single_pages/checkout.php:325
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:217
 msgid "VAT Number"
-msgstr ""
+msgstr "ΦΠΑ"
 
 #: packages/community_store/single_pages/checkout.php:312
 msgid "VAT Number (if applicable)"
-msgstr ""
+msgstr "ΦΠΑ (εάν ισχύει)"
 
 #: packages/community_store/single_pages/checkout.php:329
 msgid "Applied VAT Number"
-msgstr ""
+msgstr "Εφαρμοσμoζόμενο ΦΠΑ"
 
 #: packages/community_store/single_pages/checkout.php:330
 msgid "Not entered"
-msgstr ""
+msgstr "δεν εισήλθε"
 
 #: packages/community_store/single_pages/checkout.php:381
 msgid "Complete Order"
@@ -3103,11 +3104,11 @@ msgstr ""
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:146
 msgid "You must enter a valid VAT Number"
-msgstr ""
+msgstr "Πρέπει να εισάγετε έναν έγκυρο αριθμό ΦΠΑ"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:182
 msgid "The VAT Number entered was not valid."
-msgstr ""
+msgstr "Το ΦΠΑ που πληκτρολογήσατε δεν ήταν έγκυρο."
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:271
 msgid "You must enter a valid email address"
