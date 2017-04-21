@@ -25,7 +25,7 @@ msgstr ""
 
 #: packages/community_store/controller.php:23
 msgid "Add a store to your site"
-msgstr ""
+msgstr "Adicione uma loja ao seu site"
 
 #: packages/community_store/controller.php:28
 msgid "Community Store"
@@ -33,7 +33,7 @@ msgstr ""
 
 #: packages/community_store/controller.php:149
 msgid "Quantity must be greater than zero"
-msgstr ""
+msgstr "Quantidade deve ser maior que zero"
 
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php:33
 msgid "Empty Auto-Nav Block."
@@ -41,7 +41,7 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product/controller.php:21
 msgid "Add a Product to the Page"
-msgstr ""
+msgstr "Adicionar um Produto à Página"
 
 #: packages/community_store/blocks/community_product/controller.php:26
 #: packages/community_store/blocks/community_product/form.php:2
@@ -51,51 +51,51 @@ msgstr ""
 #: packages/community_store/elements/cart_modal.php:45
 #: packages/community_store/single_pages/cart.php:43
 msgid "Product"
-msgstr ""
+msgstr "Produto"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "A selected product"
-msgstr ""
+msgstr "Um produto selecionado"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "Product associated with this page"
-msgstr ""
+msgstr "Produto associado à página"
 
 #: packages/community_store/blocks/community_product/form.php:11
 msgid "Select Product"
-msgstr ""
+msgstr "Selecionar Produto"
 
 #: packages/community_store/blocks/community_product/form.php:14
 msgid "Display Options"
-msgstr ""
+msgstr "Opções de Exibição"
 
 #: packages/community_store/blocks/community_product/form.php:21
 msgid "Show Product Name"
-msgstr ""
+msgstr "Mostrar Nome do Produto"
 
 #: packages/community_store/blocks/community_product/form.php:27
 msgid "Show Short Description"
-msgstr ""
+msgstr "Mostrar Descrição Curta"
 
 #: packages/community_store/blocks/community_product/form.php:33
 msgid "Show Product Details"
-msgstr ""
+msgstr "Mostrar Detalhes do Produto"
 
 #: packages/community_store/blocks/community_product/form.php:39
 msgid "Show Price"
-msgstr ""
+msgstr "Mostrar Preço"
 
 #: packages/community_store/blocks/community_product/form.php:45
 msgid "Show Weight"
-msgstr ""
+msgstr "Mostrar Peso"
 
 #: packages/community_store/blocks/community_product/form.php:53
 msgid "Show Product Image"
-msgstr ""
+msgstr "Mostrar Imagem do Produto"
 
 #: packages/community_store/blocks/community_product/form.php:59
 msgid "Show \"Add to Cart\" Button"
-msgstr ""
+msgstr "Mostrar Botão \"Adicionar ao Carrinho\""
 
 #: packages/community_store/blocks/community_product/form.php:65
 msgid "Show If Featured"
@@ -103,63 +103,63 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product/form.php:71
 msgid "Show Dimensions"
-msgstr ""
+msgstr "Mostrar Dimensões"
 
 #: packages/community_store/blocks/community_product/form.php:77
 msgid "Show Quantity Selector"
-msgstr ""
+msgstr "Mostrar Seletor de Quantidade"
 
 #: packages/community_store/blocks/community_product/form.php:87
 msgid "Add to Cart Button Text"
-msgstr ""
+msgstr "Texto do Botão Adicionar ao Carrinho"
 
 #: packages/community_store/blocks/community_product/form.php:88
 msgid "Add To Cart"
-msgstr ""
+msgstr "Adicionar ao Carrinho"
 
 #: packages/community_store/blocks/community_product/view.php:74
 #: packages/community_store/blocks/community_product/view.php:344
 msgid "On Sale: "
-msgstr ""
+msgstr "À Venda:"
 
 #: packages/community_store/blocks/community_product/view.php:75
 #: packages/community_store/blocks/community_product_list/view.php:140
 #: packages/community_store/blocks/community_product_list/view.php:308
 #: packages/community_store/elements/product_modal.php:118
 msgid "was"
-msgstr ""
+msgstr "foi"
 
 #: packages/community_store/blocks/community_product/view.php:101
 #: packages/community_store/blocks/community_product_list/view.php:159
 msgid "Enter Other Amount"
-msgstr ""
+msgstr "Digite Outra Quantia"
 
 #: packages/community_store/blocks/community_product/view.php:103
 #: packages/community_store/blocks/community_product_list/view.php:161
 #: packages/community_store/single_pages/dashboard/store/orders.php:177
 msgid "Amount"
-msgstr ""
+msgstr "Quantia"
 
 #: packages/community_store/blocks/community_product/view.php:115
 #: packages/community_store/blocks/community_product_list/view.php:173
 msgid "minimum"
-msgstr ""
+msgstr "mínimo"
 
 #: packages/community_store/blocks/community_product/view.php:122
 #: packages/community_store/blocks/community_product_list/view.php:180
 msgid "maximum"
-msgstr ""
+msgstr "máximo"
 
 #: packages/community_store/blocks/community_product/view.php:140
 msgid "Dimensions"
-msgstr ""
+msgstr "Dimensões"
 
 #: packages/community_store/blocks/community_product/view.php:148
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:18
 #: packages/community_store/single_pages/dashboard/store/products.php:391
 #: packages/community_store/single_pages/dashboard/store/products.php:961
 msgid "Weight"
-msgstr ""
+msgstr "Peso"
 
 #: packages/community_store/blocks/community_product/view.php:167
 msgid "Featured Item"
@@ -176,7 +176,7 @@ msgstr "Funcionalidade Item"
 #: packages/community_store/single_pages/dashboard/store/orders.php:116
 #: packages/community_store/single_pages/cart.php:45
 msgid "Quantity"
-msgstr ""
+msgstr "Quantidade"
 
 #: packages/community_store/blocks/community_product/view.php:190
 #: packages/community_store/blocks/community_product_list/view.php:215
@@ -188,23 +188,23 @@ msgstr "Obrigatório"
 #: packages/community_store/blocks/community_product/view.php:207
 #: packages/community_store/blocks/community_product_list/view.php:232
 msgid "out of stock"
-msgstr ""
+msgstr "não disponível"
 
 #: packages/community_store/blocks/community_product/view.php:243
 #: packages/community_store/blocks/community_product_list/view.php:265
 #: packages/community_store/elements/product_modal.php:56
 msgid "Add to Cart"
-msgstr ""
+msgstr "Adicionar ao Carrinho"
 
 #: packages/community_store/blocks/community_product/view.php:246
 #: packages/community_store/blocks/community_product_list/view.php:266
 #: packages/community_store/elements/product_modal.php:57
 msgid "Out of Stock"
-msgstr ""
+msgstr "Não Disponível"
 
 #: packages/community_store/blocks/community_product/view.php:378
 msgid "Product not available"
-msgstr ""
+msgstr "Produto não disponível"
 
 #: packages/community_store/blocks/community_product_list/controller.php:23
 msgid "Add a Product List for Community Store"
@@ -212,15 +212,15 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product_list/controller.php:28
 msgid "Product List"
-msgstr ""
+msgstr "Lista de Produtos"
 
 #: packages/community_store/blocks/community_product_list/controller.php:228
 msgid "A page must be selected"
-msgstr ""
+msgstr "Uma página deve ser selecionada"
 
 #: packages/community_store/blocks/community_product_list/controller.php:232
 msgid "Number of Products must be a whole number"
-msgstr ""
+msgstr "Número de Produtos deve ser um número inteiro"
 
 #: packages/community_store/blocks/community_product_list/form.php:8
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:31
@@ -237,11 +237,11 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store.php:147
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:70
 msgid "Products"
-msgstr ""
+msgstr "Produtos"
 
 #: packages/community_store/blocks/community_product_list/form.php:11
 msgid "List Products"
-msgstr ""
+msgstr "Listar Produtos"
 
 #: packages/community_store/blocks/community_product_list/form.php:13
 msgid "All"
@@ -249,37 +249,37 @@ msgstr "Todos"
 
 #: packages/community_store/blocks/community_product_list/form.php:14
 msgid "Under current page"
-msgstr ""
+msgstr "Na página atual"
 
 #: packages/community_store/blocks/community_product_list/form.php:15
 msgid "Under current page and child pages"
-msgstr ""
+msgstr "Na página atual e páginas subordinadas"
 
 #: packages/community_store/blocks/community_product_list/form.php:16
 msgid "Under a specified page"
-msgstr ""
+msgstr "Em uma página específica"
 
 #: packages/community_store/blocks/community_product_list/form.php:17
 msgid "Under a specified page and child pages"
-msgstr ""
+msgstr "Em uma página específica e páginas subordinadas"
 
 #: packages/community_store/blocks/community_product_list/form.php:18
 msgid "Related to product displayed on this page"
-msgstr ""
+msgstr "Relacionado ao produto exibido nesta página"
 
 #: packages/community_store/blocks/community_product_list/form.php:19
 msgid "Related to a specified product"
-msgstr ""
+msgstr "Relacionado a um produto específico"
 
 #: packages/community_store/blocks/community_product_list/form.php:34
 #: packages/community_store/single_pages/dashboard/store/products.php:1039
 msgid "Search for a Product"
-msgstr ""
+msgstr "Pesquisar um Produto"
 
 #: packages/community_store/blocks/community_product_list/form.php:38
 #: packages/community_store/single_pages/dashboard/store/settings.php:128
 msgid "Sort Order"
-msgstr ""
+msgstr "Sentido de Ordenação"
 
 #: packages/community_store/blocks/community_product_list/form.php:40
 msgid "Alphabetical"
@@ -292,11 +292,11 @@ msgstr "Data adicionada"
 
 #: packages/community_store/blocks/community_product_list/form.php:42
 msgid "Price Ascending"
-msgstr ""
+msgstr "Preço Crescente"
 
 #: packages/community_store/blocks/community_product_list/form.php:43
 msgid "Price Descending"
-msgstr ""
+msgstr "Preço Decrescente"
 
 #: packages/community_store/blocks/community_product_list/form.php:44
 msgid "Best Sellers"
@@ -304,7 +304,7 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product_list/form.php:45
 msgid "Related Products Order"
-msgstr ""
+msgstr "Ordem de Produtos Relacionados"
 
 #: packages/community_store/blocks/community_product_list/form.php:46
 msgid "Category Sort Order"
@@ -312,15 +312,15 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product_list/form.php:47
 msgid "Random order, changing each display"
-msgstr ""
+msgstr "Ordem aleatória, mudando a cada exibição"
 
 #: packages/community_store/blocks/community_product_list/form.php:48
 msgid "Random order, changing each day"
-msgstr ""
+msgstr "Ordem aleatória, mudando a cada dia"
 
 #: packages/community_store/blocks/community_product_list/form.php:55
 msgid "Display Sort Option"
-msgstr ""
+msgstr "Mostrar Opção de Ordenação"
 
 #: packages/community_store/blocks/community_product_list/form.php:62
 msgid "Filtering"
@@ -328,24 +328,24 @@ msgstr "Filtragem"
 
 #: packages/community_store/blocks/community_product_list/form.php:73
 msgid "Filter by Product Groups"
-msgstr ""
+msgstr "Filtrar por Grupos de Produto"
 
 #: packages/community_store/blocks/community_product_list/form.php:77
 #: packages/community_store/single_pages/dashboard/store/products.php:327
 msgid "Select Product Groups"
-msgstr ""
+msgstr "Selecionar Grupos de Produto"
 
 #: packages/community_store/blocks/community_product_list/form.php:88
 msgid "Matching"
-msgstr ""
+msgstr "Corresponder a"
 
 #: packages/community_store/blocks/community_product_list/form.php:89
 msgid "All groups selected"
-msgstr ""
+msgstr "Todos os grupos selecionados"
 
 #: packages/community_store/blocks/community_product_list/form.php:89
 msgid "Any group selected"
-msgstr ""
+msgstr "Qualquer grupo selecionado"
 
 #: packages/community_store/blocks/community_product_list/form.php:97
 msgid "Include Featured Only"
