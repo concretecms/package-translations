@@ -130,7 +130,7 @@ msgstr "era"
 #: packages/community_store/blocks/community_product/view.php:101
 #: packages/community_store/blocks/community_product_list/view.php:159
 msgid "Enter Other Amount"
-msgstr ""
+msgstr "Inserire altro importo"
 
 #: packages/community_store/blocks/community_product/view.php:103
 #: packages/community_store/blocks/community_product_list/view.php:161
@@ -141,12 +141,12 @@ msgstr "Importo"
 #: packages/community_store/blocks/community_product/view.php:115
 #: packages/community_store/blocks/community_product_list/view.php:173
 msgid "minimum"
-msgstr ""
+msgstr "minimo"
 
 #: packages/community_store/blocks/community_product/view.php:122
 #: packages/community_store/blocks/community_product_list/view.php:180
 msgid "maximum"
-msgstr ""
+msgstr "massimo"
 
 #: packages/community_store/blocks/community_product/view.php:140
 msgid "Dimensions"
@@ -186,7 +186,7 @@ msgstr "Richiesto"
 #: packages/community_store/blocks/community_product/view.php:207
 #: packages/community_store/blocks/community_product_list/view.php:232
 msgid "out of stock"
-msgstr ""
+msgstr "esaurito"
 
 #: packages/community_store/blocks/community_product/view.php:243
 #: packages/community_store/blocks/community_product_list/view.php:265
@@ -318,7 +318,7 @@ msgstr "Ordine casuale, cambia ad ogni giorno"
 
 #: packages/community_store/blocks/community_product_list/form.php:55
 msgid "Display Sort Option"
-msgstr ""
+msgstr "Mostra opzioni di ordinamento"
 
 #: packages/community_store/blocks/community_product_list/form.php:62
 msgid "Filtering"
@@ -429,15 +429,15 @@ msgstr "Predefinito: Maggiori informazioni"
 
 #: packages/community_store/blocks/community_product_list/view.php:27
 msgid "Sort by"
-msgstr ""
+msgstr "Ordina per"
 
 #: packages/community_store/blocks/community_product_list/view.php:31
 msgid "price, lowest to highest"
-msgstr ""
+msgstr "prezzo crescente"
 
 #: packages/community_store/blocks/community_product_list/view.php:32
 msgid "price, highest to lowest"
-msgstr ""
+msgstr "prezzo decrescente"
 
 #: packages/community_store/blocks/community_product_list/view.php:193
 msgid "More Details"
@@ -680,15 +680,15 @@ msgstr "Aggiorna"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:44
 msgid "Shipping method created"
-msgstr ""
+msgstr "Modalità di spedizione creata"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:49
 msgid "Shipping method updated"
-msgstr ""
+msgstr "Modalità di spedizione aggiornata"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:54
 msgid "Shipping method removed"
-msgstr ""
+msgstr "Modalità di spedizione rimossa"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:99
 msgid "Method Name must be set"
@@ -1594,11 +1594,11 @@ msgstr "Elimina"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:133
 msgid "No shipping methods are configured"
-msgstr ""
+msgstr "Non è configurato alcun metodo di spedizione"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:138
 msgid "No shipping methods are currently enabled"
-msgstr ""
+msgstr "Al momento nessun metodo di spedizione è abilitato"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:20
 msgid "Enable Tax Rate"
@@ -1663,17 +1663,21 @@ msgstr "Città"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:92
 msgid "VAT Number Options"
-msgstr ""
+msgstr "Opzioni partita IVA"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:99
 msgid "Only apply tax if an EU VAT Number is not supplied or is invalid."
 msgstr ""
+"Applica imposta solo se non è fornita alcuna partita IVA europea o se non è "
+"valida."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:101
 msgid ""
 "If the customer has entered a valid VAT Number then this tax will not be "
 "applied in checkout."
 msgstr ""
+"Se il cliente ha inserito una partita IVA valida, questa imposta non verrà "
+"applicata alla cassa."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:113
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:236
@@ -1974,15 +1978,15 @@ msgstr "Automaticamente"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:239
 msgid "Carrier"
-msgstr ""
+msgstr "Corriere"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:243
 msgid "Tracking Code"
-msgstr ""
+msgstr "Codice di tracciamento"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:247
 msgid "View shipment tracking"
-msgstr ""
+msgstr "Vedi tracking della spedizione"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:280
 #: packages/community_store/single_pages/dashboard/store/orders.php:518
@@ -2184,11 +2188,11 @@ msgstr "Articolo in evidenza"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:118
 msgid "Default Price"
-msgstr ""
+msgstr "Prezzo predefinito"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:124
 msgid "No Price Set"
-msgstr ""
+msgstr "Nessun prezzo impostato"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:130
 #: packages/community_store/single_pages/dashboard/store/products.php:934
@@ -2197,19 +2201,19 @@ msgstr "Prezzo scontato"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:140
 msgid "Price Suggestions"
-msgstr ""
+msgstr "Suggerimenti sul prezzo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:163
 msgid "Minimum Price"
-msgstr ""
+msgstr "Prezzo minimo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:175
 msgid "Maximum Price"
-msgstr ""
+msgstr "Prezzo massimo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:190
 msgid "Allow customer to enter price"
-msgstr ""
+msgstr "Permetti ai clienti di inserire il prezzo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:198
 msgid "Taxable"
@@ -2656,15 +2660,15 @@ msgstr "Sì, i prezzi degli articoli inseriti sono tasse INCLUSE"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:63
 msgid "Enable EU VAT Number Options?"
-msgstr ""
+msgstr "Abilita opzioni relative a partite IVA europee?"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:64
 msgid "No, I don't need this"
-msgstr ""
+msgstr "No, non ne ho bisogno"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:64
 msgid "Yes, enable VAT Number options"
-msgstr ""
+msgstr "S', abilita le opzioni relative a partite IVA"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:71
 msgid "Shipping Units"
@@ -2676,7 +2680,7 @@ msgstr "Unità di misura peso"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:77
 msgid "oz"
-msgstr ""
+msgstr "oz"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:77
 msgid "lb"
@@ -2836,6 +2840,8 @@ msgstr "Ordini recenti"
 #: packages/community_store/single_pages/cart.php:17
 msgid "Your cart has been updated due to changes in stock levels"
 msgstr ""
+"Il carrello è stato aggiornato in seguito al cambiamento delle disponibilità"
+" del magazzino"
 
 #: packages/community_store/single_pages/cart.php:166
 msgid "Enter Discount Code"
@@ -2951,19 +2957,19 @@ msgstr "Selezionare un metodo di spedizione"
 #: packages/community_store/single_pages/checkout.php:325
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:217
 msgid "VAT Number"
-msgstr ""
+msgstr "Partita IVA"
 
 #: packages/community_store/single_pages/checkout.php:312
 msgid "VAT Number (if applicable)"
-msgstr ""
+msgstr "Partita IVA (se applicabile)"
 
 #: packages/community_store/single_pages/checkout.php:329
 msgid "Applied VAT Number"
-msgstr ""
+msgstr "Partita IVA utilizzata"
 
 #: packages/community_store/single_pages/checkout.php:330
 msgid "Not entered"
-msgstr ""
+msgstr "Non specificato"
 
 #: packages/community_store/single_pages/checkout.php:381
 msgid "Complete Order"
@@ -3083,11 +3089,11 @@ msgstr ""
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:146
 msgid "You must enter a valid VAT Number"
-msgstr ""
+msgstr "È necessario specificare una partita IVA valida"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:182
 msgid "The VAT Number entered was not valid."
-msgstr ""
+msgstr "La partita IVA specificata non era valida."
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:271
 msgid "You must enter a valid email address"
