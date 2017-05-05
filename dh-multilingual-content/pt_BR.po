@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Marcelo Ghelman <marcelo.ghelman@gmail.com>, 2016
+# Marcelo Ghelman <marcelo.ghelman@gmail.com>, 2016-2017
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-09 14:37+0000\n"
-"PO-Revision-Date: 2016-01-25 19:17+0000\n"
+"PO-Revision-Date: 2017-05-04 22:50+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:30
 #: packages/dh_multilingual_content/controller.php:15
 msgid "Multilingual HTML/WYSIWYG Editor Content."
-msgstr ""
+msgstr "Conteúdo de editor HTML/WYSIWYG multi-idioma."
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/controller.php:34
 #: packages/dh_multilingual_content/controller.php:19
@@ -41,11 +41,11 @@ msgstr "adicione idiomas ao seu site"
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:19
 msgid "This block is designed to be added in a sitewide area"
-msgstr ""
+msgstr "Este bloco foi projetado para ser adicionado a uma área lateral"
 
 #: packages/dh_multilingual_content/blocks/dh_multilingual_content/edit.php:20
 msgid "otherwise you may use standard content block"
-msgstr ""
+msgstr "caso contrário você deve usar um bloco de conteúdo padrão"
 
 #: packages/dh_multilingual_content/controller.php:25
 msgid "Internationalization"

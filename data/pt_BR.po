@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Marcelo Ghelman <marcelo.ghelman@gmail.com>, 2016
+# Marcelo Ghelman <marcelo.ghelman@gmail.com>, 2016-2017
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2016-03-28 03:58+0000\n"
+"PO-Revision-Date: 2017-05-04 22:44+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/concrete5/concrete5-packages/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr "Associação simples de dado"
 
 #: packages/data/controller.php:61
 msgid "Data Single Child Association"
-msgstr ""
+msgstr "Associação de dado de único filho"
 
 #: packages/data/controller.php:126 packages/data/controller.php:127
 msgid "View Data Type"
@@ -316,7 +316,7 @@ msgstr "Conteúdo incluído na busca de chave de dados."
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:36
 #: packages/data/single_pages/dashboard/data/administration/attributes/edit.php:36
 msgid "Field available in Dashboard data search."
-msgstr ""
+msgstr "Campo disponível na busca de dados do Painel."
 
 #: packages/data/single_pages/dashboard/data/administration/attributes/create.php:49
 #: packages/data/single_pages/dashboard/data/administration/create.php:12
