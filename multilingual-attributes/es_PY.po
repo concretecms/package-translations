@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-18 15:17+0000\n"
-"PO-Revision-Date: 2016-10-20 17:09+0000\n"
+"PO-Revision-Date: 2017-06-20 02:42+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Spanish (Paraguay) (http://www.transifex.com/concrete5/concrete5-packages/language/es_PY/)\n"
 "MIME-Version: 1.0\n"
@@ -80,7 +80,7 @@ msgstr ""
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:52
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: packages/multilingual_attributes/models/attribute/types/multilingual_attribute/type_form.php:64
 msgid "When not set for a language, use the value of:"
