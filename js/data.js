@@ -1,5 +1,5 @@
 {
-    "updated": 1497857440,
+    "updated": 1497943837,
     "packages": [
         {
             "handle": "addthis",
@@ -707,11 +707,11 @@
                     "perc": 15
                 },
                 "es_PY": {
-                    "translated": 2,
-                    "untranslated": 31,
+                    "translated": 3,
+                    "untranslated": 30,
                     "fuzzy": 0,
                     "total": 33,
-                    "perc": 6
+                    "perc": 9
                 },
                 "pt_BR": {
                     "translated": 31,
@@ -1020,6 +1020,13 @@
                     "fuzzy": 0,
                     "total": 38,
                     "perc": 55
+                },
+                "es_PY": {
+                    "translated": 1,
+                    "untranslated": 37,
+                    "fuzzy": 0,
+                    "total": 38,
+                    "perc": 2
                 },
                 "pt_BR": {
                     "translated": 28,
@@ -1631,11 +1638,11 @@
                     "perc": 96
                 },
                 "es_PY": {
-                    "translated": 2,
-                    "untranslated": 81,
+                    "translated": 3,
+                    "untranslated": 80,
                     "fuzzy": 0,
                     "total": 83,
-                    "perc": 2
+                    "perc": 3
                 },
                 "pt_BR": {
                     "translated": 83,
@@ -2625,11 +2632,11 @@
                     "perc": 100
                 },
                 "es_PY": {
-                    "translated": 2,
-                    "untranslated": 29,
+                    "translated": 3,
+                    "untranslated": 28,
                     "fuzzy": 0,
                     "total": 31,
-                    "perc": 6
+                    "perc": 9
                 },
                 "pt_BR": {
                     "translated": 31,
@@ -2842,11 +2849,11 @@
                     "perc": 100
                 },
                 "es_PY": {
-                    "translated": 2,
-                    "untranslated": 36,
+                    "translated": 3,
+                    "untranslated": 35,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 5
+                    "perc": 7
                 },
                 "pt_BR": {
                     "translated": 38,
@@ -3451,11 +3458,11 @@
                     "perc": 23
                 },
                 "es_PY": {
-                    "translated": 21,
-                    "untranslated": 13,
+                    "translated": 34,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 34,
-                    "perc": 61
+                    "perc": 100
                 },
                 "pt_BR": {
                     "translated": 4,
@@ -3612,11 +3619,11 @@
                     "perc": 10
                 },
                 "es_PY": {
-                    "translated": 1,
-                    "untranslated": 64,
+                    "translated": 2,
+                    "untranslated": 63,
                     "fuzzy": 0,
                     "total": 65,
-                    "perc": 1
+                    "perc": 3
                 },
                 "pt_BR": {
                     "translated": 64,
@@ -3780,11 +3787,11 @@
                     "perc": 25
                 },
                 "es_PY": {
-                    "translated": 3,
-                    "untranslated": 227,
+                    "translated": 5,
+                    "untranslated": 225,
                     "fuzzy": 0,
                     "total": 230,
-                    "perc": 1
+                    "perc": 2
                 },
                 "pt_BR": {
                     "translated": 91,
@@ -4107,6 +4114,13 @@
                     "fuzzy": 0,
                     "total": 16,
                     "perc": 43
+                },
+                "es_PY": {
+                    "translated": 1,
+                    "untranslated": 15,
+                    "fuzzy": 0,
+                    "total": 16,
+                    "perc": 6
                 },
                 "pt_BR": {
                     "translated": 16,
@@ -5222,11 +5236,11 @@
                     "perc": 7
                 },
                 "es_PY": {
-                    "translated": 2,
-                    "untranslated": 25,
+                    "translated": 27,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 27,
-                    "perc": 7
+                    "perc": 100
                 },
                 "pt_BR": {
                     "translated": 27,
