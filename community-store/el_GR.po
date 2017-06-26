@@ -19,19 +19,19 @@ msgstr ""
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php
 msgctxt "TemplateFileName"
 msgid "Product Breadcrumb"
-msgstr "Διακεκομμένο προϊόν"
+msgstr "Προϊόν Διακεκομμένα"
 
 #: packages/community_store/controller.php:23
 msgid "Add a store to your site"
-msgstr "Προσθέστε ένα Kατάστημα στο Site σας"
+msgstr "Προσθέστε ένα Κατάστημα στο Site σας"
 
 #: packages/community_store/controller.php:28
 msgid "Community Store"
-msgstr "Κατάστημα Κοινότητας"
+msgstr "Community Store"
 
 #: packages/community_store/controller.php:149
 msgid "Quantity must be greater than zero"
-msgstr "Η ποσότητα πρέπει να είναι μεγαλύτερη από το μηδέν"
+msgstr "Η ποσότητα πρέπει να είναι μεγαλύτερη από μηδέν"
 
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php:33
 msgid "Empty Auto-Nav Block."
