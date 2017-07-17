@@ -6,10 +6,10 @@
 # Ettore Atalan <atalanttore@googlemail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: community_store 1.1.3\n"
+"Project-Id-Version: community_store 1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-14T21:59:35+10:30\n"
-"PO-Revision-Date: 2017-03-14T21:59:36+10:30\n"
+"POT-Creation-Date: 2017-07-16T08:15:13+02:00\n"
+"PO-Revision-Date: 2017-07-16T08:15:14+02:00\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>, 2016\n"
 "Language-Team: German (Germany) (https://www.transifex.com/concrete5/teams/10374/de_DE/)\n"
 "MIME-Version: 1.0\n"
@@ -117,92 +117,102 @@ msgstr "In den Warenkorb Schaltflächen Text"
 msgid "Add To Cart"
 msgstr "In den Warenkorb"
 
-#: packages/community_store/blocks/community_product/view.php:74
-#: packages/community_store/blocks/community_product/view.php:344
+#: packages/community_store/blocks/community_product/view.php:41
+#: packages/community_store/blocks/community_product/view.php:319
 msgid "On Sale: "
 msgstr "Im Angebot:"
 
-#: packages/community_store/blocks/community_product/view.php:75
-#: packages/community_store/blocks/community_product_list/view.php:140
-#: packages/community_store/blocks/community_product_list/view.php:308
+#: packages/community_store/blocks/community_product/view.php:42
+#: packages/community_store/blocks/community_product_list/view.php:110
+#: packages/community_store/blocks/community_product_list/view.php:286
 #: packages/community_store/elements/product_modal.php:118
 msgid "was"
 msgstr "war"
 
-#: packages/community_store/blocks/community_product/view.php:101
-#: packages/community_store/blocks/community_product_list/view.php:159
+#: packages/community_store/blocks/community_product/view.php:68
+#: packages/community_store/blocks/community_product_list/view.php:129
 msgid "Enter Other Amount"
 msgstr "Geben Sie einen anderen Wert an"
 
-#: packages/community_store/blocks/community_product/view.php:103
-#: packages/community_store/blocks/community_product_list/view.php:161
-#: packages/community_store/single_pages/dashboard/store/orders.php:177
+#: packages/community_store/blocks/community_product/view.php:70
+#: packages/community_store/blocks/community_product_list/view.php:131
+#: packages/community_store/single_pages/dashboard/store/orders.php:183
 msgid "Amount"
 msgstr "Menge"
 
-#: packages/community_store/blocks/community_product/view.php:115
-#: packages/community_store/blocks/community_product_list/view.php:173
+#: packages/community_store/blocks/community_product/view.php:82
+#: packages/community_store/blocks/community_product_list/view.php:143
 msgid "minimum"
 msgstr "minimum"
 
-#: packages/community_store/blocks/community_product/view.php:122
-#: packages/community_store/blocks/community_product_list/view.php:180
+#: packages/community_store/blocks/community_product/view.php:89
+#: packages/community_store/blocks/community_product_list/view.php:150
 msgid "maximum"
 msgstr "maximal"
 
-#: packages/community_store/blocks/community_product/view.php:140
+#: packages/community_store/blocks/community_product/view.php:107
 msgid "Dimensions"
 msgstr "Abmessungen"
 
-#: packages/community_store/blocks/community_product/view.php:148
+#: packages/community_store/blocks/community_product/view.php:115
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:18
 #: packages/community_store/single_pages/dashboard/store/products.php:391
-#: packages/community_store/single_pages/dashboard/store/products.php:961
+#: packages/community_store/single_pages/dashboard/store/products.php:1015
 msgid "Weight"
 msgstr "Gewicht"
 
-#: packages/community_store/blocks/community_product/view.php:167
+#: packages/community_store/blocks/community_product/view.php:134
 msgid "Featured Item"
 msgstr "Highlight Produkt"
 
-#: packages/community_store/blocks/community_product/view.php:174
-#: packages/community_store/blocks/community_product_list/view.php:199
+#: packages/community_store/blocks/community_product/view.php:141
+#: packages/community_store/blocks/community_product_list/view.php:169
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:62
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:18
 #: packages/community_store/elements/cart_list.php:18
 #: packages/community_store/elements/cart_modal.php:47
-#: packages/community_store/elements/order_slip.php:132
+#: packages/community_store/elements/order_slip.php:140
 #: packages/community_store/elements/product_modal.php:28
-#: packages/community_store/single_pages/dashboard/store/orders.php:116
+#: packages/community_store/single_pages/dashboard/store/orders.php:122
 #: packages/community_store/single_pages/cart.php:45
 msgid "Quantity"
 msgstr "Menge"
 
-#: packages/community_store/blocks/community_product/view.php:190
-#: packages/community_store/blocks/community_product_list/view.php:215
+#: packages/community_store/blocks/community_product/view.php:157
+#: packages/community_store/blocks/community_product_list/view.php:185
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:64
-#: packages/community_store/single_pages/dashboard/store/products.php:536
+#: packages/community_store/single_pages/dashboard/store/products.php:549
 msgid "Required"
 msgstr "Erforderlich"
 
-#: packages/community_store/blocks/community_product/view.php:207
-#: packages/community_store/blocks/community_product_list/view.php:232
+#: packages/community_store/blocks/community_product/view.php:176
+#: packages/community_store/blocks/community_product_list/view.php:204
 msgid "out of stock"
 msgstr "ausverkauft"
 
-#: packages/community_store/blocks/community_product/view.php:243
-#: packages/community_store/blocks/community_product_list/view.php:265
+#: packages/community_store/blocks/community_product/view.php:205
+#: packages/community_store/blocks/community_product_list/view.php:232
+msgid "no"
+msgstr ""
+
+#: packages/community_store/blocks/community_product/view.php:206
+#: packages/community_store/blocks/community_product_list/view.php:233
+msgid "yes"
+msgstr ""
+
+#: packages/community_store/blocks/community_product/view.php:218
+#: packages/community_store/blocks/community_product_list/view.php:243
 #: packages/community_store/elements/product_modal.php:56
 msgid "Add to Cart"
 msgstr "In den Warenkorb"
 
-#: packages/community_store/blocks/community_product/view.php:246
-#: packages/community_store/blocks/community_product_list/view.php:266
+#: packages/community_store/blocks/community_product/view.php:221
+#: packages/community_store/blocks/community_product_list/view.php:244
 #: packages/community_store/elements/product_modal.php:57
 msgid "Out of Stock"
 msgstr "Ausverkauft"
 
-#: packages/community_store/blocks/community_product/view.php:378
+#: packages/community_store/blocks/community_product/view.php:353
 msgid "Product not available"
 msgstr "Produkt ist nicht verfügbar"
 
@@ -235,7 +245,7 @@ msgstr "Die Menge der Produkte muss eine ganze Zahl sein."
 #: packages/community_store/single_pages/dashboard/store.php:34
 #: packages/community_store/single_pages/dashboard/store.php:60
 #: packages/community_store/single_pages/dashboard/store.php:147
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:70
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:71
 msgid "Products"
 msgstr "Produkte"
 
@@ -272,7 +282,7 @@ msgid "Related to a specified product"
 msgstr "Verwandt mit einem bestimmten Produkt"
 
 #: packages/community_store/blocks/community_product_list/form.php:34
-#: packages/community_store/single_pages/dashboard/store/products.php:1039
+#: packages/community_store/single_pages/dashboard/store/products.php:1096
 msgid "Search for a Product"
 msgstr "Nach einem Produkt suchen"
 
@@ -286,144 +296,148 @@ msgid "Alphabetical"
 msgstr "Anphabetisch"
 
 #: packages/community_store/blocks/community_product_list/form.php:41
+msgid "Alphabetical, reversed"
+msgstr ""
+
+#: packages/community_store/blocks/community_product_list/form.php:42
 #: packages/community_store/single_pages/dashboard/store/products.php:261
 msgid "Date Added"
 msgstr "Hinzugefügt"
 
-#: packages/community_store/blocks/community_product_list/form.php:42
+#: packages/community_store/blocks/community_product_list/form.php:43
 msgid "Price Ascending"
 msgstr "Preis aufsteigend"
 
-#: packages/community_store/blocks/community_product_list/form.php:43
+#: packages/community_store/blocks/community_product_list/form.php:44
 msgid "Price Descending"
 msgstr "Preis absteigend"
 
-#: packages/community_store/blocks/community_product_list/form.php:44
+#: packages/community_store/blocks/community_product_list/form.php:45
 msgid "Best Sellers"
 msgstr "Beste Verkäufe"
 
-#: packages/community_store/blocks/community_product_list/form.php:45
+#: packages/community_store/blocks/community_product_list/form.php:46
 msgid "Related Products Order"
 msgstr "Reihenfolge der verwandten Produkte"
 
-#: packages/community_store/blocks/community_product_list/form.php:46
+#: packages/community_store/blocks/community_product_list/form.php:47
 msgid "Category Sort Order"
 msgstr "Sortierungsreihenfolge der Kategorien"
 
-#: packages/community_store/blocks/community_product_list/form.php:47
+#: packages/community_store/blocks/community_product_list/form.php:48
 msgid "Random order, changing each display"
 msgstr "Zufällige Reihenfolge, die bei jedem Aufruf geändert wird."
 
-#: packages/community_store/blocks/community_product_list/form.php:48
+#: packages/community_store/blocks/community_product_list/form.php:49
 msgid "Random order, changing each day"
 msgstr "Zufällige Reihenfolge, die jeden Tag geändert wird."
 
-#: packages/community_store/blocks/community_product_list/form.php:55
+#: packages/community_store/blocks/community_product_list/form.php:56
 msgid "Display Sort Option"
 msgstr "Sortierungsoptionen anzeigen"
 
-#: packages/community_store/blocks/community_product_list/form.php:62
+#: packages/community_store/blocks/community_product_list/form.php:63
 msgid "Filtering"
 msgstr "Filterung"
 
-#: packages/community_store/blocks/community_product_list/form.php:73
+#: packages/community_store/blocks/community_product_list/form.php:74
 msgid "Filter by Product Groups"
 msgstr "Nach Produktgruppen filtern"
 
-#: packages/community_store/blocks/community_product_list/form.php:77
+#: packages/community_store/blocks/community_product_list/form.php:78
 #: packages/community_store/single_pages/dashboard/store/products.php:327
 msgid "Select Product Groups"
 msgstr "Auswahl Produkt Gruppe(n)"
 
-#: packages/community_store/blocks/community_product_list/form.php:88
+#: packages/community_store/blocks/community_product_list/form.php:89
 msgid "Matching"
 msgstr "Übereinstimmend"
 
-#: packages/community_store/blocks/community_product_list/form.php:89
+#: packages/community_store/blocks/community_product_list/form.php:90
 msgid "All groups selected"
 msgstr "Alle Gruppen markiert"
 
-#: packages/community_store/blocks/community_product_list/form.php:89
+#: packages/community_store/blocks/community_product_list/form.php:90
 msgid "Any group selected"
 msgstr "Jede Gruppe ausgewählt"
 
-#: packages/community_store/blocks/community_product_list/form.php:97
+#: packages/community_store/blocks/community_product_list/form.php:98
 msgid "Include Featured Only"
 msgstr "Nur Hervorgehobene einbeziehen"
 
-#: packages/community_store/blocks/community_product_list/form.php:103
+#: packages/community_store/blocks/community_product_list/form.php:104
 msgid "Include On Sale Only"
 msgstr "Nur zum Abverkauf bestimmte einbeziehen"
 
-#: packages/community_store/blocks/community_product_list/form.php:109
+#: packages/community_store/blocks/community_product_list/form.php:110
 msgid "Include Out of Stock Products"
 msgstr "Ausverkaufte Produkte mit einbeziehen"
 
-#: packages/community_store/blocks/community_product_list/form.php:118
+#: packages/community_store/blocks/community_product_list/form.php:119
 msgid "Pagination and Display Options"
 msgstr "Paginierung und Anzeigeoptionen"
 
-#: packages/community_store/blocks/community_product_list/form.php:121
+#: packages/community_store/blocks/community_product_list/form.php:122
 msgid "Number of Products to Display"
 msgstr "Anzahl anzuzeigender Produkte"
 
-#: packages/community_store/blocks/community_product_list/form.php:122
+#: packages/community_store/blocks/community_product_list/form.php:123
 msgid "leave blank or 0 to list all matching products"
 msgstr "Leer lassen oder 0 um alle passende Produkte anzuzeigen"
 
-#: packages/community_store/blocks/community_product_list/form.php:128
+#: packages/community_store/blocks/community_product_list/form.php:129
 msgid ""
 "Display pagination interface if more products are available than are "
 "displayed."
 msgstr ""
 "Paginierung anzeigen wenn mehr Produkte verfügbar sind als angezeigt werden."
 
-#: packages/community_store/blocks/community_product_list/form.php:133
+#: packages/community_store/blocks/community_product_list/form.php:134
 msgid "Products per Row"
 msgstr "Produkte pro Reihe"
 
-#: packages/community_store/blocks/community_product_list/form.php:139
+#: packages/community_store/blocks/community_product_list/form.php:140
 #: packages/community_store/single_pages/dashboard/store/settings.php:171
 msgid "Display Name"
 msgstr "Anzeigename"
 
-#: packages/community_store/blocks/community_product_list/form.php:145
+#: packages/community_store/blocks/community_product_list/form.php:146
 msgid "Display Price"
 msgstr "Preis anzeigen"
 
-#: packages/community_store/blocks/community_product_list/form.php:151
+#: packages/community_store/blocks/community_product_list/form.php:152
 msgid "Display Add To Cart Button"
 msgstr "Zum Warenkorb hinzufügen-Button anzeigen"
 
-#: packages/community_store/blocks/community_product_list/form.php:155
+#: packages/community_store/blocks/community_product_list/form.php:156
 msgid "Add To Cart Button Text"
 msgstr "Zum Warenkorb hinzufügen-Text"
 
-#: packages/community_store/blocks/community_product_list/form.php:156
+#: packages/community_store/blocks/community_product_list/form.php:157
 msgid "Defaults to: Add To Cart"
 msgstr "Standart: Zum Warenkorb hinzufügen"
 
-#: packages/community_store/blocks/community_product_list/form.php:161
+#: packages/community_store/blocks/community_product_list/form.php:162
 msgid "Display Quantity Selector"
 msgstr "Mengenauswahl anzeigen"
 
-#: packages/community_store/blocks/community_product_list/form.php:167
+#: packages/community_store/blocks/community_product_list/form.php:168
 msgid "Display Product Description"
 msgstr "Produktbeschreibung anzeigen"
 
-#: packages/community_store/blocks/community_product_list/form.php:176
+#: packages/community_store/blocks/community_product_list/form.php:177
 msgid "Display Quickview Link (Modal Window)"
 msgstr "Schnellansicht anzeigen (Modal)"
 
-#: packages/community_store/blocks/community_product_list/form.php:182
+#: packages/community_store/blocks/community_product_list/form.php:183
 msgid "Display Link To Product Page"
 msgstr "Link zur Artikelseite anzeigen"
 
-#: packages/community_store/blocks/community_product_list/form.php:186
+#: packages/community_store/blocks/community_product_list/form.php:187
 msgid "Link To Product Page Text"
 msgstr "Link zur Artikelseite-Text"
 
-#: packages/community_store/blocks/community_product_list/form.php:187
+#: packages/community_store/blocks/community_product_list/form.php:188
 msgid "Defaults to: More Details"
 msgstr "Standardeinstellung: Mehr Details"
 
@@ -439,11 +453,11 @@ msgstr "Preis, niedrigster zuerst"
 msgid "price, highest to lowest"
 msgstr "Preis, höchster zuerst"
 
-#: packages/community_store/blocks/community_product_list/view.php:193
+#: packages/community_store/blocks/community_product_list/view.php:163
 msgid "More Details"
 msgstr "Mehr Details"
 
-#: packages/community_store/blocks/community_product_list/view.php:362
+#: packages/community_store/blocks/community_product_list/view.php:340
 msgid "Empty Product List"
 msgstr "Leere Produktliste"
 
@@ -521,8 +535,8 @@ msgid "Welcome back, "
 msgstr "Willkommen zurück,"
 
 #: packages/community_store/blocks/community_utility_links/view.php:51
-#: packages/community_store/elements/cart_modal.php:202
-#: packages/community_store/single_pages/cart.php:221
+#: packages/community_store/elements/cart_modal.php:206
+#: packages/community_store/single_pages/cart.php:224
 #: packages/community_store/single_pages/checkout.php:9
 msgid "Checkout"
 msgstr "Kasse"
@@ -605,7 +619,7 @@ msgstr "Voname"
 #: packages/community_store/elements/order_slip.php:62
 #: packages/community_store/mail/new_order_notification.php:35
 #: packages/community_store/single_pages/dashboard/store/orders.php:59
-#: packages/community_store/single_pages/dashboard/store/orders.php:438
+#: packages/community_store/single_pages/dashboard/store/orders.php:444
 #: packages/community_store/single_pages/checkout.php:72
 #: packages/community_store/single_pages/checkout.php:73
 #: packages/community_store/single_pages/checkout.php:160
@@ -622,16 +636,16 @@ msgid "Phone"
 msgstr "Telefon"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:63
-#: packages/community_store/mail/new_order_notification.php:77
-#: packages/community_store/mail/order_receipt.php:83
+#: packages/community_store/mail/new_order_notification.php:82
+#: packages/community_store/mail/order_receipt.php:88
 #: packages/community_store/single_pages/dashboard/store/products.php:63
 #: packages/community_store/single_pages/dashboard/store/products.php:494
-#: packages/community_store/single_pages/dashboard/store/products.php:858
+#: packages/community_store/single_pages/dashboard/store/products.php:909
 msgid "Options"
 msgstr "Optionen"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:64
-#: packages/community_store/single_pages/dashboard/store/orders.php:515
+#: packages/community_store/single_pages/dashboard/store/orders.php:521
 msgid "Order Date"
 msgstr "Bestelldatum"
 
@@ -660,6 +674,7 @@ msgstr "Liefermethode hinzufügen"
 #: packages/community_store/single_pages/dashboard/store/orders/attributes.php:38
 #: packages/community_store/single_pages/dashboard/store/products/attributes.php:36
 #: packages/community_store/single_pages/dashboard/store/discounts.php:270
+#: packages/community_store/single_pages/dashboard/store/products.php:498
 msgid "Add"
 msgstr "Hinzufügen"
 
@@ -671,10 +686,10 @@ msgstr "Liefermethode bearbeiten"
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:30
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:113
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:119
-#: packages/community_store/elements/cart_modal.php:158
+#: packages/community_store/elements/cart_modal.php:162
 #: packages/community_store/single_pages/dashboard/store/discounts.php:270
-#: packages/community_store/single_pages/dashboard/store/orders.php:316
-#: packages/community_store/single_pages/cart.php:150
+#: packages/community_store/single_pages/dashboard/store/orders.php:322
+#: packages/community_store/single_pages/cart.php:153
 msgid "Update"
 msgstr "Aktualisieren"
 
@@ -801,7 +816,7 @@ msgid "Product Removed"
 msgstr "Produkt wurde gelöscht"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:101
-#: packages/community_store/single_pages/dashboard/store/products.php:1258
+#: packages/community_store/single_pages/dashboard/store/products.php:1315
 msgid "Add Product"
 msgstr "Produkt hinzufügen"
 
@@ -809,53 +824,49 @@ msgstr "Produkt hinzufügen"
 msgid "Product Duplicated"
 msgstr "Produkt wurde dupliziert"
 
-#: packages/community_store/controllers/single_page/dashboard/store/products.php:212
+#: packages/community_store/controllers/single_page/dashboard/store/products.php:213
 msgid "Edit Product"
 msgstr "Produkt bearbeiten"
 
-#: packages/community_store/controllers/single_page/dashboard/store/products.php:234
+#: packages/community_store/controllers/single_page/dashboard/store/products.php:235
 #: packages/community_store/single_pages/dashboard/store/products.php:38
-#: packages/community_store/single_pages/dashboard/store/products.php:1422
+#: packages/community_store/single_pages/dashboard/store/products.php:1479
 msgid "Duplicate Product"
 msgstr "Produkt kopieren"
 
-#: packages/community_store/controllers/single_page/dashboard/store/products.php:335
+#: packages/community_store/controllers/single_page/dashboard/store/products.php:351
 msgid "Please enter a Product Name"
 msgstr "Bitte Produkt Namen eingeben"
 
-#: packages/community_store/controllers/single_page/dashboard/store/products.php:338
+#: packages/community_store/controllers/single_page/dashboard/store/products.php:354
 msgid "The Product Name can not be greater than 255 Characters"
 msgstr "Der Produkt Name darf nicht länger als 255 Zeichen sein"
 
-#: packages/community_store/controllers/single_page/dashboard/store/products.php:341
-msgid "The Price must be set, and numeric"
-msgstr "Der Preis muss eine Zahl sein und angegeben werden"
-
-#: packages/community_store/controllers/single_page/dashboard/store/products.php:344
+#: packages/community_store/controllers/single_page/dashboard/store/products.php:357
 msgid "The Quantity must be set, and numeric"
 msgstr "Die Menge muss eine Zahl sein und angegeben werden"
 
-#: packages/community_store/controllers/single_page/dashboard/store/products.php:347
+#: packages/community_store/controllers/single_page/dashboard/store/products.php:360
 msgid "The Product Width must be a number"
 msgstr "Die Produktbreite muss eine Zahl sein"
 
-#: packages/community_store/controllers/single_page/dashboard/store/products.php:350
+#: packages/community_store/controllers/single_page/dashboard/store/products.php:363
 msgid "The Product Height must be a number"
 msgstr "Die Produkthöhe muss eine Zahl sein"
 
-#: packages/community_store/controllers/single_page/dashboard/store/products.php:353
+#: packages/community_store/controllers/single_page/dashboard/store/products.php:366
 msgid "The Product Length must be a number"
 msgstr "Die Produktlänge muss eine Zahl sein"
 
-#: packages/community_store/controllers/single_page/dashboard/store/products.php:356
+#: packages/community_store/controllers/single_page/dashboard/store/products.php:369
 msgid "The Product Weight must be a number"
 msgstr "Das Produktgewicht muss eine Zahl sein"
 
-#: packages/community_store/controllers/single_page/dashboard/store/products.php:396
+#: packages/community_store/controllers/single_page/dashboard/store/products.php:409
 msgid "Please enter a Group Name"
 msgstr "Bitte Name der Gruppe erfassen"
 
-#: packages/community_store/controllers/single_page/dashboard/store/products.php:399
+#: packages/community_store/controllers/single_page/dashboard/store/products.php:412
 msgid "A Group Name can not be more than 100 characters"
 msgstr "Ein Gruppen Name darf nicht länger als 100 Zeichen sein"
 
@@ -910,7 +921,7 @@ msgid "Available for all Groups"
 msgstr "Für alle Gruppen verfügbar"
 
 #: packages/community_store/elements/checkout/shipping_methods.php:33
-#: packages/community_store/single_pages/cart.php:194
+#: packages/community_store/single_pages/cart.php:197
 #: packages/community_store/single_pages/checkout.php:294
 #: packages/community_store/single_pages/checkout.php:476
 msgid "No Charge"
@@ -937,7 +948,7 @@ msgid "Payment Instructions"
 msgstr "Zahlungsanweisungen"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:9
-#: packages/community_store/single_pages/dashboard/store/products.php:925
+#: packages/community_store/single_pages/dashboard/store/products.php:979
 msgid "Base Price"
 msgstr "Basispreis"
 
@@ -1002,13 +1013,13 @@ msgstr "Maximalgewicht Menge für diesen Satz "
 
 #: packages/community_store/elements/cart_list.php:17
 #: packages/community_store/elements/cart_modal.php:46
-#: packages/community_store/elements/order_slip.php:131
-#: packages/community_store/mail/new_order_notification.php:79
-#: packages/community_store/mail/order_receipt.php:85
-#: packages/community_store/single_pages/dashboard/store/orders.php:115
+#: packages/community_store/elements/order_slip.php:139
+#: packages/community_store/mail/new_order_notification.php:84
+#: packages/community_store/mail/order_receipt.php:90
+#: packages/community_store/single_pages/dashboard/store/orders.php:121
 #: packages/community_store/single_pages/dashboard/store/products.php:117
-#: packages/community_store/single_pages/dashboard/store/products.php:918
-#: packages/community_store/single_pages/dashboard/store/products.php:1293
+#: packages/community_store/single_pages/dashboard/store/products.php:972
+#: packages/community_store/single_pages/dashboard/store/products.php:1350
 #: packages/community_store/single_pages/cart.php:44
 msgid "Price"
 msgstr "Preis"
@@ -1050,22 +1061,22 @@ msgstr ""
 "Ein Fehler ist beim hinzufügen des Artikels zum Warenkorb aufgetreten. "
 "Eventuell fehlende notwendige Informationen."
 
-#: packages/community_store/elements/cart_modal.php:179
-#: packages/community_store/single_pages/cart.php:201
+#: packages/community_store/elements/cart_modal.php:183
+#: packages/community_store/single_pages/cart.php:204
 #: packages/community_store/single_pages/checkout.php:419
 msgid "Discount Applied"
 msgstr "Angewendeter Rabatt"
 
-#: packages/community_store/elements/cart_modal.php:179
-#: packages/community_store/single_pages/dashboard/store/orders.php:169
-#: packages/community_store/single_pages/cart.php:201
+#: packages/community_store/elements/cart_modal.php:183
+#: packages/community_store/single_pages/dashboard/store/orders.php:175
+#: packages/community_store/single_pages/cart.php:204
 #: packages/community_store/single_pages/checkout.php:419
 msgid "Discounts Applied"
 msgstr "Angewendete Rabatte"
 
-#: packages/community_store/elements/cart_modal.php:190
-#: packages/community_store/mail/new_order_notification.php:148
-#: packages/community_store/mail/order_receipt.php:184
+#: packages/community_store/elements/cart_modal.php:194
+#: packages/community_store/mail/new_order_notification.php:153
+#: packages/community_store/mail/order_receipt.php:189
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:33
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:49
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:28
@@ -1075,27 +1086,27 @@ msgstr "Angewendete Rabatte"
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:131
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:205
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:228
-#: packages/community_store/single_pages/dashboard/store/orders.php:516
+#: packages/community_store/single_pages/dashboard/store/orders.php:522
 #: packages/community_store/single_pages/dashboard/store.php:31
 #: packages/community_store/single_pages/dashboard/store.php:57
 #: packages/community_store/single_pages/dashboard/store.php:111
 #: packages/community_store/single_pages/dashboard/store.php:113
 #: packages/community_store/single_pages/dashboard/store.php:150
-#: packages/community_store/single_pages/cart.php:215
+#: packages/community_store/single_pages/cart.php:218
 msgid "Total"
 msgstr "Gesamtsumme"
 
-#: packages/community_store/elements/cart_modal.php:194
-#: packages/community_store/single_pages/cart.php:224
+#: packages/community_store/elements/cart_modal.php:198
+#: packages/community_store/single_pages/cart.php:227
 msgid "Your cart is empty"
 msgstr "Warenkorb ist leer"
 
-#: packages/community_store/elements/cart_modal.php:199
+#: packages/community_store/elements/cart_modal.php:203
 msgid "Continue Shopping"
 msgstr "Weiter einkaufen"
 
-#: packages/community_store/elements/cart_modal.php:201
-#: packages/community_store/single_pages/cart.php:148
+#: packages/community_store/elements/cart_modal.php:205
+#: packages/community_store/single_pages/cart.php:151
 msgid "Clear Cart"
 msgstr "Warenkorb leeren"
 
@@ -1107,44 +1118,44 @@ msgid "Order placed"
 msgstr "Bestellung eingegangen"
 
 #: packages/community_store/elements/order_slip.php:36
-#: packages/community_store/mail/order_receipt.php:199
+#: packages/community_store/mail/order_receipt.php:204
 #: packages/community_store/single_pages/dashboard/store/orders.php:31
-#: packages/community_store/single_pages/dashboard/store/orders.php:539
+#: packages/community_store/single_pages/dashboard/store/orders.php:545
 msgid "Cancelled"
 msgstr "Storniert"
 
 #: packages/community_store/elements/order_slip.php:40
-#: packages/community_store/mail/order_receipt.php:202
+#: packages/community_store/mail/order_receipt.php:207
 #: packages/community_store/single_pages/dashboard/store/orders.php:35
-#: packages/community_store/single_pages/dashboard/store/orders.php:375
-#: packages/community_store/single_pages/dashboard/store/orders.php:563
+#: packages/community_store/single_pages/dashboard/store/orders.php:381
+#: packages/community_store/single_pages/dashboard/store/orders.php:569
 msgid "Refunded"
 msgstr "Zurückerstattet"
 
 #: packages/community_store/elements/order_slip.php:42
-#: packages/community_store/mail/new_order_notification.php:157
-#: packages/community_store/mail/order_receipt.php:204
+#: packages/community_store/mail/new_order_notification.php:162
+#: packages/community_store/mail/order_receipt.php:209
 #: packages/community_store/single_pages/dashboard/store/orders.php:37
-#: packages/community_store/single_pages/dashboard/store/orders.php:348
-#: packages/community_store/single_pages/dashboard/store/orders.php:565
+#: packages/community_store/single_pages/dashboard/store/orders.php:354
+#: packages/community_store/single_pages/dashboard/store/orders.php:571
 msgid "Paid"
 msgstr "Bezahlt"
 
 #: packages/community_store/elements/order_slip.php:44
-#: packages/community_store/mail/new_order_notification.php:159
-#: packages/community_store/mail/order_receipt.php:206
+#: packages/community_store/mail/new_order_notification.php:164
+#: packages/community_store/mail/order_receipt.php:211
 #: packages/community_store/single_pages/dashboard/store/orders.php:39
-#: packages/community_store/single_pages/dashboard/store/orders.php:331
-#: packages/community_store/single_pages/dashboard/store/orders.php:567
+#: packages/community_store/single_pages/dashboard/store/orders.php:337
+#: packages/community_store/single_pages/dashboard/store/orders.php:573
 msgid "Unpaid"
 msgstr "Unbezahlt"
 
 #: packages/community_store/elements/order_slip.php:46
-#: packages/community_store/mail/new_order_notification.php:169
-#: packages/community_store/mail/order_receipt.php:189
+#: packages/community_store/mail/new_order_notification.php:174
+#: packages/community_store/mail/order_receipt.php:194
 #: packages/community_store/single_pages/dashboard/store/orders.php:41
-#: packages/community_store/single_pages/dashboard/store/orders.php:328
-#: packages/community_store/single_pages/dashboard/store/orders.php:569
+#: packages/community_store/single_pages/dashboard/store/orders.php:334
+#: packages/community_store/single_pages/dashboard/store/orders.php:575
 msgid "Free Order"
 msgstr "Kostenlose Bestellung"
 
@@ -1158,7 +1169,7 @@ msgstr "Kundendetails"
 #: packages/community_store/single_pages/dashboard/store/discounts.php:28
 #: packages/community_store/single_pages/dashboard/store/discounts.php:158
 #: packages/community_store/single_pages/dashboard/store/orders.php:55
-#: packages/community_store/single_pages/dashboard/store/orders.php:174
+#: packages/community_store/single_pages/dashboard/store/orders.php:180
 #: packages/community_store/single_pages/checkout.php:156
 #: packages/community_store/single_pages/checkout.php:252
 msgid "Name"
@@ -1166,65 +1177,76 @@ msgstr "Name"
 
 #: packages/community_store/elements/order_slip.php:77
 #: packages/community_store/single_pages/dashboard/store/orders.php:74
-#: packages/community_store/single_pages/dashboard/store/orders.php:286
+#: packages/community_store/single_pages/dashboard/store/orders.php:292
 msgid "User"
 msgstr "Benutzer"
 
-#: packages/community_store/elements/order_slip.php:85
-#: packages/community_store/single_pages/dashboard/store/settings/tax.php:55
+#: packages/community_store/elements/order_slip.php:86
+#: packages/community_store/mail/new_order_notification.php:40
+#: packages/community_store/mail/order_receipt.php:45
 #: packages/community_store/single_pages/dashboard/store/orders.php:80
+#: packages/community_store/single_pages/checkout.php:308
+#: packages/community_store/single_pages/checkout.php:313
+#: packages/community_store/single_pages/checkout.php:325
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:218
+msgid "VAT Number"
+msgstr "USt.-ID"
+
+#: packages/community_store/elements/order_slip.php:93
+#: packages/community_store/single_pages/dashboard/store/settings/tax.php:55
+#: packages/community_store/single_pages/dashboard/store/orders.php:86
 #: packages/community_store/single_pages/checkout.php:59
 #: packages/community_store/single_pages/checkout.php:152
 msgid "Billing Address"
 msgstr "Rechnungsanschrift"
 
-#: packages/community_store/elements/order_slip.php:100
+#: packages/community_store/elements/order_slip.php:108
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:55
-#: packages/community_store/single_pages/dashboard/store/orders.php:93
+#: packages/community_store/single_pages/dashboard/store/orders.php:99
 #: packages/community_store/single_pages/checkout.php:197
 #: packages/community_store/single_pages/checkout.php:248
 msgid "Shipping Address"
 msgstr "Lieferadresse"
 
-#: packages/community_store/elements/order_slip.php:111
-#: packages/community_store/mail/new_order_notification.php:59
-#: packages/community_store/mail/order_receipt.php:64
-#: packages/community_store/single_pages/dashboard/store/orders.php:261
+#: packages/community_store/elements/order_slip.php:119
+#: packages/community_store/mail/new_order_notification.php:64
+#: packages/community_store/mail/order_receipt.php:69
+#: packages/community_store/single_pages/dashboard/store/orders.php:267
 #: packages/community_store/single_pages/checkout.php:128
 #: packages/community_store/single_pages/checkout.php:179
 msgid "Other Choices"
 msgstr "Andere Auswahlmöglichkeiten"
 
-#: packages/community_store/elements/order_slip.php:124
-#: packages/community_store/single_pages/dashboard/store/orders.php:109
+#: packages/community_store/elements/order_slip.php:132
+#: packages/community_store/single_pages/dashboard/store/orders.php:115
 msgid "Order Items"
 msgstr "Bestellungspositionen"
 
-#: packages/community_store/elements/order_slip.php:129
-#: packages/community_store/mail/new_order_notification.php:76
-#: packages/community_store/mail/order_receipt.php:82
-#: packages/community_store/single_pages/dashboard/store/orders.php:113
+#: packages/community_store/elements/order_slip.php:137
+#: packages/community_store/mail/new_order_notification.php:81
+#: packages/community_store/mail/order_receipt.php:87
+#: packages/community_store/single_pages/dashboard/store/orders.php:119
 #: packages/community_store/single_pages/dashboard/store/products.php:75
-#: packages/community_store/single_pages/dashboard/store/products.php:1290
+#: packages/community_store/single_pages/dashboard/store/products.php:1347
 msgid "Product Name"
 msgstr "Produktname"
 
-#: packages/community_store/elements/order_slip.php:130
-#: packages/community_store/single_pages/dashboard/store/orders.php:114
+#: packages/community_store/elements/order_slip.php:138
+#: packages/community_store/single_pages/dashboard/store/orders.php:120
 msgid "Product Options"
 msgstr "Produktoptionen"
 
-#: packages/community_store/elements/order_slip.php:133
-#: packages/community_store/elements/order_slip.php:173
-#: packages/community_store/mail/new_order_notification.php:80
-#: packages/community_store/mail/order_receipt.php:86
-#: packages/community_store/single_pages/dashboard/store/orders.php:117
+#: packages/community_store/elements/order_slip.php:141
+#: packages/community_store/elements/order_slip.php:181
+#: packages/community_store/mail/new_order_notification.php:85
+#: packages/community_store/mail/order_receipt.php:91
+#: packages/community_store/single_pages/dashboard/store/orders.php:123
 msgid "Subtotal"
 msgstr "Zwischensumme"
 
-#: packages/community_store/elements/order_slip.php:178
-#: packages/community_store/mail/new_order_notification.php:120
-#: packages/community_store/mail/order_receipt.php:156
+#: packages/community_store/elements/order_slip.php:186
+#: packages/community_store/mail/new_order_notification.php:125
+#: packages/community_store/mail/order_receipt.php:161
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:39
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:65
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:91
@@ -1233,56 +1255,56 @@ msgstr "Zwischensumme"
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:203
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:226
 #: packages/community_store/single_pages/dashboard/store/discounts.php:205
-#: packages/community_store/single_pages/dashboard/store/orders.php:200
+#: packages/community_store/single_pages/dashboard/store/orders.php:206
 #: packages/community_store/single_pages/dashboard/store/products.php:61
 #: packages/community_store/single_pages/dashboard/store/settings.php:16
 #: packages/community_store/single_pages/dashboard/store.php:42
 #: packages/community_store/single_pages/dashboard/store.php:68
 #: packages/community_store/single_pages/dashboard/store.php:148
-#: packages/community_store/single_pages/cart.php:192
+#: packages/community_store/single_pages/cart.php:195
 #: packages/community_store/single_pages/checkout.php:268
 #: packages/community_store/single_pages/checkout.php:289
 #: packages/community_store/single_pages/checkout.php:475
 msgid "Shipping"
 msgstr "Versand"
 
-#: packages/community_store/elements/order_slip.php:182
-#: packages/community_store/mail/new_order_notification.php:132
-#: packages/community_store/mail/order_receipt.php:168
+#: packages/community_store/elements/order_slip.php:190
+#: packages/community_store/mail/new_order_notification.php:137
+#: packages/community_store/mail/order_receipt.php:173
 msgid "Discounts"
 msgstr "Rabatte"
 
-#: packages/community_store/elements/order_slip.php:182
-#: packages/community_store/mail/new_order_notification.php:132
-#: packages/community_store/mail/order_receipt.php:168
+#: packages/community_store/elements/order_slip.php:190
+#: packages/community_store/mail/new_order_notification.php:137
+#: packages/community_store/mail/order_receipt.php:173
 #: packages/community_store/single_pages/dashboard/store/discounts.php:30
 msgid "Discount"
 msgstr "Rabatt"
 
-#: packages/community_store/elements/order_slip.php:193
-#: packages/community_store/single_pages/dashboard/store/orders.php:216
+#: packages/community_store/elements/order_slip.php:201
+#: packages/community_store/single_pages/dashboard/store/orders.php:222
 #: packages/community_store/single_pages/checkout.php:496
 msgid "Grand Total"
 msgstr "Gesamtsumme"
 
-#: packages/community_store/elements/order_slip.php:197
-#: packages/community_store/mail/new_order_notification.php:151
-#: packages/community_store/mail/order_receipt.php:187
-#: packages/community_store/single_pages/dashboard/store/orders.php:219
+#: packages/community_store/elements/order_slip.php:205
+#: packages/community_store/mail/new_order_notification.php:156
+#: packages/community_store/mail/order_receipt.php:192
+#: packages/community_store/single_pages/dashboard/store/orders.php:225
 msgid "Payment Method"
 msgstr "Zahlungsarten"
 
-#: packages/community_store/elements/order_slip.php:199
-#: packages/community_store/mail/new_order_notification.php:121
-#: packages/community_store/mail/order_receipt.php:157
-#: packages/community_store/single_pages/dashboard/store/orders.php:228
+#: packages/community_store/elements/order_slip.php:207
+#: packages/community_store/mail/new_order_notification.php:126
+#: packages/community_store/mail/order_receipt.php:162
+#: packages/community_store/single_pages/dashboard/store/orders.php:234
 msgid "Shipping Method"
 msgstr "Versandart"
 
-#: packages/community_store/elements/order_slip.php:206
-#: packages/community_store/mail/new_order_notification.php:126
-#: packages/community_store/mail/order_receipt.php:162
-#: packages/community_store/single_pages/dashboard/store/orders.php:253
+#: packages/community_store/elements/order_slip.php:214
+#: packages/community_store/mail/new_order_notification.php:131
+#: packages/community_store/mail/order_receipt.php:167
+#: packages/community_store/single_pages/dashboard/store/orders.php:259
 #: packages/community_store/single_pages/checkout.php:275
 msgid "Delivery Instructions"
 msgstr "Versandangaben"
@@ -1305,48 +1327,48 @@ msgstr "Bestellung"
 msgid "Billing Information"
 msgstr "Rechnungsanschrift"
 
-#: packages/community_store/mail/new_order_notification.php:41
-#: packages/community_store/mail/order_receipt.php:46
+#: packages/community_store/mail/new_order_notification.php:46
+#: packages/community_store/mail/order_receipt.php:51
 msgid "Shipping Information"
 msgstr "Lieferanschrift"
 
-#: packages/community_store/mail/new_order_notification.php:72
-#: packages/community_store/mail/order_receipt.php:78
+#: packages/community_store/mail/new_order_notification.php:77
+#: packages/community_store/mail/order_receipt.php:83
 msgid "Order Details"
 msgstr "Einzelheiten der Bestellung "
 
-#: packages/community_store/mail/new_order_notification.php:78
-#: packages/community_store/mail/order_receipt.php:84
+#: packages/community_store/mail/new_order_notification.php:83
+#: packages/community_store/mail/order_receipt.php:89
 msgid "Qty"
 msgstr "Menge"
 
-#: packages/community_store/mail/new_order_notification.php:101
-#: packages/community_store/single_pages/dashboard/store/orders.php:141
-#: packages/community_store/single_pages/dashboard/store/products.php:1352
+#: packages/community_store/mail/new_order_notification.php:106
+#: packages/community_store/single_pages/dashboard/store/orders.php:147
+#: packages/community_store/single_pages/dashboard/store/products.php:1409
 msgid "None"
 msgstr "Keine"
 
-#: packages/community_store/mail/new_order_notification.php:162
-#: packages/community_store/mail/order_receipt.php:212
-#: packages/community_store/single_pages/dashboard/store/orders.php:325
+#: packages/community_store/mail/new_order_notification.php:167
+#: packages/community_store/mail/order_receipt.php:217
+#: packages/community_store/single_pages/dashboard/store/orders.php:331
 msgid "Payment Status"
 msgstr "Bezahlungsstatus"
 
-#: packages/community_store/mail/new_order_notification.php:166
-#: packages/community_store/single_pages/dashboard/store/orders.php:222
-#: packages/community_store/single_pages/dashboard/store/orders.php:410
+#: packages/community_store/mail/new_order_notification.php:171
+#: packages/community_store/single_pages/dashboard/store/orders.php:228
+#: packages/community_store/single_pages/dashboard/store/orders.php:416
 msgid "Transaction Reference"
 msgstr "Transaktionsreferenz"
 
-#: packages/community_store/mail/new_order_notification.php:173
+#: packages/community_store/mail/new_order_notification.php:178
 msgid "View this order within the Dashboard"
 msgstr "Sehen Sie die Bestellung im Dashboard an"
 
-#: packages/community_store/mail/new_order_notification.php:191
+#: packages/community_store/mail/new_order_notification.php:196
 msgid "Order #:"
 msgstr "Bestellung #:"
 
-#: packages/community_store/mail/new_order_notification.php:192
+#: packages/community_store/mail/new_order_notification.php:197
 msgid "A new order has been placed on your website"
 msgstr "Eine neue Bestellung wurde auf Ihrer Webseite getätigt"
 
@@ -1367,7 +1389,7 @@ msgstr "Bestellbeleg #%s"
 msgid "Your Order"
 msgstr "Ihre Bestellung"
 
-#: packages/community_store/mail/order_receipt.php:142
+#: packages/community_store/mail/order_receipt.php:147
 #: packages/community_store/single_pages/checkout/complete.php:20
 msgid "Your Downloads"
 msgstr "Ihre Downloads"
@@ -1406,7 +1428,7 @@ msgstr "Produkte innerhalb der Kategorie"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:31
 #: packages/community_store/single_pages/dashboard/store/products.php:95
-#: packages/community_store/single_pages/dashboard/store/products.php:1318
+#: packages/community_store/single_pages/dashboard/store/products.php:1375
 msgid "Inactive"
 msgstr "Inaktiv"
 
@@ -1468,7 +1490,7 @@ msgstr "Heutige Bestellungen"
 #: packages/community_store/single_pages/dashboard/store.php:65
 #: packages/community_store/single_pages/dashboard/store.php:149
 #: packages/community_store/single_pages/checkout.php:487
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:107
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:108
 msgid "Tax"
 msgstr "Steuer"
 
@@ -1498,7 +1520,7 @@ msgid "Export to CSV"
 msgstr "Export als CSV Liste"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:224
-#: packages/community_store/single_pages/dashboard/store/orders.php:285
+#: packages/community_store/single_pages/dashboard/store/orders.php:291
 #: packages/community_store/single_pages/dashboard/store.php:146
 msgid "Date"
 msgstr "Datum"
@@ -1527,7 +1549,8 @@ msgstr "Aktiviert"
 #: packages/community_store/single_pages/dashboard/store/products.php:199
 #: packages/community_store/single_pages/dashboard/store/products.php:253
 #: packages/community_store/single_pages/dashboard/store/products.php:386
-#: packages/community_store/single_pages/dashboard/store/products.php:537
+#: packages/community_store/single_pages/dashboard/store/products.php:540
+#: packages/community_store/single_pages/dashboard/store/products.php:550
 #: packages/community_store/single_pages/dashboard/store/settings.php:113
 msgid "Yes"
 msgstr "Ja"
@@ -1540,7 +1563,8 @@ msgstr "Ja"
 #: packages/community_store/single_pages/dashboard/store/products.php:101
 #: packages/community_store/single_pages/dashboard/store/products.php:199
 #: packages/community_store/single_pages/dashboard/store/products.php:386
-#: packages/community_store/single_pages/dashboard/store/products.php:537
+#: packages/community_store/single_pages/dashboard/store/products.php:540
+#: packages/community_store/single_pages/dashboard/store/products.php:550
 #: packages/community_store/single_pages/dashboard/store/settings.php:113
 msgid "No"
 msgstr "Nein"
@@ -1566,7 +1590,7 @@ msgstr "%s Methoden"
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:133
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:169
 #: packages/community_store/single_pages/dashboard/store/discounts.php:34
-#: packages/community_store/single_pages/dashboard/store/products.php:1296
+#: packages/community_store/single_pages/dashboard/store/products.php:1353
 msgid "Actions"
 msgstr "Aktionen"
 
@@ -1643,7 +1667,7 @@ msgstr "Bundesland"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:73
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:82
-#: packages/community_store/single_pages/dashboard/store/products.php:530
+#: packages/community_store/single_pages/dashboard/store/products.php:532
 #: packages/community_store/single_pages/dashboard/store/settings.php:124
 msgid "Optional"
 msgstr "Optional"
@@ -1661,19 +1685,17 @@ msgid "VAT Number Options"
 msgstr "Umsatzseuernummer Optionen"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:99
-msgid "Only apply tax if an EU VAT Number is not supplied or is invalid."
-msgstr "Steuer nur berechnen falls ein EU-USt.-ID fehlt oder ungültig ist."
+msgid "Do not apply tax if a valid VAT number is supplied"
+msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:101
 msgid ""
-"If the customer has entered a valid VAT Number then this tax will not be "
-"applied in checkout."
+"If the customer has entered a correctly formatted VAT Number then this tax "
+"will not be applied at checkout."
 msgstr ""
-"Falls der Kunde eine gültige EU-USt.-ID angegeben hat, wird diese Steuer "
-"nicht berechnet."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:113
-#: packages/community_store/single_pages/dashboard/store/settings/tax.php:236
+#: packages/community_store/single_pages/dashboard/store/settings/tax.php:240
 msgid "%s Tax Rate"
 msgstr "Steuersatz %s"
 
@@ -1715,6 +1737,10 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:208
 msgid "Select Tax Class Rates"
 msgstr "Steuerklassen-Sätze auswählen"
+
+#: packages/community_store/single_pages/dashboard/store/settings/tax.php:239
+msgid "Cancel / View Taxes"
+msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:29
 msgid "Display"
@@ -1819,7 +1845,7 @@ msgid "Items Sub-total"
 msgstr "Artikel Zwischensumme"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:209
-#: packages/community_store/single_pages/cart.php:172
+#: packages/community_store/single_pages/cart.php:175
 #: packages/community_store/single_pages/checkout.php:445
 msgid "Apply"
 msgstr "Übernehmen"
@@ -1901,7 +1927,7 @@ msgid "Codes can be repeatedly used"
 msgstr "Codes können mehrfach benutzt werden"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:361
-#: packages/community_store/single_pages/cart.php:169
+#: packages/community_store/single_pages/cart.php:172
 msgid "Code"
 msgstr "Code"
 
@@ -1944,133 +1970,133 @@ msgstr "Zurück zu den Rabatt Regeln"
 msgid "Print Order Slip"
 msgstr "Ausdruck Bestellschein"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:159
+#: packages/community_store/single_pages/dashboard/store/orders.php:165
 #: packages/community_store/single_pages/checkout.php:467
 msgid "Items Subtotal"
 msgstr "Artikel Zwischensumme"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:175
+#: packages/community_store/single_pages/dashboard/store/orders.php:181
 msgid "Displayed"
 msgstr "Angezeigt"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:176
+#: packages/community_store/single_pages/dashboard/store/orders.php:182
 msgid "Deducted From"
 msgstr "Abgezogen von"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:178
+#: packages/community_store/single_pages/dashboard/store/orders.php:184
 msgid "Triggered"
 msgstr "Ausgelöst"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:189
+#: packages/community_store/single_pages/dashboard/store/orders.php:195
 msgid "by code"
 msgstr "von Code"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:189
+#: packages/community_store/single_pages/dashboard/store/orders.php:195
 msgid "Automatically"
 msgstr "Automatisch"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:239
+#: packages/community_store/single_pages/dashboard/store/orders.php:245
 msgid "Carrier"
 msgstr "Versandservice"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:243
+#: packages/community_store/single_pages/dashboard/store/orders.php:249
 msgid "Tracking Code"
 msgstr "Lieferverfolgung"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:247
+#: packages/community_store/single_pages/dashboard/store/orders.php:253
 msgid "View shipment tracking"
 msgstr "Lieferverfolung anzeigen"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:280
-#: packages/community_store/single_pages/dashboard/store/orders.php:518
+#: packages/community_store/single_pages/dashboard/store/orders.php:286
+#: packages/community_store/single_pages/dashboard/store/orders.php:524
 msgid "Fulfilment"
 msgstr "Abwicklung"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:284
-#: packages/community_store/single_pages/dashboard/store/orders.php:338
+#: packages/community_store/single_pages/dashboard/store/orders.php:290
+#: packages/community_store/single_pages/dashboard/store/orders.php:344
 msgid "Status"
 msgstr "Status"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:308
+#: packages/community_store/single_pages/dashboard/store/orders.php:314
 msgid "Update Fulfilment Status"
 msgstr "Abwicklungsstatus anzeigen"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:339
+#: packages/community_store/single_pages/dashboard/store/orders.php:345
 msgid "Date / Reference"
 msgstr "Datum / Referenz"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:340
+#: packages/community_store/single_pages/dashboard/store/orders.php:346
 msgid "By"
 msgstr "Von"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:352
+#: packages/community_store/single_pages/dashboard/store/orders.php:358
 msgid "Ref"
 msgstr "Referenz"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:359
+#: packages/community_store/single_pages/dashboard/store/orders.php:365
 msgid "payment"
 msgstr "Bezahlung"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:365
+#: packages/community_store/single_pages/dashboard/store/orders.php:371
 msgid "Are you sure you wish to reverse this payment?"
 msgstr "Sind Sie sicher, dass Sie die Zahlung rückbuchen wollen?"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:365
-#: packages/community_store/single_pages/dashboard/store/orders.php:388
+#: packages/community_store/single_pages/dashboard/store/orders.php:371
+#: packages/community_store/single_pages/dashboard/store/orders.php:394
 msgid "reverse"
 msgstr "zurück"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:388
+#: packages/community_store/single_pages/dashboard/store/orders.php:394
 msgid "Are you sure you wish to reverse this refund?"
 msgstr "Sind Sie sicher, dass Sie diese Rückzahlung zurückbuchen wollen?"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:403
+#: packages/community_store/single_pages/dashboard/store/orders.php:409
 msgid "Update Payment Status"
 msgstr "Bezahlungsstatus aktualisieren"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:413
+#: packages/community_store/single_pages/dashboard/store/orders.php:419
 msgid "Mark Paid"
 msgstr "Als bezahlt markieren"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:418
+#: packages/community_store/single_pages/dashboard/store/orders.php:424
 msgid "Refund Reason"
 msgstr "Rückbuchungsgrund"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:421
+#: packages/community_store/single_pages/dashboard/store/orders.php:427
 msgid "Mark Refunded"
 msgstr "Als rückgebucht markieren"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:433
+#: packages/community_store/single_pages/dashboard/store/orders.php:439
 msgid "Resend Invoice Email"
 msgstr "Rechnungs-Email nochmals versenden"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:441
+#: packages/community_store/single_pages/dashboard/store/orders.php:447
 msgid "Resend Invoice"
 msgstr "Rechnung erneut senden"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:454
-#: packages/community_store/single_pages/dashboard/store/orders.php:456
+#: packages/community_store/single_pages/dashboard/store/orders.php:460
+#: packages/community_store/single_pages/dashboard/store/orders.php:462
 msgid "Cancel Order"
 msgstr "Auftrag stornieren"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:456
+#: packages/community_store/single_pages/dashboard/store/orders.php:462
 msgid "Are you sure you wish to cancel this order?"
 msgstr "Sind Sie sicher, dass Sie diese Bestellung abbrechen wollen?"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:461
+#: packages/community_store/single_pages/dashboard/store/orders.php:467
 msgid "Are you sure you wish to reverse this cancellation?"
 msgstr "Sind Sie sicher, dass Sie den Abbruch rückgängig machen wollen?"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:461
+#: packages/community_store/single_pages/dashboard/store/orders.php:467
 msgid "Reverse Cancellation"
 msgstr "Abbruch rückgängig machen"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:466
-#: packages/community_store/single_pages/dashboard/store/orders.php:467
+#: packages/community_store/single_pages/dashboard/store/orders.php:472
+#: packages/community_store/single_pages/dashboard/store/orders.php:473
 msgid "Delete Order"
 msgstr "Bestellung löschen"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:467
+#: packages/community_store/single_pages/dashboard/store/orders.php:473
 msgid ""
 "Are you sure you wish to completely delete this order? The order number will"
 " be reused."
@@ -2078,7 +2104,7 @@ msgstr ""
 "Sind Sie sicher, dass Sie diese Bestellung vollständig löschen wollen? Die "
 "Bestell-Nummer wird dann neu verwendet werden."
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:478
+#: packages/community_store/single_pages/dashboard/store/orders.php:484
 #: packages/community_store/single_pages/dashboard/store.php:17
 msgid ""
 "Cart and Ordering features are currently disabled. This setting can be "
@@ -2087,47 +2113,47 @@ msgstr ""
 "Warenkorb und Bestellfunktionensind zur Zeit deaktiviert. Diese Einstellung "
 "kann geändert werden über "
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:478
+#: packages/community_store/single_pages/dashboard/store/orders.php:484
 #: packages/community_store/single_pages/dashboard/store.php:17
 msgid "settings page."
 msgstr "Einstellungen Seite."
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:486
+#: packages/community_store/single_pages/dashboard/store/orders.php:492
 msgid "All Statuses"
 msgstr "Alle Status"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:500
+#: packages/community_store/single_pages/dashboard/store/orders.php:506
 msgid "Search Orders"
 msgstr "Bestellungen durchsuchen"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:503
-#: packages/community_store/single_pages/dashboard/store/products.php:1281
+#: packages/community_store/single_pages/dashboard/store/orders.php:509
+#: packages/community_store/single_pages/dashboard/store/products.php:1338
 msgid "Search"
 msgstr "Suchen"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:513
+#: packages/community_store/single_pages/dashboard/store/orders.php:519
 msgid "Order %s"
 msgstr "Bestellung %s"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:514
+#: packages/community_store/single_pages/dashboard/store/orders.php:520
 msgid "Customer Name"
 msgstr "Kundenname"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:517
+#: packages/community_store/single_pages/dashboard/store/orders.php:523
 #: packages/community_store/single_pages/checkout.php:341
 msgid "Payment"
 msgstr "Bezahlung"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:519
-#: packages/community_store/single_pages/dashboard/store/orders.php:574
+#: packages/community_store/single_pages/dashboard/store/orders.php:525
+#: packages/community_store/single_pages/dashboard/store/orders.php:580
 msgid "View"
 msgstr "Anzeigen"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:551
+#: packages/community_store/single_pages/dashboard/store/orders.php:557
 msgid "Not found"
 msgstr "Nicht gefunden"
 
-#: packages/community_store/single_pages/dashboard/store/orders.php:583
+#: packages/community_store/single_pages/dashboard/store/orders.php:589
 msgid "No Orders Found"
 msgstr "Keine Aufträge gefunden"
 
@@ -2148,7 +2174,7 @@ msgid "Images"
 msgstr "Bilder"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:64
-#: packages/community_store/single_pages/dashboard/store/products.php:1025
+#: packages/community_store/single_pages/dashboard/store/products.php:1082
 msgid "Related Products"
 msgstr "Ähnliche Produkte"
 
@@ -2170,8 +2196,8 @@ msgstr "Artikelnummer"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:94
 #: packages/community_store/single_pages/dashboard/store/products.php:95
-#: packages/community_store/single_pages/dashboard/store/products.php:1291
-#: packages/community_store/single_pages/dashboard/store/products.php:1316
+#: packages/community_store/single_pages/dashboard/store/products.php:1348
+#: packages/community_store/single_pages/dashboard/store/products.php:1373
 msgid "Active"
 msgstr "Aktiv"
 
@@ -2188,7 +2214,7 @@ msgid "No Price Set"
 msgstr "Kein Preis definiert"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:130
-#: packages/community_store/single_pages/dashboard/store/products.php:934
+#: packages/community_store/single_pages/dashboard/store/products.php:988
 msgid "Sale Price"
 msgstr "Veraufspreis"
 
@@ -2213,14 +2239,14 @@ msgid "Taxable"
 msgstr "steuerpflichtig"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:212
-#: packages/community_store/single_pages/dashboard/store/products.php:897
-#: packages/community_store/single_pages/dashboard/store/products.php:1292
+#: packages/community_store/single_pages/dashboard/store/products.php:951
+#: packages/community_store/single_pages/dashboard/store/products.php:1349
 msgid "Stock Level"
 msgstr "Lagerbestand"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:218
-#: packages/community_store/single_pages/dashboard/store/products.php:910
-#: packages/community_store/single_pages/dashboard/store/products.php:1326
+#: packages/community_store/single_pages/dashboard/store/products.php:964
+#: packages/community_store/single_pages/dashboard/store/products.php:1383
 msgid "Unlimited"
 msgstr "Unbeschränkt"
 
@@ -2265,17 +2291,17 @@ msgid "Number Of Items"
 msgstr "Anzahl Artikel"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:407
-#: packages/community_store/single_pages/dashboard/store/products.php:980
+#: packages/community_store/single_pages/dashboard/store/products.php:1034
 msgid "Length"
 msgstr "Länge"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:415
-#: packages/community_store/single_pages/dashboard/store/products.php:991
+#: packages/community_store/single_pages/dashboard/store/products.php:1045
 msgid "Width"
 msgstr "Breite"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:423
-#: packages/community_store/single_pages/dashboard/store/products.php:1003
+#: packages/community_store/single_pages/dashboard/store/products.php:1057
 msgid "Height"
 msgstr "Höhe"
 
@@ -2284,7 +2310,7 @@ msgid "Primary Product Image"
 msgstr "Haupt-Produktbild"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:442
-#: packages/community_store/single_pages/dashboard/store/products.php:956
+#: packages/community_store/single_pages/dashboard/store/products.php:1010
 msgid "Choose Image"
 msgstr "Bild auswählen"
 
@@ -2296,78 +2322,87 @@ msgstr "Weitere Bilder"
 msgid "Choose Images"
 msgstr "Bild auswählen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:498
-msgid "Add Option List"
-msgstr "Optionsliste hinzufügen"
-
 #: packages/community_store/single_pages/dashboard/store/products.php:499
-msgid "Add Text Entry"
-msgstr "Texteintrag hinzufügen"
-
-#: packages/community_store/single_pages/dashboard/store/products.php:500
-msgid "Add Text Area"
-msgstr "Textbereich hinzufügen"
-
-#: packages/community_store/single_pages/dashboard/store/products.php:501
-msgid "Add Hidden Value"
-msgstr "Ausgeblendeten Wert hinzufügen"
-
-#: packages/community_store/single_pages/dashboard/store/products.php:514
-msgid "Delete the Option Group"
-msgstr "Optionsgruppe löschen"
-
-#: packages/community_store/single_pages/dashboard/store/products.php:523
-msgid "Option Name"
-msgstr "Optionsname"
-
-#: packages/community_store/single_pages/dashboard/store/products.php:529
-msgid "Option Handle"
-msgstr "Optionskennung"
-
-#: packages/community_store/single_pages/dashboard/store/products.php:548
-msgid "Add Option"
-msgstr "Option hinzufügen"
-
-#: packages/community_store/single_pages/dashboard/store/products.php:598
+#: packages/community_store/single_pages/dashboard/store/products.php:624
 msgid "Option List"
 msgstr "Optionsliste"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:599
-msgid "Text Input"
-msgstr "Texteingabe"
+#: packages/community_store/single_pages/dashboard/store/products.php:500
+msgid "Text Field"
+msgstr ""
 
-#: packages/community_store/single_pages/dashboard/store/products.php:600
-msgid "Text Area Input"
-msgstr "Textbereichseingabe"
+#: packages/community_store/single_pages/dashboard/store/products.php:501
+msgid "Text Area"
+msgstr ""
 
-#: packages/community_store/single_pages/dashboard/store/products.php:601
+#: packages/community_store/single_pages/dashboard/store/products.php:502
+#: packages/community_store/single_pages/dashboard/store/products.php:627
+msgid "Checkbox"
+msgstr ""
+
+#: packages/community_store/single_pages/dashboard/store/products.php:503
+#: packages/community_store/single_pages/dashboard/store/products.php:628
 msgid "Hidden Value"
 msgstr "Ausgeblendeter Wert"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:717
+#: packages/community_store/single_pages/dashboard/store/products.php:516
+msgid "Delete the Option Group"
+msgstr "Optionsgruppe löschen"
+
+#: packages/community_store/single_pages/dashboard/store/products.php:525
+msgid "Option Name"
+msgstr "Optionsname"
+
+#: packages/community_store/single_pages/dashboard/store/products.php:531
+msgid "Option Handle"
+msgstr "Optionskennung"
+
+#: packages/community_store/single_pages/dashboard/store/products.php:539
+msgid "In Variations"
+msgstr ""
+
+#: packages/community_store/single_pages/dashboard/store/products.php:561
+msgid "Add Option"
+msgstr "Option hinzufügen"
+
+#: packages/community_store/single_pages/dashboard/store/products.php:625
+msgid "Text Input"
+msgstr "Texteingabe"
+
+#: packages/community_store/single_pages/dashboard/store/products.php:626
+msgid "Text Area Input"
+msgstr "Textbereichseingabe"
+
+#: packages/community_store/single_pages/dashboard/store/products.php:767
 msgid "Option"
 msgstr "Option"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:725
+#: packages/community_store/single_pages/dashboard/store/products.php:775
 msgid "Hide"
 msgstr "Nicht sichtbar"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:830
+#: packages/community_store/single_pages/dashboard/store/products.php:879
+msgid "Variations"
+msgstr "Variationen"
+
+#: packages/community_store/single_pages/dashboard/store/products.php:881
 msgid "Options have different prices, SKUs or stock levels"
 msgstr "Optionen haben verschiedene Preise, Artikelnummern oder Lagerbestände"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:833
+#: packages/community_store/single_pages/dashboard/store/products.php:884
 msgid ""
 "After creating options add the product to configure product variations."
 msgstr ""
 "Nach dem Erstellen von Optionen können Sie zu dem Produkt einzelne "
 "Produktvariationen konfigurieren."
 
-#: packages/community_store/single_pages/dashboard/store/products.php:842
-msgid "Variations"
-msgstr "Variationen"
+#: packages/community_store/single_pages/dashboard/store/products.php:893
+msgid ""
+"Warning: Product options have changed that will create different variations "
+"- any existing variation data will be lost"
+msgstr ""
 
-#: packages/community_store/single_pages/dashboard/store/products.php:845
+#: packages/community_store/single_pages/dashboard/store/products.php:896
 msgid ""
 "Product options have changed, update the product to configure updated "
 "variations"
@@ -2375,52 +2410,56 @@ msgstr ""
 "Produkt Optionen wurden geändert, aktualisieren Sie das Produkt um bereits "
 "aktualisierte Variationen zu konfigurieren"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:871
+#: packages/community_store/single_pages/dashboard/store/products.php:923
 msgid "More options"
 msgstr "Mehr Optionen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:888
+#: packages/community_store/single_pages/dashboard/store/products.php:942
 msgid "SKU"
 msgstr "Artikelnummer"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:891
+#: packages/community_store/single_pages/dashboard/store/products.php:945
 msgid "Base SKU"
 msgstr "Haupt Artikelnummer"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:941
+#: packages/community_store/single_pages/dashboard/store/products.php:995
 msgid "Base Sale Price"
 msgstr "Haupt Verkaufspreis"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:949
-#: packages/community_store/single_pages/dashboard/store/products.php:1289
+#: packages/community_store/single_pages/dashboard/store/products.php:1003
+#: packages/community_store/single_pages/dashboard/store/products.php:1346
 msgid "Primary Image"
 msgstr "Hauptbild"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:965
+#: packages/community_store/single_pages/dashboard/store/products.php:1019
 msgid "Base Weight"
 msgstr "Basis Gewicht"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:972
+#: packages/community_store/single_pages/dashboard/store/products.php:1026
 msgid "Number of Items"
 msgstr "Anzahl Artikel"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:975
+#: packages/community_store/single_pages/dashboard/store/products.php:1029
 msgid "Base Number Of Items"
 msgstr "Basis Anzahl Artikel"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:984
+#: packages/community_store/single_pages/dashboard/store/products.php:1038
 msgid "Base Length"
 msgstr "Basis Länge"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:996
+#: packages/community_store/single_pages/dashboard/store/products.php:1050
 msgid "Base Width"
 msgstr "Basis Breite"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1007
+#: packages/community_store/single_pages/dashboard/store/products.php:1061
 msgid "Base Height"
 msgstr "Basis Höhe"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1095
+#: packages/community_store/single_pages/dashboard/store/products.php:1072
+msgid "Update the product to display variations"
+msgstr ""
+
+#: packages/community_store/single_pages/dashboard/store/products.php:1152
 msgid ""
 "While you can set and assign attributes, they're are currently only able to "
 "be accessed programmatically"
@@ -2429,19 +2468,19 @@ msgstr ""
 "automatisch in allen Produkten angezeigt und können dann je Produkt "
 "konfiguriert werden"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1114
+#: packages/community_store/single_pages/dashboard/store/products.php:1171
 msgid "You haven't created product attributes"
 msgstr "Es wurden noch keine Produktattribute angelegt"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1128
+#: packages/community_store/single_pages/dashboard/store/products.php:1185
 msgid "File to download on purchase"
 msgstr "Datei zum Herunterladen beim Kaufen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1129
+#: packages/community_store/single_pages/dashboard/store/products.php:1186
 msgid "Choose File"
 msgstr "Datei auswählen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1137
+#: packages/community_store/single_pages/dashboard/store/products.php:1194
 msgid ""
 "In order to have digital downloads, you need to %sturn on advanced "
 "permissions%s."
@@ -2449,133 +2488,133 @@ msgstr ""
 "Um in Ihren Bestellungen digitale Downloads zu verwenden, müssen Sie %s die "
 "Erweiterten Berechtigungen aktivieren %s"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1144
+#: packages/community_store/single_pages/dashboard/store/products.php:1201
 msgid "Create user account on purchase"
 msgstr "Kundenkonto beim Bezahlen anlegen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1145
+#: packages/community_store/single_pages/dashboard/store/products.php:1202
 msgid ""
 "When checked, if customer is guest, will create a user account on purchase"
 msgstr "Wenn der Kunde als Gast bezahlt, wird ein Benutzer Konto angelegt."
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1149
+#: packages/community_store/single_pages/dashboard/store/products.php:1206
 msgid "On purchase add user to user groups"
 msgstr "Beim Kaufen Kunden zu Benutzergruppe(n) hinzufügen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1151
+#: packages/community_store/single_pages/dashboard/store/products.php:1208
 msgid "Select user groups"
 msgstr "Benutzergruppe(n) auswählen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1164
+#: packages/community_store/single_pages/dashboard/store/products.php:1221
 msgid "Send customer directly to checkout when added to cart"
 msgstr ""
 "Kunde gelangt direkt zur Kasse, wenn das Produkt in den Warenkorb gelegt "
 "wird"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1169
+#: packages/community_store/single_pages/dashboard/store/products.php:1226
 msgid "Prevent this item from being in the cart with other items"
 msgstr "Artikel kann nicht mit anderen Artikeln im Warenkorb abgelegt werden"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1189
+#: packages/community_store/single_pages/dashboard/store/products.php:1246
 msgid "Detail Page is set to: "
 msgstr "Detailseite ist:"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1194
+#: packages/community_store/single_pages/dashboard/store/products.php:1251
 msgid "This product is missing a corresponding page in the sitemap"
 msgstr "Diesem Produkt fehlt eine entsprechende Seite in der Sitemap"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1199
-#: packages/community_store/single_pages/dashboard/store/products.php:1215
+#: packages/community_store/single_pages/dashboard/store/products.php:1256
+#: packages/community_store/single_pages/dashboard/store/products.php:1272
 msgid "Page Template"
 msgstr "Seiten Template"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1203
+#: packages/community_store/single_pages/dashboard/store/products.php:1260
 msgid "Any changes to the product will not be saved. Create product page?"
 msgstr ""
 "Alle Änderungen an dem Produkt werden nicht gespeichert. Produktseite "
 "erstellen ?"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1203
+#: packages/community_store/single_pages/dashboard/store/products.php:1260
 msgid "Generate a Product Page"
 msgstr "Produktseite erstellen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1206
+#: packages/community_store/single_pages/dashboard/store/products.php:1263
 msgid "No page is configured as the parent page for new products"
 msgstr ""
 "Es wird keine Seite als übergeordnete  Seite für neue Produkte konfiguriert"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1228
+#: packages/community_store/single_pages/dashboard/store/products.php:1285
 msgid "Cancel / View All Products"
 msgstr "Abbrechen / Zurück zur Produktübersicht"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1229
+#: packages/community_store/single_pages/dashboard/store/products.php:1286
 msgid "%s Product"
 msgstr "%s Produkt"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1256
+#: packages/community_store/single_pages/dashboard/store/products.php:1313
 msgid "Manage Attributes"
 msgstr "Attribute verwalten"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1257
+#: packages/community_store/single_pages/dashboard/store/products.php:1314
 msgid "Manage Groups"
 msgstr "Gruppen verwalten"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1266
+#: packages/community_store/single_pages/dashboard/store/products.php:1323
 msgid "All Groups"
 msgstr "Alle Gruppen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1277
+#: packages/community_store/single_pages/dashboard/store/products.php:1334
 msgid "Search by Name or SKU"
 msgstr "Nach Name oder SKU durchsuchen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1294
-#: packages/community_store/single_pages/dashboard/store/products.php:1339
+#: packages/community_store/single_pages/dashboard/store/products.php:1351
+#: packages/community_store/single_pages/dashboard/store/products.php:1396
 msgid "Featured"
 msgstr "Highlight"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1295
-#: packages/community_store/single_pages/dashboard/store/products.php:1377
+#: packages/community_store/single_pages/dashboard/store/products.php:1352
+#: packages/community_store/single_pages/dashboard/store/products.php:1434
 msgid "Groups"
 msgstr "Gruppen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1324
-#: packages/community_store/single_pages/dashboard/store/products.php:1331
+#: packages/community_store/single_pages/dashboard/store/products.php:1381
+#: packages/community_store/single_pages/dashboard/store/products.php:1388
 msgid "Multiple"
 msgstr "Mehrere"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1332
+#: packages/community_store/single_pages/dashboard/store/products.php:1389
 msgid "Base price"
 msgstr "Basis Preis"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1341
+#: packages/community_store/single_pages/dashboard/store/products.php:1398
 msgid "Not Featured"
 msgstr "kein Highlight"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1393
+#: packages/community_store/single_pages/dashboard/store/products.php:1450
 msgid "You have not added a group yet"
 msgstr "Sie haben noch keine Gruppe angelegt"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1397
+#: packages/community_store/single_pages/dashboard/store/products.php:1454
 msgid "Add a Group"
 msgstr "Gruppe hinzufügen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1400
+#: packages/community_store/single_pages/dashboard/store/products.php:1457
 msgid "Group Name"
 msgstr "Gruppenname"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1403
+#: packages/community_store/single_pages/dashboard/store/products.php:1460
 msgid "Add Group"
 msgstr "Gruppe hinzufügen"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1413
+#: packages/community_store/single_pages/dashboard/store/products.php:1470
 msgid "New Product Name"
 msgstr "Neuer Produkt Name"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1414
+#: packages/community_store/single_pages/dashboard/store/products.php:1471
 msgid "(Copy)"
 msgstr "(Kopie)"
 
-#: packages/community_store/single_pages/dashboard/store/products.php:1418
+#: packages/community_store/single_pages/dashboard/store/products.php:1475
 msgid "New Product SKU"
 msgstr "Neue Artikelnummer"
 
@@ -2837,25 +2876,25 @@ msgstr ""
 "Ihr Warenkob wurde erneuert, da sich die Verfügbarkeit der Produkte geändert"
 " hat"
 
-#: packages/community_store/single_pages/cart.php:166
+#: packages/community_store/single_pages/cart.php:169
 msgid "Enter Discount Code"
 msgstr "Rabatt Code eingeben"
 
-#: packages/community_store/single_pages/cart.php:177
+#: packages/community_store/single_pages/cart.php:180
 #: packages/community_store/single_pages/checkout.php:433
 msgid "Discount has been applied"
 msgstr "Rabatt würde übernommen"
 
-#: packages/community_store/single_pages/cart.php:181
+#: packages/community_store/single_pages/cart.php:184
 #: packages/community_store/single_pages/checkout.php:437
 msgid "Invalid code"
 msgstr "Ungültiger Code"
 
-#: packages/community_store/single_pages/cart.php:187
+#: packages/community_store/single_pages/cart.php:190
 msgid "Items Sub Total"
 msgstr "Artikel Zwischensumme"
 
-#: packages/community_store/single_pages/cart.php:194
+#: packages/community_store/single_pages/cart.php:197
 #: packages/community_store/single_pages/checkout.php:476
 msgid "to be determined"
 msgstr "bestimmt werden"
@@ -2946,13 +2985,6 @@ msgstr "Zurück"
 #: packages/community_store/single_pages/checkout.php:270
 msgid "Please select a shipping method"
 msgstr "Bitte wählen Sie eine Versandart aus"
-
-#: packages/community_store/single_pages/checkout.php:308
-#: packages/community_store/single_pages/checkout.php:313
-#: packages/community_store/single_pages/checkout.php:325
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:217
-msgid "VAT Number"
-msgstr "USt.-ID"
 
 #: packages/community_store/single_pages/checkout.php:312
 msgid "VAT Number (if applicable)"
@@ -3095,102 +3127,98 @@ msgstr ""
 msgid "You must enter a valid VAT Number"
 msgstr "Sie müssen eine gültige USt.-ID angeben"
 
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:182
-msgid "The VAT Number entered was not valid."
-msgstr "Die angegebene USt.-ID ist nicht gültig."
-
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:271
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:236
 msgid "You must enter a valid email address"
 msgstr "Sie müssen eine gültige Email-Adresse eingeben"
 
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:277
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:242
 msgid "You must enter a first name"
 msgstr "Sie müssen einen Vornamen eingeben"
 
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:280
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:245
 msgid "Please enter a first name under 255 characters"
 msgstr "Bitte geben Sie einen Vornamen mit weniger als 255 Zeichen ein"
 
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:283
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:248
 msgid "You must enter a Last Name"
 msgstr "Sie müssen einen Nachnamen eingeben"
 
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:286
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:251
 msgid "Please enter a last name under 255 characters"
 msgstr "Bitte geben Sie einen Straßennamen mit weniger als 255 Zeichen ein"
 
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:289
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:254
 msgid "You must enter an address"
 msgstr "Sie müssen eine Adresse eingeben"
 
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:292
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:257
 msgid "Please enter a street name under 255 characters"
 msgstr "Bitte geben Sie einen Straßennamen mit weniger als 255 Zeichen ein"
 
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:295
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:260
 msgid "You must enter a Country"
 msgstr "Sie müssen ein Land eingeben"
 
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:298
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:263
 msgid "You did not select a Country from the list"
 msgstr "Sie haben kein Land aus der Liste ausgewählt"
 
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:301
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:266
 msgid "You must enter a City"
 msgstr "Sie müssen einen Ort eingeben"
 
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:304
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:269
 msgid "You must enter a valid City"
 msgstr "Sie müssen einen korrekten Ort eingeben"
 
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:307
-#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:310
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:272
+#: packages/community_store/src/CommunityStore/Utilities/Checkout.php:275
 msgid "You must enter a valid Postal Code"
 msgstr "Sie müssen eine korrekte PLZ eingeben"
 
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:189
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:190
 msgid "Registered Customer in your store"
 msgstr "Registrierte Shop-Kunden"
 
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:202
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:253
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:203
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:254
 msgid "Store Customer Info"
 msgstr "Shop Kundeninformationen"
 
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:254
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:355
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:255
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:362
 msgid "Other Customer Choices"
 msgstr "Andere Kundenoptionen"
 
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:303
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:305
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:310
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:312
 msgid "Digital Downloads"
 msgstr "Digitale Downloads"
 
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:315
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:322
 msgid "Awaiting Processing"
 msgstr "Warten auf Bearbeitung"
 
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:316
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:323
 msgid "Processing"
 msgstr "in Bearbeitung"
 
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:317
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:324
 msgid "Shipped"
 msgstr "Versendet"
 
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:318
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:325
 msgid "Delivered"
 msgstr "Geliefert"
 
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:319
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:326
 msgid "Will not deliver"
 msgstr "Wird nicht liefern"
 
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:320
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:327
 msgid "Returned"
 msgstr "Zurückgegeben"
 
-#: packages/community_store/src/CommunityStore/Utilities/Installer.php:335
+#: packages/community_store/src/CommunityStore/Utilities/Installer.php:342
 msgid "Default"
 msgstr "Standard"
