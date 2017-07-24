@@ -1,5 +1,5 @@
 {
-    "updated": 1500795039,
+    "updated": 1500881439,
     "packages": [
         {
             "handle": "addthis",
@@ -329,11 +329,11 @@
                     "perc": 8
                 },
                 "it_IT": {
-                    "translated": 658,
-                    "untranslated": 12,
+                    "translated": 670,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 670,
-                    "perc": 98
+                    "perc": 100
                 },
                 "bg_BG": {
                     "translated": 60,
