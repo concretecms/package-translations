@@ -191,12 +191,12 @@ msgstr "esaurito"
 #: packages/community_store/blocks/community_product/view.php:205
 #: packages/community_store/blocks/community_product_list/view.php:232
 msgid "no"
-msgstr ""
+msgstr "no"
 
 #: packages/community_store/blocks/community_product/view.php:206
 #: packages/community_store/blocks/community_product_list/view.php:233
 msgid "yes"
-msgstr ""
+msgstr "sì"
 
 #: packages/community_store/blocks/community_product/view.php:218
 #: packages/community_store/blocks/community_product_list/view.php:243
@@ -295,7 +295,7 @@ msgstr "Alfabetico"
 
 #: packages/community_store/blocks/community_product_list/form.php:41
 msgid "Alphabetical, reversed"
-msgstr ""
+msgstr "Alfabetico, invertito"
 
 #: packages/community_store/blocks/community_product_list/form.php:42
 #: packages/community_store/single_pages/dashboard/store/products.php:261
@@ -1691,13 +1691,15 @@ msgstr "Opzioni partita IVA"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:99
 msgid "Do not apply tax if a valid VAT number is supplied"
-msgstr ""
+msgstr "Non applicare tassa se viene fornita una partita IVA corretta"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:101
 msgid ""
 "If the customer has entered a correctly formatted VAT Number then this tax "
 "will not be applied at checkout."
 msgstr ""
+"Se un cliente ha inserito una partita IVA formattata correttamente, questa "
+"tassa non verrà applicata alla cassa."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:113
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:240
@@ -1745,7 +1747,7 @@ msgstr "Selezionare le aliquote della classe fiscale"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:239
 msgid "Cancel / View Taxes"
-msgstr ""
+msgstr "Annulla / Vedi tasse"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:29
 msgid "Display"
@@ -2334,16 +2336,16 @@ msgstr "Elenco di opzioni"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:500
 msgid "Text Field"
-msgstr ""
+msgstr "Campo di testo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:501
 msgid "Text Area"
-msgstr ""
+msgstr "Area di testo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:502
 #: packages/community_store/single_pages/dashboard/store/products.php:627
 msgid "Checkbox"
-msgstr ""
+msgstr "Casella di controllo"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:503
 #: packages/community_store/single_pages/dashboard/store/products.php:628
@@ -2364,7 +2366,7 @@ msgstr "Handle dell’opzione"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:539
 msgid "In Variations"
-msgstr ""
+msgstr "In varianti"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:561
 msgid "Add Option"
@@ -2406,6 +2408,8 @@ msgid ""
 "Warning: Product options have changed that will create different variations "
 "- any existing variation data will be lost"
 msgstr ""
+"Attenzione: le opzioni del prodotto sono state modificate ciò creerà "
+"differenti varianti - tutte le varianti esistenti andranno perse"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:896
 msgid ""
@@ -2462,7 +2466,7 @@ msgstr "Altezza di base"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1072
 msgid "Update the product to display variations"
-msgstr ""
+msgstr "Aggiorna il prodotto per mostrare le varianti"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1152
 msgid ""
