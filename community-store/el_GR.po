@@ -191,12 +191,12 @@ msgstr "Εξάντληση αποθέματος"
 #: packages/community_store/blocks/community_product/view.php:205
 #: packages/community_store/blocks/community_product_list/view.php:232
 msgid "no"
-msgstr ""
+msgstr "όχι"
 
 #: packages/community_store/blocks/community_product/view.php:206
 #: packages/community_store/blocks/community_product_list/view.php:233
 msgid "yes"
-msgstr ""
+msgstr "ναι"
 
 #: packages/community_store/blocks/community_product/view.php:218
 #: packages/community_store/blocks/community_product_list/view.php:243
@@ -295,7 +295,7 @@ msgstr "Αλφαβητικά"
 
 #: packages/community_store/blocks/community_product_list/form.php:41
 msgid "Alphabetical, reversed"
-msgstr ""
+msgstr "με αντίστροφη αλφαβητική σειρά"
 
 #: packages/community_store/blocks/community_product_list/form.php:42
 #: packages/community_store/single_pages/dashboard/store/products.php:261
@@ -1697,13 +1697,15 @@ msgstr "Επιλογές ΦΠΑ"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:99
 msgid "Do not apply tax if a valid VAT number is supplied"
-msgstr ""
+msgstr "Μην εφαρμόζετε φόρο εάν παρέχεται έγκυρος αριθμός ΦΠΑ"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:101
 msgid ""
 "If the customer has entered a correctly formatted VAT Number then this tax "
 "will not be applied at checkout."
 msgstr ""
+"Εάν ο πελάτης έχει εισαγάγει έναν σωστά διαμορφωμένο αριθμό ΦΠΑ, τότε αυτός "
+"ο φόρος δεν θα εφαρμοστεί κατά την ολοκλήρωση της πληρωμής."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:113
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:240
@@ -1751,7 +1753,7 @@ msgstr "Επιλέξτε συντελεστή Φορολογικής Κλάση�
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:239
 msgid "Cancel / View Taxes"
-msgstr ""
+msgstr "Ακύρωση / Προβολή Φόρων"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:29
 msgid "Display"
@@ -2340,16 +2342,16 @@ msgstr "Λίστα Επιλογών"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:500
 msgid "Text Field"
-msgstr ""
+msgstr "Πεδίο κειμένου"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:501
 msgid "Text Area"
-msgstr ""
+msgstr "Περιοχή κειμένου"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:502
 #: packages/community_store/single_pages/dashboard/store/products.php:627
 msgid "Checkbox"
-msgstr ""
+msgstr "Πλαίσιο Επιλογής"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:503
 #: packages/community_store/single_pages/dashboard/store/products.php:628
@@ -2370,7 +2372,7 @@ msgstr "Δείκτης Επιλογής"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:539
 msgid "In Variations"
-msgstr ""
+msgstr "Παραλλαγές"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:561
 msgid "Add Option"
@@ -2412,6 +2414,8 @@ msgid ""
 "Warning: Product options have changed that will create different variations "
 "- any existing variation data will be lost"
 msgstr ""
+"Προειδοποίηση: Οι επιλογές του προϊόντος έχουν αλλάξει και θα δημιουργήσουν "
+"διαφορετικές παραλλαγές - τα υπάρχοντα δεδομένα παραλλαγής θα χαθούν"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:896
 msgid ""
@@ -2468,7 +2472,7 @@ msgstr "Βασικό Ύψος"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1072
 msgid "Update the product to display variations"
-msgstr ""
+msgstr "Ενημερώστε το προϊόν για να εμφανίσετε τις παραλλαγές"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1152
 msgid ""
