@@ -18,15 +18,15 @@ msgstr ""
 #: packages/datetime_shifter/install.xml:4
 #: packages/datetime_shifter/controller.php:17
 msgid "DATETIME shifter"
-msgstr "DATETIME επιλογέας"
+msgstr "Επιλογέας DATETIME "
 
 #: packages/datetime_shifter/install.xml:4
 #: packages/datetime_shifter/controller.php:22
 msgid ""
 "Add or substract a specified amount of time from DATETIME database fields"
 msgstr ""
-"Προσθέσετε ή να αφαιρέσετε ένα συγκεκριμένο χρονικό διάστημα από τα DATETIME"
-"  πεδία της βάσης δεδομένων"
+"Προσθέσετε ή αφαιρέσετε ένα συγκεκριμένο χρονικό διάστημα από το πεδίο  "
+"DATETIME  της βάσης δεδομένων"
 
 #: packages/datetime_shifter/controllers/single_page/dashboard/system/basics/timezone/datetime_shifter.php:140
 #, php-format
@@ -69,11 +69,11 @@ msgstr "Λεπτά"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:69
 msgid "For date/times after"
-msgstr "Για μετά την ημερομηνία / φορές"
+msgstr "Για την ημερομηνία / φορές μετά "
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:75
 msgid "For date/times before"
-msgstr "Για πριν την ημερομηνία / φορές"
+msgstr "Για την ημερομηνία / φορές πριν "
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:86
 msgid "Process"
