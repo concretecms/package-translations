@@ -81,7 +81,7 @@ msgstr "Επεξεργασία"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:97
 msgid "Apply"
-msgstr "Iσχύει"
+msgstr "Επικυρώστε"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:109
 msgid ""
