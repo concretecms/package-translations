@@ -1,12 +1,13 @@
 # Translators:
 # Michele Locati <michele@locati.it>, 2016
+# Alex Borisov <linuxoidoz@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: datetime_shifter 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-23T09:02:08+01:00\n"
 "PO-Revision-Date: 2016-12-23T09:02:09+01:00\n"
-"Last-Translator: Michele Locati <michele@locati.it>, 2016\n"
+"Last-Translator: Alex Borisov <linuxoidoz@gmail.com>, 2017\n"
 "Language-Team: Russian (Russia) (https://www.transifex.com/concrete5/teams/10374/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,7 +81,7 @@ msgstr ""
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:97
 msgid "Apply"
-msgstr ""
+msgstr "Применить"
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:109
 msgid ""
@@ -118,7 +119,7 @@ msgstr ""
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:239
 msgid "Processing..."
-msgstr ""
+msgstr "Обрабатывается..."
 
 #: packages/datetime_shifter/single_pages/dashboard/system/basics/timezone/datetime_shifter.php:260
 msgid "No server response."

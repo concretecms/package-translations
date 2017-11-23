@@ -1,16 +1,15 @@
 # Translators:
+# Alex Borisov <linuxoidoz@gmail.com>, 2016
 # Michele Locati <michele@locati.it>, 2016
-# beardev <marketing@beardev.com>, 2016
 # Anton Schepetkov <schepetkov@gmail.com>, 2016
 # Remo Laubacher <remo.laubacher@gmail.com>, 2016
-# Sergey Slipchenko <inactive+faergeek@transifex.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: community_store 1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-16T08:15:13+02:00\n"
 "PO-Revision-Date: 2017-07-16T08:15:14+02:00\n"
-"Last-Translator: Sergey Slipchenko <inactive+faergeek@transifex.com>, 2016\n"
+"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>, 2016\n"
 "Language-Team: Russian (Russia) (https://www.transifex.com/concrete5/teams/10374/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,27 +20,27 @@ msgstr ""
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php
 msgctxt "TemplateFileName"
 msgid "Product Breadcrumb"
-msgstr ""
+msgstr "Навигационная цепочка товаров"
 
 #: packages/community_store/controller.php:23
 msgid "Add a store to your site"
-msgstr ""
+msgstr "Добавить магазин на сайт"
 
 #: packages/community_store/controller.php:28
 msgid "Community Store"
-msgstr ""
+msgstr "Магазин Сообщества"
 
 #: packages/community_store/controller.php:149
 msgid "Quantity must be greater than zero"
-msgstr ""
+msgstr "Количество должно быть больше 0"
 
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php:33
 msgid "Empty Auto-Nav Block."
-msgstr ""
+msgstr "Пустой блок Автоматическая навигация"
 
 #: packages/community_store/blocks/community_product/controller.php:21
 msgid "Add a Product to the Page"
-msgstr ""
+msgstr "Добавить товар на страницу"
 
 #: packages/community_store/blocks/community_product/controller.php:26
 #: packages/community_store/blocks/community_product/form.php:2
@@ -51,119 +50,119 @@ msgstr ""
 #: packages/community_store/elements/cart_modal.php:45
 #: packages/community_store/single_pages/cart.php:43
 msgid "Product"
-msgstr ""
+msgstr "Товар"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "A selected product"
-msgstr ""
+msgstr "Выбранный товар"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "Product associated with this page"
-msgstr ""
+msgstr "Товар, связанный с этой страницей"
 
 #: packages/community_store/blocks/community_product/form.php:11
 msgid "Select Product"
-msgstr ""
+msgstr "Выберете товар"
 
 #: packages/community_store/blocks/community_product/form.php:14
 msgid "Display Options"
-msgstr ""
+msgstr "Показать варианты"
 
 #: packages/community_store/blocks/community_product/form.php:21
 msgid "Show Product Name"
-msgstr ""
+msgstr "Показать название товара"
 
 #: packages/community_store/blocks/community_product/form.php:27
 msgid "Show Short Description"
-msgstr ""
+msgstr "Показать короткое описание"
 
 #: packages/community_store/blocks/community_product/form.php:33
 msgid "Show Product Details"
-msgstr ""
+msgstr "Показать детали товара"
 
 #: packages/community_store/blocks/community_product/form.php:39
 msgid "Show Price"
-msgstr ""
+msgstr "Показать цену"
 
 #: packages/community_store/blocks/community_product/form.php:45
 msgid "Show Weight"
-msgstr ""
+msgstr "Показать вес"
 
 #: packages/community_store/blocks/community_product/form.php:53
 msgid "Show Product Image"
-msgstr ""
+msgstr "Показать изображение товара"
 
 #: packages/community_store/blocks/community_product/form.php:59
 msgid "Show \"Add to Cart\" Button"
-msgstr ""
+msgstr "Показать кнопку \"Добавить в корзину\""
 
 #: packages/community_store/blocks/community_product/form.php:65
 msgid "Show If Featured"
-msgstr ""
+msgstr "Показать, если избранный"
 
 #: packages/community_store/blocks/community_product/form.php:71
 msgid "Show Dimensions"
-msgstr ""
+msgstr "Показать размеры"
 
 #: packages/community_store/blocks/community_product/form.php:77
 msgid "Show Quantity Selector"
-msgstr ""
+msgstr "Показать выбор количества"
 
 #: packages/community_store/blocks/community_product/form.php:87
 msgid "Add to Cart Button Text"
-msgstr ""
+msgstr "Текст кнопки добавить в корзину"
 
 #: packages/community_store/blocks/community_product/form.php:88
 msgid "Add To Cart"
-msgstr ""
+msgstr "Добавить в корзину"
 
 #: packages/community_store/blocks/community_product/view.php:41
 #: packages/community_store/blocks/community_product/view.php:319
 msgid "On Sale: "
-msgstr ""
+msgstr "На распродаже:"
 
 #: packages/community_store/blocks/community_product/view.php:42
 #: packages/community_store/blocks/community_product_list/view.php:110
 #: packages/community_store/blocks/community_product_list/view.php:286
 #: packages/community_store/elements/product_modal.php:118
 msgid "was"
-msgstr ""
+msgstr "было"
 
 #: packages/community_store/blocks/community_product/view.php:68
 #: packages/community_store/blocks/community_product_list/view.php:129
 msgid "Enter Other Amount"
-msgstr ""
+msgstr "Введите другую сумму"
 
 #: packages/community_store/blocks/community_product/view.php:70
 #: packages/community_store/blocks/community_product_list/view.php:131
 #: packages/community_store/single_pages/dashboard/store/orders.php:183
 msgid "Amount"
-msgstr ""
+msgstr "Сумма"
 
 #: packages/community_store/blocks/community_product/view.php:82
 #: packages/community_store/blocks/community_product_list/view.php:143
 msgid "minimum"
-msgstr ""
+msgstr "минимум"
 
 #: packages/community_store/blocks/community_product/view.php:89
 #: packages/community_store/blocks/community_product_list/view.php:150
 msgid "maximum"
-msgstr ""
+msgstr "максимум"
 
 #: packages/community_store/blocks/community_product/view.php:107
 msgid "Dimensions"
-msgstr ""
+msgstr "Размеры"
 
 #: packages/community_store/blocks/community_product/view.php:115
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:18
 #: packages/community_store/single_pages/dashboard/store/products.php:391
 #: packages/community_store/single_pages/dashboard/store/products.php:1015
 msgid "Weight"
-msgstr ""
+msgstr "Вес"
 
 #: packages/community_store/blocks/community_product/view.php:134
 msgid "Featured Item"
-msgstr "Избранное"
+msgstr "Избранный товар"
 
 #: packages/community_store/blocks/community_product/view.php:141
 #: packages/community_store/blocks/community_product_list/view.php:169
@@ -176,61 +175,61 @@ msgstr "Избранное"
 #: packages/community_store/single_pages/dashboard/store/orders.php:122
 #: packages/community_store/single_pages/cart.php:45
 msgid "Quantity"
-msgstr ""
+msgstr "Количество"
 
 #: packages/community_store/blocks/community_product/view.php:157
 #: packages/community_store/blocks/community_product_list/view.php:185
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:64
 #: packages/community_store/single_pages/dashboard/store/products.php:549
 msgid "Required"
-msgstr "Обязательно"
+msgstr "Требуется"
 
 #: packages/community_store/blocks/community_product/view.php:176
 #: packages/community_store/blocks/community_product_list/view.php:204
 msgid "out of stock"
-msgstr ""
+msgstr "нет в наличии"
 
 #: packages/community_store/blocks/community_product/view.php:205
 #: packages/community_store/blocks/community_product_list/view.php:232
 msgid "no"
-msgstr ""
+msgstr "нет"
 
 #: packages/community_store/blocks/community_product/view.php:206
 #: packages/community_store/blocks/community_product_list/view.php:233
 msgid "yes"
-msgstr ""
+msgstr "да"
 
 #: packages/community_store/blocks/community_product/view.php:218
 #: packages/community_store/blocks/community_product_list/view.php:243
 #: packages/community_store/elements/product_modal.php:56
 msgid "Add to Cart"
-msgstr ""
+msgstr "Добавить в корзину"
 
 #: packages/community_store/blocks/community_product/view.php:221
 #: packages/community_store/blocks/community_product_list/view.php:244
 #: packages/community_store/elements/product_modal.php:57
 msgid "Out of Stock"
-msgstr ""
+msgstr "Нет в наличии"
 
 #: packages/community_store/blocks/community_product/view.php:353
 msgid "Product not available"
-msgstr ""
+msgstr "Товара недоступен"
 
 #: packages/community_store/blocks/community_product_list/controller.php:23
 msgid "Add a Product List for Community Store"
-msgstr ""
+msgstr "Добавить список товаров в Магазина Сообщества"
 
 #: packages/community_store/blocks/community_product_list/controller.php:28
 msgid "Product List"
-msgstr ""
+msgstr "Список товаров"
 
 #: packages/community_store/blocks/community_product_list/controller.php:228
 msgid "A page must be selected"
-msgstr ""
+msgstr "Страница должна быть выбрана"
 
 #: packages/community_store/blocks/community_product_list/controller.php:232
 msgid "Number of Products must be a whole number"
-msgstr ""
+msgstr "Количество товаров должно быть целое число"
 
 #: packages/community_store/blocks/community_product_list/form.php:8
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:31
@@ -247,11 +246,11 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store.php:147
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:71
 msgid "Products"
-msgstr ""
+msgstr "Товары"
 
 #: packages/community_store/blocks/community_product_list/form.php:11
 msgid "List Products"
-msgstr ""
+msgstr "Перечислить товары"
 
 #: packages/community_store/blocks/community_product_list/form.php:13
 msgid "All"
@@ -259,82 +258,82 @@ msgstr "Все"
 
 #: packages/community_store/blocks/community_product_list/form.php:14
 msgid "Under current page"
-msgstr ""
+msgstr "Под текущей страницей"
 
 #: packages/community_store/blocks/community_product_list/form.php:15
 msgid "Under current page and child pages"
-msgstr ""
+msgstr "Под текущей и дочерними страницами"
 
 #: packages/community_store/blocks/community_product_list/form.php:16
 msgid "Under a specified page"
-msgstr ""
+msgstr "Под указанной страницей"
 
 #: packages/community_store/blocks/community_product_list/form.php:17
 msgid "Under a specified page and child pages"
-msgstr ""
+msgstr "Под указанной и дочерними страницами"
 
 #: packages/community_store/blocks/community_product_list/form.php:18
 msgid "Related to product displayed on this page"
-msgstr ""
+msgstr "Относится к товару, показанному на этой странице"
 
 #: packages/community_store/blocks/community_product_list/form.php:19
 msgid "Related to a specified product"
-msgstr ""
+msgstr "Относится к указанному товару"
 
 #: packages/community_store/blocks/community_product_list/form.php:34
 #: packages/community_store/single_pages/dashboard/store/products.php:1096
 msgid "Search for a Product"
-msgstr ""
+msgstr "Искать товар"
 
 #: packages/community_store/blocks/community_product_list/form.php:38
 #: packages/community_store/single_pages/dashboard/store/settings.php:128
 msgid "Sort Order"
-msgstr ""
+msgstr "Порядок сортировки"
 
 #: packages/community_store/blocks/community_product_list/form.php:40
 msgid "Alphabetical"
-msgstr "В алфавитном порядке"
+msgstr "Алфавитный"
 
 #: packages/community_store/blocks/community_product_list/form.php:41
 msgid "Alphabetical, reversed"
-msgstr ""
+msgstr "Обратный алфавитный"
 
 #: packages/community_store/blocks/community_product_list/form.php:42
 #: packages/community_store/single_pages/dashboard/store/products.php:261
 msgid "Date Added"
-msgstr "Дата регистрации"
+msgstr "Дата добавления"
 
 #: packages/community_store/blocks/community_product_list/form.php:43
 msgid "Price Ascending"
-msgstr ""
+msgstr "Цена по возрастанию"
 
 #: packages/community_store/blocks/community_product_list/form.php:44
 msgid "Price Descending"
-msgstr ""
+msgstr "Цена по убыванию"
 
 #: packages/community_store/blocks/community_product_list/form.php:45
 msgid "Best Sellers"
-msgstr ""
+msgstr "Бестселлеры"
 
 #: packages/community_store/blocks/community_product_list/form.php:46
 msgid "Related Products Order"
-msgstr ""
+msgstr "Связанные товары"
 
 #: packages/community_store/blocks/community_product_list/form.php:47
 msgid "Category Sort Order"
-msgstr ""
+msgstr "По категориям"
 
 #: packages/community_store/blocks/community_product_list/form.php:48
 msgid "Random order, changing each display"
-msgstr ""
+msgstr "Случайный порядок, изменяется при обновлении"
 
 #: packages/community_store/blocks/community_product_list/form.php:49
 msgid "Random order, changing each day"
-msgstr ""
+msgstr "Случайный, изменяется при обновлении"
 
 #: packages/community_store/blocks/community_product_list/form.php:56
 msgid "Display Sort Option"
-msgstr ""
+msgstr "Показать опции сортировки"
 
 #: packages/community_store/blocks/community_product_list/form.php:63
 msgid "Filtering"
@@ -342,115 +341,117 @@ msgstr "Фильтрация"
 
 #: packages/community_store/blocks/community_product_list/form.php:74
 msgid "Filter by Product Groups"
-msgstr ""
+msgstr "Фильтровать по группам товаров"
 
 #: packages/community_store/blocks/community_product_list/form.php:78
 #: packages/community_store/single_pages/dashboard/store/products.php:327
 msgid "Select Product Groups"
-msgstr ""
+msgstr "Выбрать группы товаров"
 
 #: packages/community_store/blocks/community_product_list/form.php:89
 msgid "Matching"
-msgstr ""
+msgstr "совпадающий"
 
 #: packages/community_store/blocks/community_product_list/form.php:90
 msgid "All groups selected"
-msgstr ""
+msgstr "Выбраны все группы"
 
 #: packages/community_store/blocks/community_product_list/form.php:90
 msgid "Any group selected"
-msgstr ""
+msgstr "Выбрана любая группа"
 
 #: packages/community_store/blocks/community_product_list/form.php:98
 msgid "Include Featured Only"
-msgstr ""
+msgstr "Включить только избранные"
 
 #: packages/community_store/blocks/community_product_list/form.php:104
 msgid "Include On Sale Only"
-msgstr ""
+msgstr "Включить только на рапродаже"
 
 #: packages/community_store/blocks/community_product_list/form.php:110
 msgid "Include Out of Stock Products"
-msgstr ""
+msgstr "Включить не имеющиеся в наличии"
 
 #: packages/community_store/blocks/community_product_list/form.php:119
 msgid "Pagination and Display Options"
-msgstr ""
+msgstr "Параметры разбивки на страницы и отображения"
 
 #: packages/community_store/blocks/community_product_list/form.php:122
 msgid "Number of Products to Display"
-msgstr ""
+msgstr "Количество товаров для отображения"
 
 #: packages/community_store/blocks/community_product_list/form.php:123
 msgid "leave blank or 0 to list all matching products"
-msgstr ""
+msgstr "оставьте пустым или 0, чтобы отобразить все совпадающие товары"
 
 #: packages/community_store/blocks/community_product_list/form.php:129
 msgid ""
 "Display pagination interface if more products are available than are "
 "displayed."
 msgstr ""
+"Показать интерфейс разбивки на страницы, если доступно больше товаров, чем "
+"показано."
 
 #: packages/community_store/blocks/community_product_list/form.php:134
 msgid "Products per Row"
-msgstr ""
+msgstr "Товаров в ряд"
 
 #: packages/community_store/blocks/community_product_list/form.php:140
 #: packages/community_store/single_pages/dashboard/store/settings.php:171
 msgid "Display Name"
-msgstr "Название"
+msgstr "Показать название"
 
 #: packages/community_store/blocks/community_product_list/form.php:146
 msgid "Display Price"
-msgstr ""
+msgstr "Показать цену"
 
 #: packages/community_store/blocks/community_product_list/form.php:152
 msgid "Display Add To Cart Button"
-msgstr ""
+msgstr "Показать кнопку Добавить в корзину"
 
 #: packages/community_store/blocks/community_product_list/form.php:156
 msgid "Add To Cart Button Text"
-msgstr ""
+msgstr "Текст кнопки Добавить в корзину"
 
 #: packages/community_store/blocks/community_product_list/form.php:157
 msgid "Defaults to: Add To Cart"
-msgstr ""
+msgstr "По умолчанию: Добавить в корзину"
 
 #: packages/community_store/blocks/community_product_list/form.php:162
 msgid "Display Quantity Selector"
-msgstr ""
+msgstr "Показать выбор количества"
 
 #: packages/community_store/blocks/community_product_list/form.php:168
 msgid "Display Product Description"
-msgstr ""
+msgstr "Показать описание товара"
 
 #: packages/community_store/blocks/community_product_list/form.php:177
 msgid "Display Quickview Link (Modal Window)"
-msgstr ""
+msgstr "Показать ссылку быстрого просмотра (модальное окно)"
 
 #: packages/community_store/blocks/community_product_list/form.php:183
 msgid "Display Link To Product Page"
-msgstr ""
+msgstr "Показать ссылку на страницу товара"
 
 #: packages/community_store/blocks/community_product_list/form.php:187
 msgid "Link To Product Page Text"
-msgstr ""
+msgstr "Текст ссылки на страницу товара"
 
 #: packages/community_store/blocks/community_product_list/form.php:188
 msgid "Defaults to: More Details"
-msgstr ""
+msgstr "По умолчанию: Подробнее"
 
 #: packages/community_store/blocks/community_product_list/view.php:27
 msgid "Sort by"
-msgstr ""
+msgstr "Сортировать по"
 
 #: packages/community_store/blocks/community_product_list/view.php:31
 msgid "price, lowest to highest"
-msgstr ""
+msgstr "цене, от низкой до высокой"
 
 #: packages/community_store/blocks/community_product_list/view.php:32
 msgid "price, highest to lowest"
-msgstr ""
+msgstr "цене, от высокой до низкой"
 
 #: packages/community_store/blocks/community_product_list/view.php:163
 msgid "More Details"
@@ -458,123 +459,123 @@ msgstr "Подробнее"
 
 #: packages/community_store/blocks/community_product_list/view.php:340
 msgid "Empty Product List"
-msgstr ""
+msgstr "Очистить список товаров"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:22
 msgid "Add your cart links for Community Store"
-msgstr ""
+msgstr "Добавить ссылки вашей корзины в Магазин Сообщества"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:27
 msgid "Utility Links"
-msgstr ""
+msgstr "Полезные ссылки"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:80
 msgid "Cart Label must be set"
-msgstr ""
+msgstr "Метка корзины должна быть установлена"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:83
 msgid "Cart Link Label exceeds 255 characters"
-msgstr ""
+msgstr "Ссылка метки корзины превышает 255 символов"
 
 #: packages/community_store/blocks/community_utility_links/controller.php:86
 msgid "Cart Items Label exceeds 255 characters"
-msgstr ""
+msgstr "Ссылка метки товаров корзины превышает 255 символов"
 
 #: packages/community_store/blocks/community_utility_links/form.php:5
 msgid "Show Number Of Items In Cart"
-msgstr ""
+msgstr "Показывать количество товаров в корзине"
 
 #: packages/community_store/blocks/community_utility_links/form.php:12
 msgid "Show Cart Total"
-msgstr ""
+msgstr "Показывать всего корзины"
 
 #: packages/community_store/blocks/community_utility_links/form.php:19
 msgid "Show Checkout Link"
-msgstr ""
+msgstr "Показывать ссылку оформления заказа"
 
 #: packages/community_store/blocks/community_utility_links/form.php:26
 msgid "Display Cart In Popup"
-msgstr ""
+msgstr "Показывать корзину в всплывающем окне"
 
 #: packages/community_store/blocks/community_utility_links/form.php:33
 msgid "Show Greeting"
-msgstr ""
+msgstr "Показывать приветствие"
 
 #: packages/community_store/blocks/community_utility_links/form.php:40
 msgid "Show Sign-In Link"
-msgstr ""
+msgstr "Показывать ссылку Логин"
 
 #: packages/community_store/blocks/community_utility_links/form.php:46
 msgid "Cart Link Label"
-msgstr ""
+msgstr "Текст ссылки Корзина"
 
 #: packages/community_store/blocks/community_utility_links/form.php:47
 msgid "View Cart"
-msgstr ""
+msgstr "Просмотр корзины"
 
 #: packages/community_store/blocks/community_utility_links/form.php:50
 msgid "Cart Items Label"
-msgstr ""
+msgstr "Текст ссылки Товары в корзине"
 
 #: packages/community_store/blocks/community_utility_links/form.php:51
 msgid "Items in Cart"
-msgstr ""
+msgstr "Товары в корзине"
 
 #: packages/community_store/blocks/community_utility_links/view.php:9
 #: packages/community_store/single_pages/checkout.php:39
 msgid "Sign In"
-msgstr "Авторизация"
+msgstr "Войти"
 
 #: packages/community_store/blocks/community_utility_links/view.php:15
 msgid "Welcome back"
-msgstr ""
+msgstr "Добро пожаловать"
 
 #: packages/community_store/blocks/community_utility_links/view.php:18
 msgid "Welcome back, "
-msgstr ""
+msgstr "Добро пожаловать, "
 
 #: packages/community_store/blocks/community_utility_links/view.php:51
 #: packages/community_store/elements/cart_modal.php:206
 #: packages/community_store/single_pages/cart.php:224
 #: packages/community_store/single_pages/checkout.php:9
 msgid "Checkout"
-msgstr ""
+msgstr "Оформление заказа"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:28
 msgid "Order Attributes"
-msgstr ""
+msgstr "Атрибуты заказа"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:38
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:36
 msgid "Attribute Deleted."
-msgstr ""
+msgstr "Атрибут удален."
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:43
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:41
 msgid "Attribute Created."
-msgstr ""
+msgstr "Атрибут создан."
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:48
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:46
 msgid "Attribute Updated."
-msgstr ""
+msgstr "Атрибут обнавлен."
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:57
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:55
 msgid "Invalid attribute ID."
-msgstr "Некорректный идентификатор атрибута."
+msgstr "Недопустимый идентификатор атрибута."
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders/attributes.php:79
 msgid "Create Order Attribute"
-msgstr ""
+msgstr "Создать атрибут заказа"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:26
 msgid "Product Attributes"
-msgstr ""
+msgstr "Атрибуты товаров"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:77
 msgid "Create Product Attribute"
-msgstr ""
+msgstr "Создать атрибут товара"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:15
 #: packages/community_store/single_pages/dashboard/store/products.php:60
@@ -583,11 +584,11 @@ msgstr "Категории"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:22
 msgid "Category Order Updated"
-msgstr ""
+msgstr "Порядок категорий обнавлен"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:40
 msgid "Manage Category: "
-msgstr ""
+msgstr "Управлять категорией:"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:56
 #: packages/community_store/controllers/single_page/dashboard/store/orders.php:64
@@ -596,7 +597,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:223
 #: packages/community_store/single_pages/dashboard/store.php:145
 msgid "Order #"
-msgstr ""
+msgstr "Заказ №"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:57
 #: packages/community_store/single_pages/checkout.php:67
@@ -604,7 +605,7 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:206
 #: packages/community_store/single_pages/checkout.php:207
 msgid "Last Name"
-msgstr ""
+msgstr "Фамилия"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:58
 #: packages/community_store/single_pages/checkout.php:63
@@ -612,7 +613,7 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:201
 #: packages/community_store/single_pages/checkout.php:202
 msgid "First Name"
-msgstr ""
+msgstr "Имя"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:59
 #: packages/community_store/elements/order_slip.php:62
@@ -623,7 +624,7 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:73
 #: packages/community_store/single_pages/checkout.php:160
 msgid "Email"
-msgstr "Email"
+msgstr "Емейл"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:60
 #: packages/community_store/elements/order_slip.php:70
@@ -641,30 +642,30 @@ msgstr "Телефон"
 #: packages/community_store/single_pages/dashboard/store/products.php:494
 #: packages/community_store/single_pages/dashboard/store/products.php:909
 msgid "Options"
-msgstr "Настройки"
+msgstr "Варианты"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:64
 #: packages/community_store/single_pages/dashboard/store/orders.php:521
 msgid "Order Date"
-msgstr ""
+msgstr "Дата заказа"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:65
 msgid "Order Status"
-msgstr ""
+msgstr "Статус заказа"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:89
 msgid "Orders of %s"
-msgstr ""
+msgstr "Заказы %s"
 
 #. file name for product customer exports
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:93
 msgid "product_orders"
-msgstr ""
+msgstr "заказы_товаров"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:21
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:71
 msgid "Add Shipping Method"
-msgstr ""
+msgstr "Все способы доставки"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:24
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:23
@@ -679,7 +680,7 @@ msgstr "Добавить"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:28
 msgid "Edit Shipping Method"
-msgstr ""
+msgstr "Редактировать способ доставки"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:33
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:30
@@ -694,316 +695,319 @@ msgstr "Обновить"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:44
 msgid "Shipping method created"
-msgstr ""
+msgstr "Способ доставки создан"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:49
 msgid "Shipping method updated"
-msgstr ""
+msgstr "Способ доставки обнавлен"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:54
 msgid "Shipping method removed"
-msgstr ""
+msgstr "Способ доставки удален"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:99
 msgid "Method Name must be set"
-msgstr ""
+msgstr "Способ должен быть установлен"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:22
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:121
 msgid "Add Tax Rate"
-msgstr ""
+msgstr "Добавить ставку налога"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:29
 msgid "Edit Tax Rate"
-msgstr ""
+msgstr "Редактировать ставку налога"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:48
 msgid "Successfully added a new Tax Rate"
-msgstr ""
+msgstr "Ставка налога успешно добавлена"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:53
 msgid "Successfully updated"
-msgstr ""
+msgstr "Успешно обновлено"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:58
 msgid "Successfully removed"
-msgstr ""
+msgstr "Успешно удалено"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:91
 msgid "You need a label for this Tax Rate"
-msgstr ""
+msgstr "Нужна метка для этой налоговой ставки"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:95
 msgid "Tax Rate must be a number"
-msgstr ""
+msgstr "Налоговая ставка должна быть числом"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:98
 msgid "You need to enter a tax rate"
-msgstr ""
+msgstr "Нужно ввести ставку налога"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:148
 msgid "You need a name for this Tax Class"
-msgstr ""
+msgstr "Нужно имя для этого типа налога"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:152
 msgid "You can only have one tax rate with your current tax settings"
-msgstr ""
+msgstr "Может быть только одна ставка налога с текущими настройками налогов"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:166
 msgid "Tax Class removed"
-msgstr ""
+msgstr "Тип налогов удален"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:171
 msgid "Tax Class Added"
-msgstr ""
+msgstr "Тип налогов добавлен"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:177
 msgid "Tax Class updated"
-msgstr ""
+msgstr "Тип налогов обнавлен"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:24
 msgid "Discount Rules"
-msgstr ""
+msgstr "Правила скидок"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:28
 #: packages/community_store/single_pages/dashboard/store/discounts.php:20
 msgid "Add Discount Rule"
-msgstr ""
+msgstr "Добавить правило скидки"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:36
 #: packages/community_store/single_pages/dashboard/store/discounts.php:333
 msgid "Edit Discount Rule"
-msgstr ""
+msgstr "Редактировать правило скидки"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:47
 msgid "Codes for discount rule"
-msgstr ""
+msgstr "Коды для правила скидки"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:153
 msgid "Discount Rule Added"
-msgstr ""
+msgstr "Правило скидки добавлено"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:158
 msgid "Discount Rule Updated"
-msgstr ""
+msgstr "Правило скидки обнавлено"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:163
 msgid "Discount Rule Deleted"
-msgstr ""
+msgstr "Правило скидки удалено"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders.php:44
 msgid "Orders"
-msgstr ""
+msgstr "Заказы"
 
 #: packages/community_store/controllers/single_page/dashboard/store/orders.php:68
 msgid "Order Removed"
-msgstr ""
+msgstr "Заказ удален"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:63
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:111
 msgid "Product Added"
-msgstr ""
+msgstr "Товар добавлен"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:69
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:107
 msgid "Product Updated"
-msgstr ""
+msgstr "Товар обнавлен"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:73
 msgid "Product Removed"
-msgstr ""
+msgstr "Товар удален"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:101
 #: packages/community_store/single_pages/dashboard/store/products.php:1315
 msgid "Add Product"
-msgstr ""
+msgstr "Добавить товар"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:115
 msgid "Product Duplicated"
-msgstr ""
+msgstr "Товар скопирован"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:213
 msgid "Edit Product"
-msgstr ""
+msgstr "Редактировать товар"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:235
 #: packages/community_store/single_pages/dashboard/store/products.php:38
 #: packages/community_store/single_pages/dashboard/store/products.php:1479
 msgid "Duplicate Product"
-msgstr ""
+msgstr "Копировать товар"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:351
 msgid "Please enter a Product Name"
-msgstr ""
+msgstr "Пожалуйста введите Название товара"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:354
 msgid "The Product Name can not be greater than 255 Characters"
-msgstr ""
+msgstr "Название товара не может быть больше чем 255 символов"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:357
 msgid "The Quantity must be set, and numeric"
-msgstr ""
+msgstr "Количество должно быть установлено и быть числом"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:360
 msgid "The Product Width must be a number"
-msgstr ""
+msgstr "Ширина товара должна быть число"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:363
 msgid "The Product Height must be a number"
-msgstr ""
+msgstr "Высота товара должна быть число"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:366
 msgid "The Product Length must be a number"
-msgstr ""
+msgstr "Длина товара должна быть число"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:369
 msgid "The Product Weight must be a number"
-msgstr ""
+msgstr "Вес товара должен быть число"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:409
 msgid "Please enter a Group Name"
-msgstr ""
+msgstr "Пожалуйста введите Название Группы"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products.php:412
 msgid "A Group Name can not be more than 100 characters"
-msgstr ""
+msgstr "Название Группы не может быть больше чем 100 символов"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:36
 msgid "Settings Saved"
-msgstr ""
+msgstr "Настройки сохранены"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:149
 msgid "You must set a currency symbol"
-msgstr ""
+msgstr "Символ валюты должен быть установлен"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:153
 msgid "Tax Rate must be set, and a number"
-msgstr ""
+msgstr "Налоговая ставка должна быть установлена и быть числом"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:158
 msgid "Shipping Base Rate must be set, and a number"
-msgstr ""
+msgstr "Базовая ставка доставки должна быть установлена и быть числом"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:161
 msgid "Shipping Base Rate must be set, and a number (even if just zero)"
 msgstr ""
+"Базовая ставка доставки должна быть установлена и быть числом (даже если 0)"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:171
 msgid "At least one payment method must be enabled"
-msgstr ""
+msgstr "Должен быть включен хотя бы один способ оплаты"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:180
 msgid "You must have at least one Order Status."
-msgstr ""
+msgstr "Должен быть хотя бы один Статус заказа"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings.php:188
 msgid ""
 "The %s Tax Class can't contain more than 1 Tax Rate if you change how the "
 "taxes are calculated"
 msgstr ""
+"Тип налогов % s не может содержать более 1 Налоговой ставки, если вы "
+"изменяется способ расчета налогов"
 
 #: packages/community_store/controllers/single_page/dashboard/store.php:53
 msgid "Store"
-msgstr ""
+msgstr "Магазин"
 
 #: packages/community_store/elements/attribute/type_form_order_groups.php:7
 msgid "For customers in these groups"
-msgstr ""
+msgstr "Для клиентов в этих группах"
 
 #: packages/community_store/elements/attribute/type_form_order_groups.php:9
 msgid "Available for all Groups"
-msgstr ""
+msgstr "Доступно для всех групп"
 
 #: packages/community_store/elements/checkout/shipping_methods.php:33
 #: packages/community_store/single_pages/cart.php:197
 #: packages/community_store/single_pages/checkout.php:294
 #: packages/community_store/single_pages/checkout.php:476
 msgid "No Charge"
-msgstr ""
+msgstr "Без изменений"
 
 #: packages/community_store/elements/checkout/shipping_methods.php:50
 msgid "There are no shipping options to process your order."
-msgstr ""
+msgstr "Нет опций доставки для обработки заказа"
 
 #: packages/community_store/elements/invoice/checkout_form.php:5
 msgid "An invoice will be sent to you upon ordering"
-msgstr ""
+msgstr "Счет будет отправлен вам при заказе"
 
 #: packages/community_store/elements/invoice/dashboard_form.php:7
 msgid "Minimum Order Value"
-msgstr ""
+msgstr "Минимальная стоимость заказа"
 
 #: packages/community_store/elements/invoice/dashboard_form.php:12
 msgid "Maximum Order Value"
-msgstr ""
+msgstr "Максимальная стоимость заказа"
 
 #: packages/community_store/elements/invoice/dashboard_form.php:17
 msgid "Payment Instructions"
-msgstr ""
+msgstr "Инструкции по оплате"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:9
 #: packages/community_store/single_pages/dashboard/store/products.php:979
 msgid "Base Price"
-msgstr ""
+msgstr "Базисная цена"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:17
 msgid "Rate Based On"
-msgstr ""
+msgstr "Ставка основана на"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:23
 msgid "Price per Item"
-msgstr ""
+msgstr "Цена за штуку"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:27
 msgid "Price per "
-msgstr ""
+msgstr "Цена за"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:38
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:7
 msgid "Which Countries does this Apply to?"
-msgstr ""
+msgstr "К каким странам это относится?"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:39
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:8
 msgid "All Countries"
-msgstr ""
+msgstr "Все страны"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:39
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:8
 msgid "Certain Countries"
-msgstr ""
+msgstr "Определенные страны"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:44
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:13
 msgid "If Certain Countries, which?"
-msgstr ""
+msgstr "Какие определенные страны?"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:57
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:26
 msgid "Minimum Purchase Amount for this rate to apply"
-msgstr ""
+msgstr "Минимальная стоимость покупки для этой ставки"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:63
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:32
 msgid "Maximum Purchase Amount for this rate to apply"
-msgstr ""
+msgstr "Максимальная стоимость покупки для этой ставки"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:65
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:86
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:34
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:55
 msgid "Leave at 0 for no maximum"
-msgstr ""
+msgstr "Оставить 0, если без максимума"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:72
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:41
 msgid "Minimum Weight Amount for this rate to apply"
-msgstr ""
+msgstr "Минимальный вес покупки для этой ставки"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:81
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:50
 msgid "Maximum Weight Amount for this rate to apply"
-msgstr ""
+msgstr "Максимальный вес покупки для этой ставки"
 
 #: packages/community_store/elements/cart_list.php:17
 #: packages/community_store/elements/cart_modal.php:46
@@ -1016,55 +1020,57 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/products.php:1350
 #: packages/community_store/single_pages/cart.php:44
 msgid "Price"
-msgstr "Стоимость"
+msgstr "Цена"
 
 #: packages/community_store/elements/cart_modal.php:10
 #: packages/community_store/single_pages/cart.php:9
 msgid "Shopping Cart"
-msgstr ""
+msgstr "Корзина"
 
 #: packages/community_store/elements/cart_modal.php:14
 msgid "has been added to your cart"
-msgstr ""
+msgstr "был добавлен в корзину"
 
 #: packages/community_store/elements/cart_modal.php:18
 #: packages/community_store/single_pages/cart.php:13
 msgid "Your cart has been updated"
-msgstr ""
+msgstr "Ваша корзина была обновлена"
 
 #: packages/community_store/elements/cart_modal.php:22
 #: packages/community_store/single_pages/cart.php:21
 msgid "Your cart has been cleared"
-msgstr ""
+msgstr "Ваша корзина была очищена"
 
 #: packages/community_store/elements/cart_modal.php:26
 #: packages/community_store/single_pages/cart.php:25
 msgid "Item removed"
-msgstr ""
+msgstr "Товар удален"
 
 #: packages/community_store/elements/cart_modal.php:30
 #: packages/community_store/single_pages/cart.php:29
 msgid "Due to stock levels your quantity has been limited"
-msgstr ""
+msgstr "Из-за уровня запасов ваше количество ограничено"
 
 #: packages/community_store/elements/cart_modal.php:34
 msgid ""
 "An issue has occured adding the product to the cart. You may be missing "
 "required information."
 msgstr ""
+"Возникла проблема с добавлением товара в корзину. Возможно, вам не хватает "
+"необходимой информации."
 
 #: packages/community_store/elements/cart_modal.php:183
 #: packages/community_store/single_pages/cart.php:204
 #: packages/community_store/single_pages/checkout.php:419
 msgid "Discount Applied"
-msgstr ""
+msgstr "Скидка приложена"
 
 #: packages/community_store/elements/cart_modal.php:183
 #: packages/community_store/single_pages/dashboard/store/orders.php:175
 #: packages/community_store/single_pages/cart.php:204
 #: packages/community_store/single_pages/checkout.php:419
 msgid "Discounts Applied"
-msgstr ""
+msgstr "Скидки приложены"
 
 #: packages/community_store/elements/cart_modal.php:194
 #: packages/community_store/mail/new_order_notification.php:153
@@ -1086,35 +1092,35 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store.php:150
 #: packages/community_store/single_pages/cart.php:218
 msgid "Total"
-msgstr ""
+msgstr "Итого"
 
 #: packages/community_store/elements/cart_modal.php:198
 #: packages/community_store/single_pages/cart.php:227
 msgid "Your cart is empty"
-msgstr ""
+msgstr "Ваша корзина пуста"
 
 #: packages/community_store/elements/cart_modal.php:203
 msgid "Continue Shopping"
-msgstr ""
+msgstr "Продолжить покупки"
 
 #: packages/community_store/elements/cart_modal.php:205
 #: packages/community_store/single_pages/cart.php:151
 msgid "Clear Cart"
-msgstr ""
+msgstr "Очистить корзину"
 
 #: packages/community_store/elements/order_slip.php:27
 #: packages/community_store/mail/new_order_notification.php:24
 #: packages/community_store/mail/order_receipt.php:30
 #: packages/community_store/single_pages/dashboard/store/orders.php:22
 msgid "Order placed"
-msgstr ""
+msgstr "Заказ размещен"
 
 #: packages/community_store/elements/order_slip.php:36
 #: packages/community_store/mail/order_receipt.php:204
 #: packages/community_store/single_pages/dashboard/store/orders.php:31
 #: packages/community_store/single_pages/dashboard/store/orders.php:545
 msgid "Cancelled"
-msgstr ""
+msgstr "Отменено"
 
 #: packages/community_store/elements/order_slip.php:40
 #: packages/community_store/mail/order_receipt.php:207
@@ -1122,7 +1128,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:381
 #: packages/community_store/single_pages/dashboard/store/orders.php:569
 msgid "Refunded"
-msgstr ""
+msgstr "Возвращено"
 
 #: packages/community_store/elements/order_slip.php:42
 #: packages/community_store/mail/new_order_notification.php:162
@@ -1131,7 +1137,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:354
 #: packages/community_store/single_pages/dashboard/store/orders.php:571
 msgid "Paid"
-msgstr ""
+msgstr "Оплачено"
 
 #: packages/community_store/elements/order_slip.php:44
 #: packages/community_store/mail/new_order_notification.php:164
@@ -1140,7 +1146,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:337
 #: packages/community_store/single_pages/dashboard/store/orders.php:573
 msgid "Unpaid"
-msgstr ""
+msgstr "Не оплачено"
 
 #: packages/community_store/elements/order_slip.php:46
 #: packages/community_store/mail/new_order_notification.php:174
@@ -1149,12 +1155,12 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:334
 #: packages/community_store/single_pages/dashboard/store/orders.php:575
 msgid "Free Order"
-msgstr ""
+msgstr "Бесплатный заказ"
 
 #: packages/community_store/elements/order_slip.php:54
 #: packages/community_store/single_pages/dashboard/store/orders.php:49
 msgid "Customer Details"
-msgstr ""
+msgstr "Детали покупателя"
 
 #: packages/community_store/elements/order_slip.php:57
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:47
@@ -1182,7 +1188,7 @@ msgstr "Пользователь"
 #: packages/community_store/single_pages/checkout.php:325
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:218
 msgid "VAT Number"
-msgstr ""
+msgstr "НДС №"
 
 #: packages/community_store/elements/order_slip.php:93
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:55
@@ -1190,7 +1196,7 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:59
 #: packages/community_store/single_pages/checkout.php:152
 msgid "Billing Address"
-msgstr ""
+msgstr "Платежный адрес"
 
 #: packages/community_store/elements/order_slip.php:108
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:55
@@ -1198,7 +1204,7 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:197
 #: packages/community_store/single_pages/checkout.php:248
 msgid "Shipping Address"
-msgstr ""
+msgstr "Адрес доставки"
 
 #: packages/community_store/elements/order_slip.php:119
 #: packages/community_store/mail/new_order_notification.php:64
@@ -1207,12 +1213,12 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:128
 #: packages/community_store/single_pages/checkout.php:179
 msgid "Other Choices"
-msgstr ""
+msgstr "Другие варианты"
 
 #: packages/community_store/elements/order_slip.php:132
 #: packages/community_store/single_pages/dashboard/store/orders.php:115
 msgid "Order Items"
-msgstr ""
+msgstr "Товары заказа"
 
 #: packages/community_store/elements/order_slip.php:137
 #: packages/community_store/mail/new_order_notification.php:81
@@ -1221,12 +1227,12 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/products.php:75
 #: packages/community_store/single_pages/dashboard/store/products.php:1347
 msgid "Product Name"
-msgstr ""
+msgstr "Название товара"
 
 #: packages/community_store/elements/order_slip.php:138
 #: packages/community_store/single_pages/dashboard/store/orders.php:120
 msgid "Product Options"
-msgstr ""
+msgstr "Параметры товара"
 
 #: packages/community_store/elements/order_slip.php:141
 #: packages/community_store/elements/order_slip.php:181
@@ -1234,7 +1240,7 @@ msgstr ""
 #: packages/community_store/mail/order_receipt.php:91
 #: packages/community_store/single_pages/dashboard/store/orders.php:123
 msgid "Subtotal"
-msgstr ""
+msgstr "Промежуточный итог"
 
 #: packages/community_store/elements/order_slip.php:186
 #: packages/community_store/mail/new_order_notification.php:125
@@ -1258,40 +1264,40 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:289
 #: packages/community_store/single_pages/checkout.php:475
 msgid "Shipping"
-msgstr ""
+msgstr "Доставка"
 
 #: packages/community_store/elements/order_slip.php:190
 #: packages/community_store/mail/new_order_notification.php:137
 #: packages/community_store/mail/order_receipt.php:173
 msgid "Discounts"
-msgstr ""
+msgstr "Скидки"
 
 #: packages/community_store/elements/order_slip.php:190
 #: packages/community_store/mail/new_order_notification.php:137
 #: packages/community_store/mail/order_receipt.php:173
 #: packages/community_store/single_pages/dashboard/store/discounts.php:30
 msgid "Discount"
-msgstr ""
+msgstr "Скидка"
 
 #: packages/community_store/elements/order_slip.php:201
 #: packages/community_store/single_pages/dashboard/store/orders.php:222
 #: packages/community_store/single_pages/checkout.php:496
 msgid "Grand Total"
-msgstr ""
+msgstr "Общая сумма"
 
 #: packages/community_store/elements/order_slip.php:205
 #: packages/community_store/mail/new_order_notification.php:156
 #: packages/community_store/mail/order_receipt.php:192
 #: packages/community_store/single_pages/dashboard/store/orders.php:225
 msgid "Payment Method"
-msgstr ""
+msgstr "Способ оплаты"
 
 #: packages/community_store/elements/order_slip.php:207
 #: packages/community_store/mail/new_order_notification.php:126
 #: packages/community_store/mail/order_receipt.php:162
 #: packages/community_store/single_pages/dashboard/store/orders.php:234
 msgid "Shipping Method"
-msgstr ""
+msgstr "Способ доставки"
 
 #: packages/community_store/elements/order_slip.php:214
 #: packages/community_store/mail/new_order_notification.php:131
@@ -1299,40 +1305,40 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:259
 #: packages/community_store/single_pages/checkout.php:275
 msgid "Delivery Instructions"
-msgstr ""
+msgstr "Инструкции по доставке"
 
 #: packages/community_store/mail/new_order_notification.php:9
 msgid "New Order Notification #%s"
-msgstr ""
+msgstr "Уведомление о новом заказе #%s"
 
 #: packages/community_store/mail/new_order_notification.php:21
 msgid "An order has been placed"
-msgstr ""
+msgstr "Был размещен новый заказ"
 
 #: packages/community_store/mail/new_order_notification.php:23
 #: packages/community_store/mail/order_receipt.php:29
 msgid "Order"
-msgstr ""
+msgstr "Заказ"
 
 #: packages/community_store/mail/new_order_notification.php:29
 #: packages/community_store/mail/order_receipt.php:35
 msgid "Billing Information"
-msgstr ""
+msgstr "Платежная информация"
 
 #: packages/community_store/mail/new_order_notification.php:46
 #: packages/community_store/mail/order_receipt.php:51
 msgid "Shipping Information"
-msgstr ""
+msgstr "Информация о доставке"
 
 #: packages/community_store/mail/new_order_notification.php:77
 #: packages/community_store/mail/order_receipt.php:83
 msgid "Order Details"
-msgstr ""
+msgstr "Детали заказа"
 
 #: packages/community_store/mail/new_order_notification.php:83
 #: packages/community_store/mail/order_receipt.php:89
 msgid "Qty"
-msgstr ""
+msgstr "Количество"
 
 #: packages/community_store/mail/new_order_notification.php:106
 #: packages/community_store/single_pages/dashboard/store/orders.php:147
@@ -1344,55 +1350,57 @@ msgstr "Нет"
 #: packages/community_store/mail/order_receipt.php:217
 #: packages/community_store/single_pages/dashboard/store/orders.php:331
 msgid "Payment Status"
-msgstr ""
+msgstr "Статус оплаты"
 
 #: packages/community_store/mail/new_order_notification.php:171
 #: packages/community_store/single_pages/dashboard/store/orders.php:228
 #: packages/community_store/single_pages/dashboard/store/orders.php:416
 msgid "Transaction Reference"
-msgstr ""
+msgstr "Ссылка транзакции"
 
 #: packages/community_store/mail/new_order_notification.php:178
 msgid "View this order within the Dashboard"
-msgstr ""
+msgstr "Просмотрите этот заказ в панели управления"
 
 #: packages/community_store/mail/new_order_notification.php:196
 msgid "Order #:"
-msgstr ""
+msgstr "Заказ №"
 
 #: packages/community_store/mail/new_order_notification.php:197
 msgid "A new order has been placed on your website"
-msgstr ""
+msgstr "Новый заказ был сделан на вашем сайте"
 
 #: packages/community_store/mail/new_user.php:4
 msgid "account Created"
-msgstr ""
+msgstr "Учетная запись создана"
 
 #: packages/community_store/mail/new_user.php:16
 #: packages/community_store/mail/new_user.php:39
 msgid "Thank you for your order, an account has been created for you at"
-msgstr ""
+msgstr "Спасибо за ваш заказ, для вас создана учетная запись"
 
 #: packages/community_store/mail/order_receipt.php:8
 msgid "Order Receipt #%s"
-msgstr ""
+msgstr "Квитанция заказа №%s"
 
 #: packages/community_store/mail/order_receipt.php:26
 msgid "Your Order"
-msgstr ""
+msgstr "Ваш заказ"
 
 #: packages/community_store/mail/order_receipt.php:147
 #: packages/community_store/single_pages/checkout/complete.php:20
 msgid "Your Downloads"
-msgstr ""
+msgstr "Ваши загрузки"
 
 #: packages/community_store/single_pages/checkout/complete.php:3
 msgid "Order #%s has been placed"
-msgstr ""
+msgstr "Заказ №%s был размещен"
 
 #: packages/community_store/single_pages/checkout/complete.php:5
 msgid "Thank you for your order. A receipt will be emailed to you shortly."
 msgstr ""
+"Спасибо за ваш заказ. Квитанция будет отправлена вам по электронной почте в "
+"ближайшее время."
 
 #: packages/community_store/single_pages/dashboard/store/orders/attributes.php:31
 #: packages/community_store/single_pages/dashboard/store/products/attributes.php:29
@@ -1401,38 +1409,38 @@ msgstr "Добавить атрибут"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:8
 msgid "The following pages have been used to categorise products:"
-msgstr ""
+msgstr "Для категоризации товаров использовались следующие страницы:"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:10
 msgid "No pages have been used to categorise products"
-msgstr ""
+msgstr "Для категоризации товаров не использовались никакие страницы"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:16
 msgid "%d product"
 msgid_plural "%d products"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d товар"
+msgstr[1] "%d товаров"
+msgstr[2] "%d товаров"
+msgstr[3] "%d товаров"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:23
 msgid "Products within category"
-msgstr ""
+msgstr "Товаров в категории"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:31
 #: packages/community_store/single_pages/dashboard/store/products.php:95
 #: packages/community_store/single_pages/dashboard/store/products.php:1375
 msgid "Inactive"
-msgstr "Неактивные"
+msgstr "Неактивный"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:47
 #: packages/community_store/single_pages/dashboard/store/discounts.php:269
 msgid "Cancel"
-msgstr "Отмена"
+msgstr "Отменить"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:48
 msgid "Save Category Product Order"
-msgstr ""
+msgstr "Сохранить порядок товаров категории"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:15
 msgid "From"
@@ -1444,34 +1452,34 @@ msgstr "До"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:31
 msgid "Order By"
-msgstr ""
+msgstr "Сортировать по"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:33
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:48
 msgid "Quantity Sold"
-msgstr ""
+msgstr "Количество продано"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:38
 msgid "Filter Results"
-msgstr ""
+msgstr "Фильтровать результаты"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:75
 msgid "Export CSV"
-msgstr ""
+msgstr "Экспортировать в CSV"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:127
 msgid "Total Quantity Sold"
-msgstr ""
+msgstr "Всего количество продано"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:11
 #: packages/community_store/single_pages/dashboard/store.php:9
 msgid "Incl."
-msgstr ""
+msgstr "Вкл."
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:23
 #: packages/community_store/single_pages/dashboard/store.php:26
 msgid "Today's Sales"
-msgstr ""
+msgstr "Продажи сегодня"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:36
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:62
@@ -1485,24 +1493,24 @@ msgstr ""
 #: packages/community_store/single_pages/checkout.php:487
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:108
 msgid "Tax"
-msgstr ""
+msgstr "Налог"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:49
 msgid "Past 30 Days"
-msgstr ""
+msgstr "За последние 30 дней"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:75
 #: packages/community_store/single_pages/dashboard/store.php:52
 msgid "Year to Date"
-msgstr ""
+msgstr "С начала года"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:183
 msgid "View Orders by Date"
-msgstr ""
+msgstr "Посмотреть заказы по датам"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:198
 msgid "Summary"
-msgstr ""
+msgstr "Итог"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:206
 msgid "Export"
@@ -1510,7 +1518,7 @@ msgstr "Экспортировать"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:215
 msgid "Export to CSV"
-msgstr "Экспорт в CSV"
+msgstr "Экспортировать в CSV"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:224
 #: packages/community_store/single_pages/dashboard/store/orders.php:291
@@ -1520,7 +1528,7 @@ msgstr "Дата"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:26
 msgid "Method Name"
-msgstr ""
+msgstr "Названия способа"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:32
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:100
@@ -1564,20 +1572,20 @@ msgstr "Нет"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:38
 msgid "Details"
-msgstr "Подробно"
+msgstr "Детали"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:60
 msgid "%s Shipping Method"
-msgstr ""
+msgstr "%s способ доставки"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:81
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:123
 msgid "General Settings"
-msgstr ""
+msgstr "Основные настройки"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:99
 msgid "%s Methods"
-msgstr ""
+msgstr "%s способы"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:101
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:133
@@ -1591,11 +1599,11 @@ msgstr "Действия"
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:152
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:180
 msgid "Edit"
-msgstr "Правка"
+msgstr "Редактировать"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:117
 msgid "Disable"
-msgstr "Отключить"
+msgstr "Выключить"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:120
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:154
@@ -1606,47 +1614,47 @@ msgstr "Удалить"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:133
 msgid "No shipping methods are configured"
-msgstr ""
+msgstr "Способы доставки не настроены"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:138
 msgid "No shipping methods are currently enabled"
-msgstr ""
+msgstr "Способы доставки на данный момент не включены"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:20
 msgid "Enable Tax Rate"
-msgstr ""
+msgstr "Включить Ставку налога"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:26
 msgid "Tax Label"
-msgstr ""
+msgstr "Метка налога"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:32
 msgid "Tax Rate %"
-msgstr ""
+msgstr "Ставка налога %"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:42
 msgid "Tax is Based on the"
-msgstr ""
+msgstr "Ставка налога основана на"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:43
 msgid "Product Total"
-msgstr ""
+msgstr "Итого товаров"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:43
 msgid "Product Total + Shipping"
-msgstr ""
+msgstr "Итого товаров + доставка"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:46
 msgid "When to Charge Tax"
-msgstr ""
+msgstr "Когда начислять налог"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:54
 msgid "If the Customers..."
-msgstr ""
+msgstr "Если клиенты..."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:62
 msgid "Matches..."
-msgstr ""
+msgstr "совпадает..."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:64
 #: packages/community_store/single_pages/checkout.php:105
@@ -1656,7 +1664,7 @@ msgstr "Страна"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:73
 msgid "Region"
-msgstr ""
+msgstr "Регион"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:73
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:82
@@ -1675,47 +1683,49 @@ msgstr "Город"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:92
 msgid "VAT Number Options"
-msgstr ""
+msgstr "Опции НДС №"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:99
 msgid "Do not apply tax if a valid VAT number is supplied"
-msgstr ""
+msgstr "Не применяйте налог, если указан действительный НДС №"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:101
 msgid ""
 "If the customer has entered a correctly formatted VAT Number then this tax "
 "will not be applied at checkout."
 msgstr ""
+"Если клиент ввел правильно отформатированный НДС №, этот налог не будет "
+"применяться при оформлении заказа."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:113
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:240
 msgid "%s Tax Rate"
-msgstr ""
+msgstr "%s ставка налога"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:122
 msgid "Add Tax Class"
-msgstr ""
+msgstr "Добавить тип налога"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:131
 #: packages/community_store/single_pages/dashboard/store/products.php:204
 msgid "Tax Class"
-msgstr ""
+msgstr "Тип налога"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:132
 msgid "Associated Tax Rates"
-msgstr ""
+msgstr "Связанные ставки налога"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:166
 msgid "Tax Rate"
-msgstr ""
+msgstr "Ставка налога"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:167
 msgid "Rate"
-msgstr ""
+msgstr "Ставка"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:199
 msgid "Tax Class Name"
-msgstr ""
+msgstr "Имя типа налога"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:204
 msgid ""
@@ -1723,14 +1733,17 @@ msgid ""
 "class. If you need more, you must change this setting in the %stax setting "
 "here%s"
 msgstr ""
+"Поскольку цены ВКЛЮЧАЮТ налог, вы можете указать только одну ставку налога "
+"за тип. Если вам нужно больше, вы должны изменить этот параметр в "
+"%sнастройке налога%s"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:208
 msgid "Select Tax Class Rates"
-msgstr ""
+msgstr "Выбрать Ставки типа налогов"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:239
 msgid "Cancel / View Taxes"
-msgstr ""
+msgstr "Отменить / Посмотреть ставки"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:29
 msgid "Display"
@@ -1738,143 +1751,143 @@ msgstr "Отображать"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:31
 msgid "Applies"
-msgstr ""
+msgstr "Применяется"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:32
 msgid "Availability"
-msgstr ""
+msgstr "Наличие"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:47
 #: packages/community_store/single_pages/dashboard/store/discounts.php:49
 msgid "from"
-msgstr ""
+msgstr "От"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:56
 msgid "automatically"
-msgstr ""
+msgstr "автоматически"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:59
 msgid "when single use code entered"
-msgstr ""
+msgstr "при вводе одноразового кода"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:60
 msgid "of"
-msgstr " "
+msgstr "из"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:60
 msgid "codes available"
-msgstr ""
+msgstr "доступных кодов"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:62
 msgid "when code entered"
-msgstr ""
+msgstr "когда код введен"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:63
 msgid "code"
-msgstr ""
+msgstr "код"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:63
 msgid "codes"
-msgstr ""
+msgstr "коды"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:63
 msgid "configured"
-msgstr ""
+msgstr "сконфигурировано"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:73
 msgid "starts"
-msgstr ""
+msgstr "начинается"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:77
 msgid "expires"
-msgstr ""
+msgstr "истекает"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:81
 msgid "always"
-msgstr ""
+msgstr "всегда"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:93
 #: packages/community_store/single_pages/dashboard/store/settings.php:287
 msgid "Disabled"
-msgstr "Отключено"
+msgstr "Выключено"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:102
 msgid "Manage Codes"
-msgstr ""
+msgstr "Управлять кодами"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:168
 msgid "Display Text"
-msgstr "Отображать Текст"
+msgstr "Показать текст"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:175
 msgid "Deduction Type"
-msgstr ""
+msgstr "Тип вычета"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:176
 msgid "Percentage"
-msgstr ""
+msgstr "Процент"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:177
 msgid "Value"
-msgstr ""
+msgstr "Значение"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:181
 msgid "Percentage Discount"
-msgstr ""
+msgstr "Процентная скидка"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:189
 msgid "Value Discount"
-msgstr ""
+msgstr "Скидка"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:201
 msgid "Deduct From"
-msgstr ""
+msgstr "Вычесть из"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:205
 msgid "Items Sub-total"
-msgstr ""
+msgstr "Итого товаров"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:209
 #: packages/community_store/single_pages/cart.php:175
 #: packages/community_store/single_pages/checkout.php:445
 msgid "Apply"
-msgstr ""
+msgstr "Применить"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:210
 msgid "Automatically, (when matching all restrictions)"
-msgstr ""
+msgstr "Автоматически, когда совпадают все ограничения"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:211
 msgid "When valid code entered"
-msgstr ""
+msgstr "Когда введен правильный код"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:216
 msgid "Single use codes"
-msgstr ""
+msgstr "Одноразовые коды"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:219
 msgid "Codes can be entered after creating rule"
-msgstr ""
+msgstr "Коды могут быть введены после создания правила"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:225
 msgid "Restrictions"
-msgstr ""
+msgstr "Ограничения"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:229
 msgid "Starts"
-msgstr ""
+msgstr "Начинается"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:232
 msgid "Immedately"
-msgstr ""
+msgstr "Немедленно"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:232
 msgid "From a specified date"
-msgstr ""
+msgstr "От указанной даты"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:242
 msgid "Ends"
-msgstr "Оканчивается"
+msgstr "Заканчивается"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:245
 msgid "Never"
@@ -1882,39 +1895,39 @@ msgstr "Никогда"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:245
 msgid "At a specified date"
-msgstr ""
+msgstr "На указанную дату"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:259
 msgid "Description / Notes"
-msgstr ""
+msgstr "Описание / Примечания"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:279
 msgid "Are you sure you want to delete this discount rule?"
-msgstr ""
+msgstr "Вы уверены, что хотите удалить это правило скидки"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:338
 msgid "code added"
-msgstr ""
+msgstr "код добавлен"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:338
 msgid "codes added"
-msgstr ""
+msgstr "коды добавлены"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:342
 msgid "The following codes are invalid or are already active:"
-msgstr ""
+msgstr "Следующие коды являются недопустимыми или уже активны:"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:349
 msgid "Current Codes"
-msgstr ""
+msgstr "Текущие коды"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:353
 msgid "Single Use Codes"
-msgstr ""
+msgstr "Одновременные коды"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:355
 msgid "Codes can be repeatedly used"
-msgstr ""
+msgstr "Коды могут быть многократно использованы"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:361
 #: packages/community_store/single_pages/cart.php:172
@@ -1923,61 +1936,62 @@ msgstr "Код"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:364
 msgid "Used"
-msgstr ""
+msgstr "Использовано"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:375
 msgid "View Order"
-msgstr ""
+msgstr "Посмотреть порядок"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:381
 msgid "Available"
-msgstr ""
+msgstr "Доступно"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:408
 msgid "No codes specified"
-msgstr ""
+msgstr "Коды не указаны"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:413
 #: packages/community_store/single_pages/dashboard/store/discounts.php:422
 msgid "Add Codes"
-msgstr ""
+msgstr "Добавить коды"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:416
 msgid "Code(s)"
-msgstr ""
+msgstr "Код(ы)"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:418
 msgid "Seperate codes via lines or commas. Codes are case-insensitive."
 msgstr ""
+"Разделяйте коды через пробелы или запятые. Коды не чувствительны к регистру."
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:429
 msgid "Return to Discount Rules"
-msgstr ""
+msgstr "Вернуться к правилам скидок"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:14
 msgid "Print Order Slip"
-msgstr ""
+msgstr "Печатать лист заказа"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:165
 #: packages/community_store/single_pages/checkout.php:467
 msgid "Items Subtotal"
-msgstr ""
+msgstr "Промежуточный Итого товаров"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:181
 msgid "Displayed"
-msgstr ""
+msgstr "Показано"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:182
 msgid "Deducted From"
-msgstr ""
+msgstr "Вычтено из"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:184
 msgid "Triggered"
-msgstr ""
+msgstr "Вызвано"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:195
 msgid "by code"
-msgstr ""
+msgstr "кодом"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:195
 msgid "Automatically"
@@ -1985,20 +1999,20 @@ msgstr "Автоматически"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:245
 msgid "Carrier"
-msgstr ""
+msgstr "Перевозчик"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:249
 msgid "Tracking Code"
-msgstr ""
+msgstr "Код отслеживания"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:253
 msgid "View shipment tracking"
-msgstr ""
+msgstr "Посмотреть отслеживание доставки"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:286
 #: packages/community_store/single_pages/dashboard/store/orders.php:524
 msgid "Fulfilment"
-msgstr ""
+msgstr "Исполнение"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:290
 #: packages/community_store/single_pages/dashboard/store/orders.php:344
@@ -2007,88 +2021,90 @@ msgstr "Статус"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:314
 msgid "Update Fulfilment Status"
-msgstr ""
+msgstr "Обновить статус исполнения"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:345
 msgid "Date / Reference"
-msgstr ""
+msgstr "Дата / Ссылка"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:346
 msgid "By"
-msgstr ""
+msgstr "Кем"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:358
 msgid "Ref"
-msgstr ""
+msgstr "Ссылка"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:365
 msgid "payment"
-msgstr ""
+msgstr "оплата"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:371
 msgid "Are you sure you wish to reverse this payment?"
-msgstr ""
+msgstr "Вы действительно хотите отменить этот платеж?"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:371
 #: packages/community_store/single_pages/dashboard/store/orders.php:394
 msgid "reverse"
-msgstr ""
+msgstr "отменить"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:394
 msgid "Are you sure you wish to reverse this refund?"
-msgstr ""
+msgstr "Вы действительно хотите отменить этот возврат?"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:409
 msgid "Update Payment Status"
-msgstr ""
+msgstr "Обновить статус оплаты"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:419
 msgid "Mark Paid"
-msgstr ""
+msgstr "Отметить Оплачено"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:424
 msgid "Refund Reason"
-msgstr ""
+msgstr "Причина возврата"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:427
 msgid "Mark Refunded"
-msgstr ""
+msgstr "Отметить Возвращено"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:439
 msgid "Resend Invoice Email"
-msgstr ""
+msgstr "Отправить опять счет"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:447
 msgid "Resend Invoice"
-msgstr ""
+msgstr "Отправить счет"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:460
 #: packages/community_store/single_pages/dashboard/store/orders.php:462
 msgid "Cancel Order"
-msgstr ""
+msgstr "Отменить заказ"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:462
 msgid "Are you sure you wish to cancel this order?"
-msgstr ""
+msgstr "Вы действительно хотите отменить этот заказ?"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:467
 msgid "Are you sure you wish to reverse this cancellation?"
-msgstr ""
+msgstr "Вы действительно хотите отменить эту отмену?"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:467
 msgid "Reverse Cancellation"
-msgstr ""
+msgstr "Отменить отмену"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:472
 #: packages/community_store/single_pages/dashboard/store/orders.php:473
 msgid "Delete Order"
-msgstr ""
+msgstr "Удалить заказ"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:473
 msgid ""
 "Are you sure you wish to completely delete this order? The order number will"
 " be reused."
 msgstr ""
+"Вы уверены, что хотите полностью удалить этот заказ? Номер заказа будет "
+"повторно использован."
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:484
 #: packages/community_store/single_pages/dashboard/store.php:17
@@ -2096,19 +2112,21 @@ msgid ""
 "Cart and Ordering features are currently disabled. This setting can be "
 "changed via the"
 msgstr ""
+"Функции корзины и заказа в настоящее время отключены. Эта настройка может "
+"быть изменена с помощью"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:484
 #: packages/community_store/single_pages/dashboard/store.php:17
 msgid "settings page."
-msgstr ""
+msgstr "страницы настроек"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:492
 msgid "All Statuses"
-msgstr ""
+msgstr "Все статусы"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:506
 msgid "Search Orders"
-msgstr ""
+msgstr "Искать заказы"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:509
 #: packages/community_store/single_pages/dashboard/store/products.php:1338
@@ -2117,50 +2135,50 @@ msgstr "Поиск"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:519
 msgid "Order %s"
-msgstr ""
+msgstr "Заказ %s"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:520
 msgid "Customer Name"
-msgstr ""
+msgstr "Имя клиента"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:523
 #: packages/community_store/single_pages/checkout.php:341
 msgid "Payment"
-msgstr ""
+msgstr "Оплата"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:525
 #: packages/community_store/single_pages/dashboard/store/orders.php:580
 msgid "View"
-msgstr "Показать"
+msgstr "Смотреть"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:557
 msgid "Not found"
-msgstr ""
+msgstr "Не найдено"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:589
 msgid "No Orders Found"
-msgstr ""
+msgstr "Заказов не найдено"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:34
 msgid "Delete Product"
-msgstr ""
+msgstr "Удалить товар"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:46
 msgid "Are you sure you want to delete this product?"
-msgstr ""
+msgstr "Вы уверены, что вы хотите удалить этот товар?"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:59
 msgid "Overview"
-msgstr ""
+msgstr "Обзор"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:62
 msgid "Images"
-msgstr ""
+msgstr "Изображения"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:64
 #: packages/community_store/single_pages/dashboard/store/products.php:1082
 msgid "Related Products"
-msgstr ""
+msgstr "Сопутствующие товары"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:65
 msgid "Attributes"
@@ -2168,83 +2186,83 @@ msgstr "Атрибуты"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:66
 msgid "Memberships and Downloads"
-msgstr ""
+msgstr "Членства и загрузки"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:67
 msgid "Detail Page"
-msgstr ""
+msgstr "Страница описания"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:81
 msgid "Code / SKU"
-msgstr ""
+msgstr "Код / Артикул"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:94
 #: packages/community_store/single_pages/dashboard/store/products.php:95
 #: packages/community_store/single_pages/dashboard/store/products.php:1348
 #: packages/community_store/single_pages/dashboard/store/products.php:1373
 msgid "Active"
-msgstr "Активирован"
+msgstr "Активный"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:100
 msgid "Featured Product"
-msgstr ""
+msgstr "Избранный товар"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:118
 msgid "Default Price"
-msgstr ""
+msgstr "Цена по умолчанию"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:124
 msgid "No Price Set"
-msgstr ""
+msgstr "Цена не установлена"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:130
 #: packages/community_store/single_pages/dashboard/store/products.php:988
 msgid "Sale Price"
-msgstr ""
+msgstr "Цена продажи"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:140
 msgid "Price Suggestions"
-msgstr ""
+msgstr "Предложения по цене"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:163
 msgid "Minimum Price"
-msgstr ""
+msgstr "Минимальная цена"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:175
 msgid "Maximum Price"
-msgstr ""
+msgstr "Максимальная цена"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:190
 msgid "Allow customer to enter price"
-msgstr ""
+msgstr "Позволить клиенту вводить цену"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:198
 msgid "Taxable"
-msgstr ""
+msgstr "Облагается налогом"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:212
 #: packages/community_store/single_pages/dashboard/store/products.php:951
 #: packages/community_store/single_pages/dashboard/store/products.php:1349
 msgid "Stock Level"
-msgstr ""
+msgstr "Уровень запасов"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:218
 #: packages/community_store/single_pages/dashboard/store/products.php:964
 #: packages/community_store/single_pages/dashboard/store/products.php:1383
 msgid "Unlimited"
-msgstr ""
+msgstr "Неограничено"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:247
 msgid "Allow Back Orders"
-msgstr ""
+msgstr "Разрешить обратные заказы"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:252
 msgid "Offer quantity selection"
-msgstr ""
+msgstr "Предоставить выбор количества"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:253
 msgid "No, only allow one of this product in a cart"
-msgstr ""
+msgstr "Нет, возможен только один товар в корзине"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:277
 msgid "Short Description"
@@ -2252,32 +2270,32 @@ msgstr "Короткое описание"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:285
 msgid "Product Details (Long Description)"
-msgstr ""
+msgstr "Детали товара (длинное описание)"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:296
 msgid "Categorized under pages"
-msgstr ""
+msgstr "Категории распределены под страницами"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:324
 msgid "In product groups"
-msgstr ""
+msgstr "В группах товаров"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:327
 msgid "No Product Groups Available"
-msgstr ""
+msgstr "Нет доступных групп товаров"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:385
 msgid "Product is Shippable"
-msgstr ""
+msgstr "Товар можно доставить"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:400
 msgid "Number Of Items"
-msgstr ""
+msgstr "Количество товаров"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:407
 #: packages/community_store/single_pages/dashboard/store/products.php:1034
 msgid "Length"
-msgstr ""
+msgstr "Длина"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:415
 #: packages/community_store/single_pages/dashboard/store/products.php:1045
@@ -2291,71 +2309,71 @@ msgstr "Высота"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:440
 msgid "Primary Product Image"
-msgstr ""
+msgstr "Главное изображение товара"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:442
 #: packages/community_store/single_pages/dashboard/store/products.php:1010
 msgid "Choose Image"
-msgstr "Выберите изображение"
+msgstr "Выбрать изображение"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:445
 msgid "Additional Images"
-msgstr ""
+msgstr "Дополнительные изображения"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:459
 msgid "Choose Images"
-msgstr ""
+msgstr "Выбрать изображения"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:499
 #: packages/community_store/single_pages/dashboard/store/products.php:624
 msgid "Option List"
-msgstr ""
+msgstr "Лист опций"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:500
 msgid "Text Field"
-msgstr ""
+msgstr "Текстовое поле"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:501
 msgid "Text Area"
-msgstr ""
+msgstr "Текстовая область"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:502
 #: packages/community_store/single_pages/dashboard/store/products.php:627
 msgid "Checkbox"
-msgstr ""
+msgstr "Флажок"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:503
 #: packages/community_store/single_pages/dashboard/store/products.php:628
 msgid "Hidden Value"
-msgstr ""
+msgstr "Скрытое значение"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:516
 msgid "Delete the Option Group"
-msgstr ""
+msgstr "Удалить группу опций"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:525
 msgid "Option Name"
-msgstr ""
+msgstr "Название опции"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:531
 msgid "Option Handle"
-msgstr ""
+msgstr "Дескриптор опции"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:539
 msgid "In Variations"
-msgstr ""
+msgstr "В вариантах"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:561
 msgid "Add Option"
-msgstr "Добавить вариант ответа"
+msgstr "Добавить опцию"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:625
 msgid "Text Input"
-msgstr ""
+msgstr "Ввод текста"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:626
 msgid "Text Area Input"
-msgstr ""
+msgstr "Ввод текстовой области"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:767
 msgid "Option"
@@ -2363,95 +2381,101 @@ msgstr "Опция"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:775
 msgid "Hide"
-msgstr "Закрыть"
+msgstr "Скрыть"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:879
 msgid "Variations"
-msgstr ""
+msgstr "Варианты"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:881
 msgid "Options have different prices, SKUs or stock levels"
-msgstr ""
+msgstr "Опции имеют различные цены, артикул или уровни запасов"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:884
 msgid ""
 "After creating options add the product to configure product variations."
-msgstr ""
+msgstr "После создания опций добавьте товар для настройки вариантов товаров."
 
 #: packages/community_store/single_pages/dashboard/store/products.php:893
 msgid ""
 "Warning: Product options have changed that will create different variations "
 "- any existing variation data will be lost"
 msgstr ""
+"Предупреждение: Изменены опции товара, которые создадут разные варианты - "
+"любые существующие данные вариантов будут потеряны"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:896
 msgid ""
 "Product options have changed, update the product to configure updated "
 "variations"
 msgstr ""
+"Опции товара изменились, обновите товар, чтобы настроить обновленные "
+"варианты"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:923
 msgid "More options"
-msgstr ""
+msgstr "Больше опций"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:942
 msgid "SKU"
-msgstr ""
+msgstr "Артикул"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:945
 msgid "Base SKU"
-msgstr ""
+msgstr "Базовый артикул"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:995
 msgid "Base Sale Price"
-msgstr ""
+msgstr "Базовая цена продажи"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1003
 #: packages/community_store/single_pages/dashboard/store/products.php:1346
 msgid "Primary Image"
-msgstr ""
+msgstr "Основное изображение"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1019
 msgid "Base Weight"
-msgstr ""
+msgstr "Базовый вес"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1026
 msgid "Number of Items"
-msgstr ""
+msgstr "Количество товаров"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1029
 msgid "Base Number Of Items"
-msgstr ""
+msgstr "Базовое количество товаров"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1038
 msgid "Base Length"
-msgstr ""
+msgstr "Базовая длина"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1050
 msgid "Base Width"
-msgstr ""
+msgstr "Базовая ширина"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1061
 msgid "Base Height"
-msgstr ""
+msgstr "Базовая высота"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1072
 msgid "Update the product to display variations"
-msgstr ""
+msgstr "Обновите товар, чтобы показать варианты"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1152
 msgid ""
 "While you can set and assign attributes, they're are currently only able to "
 "be accessed programmatically"
 msgstr ""
+"Хотя вы можете устанавливать и назначать атрибуты, в настоящее время они "
+"доступны только программным образом"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1171
 msgid "You haven't created product attributes"
-msgstr ""
+msgstr "Вы не создали атрибуты товаров"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1185
 msgid "File to download on purchase"
-msgstr ""
+msgstr "Файл для загрузки при покупке"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1186
 msgid "Choose File"
@@ -2462,39 +2486,46 @@ msgid ""
 "In order to have digital downloads, you need to %sturn on advanced "
 "permissions%s."
 msgstr ""
+"Чтобы иметь цифровые загрузки, вам необходимы %sвключить дополнительные "
+"разрешения%s."
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1201
 msgid "Create user account on purchase"
-msgstr ""
+msgstr "Создать учетную запись при покупке"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1202
 msgid ""
 "When checked, if customer is guest, will create a user account on purchase"
 msgstr ""
+"Когда этот флажок установлен, если клиент является гостем, будет создана "
+"учетная запись при покупке"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1206
 msgid "On purchase add user to user groups"
-msgstr ""
+msgstr "При покупке добавить пользователя к группам пользователей"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1208
 msgid "Select user groups"
-msgstr ""
+msgstr "Выбрать группы пользователей"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1221
 msgid "Send customer directly to checkout when added to cart"
 msgstr ""
+"Отправить заказчика непосредственно в оформление заказа при добавлении в "
+"корзину"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1226
 msgid "Prevent this item from being in the cart with other items"
 msgstr ""
+"Не допускать, чтобы этот предмет находился в корзине с другими предметами"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1246
 msgid "Detail Page is set to: "
-msgstr ""
+msgstr "Страница с деталями настроена на: "
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1251
 msgid "This product is missing a corresponding page in the sitemap"
-msgstr ""
+msgstr "У этого товара отсутствует соответствующая страница в карте сайта"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1256
 #: packages/community_store/single_pages/dashboard/store/products.php:1272
@@ -2503,31 +2534,31 @@ msgstr "Шаблон страницы"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1260
 msgid "Any changes to the product will not be saved. Create product page?"
-msgstr ""
+msgstr "Любые изменения в товаре не будут сохранены. Создать страницу товара?"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1260
 msgid "Generate a Product Page"
-msgstr ""
+msgstr "Создать страницу товара"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1263
 msgid "No page is configured as the parent page for new products"
-msgstr ""
+msgstr "Нет страница настроенной как родительская для новых товаров"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1285
 msgid "Cancel / View All Products"
-msgstr ""
+msgstr "Отменить / Смотреть все товары"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1286
 msgid "%s Product"
-msgstr ""
+msgstr "%s товар"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1313
 msgid "Manage Attributes"
-msgstr "Управление атрибутами"
+msgstr "Управлять атрибутами"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1314
 msgid "Manage Groups"
-msgstr ""
+msgstr "Управлять группами"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1323
 msgid "All Groups"
@@ -2535,12 +2566,12 @@ msgstr "Все группы"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1334
 msgid "Search by Name or SKU"
-msgstr ""
+msgstr "Искать по названию или артикулу"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1351
 #: packages/community_store/single_pages/dashboard/store/products.php:1396
 msgid "Featured"
-msgstr "Избранное"
+msgstr "Избранный"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1352
 #: packages/community_store/single_pages/dashboard/store/products.php:1434
@@ -2550,27 +2581,27 @@ msgstr "Группы"
 #: packages/community_store/single_pages/dashboard/store/products.php:1381
 #: packages/community_store/single_pages/dashboard/store/products.php:1388
 msgid "Multiple"
-msgstr ""
+msgstr "Множественные"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1389
 msgid "Base price"
-msgstr ""
+msgstr "Базовая цена"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1398
 msgid "Not Featured"
-msgstr ""
+msgstr "Не избранный"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1450
 msgid "You have not added a group yet"
-msgstr ""
+msgstr "Вы еще не добавили группу"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1454
 msgid "Add a Group"
-msgstr ""
+msgstr "Добавить группу"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1457
 msgid "Group Name"
-msgstr ""
+msgstr "Название группы"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1460
 msgid "Add Group"
@@ -2578,128 +2609,128 @@ msgstr "Добавить группу"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1470
 msgid "New Product Name"
-msgstr ""
+msgstr "Название нового товара"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1471
 msgid "(Copy)"
-msgstr ""
+msgstr "(Копировать)"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1475
 msgid "New Product SKU"
-msgstr ""
+msgstr "Артикул нового товара"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:4
 msgid "Shipping Methods"
-msgstr ""
+msgstr "Способы доставки"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:5
 msgid "Tax Rates"
-msgstr ""
+msgstr "Ставки налога"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:14
 msgid "Currency"
-msgstr ""
+msgstr "Валюта"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:17
 msgid "Payments"
-msgstr ""
+msgstr "Платежи"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:18
 #: packages/community_store/single_pages/dashboard/store/settings.php:162
 msgid "Fulfilment Statuses"
-msgstr ""
+msgstr "Статусы исполнения"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:19
 msgid "Notifications and Receipts"
-msgstr ""
+msgstr "Уведомления и квитанции"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:21
 msgid "Cart and Checkout"
-msgstr ""
+msgstr "Корзина и оформление заказа"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:27
 msgid "Currency Settings"
-msgstr ""
+msgstr "Настройки валюты"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:30
 msgid "Currency Symbol"
-msgstr ""
+msgstr "Символ валюты"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:35
 msgid "Currency Code"
-msgstr ""
+msgstr "Код валюты"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:41
 msgid "Thousands Separator"
-msgstr ""
+msgstr "Разделитель тысяч"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:43
 msgid "e.g. , or a space"
-msgstr ""
+msgstr "напр. , или пробел"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:46
 msgid "Whole Number Separator"
-msgstr ""
+msgstr "Разделитель целых чисел"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:48
 msgid "e.g. period or a comma"
-msgstr ""
+msgstr "напр. , или ."
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:55
 msgid "Tax Settings"
-msgstr ""
+msgstr "Настройки налога"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:58
 msgid "Are Prices Entered with Tax Included?"
-msgstr ""
+msgstr "Включать налог во все цены?"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:59
 msgid "No, I will enter product prices EXCLUSIVE of tax"
-msgstr ""
+msgstr "Нет, я укажу цены товаров ИСКЛЮЧАЯ налог"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:59
 msgid "Yes, I will enter product prices INCLUSIVE of tax"
-msgstr ""
+msgstr "Да, я ввиду цены товаров ВКЛЮЧАЯ налог"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:63
 msgid "Enable EU VAT Number Options?"
-msgstr ""
+msgstr "Включить опции номера НДС ЕС?"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:64
 msgid "No, I don't need this"
-msgstr ""
+msgstr "Нет, мне это не нужно"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:64
 msgid "Yes, enable VAT Number options"
-msgstr ""
+msgstr "Да, включить опции номера НДС ЕС"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:71
 msgid "Shipping Units"
-msgstr ""
+msgstr "Отгрузочные единицы"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:75
 msgid "Units for Weight"
-msgstr ""
+msgstr "Единицы веса"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:77
 msgid "oz"
-msgstr ""
+msgstr "унция"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:77
 msgid "lb"
-msgstr ""
+msgstr "фунт"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:77
 msgid "kg"
-msgstr ""
+msgstr "кг"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:77
 msgid "g"
-msgstr ""
+msgstr "г"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:82
 msgid "Units for Size"
-msgstr ""
+msgstr "Единицы размера"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:84
 msgid "in"
@@ -2707,39 +2738,39 @@ msgstr "за"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:84
 msgid "cm"
-msgstr ""
+msgstr "см"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:84
 msgid "mm"
-msgstr ""
+msgstr "мм"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:92
 msgid "Include Delivery Instructions field in checkout"
-msgstr ""
+msgstr "Включить поле инструкции доставки в оформлении заказа"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:100
 msgid "Payment Methods"
-msgstr ""
+msgstr "Способы оплаты"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:119
 msgid "Display Name (on checkout)"
-msgstr ""
+msgstr "Показывать Имя (при оформлении заказа)"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:123
 msgid "Button Label"
-msgstr ""
+msgstr "Метка кнопки"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:143
 msgid "No Payment Methods are Installed"
-msgstr ""
+msgstr "Способы оплаты не установлены"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:172
 msgid "Default Status"
-msgstr ""
+msgstr "Статус по умолчанию"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:173
 msgid "Send Change Notifications to..."
-msgstr ""
+msgstr "Посылать уведомления об изменениях..."
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:176
 msgid "Site"
@@ -2747,135 +2778,139 @@ msgstr "Сайт"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:177
 msgid "Customer"
-msgstr ""
+msgstr "Клиент"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:208
 msgid "No Fulfilment Statuses are available"
-msgstr ""
+msgstr "Нет статусов выполнения"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:216
 msgid "Notification Emails"
-msgstr ""
+msgstr "Уведомления по электронной почте"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:219
 msgid ""
 "Send order notification to email %sseparate multiple emails with commas%s"
 msgstr ""
+"Отправлять уведомления о заказе по электронной почте %sразделить адреса "
+"запятыми%s"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:220
 msgid "Email Address"
-msgstr "Email адрес"
+msgstr "Адрес электронной почты"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:223
 msgid "Emails Sent From"
-msgstr ""
+msgstr "Почта от кого"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:228
 msgid "From Email"
-msgstr ""
+msgstr "С адреса"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:229
 msgid "From Email Address"
-msgstr ""
+msgstr "С адреса"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:235
 #: packages/community_store/single_pages/dashboard/store/settings.php:236
 msgid "From Name"
-msgstr ""
+msgstr "От имени"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:241
 msgid "Receipt Emails"
-msgstr ""
+msgstr "Квитанции по электронной почте"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:244
 msgid "Receipt Email Header Content"
-msgstr ""
+msgstr "Шапка письма"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:250
 msgid "Receipt Email Footer Content"
-msgstr ""
+msgstr "Подвал письма"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:262
 msgid "Page to Publish Product Pages Under"
-msgstr ""
+msgstr "Страница, под которой публиковать страницы товаров"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:270
 msgid "Cart and Ordering"
-msgstr ""
+msgstr "Корзина и заказы"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:275
 msgid "Disabled (Catalog Mode)"
-msgstr ""
+msgstr "Выключено (режим каталога)"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:280
 msgid "Guest checkout"
-msgstr ""
+msgstr "Гостевое оформление заказа"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:285
 msgid "Always (unless login required for products in cart)"
-msgstr ""
+msgstr "Всегда (если логин не требуется для товаров в корзине)"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:286
 msgid "Offer as checkout option"
-msgstr ""
+msgstr "Предложить как опцию при оформлении заказа"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:297
 msgid "Save Settings"
-msgstr "Сохранить"
+msgstr "Сохранить настройки"
 
 #: packages/community_store/single_pages/dashboard/store.php:78
 msgid "Sales this Week"
-msgstr ""
+msgstr "Продажи на этой неделе"
 
 #: packages/community_store/single_pages/dashboard/store.php:98
 #: packages/community_store/single_pages/dashboard/store.php:100
 msgid "m/d"
-msgstr ""
+msgstr "м/д"
 
 #: packages/community_store/single_pages/dashboard/store.php:141
 msgid "Recent Orders"
-msgstr ""
+msgstr "Последние заказы"
 
 #: packages/community_store/single_pages/cart.php:17
 msgid "Your cart has been updated due to changes in stock levels"
-msgstr ""
+msgstr "Ваша корзина обновлена из-за изменений в уровнях запасов"
 
 #: packages/community_store/single_pages/cart.php:169
 msgid "Enter Discount Code"
-msgstr ""
+msgstr "Введите код скидки"
 
 #: packages/community_store/single_pages/cart.php:180
 #: packages/community_store/single_pages/checkout.php:433
 msgid "Discount has been applied"
-msgstr ""
+msgstr "Скидка применена"
 
 #: packages/community_store/single_pages/cart.php:184
 #: packages/community_store/single_pages/checkout.php:437
 msgid "Invalid code"
-msgstr ""
+msgstr "Недействительный код"
 
 #: packages/community_store/single_pages/cart.php:190
 msgid "Items Sub Total"
-msgstr ""
+msgstr "Итого товаров"
 
 #: packages/community_store/single_pages/cart.php:197
 #: packages/community_store/single_pages/checkout.php:476
 msgid "to be determined"
-msgstr ""
+msgstr "подлежит определению"
 
 #: packages/community_store/single_pages/checkout.php:27
 msgid "Sign in, Register or Checkout as Guest"
-msgstr ""
+msgstr "Вход, регистрация или заказ в качестве гостя"
 
 #: packages/community_store/single_pages/checkout.php:29
 msgid "Sign in or Register"
-msgstr ""
+msgstr "Вход или регистрация"
 
 #: packages/community_store/single_pages/checkout.php:38
 msgid ""
 "In order to proceed, you'll need to either register, or sign in with your "
 "existing account."
 msgstr ""
+"Чтобы продолжить, вам необходимо зарегистрироваться или войти в свою "
+"существующую учетную запись."
 
 #: packages/community_store/single_pages/checkout.php:42
 msgid "Register"
@@ -2883,11 +2918,11 @@ msgstr "Регистрация"
 
 #: packages/community_store/single_pages/checkout.php:47
 msgid "Or optionally, you may choose to checkout as a guest."
-msgstr ""
+msgstr "Или можете выбрать оформить заказ в качестве гостя"
 
 #: packages/community_store/single_pages/checkout.php:49
 msgid "Checkout as Guest"
-msgstr ""
+msgstr "Оформить заказ в качестве гостя"
 
 #: packages/community_store/single_pages/checkout.php:77
 #: packages/community_store/single_pages/checkout.php:78
@@ -2899,38 +2934,38 @@ msgstr "Номер телефона"
 #: packages/community_store/single_pages/checkout.php:212
 #: packages/community_store/single_pages/checkout.php:213
 msgid "Address Line 1"
-msgstr ""
+msgstr "Адрес линия 1"
 
 #: packages/community_store/single_pages/checkout.php:87
 #: packages/community_store/single_pages/checkout.php:88
 #: packages/community_store/single_pages/checkout.php:216
 #: packages/community_store/single_pages/checkout.php:217
 msgid "Address Line 2"
-msgstr ""
+msgstr "Адрес линия 2"
 
 #: packages/community_store/single_pages/checkout.php:95
 #: packages/community_store/single_pages/checkout.php:224
 #: packages/community_store/src/CommunityStore/Utilities/States.php:45
 msgid "State / Province"
-msgstr ""
+msgstr "Штат / провинция"
 
 #: packages/community_store/single_pages/checkout.php:101
 #: packages/community_store/single_pages/checkout.php:102
 #: packages/community_store/single_pages/checkout.php:230
 #: packages/community_store/single_pages/checkout.php:231
 msgid "Postal Code"
-msgstr "Индекс"
+msgstr "Почтовый индекс"
 
 #: packages/community_store/single_pages/checkout.php:117
 msgid "Use these details for shipping"
-msgstr ""
+msgstr "Использовать эти данные для отгрузки"
 
 #: packages/community_store/single_pages/checkout.php:145
 #: packages/community_store/single_pages/checkout.php:242
 #: packages/community_store/single_pages/checkout.php:282
 #: packages/community_store/single_pages/checkout.php:319
 msgid "Next"
-msgstr "Следующий"
+msgstr "Дальше"
 
 #: packages/community_store/single_pages/checkout.php:170
 #: packages/community_store/single_pages/checkout.php:257
@@ -2942,236 +2977,247 @@ msgstr "Адрес"
 #: packages/community_store/single_pages/checkout.php:318
 #: packages/community_store/single_pages/checkout.php:380
 msgid "Previous"
-msgstr "Предыдущий"
+msgstr "Назад"
 
 #: packages/community_store/single_pages/checkout.php:270
 msgid "Please select a shipping method"
-msgstr ""
+msgstr "Пожалуйста выберите способ доставки"
 
 #: packages/community_store/single_pages/checkout.php:312
 msgid "VAT Number (if applicable)"
-msgstr ""
+msgstr "НДС № (если применимо)"
 
 #: packages/community_store/single_pages/checkout.php:329
 msgid "Applied VAT Number"
-msgstr ""
+msgstr "Применен НДС №"
 
 #: packages/community_store/single_pages/checkout.php:330
 msgid "Not entered"
-msgstr ""
+msgstr "Не введено"
 
 #: packages/community_store/single_pages/checkout.php:381
 msgid "Complete Order"
-msgstr ""
+msgstr "Завершить заказ"
 
 #: packages/community_store/single_pages/checkout.php:388
 msgid ""
 "There are currently no payment methods available to process your order."
 msgstr ""
+"В настоящее время для обработки вашего заказа нет доступных способов оплаты."
 
 #: packages/community_store/single_pages/checkout.php:404
 msgid "Your Cart"
-msgstr ""
+msgstr "Ваша корзина"
 
 #: packages/community_store/single_pages/checkout.php:440
 msgid "Enter discount code"
-msgstr ""
+msgstr "Введите код скидки"
 
 #: packages/community_store/single_pages/checkout.php:443
 msgid "Enter code"
-msgstr ""
+msgstr "Введите код"
 
 #: packages/community_store/single_pages/checkout.php:469
 msgid "inc. taxes"
-msgstr ""
+msgstr "вкл. налог"
 
 #: packages/community_store/single_pages/checkout.php:509
 msgid "Click here if you are not automatically redirected"
-msgstr ""
+msgstr "Нажмите здесь, если вы не перенаправлены автоматически"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:42
 msgid ""
 "Are you sure you want to remove all products, orders and discounts from "
 "Community Store? (y/n)"
 msgstr ""
+"Вы уверены, что хотите удалить все товары, заказы и скидки из Магазина "
+"Сообщества? (д/н)"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:46
 msgid ""
 "Are you sure you want to remove all products from Community Store? (y/n)"
 msgstr ""
+"Вы уверены, что хотите удалить все товары из Магазина Сообщества? (д/н)"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:50
 msgid "Are you sure you want to remove all orders from Community Store? (y/n)"
 msgstr ""
+"Вы уверены, что хотите удалить все заказы из Магазина Сообщества? (д/н)"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:54
 msgid ""
 "Are you sure you want to remove all discounts from Community Store? (y/n)"
 msgstr ""
+"Вы уверены, что хотите удалить все скидки из Магазина Сообщества? (д/н)"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:63
 msgid "Operation aborted."
-msgstr ""
+msgstr "Операция прервана."
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:74
 msgid "%d order deleted"
 msgid_plural "%d orders deleted"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d заказ удален"
+msgstr[1] "%d заказов удалено"
+msgstr[2] "%d заказов удалено"
+msgstr[3] "%d заказов удалено"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:88
 msgid "%d product deleted"
 msgid_plural "%d products deleted"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d товар удален"
+msgstr[1] "%d товаров удалено"
+msgstr[2] "%d товаров удалено"
+msgstr[3] "%d товаров удалено"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:102
 msgid "%d discount deleted"
 msgid_plural "%d discounts deleted"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%d скидка удалена"
+msgstr[1] "%d скидок удалено"
+msgstr[2] "%d скидок удалено"
+msgstr[3] "%d скидок удалено"
 
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:384
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:388
 msgid "off"
-msgstr ""
+msgstr "Выключено"
 
 #: packages/community_store/src/CommunityStore/Payment/Methods/Invoice/InvoicePaymentMethod.php:12
 msgid "Invoice"
-msgstr ""
+msgstr "Счет"
 
 #: packages/community_store/src/CommunityStore/Payment/Methods/Invoice/InvoicePaymentMethod.php:43
 msgid "Processing..."
-msgstr ""
+msgstr "Обрабатывается..."
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:198
 msgid "Please set a Base Rate"
-msgstr ""
+msgstr "Пожалуйста установите базовую ставку"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:201
 msgid "Base Rate should be a number"
-msgstr ""
+msgstr "Базовая ставка должна быть числом"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:205
 msgid ""
 "The Price Per Item doesn't have to be set, but it does have to be numeric"
 msgstr ""
+"Цена за товар не обязательно должна быть установлена, но она должна быть "
+"числовой"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:342
 msgid "Flat Rate"
-msgstr ""
+msgstr "Единая ставка"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FreeShippingShippingMethod.php:231
 msgid "Free Shipping"
-msgstr ""
+msgstr "Бесплатная доставка"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:70
 msgid ""
 "The email address you have entered has already been used to create an "
 "account. Please login first or enter a different email address."
 msgstr ""
+"Введенный вами адрес электронной почты уже используется для создания учетной"
+" записи. Пожалуйста, войдите в систему или введите другой адрес электронной "
+"почты."
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:146
 msgid "You must enter a valid VAT Number"
-msgstr ""
+msgstr "Вы должны ввести действительный НДС №"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:236
 msgid "You must enter a valid email address"
-msgstr ""
+msgstr "Вы должны ввести действительный адрес электронной почты"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:242
 msgid "You must enter a first name"
-msgstr ""
+msgstr "Вы должны ввести имя"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:245
 msgid "Please enter a first name under 255 characters"
-msgstr ""
+msgstr "Пожалуйста введите имя до 255 символов"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:248
 msgid "You must enter a Last Name"
-msgstr ""
+msgstr "Вы должны ввести фамилию"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:251
 msgid "Please enter a last name under 255 characters"
-msgstr ""
+msgstr "Пожалуйста введите фамилию до 255 символов"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:254
 msgid "You must enter an address"
-msgstr ""
+msgstr "Вы должны ввести адрес"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:257
 msgid "Please enter a street name under 255 characters"
-msgstr ""
+msgstr "Пожалуйста введите название улицы до 255 символов"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:260
 msgid "You must enter a Country"
-msgstr ""
+msgstr "Вы должны ввести страну"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:263
 msgid "You did not select a Country from the list"
-msgstr ""
+msgstr "Вы не выбрали страну из списка"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:266
 msgid "You must enter a City"
-msgstr ""
+msgstr "Вы должны ввести город"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:269
 msgid "You must enter a valid City"
-msgstr ""
+msgstr "Вы должны ввести действительный город"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:272
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:275
 msgid "You must enter a valid Postal Code"
-msgstr ""
+msgstr "Вы должны ввести действительный почтовый индекс"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:190
 msgid "Registered Customer in your store"
-msgstr ""
+msgstr "Зарегистрированный клиент в вашем магазине"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:203
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:254
 msgid "Store Customer Info"
-msgstr ""
+msgstr "Информация о клиенте магазина"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:255
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:362
 msgid "Other Customer Choices"
-msgstr ""
+msgstr "Другие выборы клиента"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:310
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:312
 msgid "Digital Downloads"
-msgstr ""
+msgstr "Цифровые загрузки"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:322
 msgid "Awaiting Processing"
-msgstr ""
+msgstr "Ожидание обработки"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:323
 msgid "Processing"
-msgstr ""
+msgstr "Обработка"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:324
 msgid "Shipped"
-msgstr ""
+msgstr "Отправлено"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:325
 msgid "Delivered"
-msgstr ""
+msgstr "Доставлено"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:326
 msgid "Will not deliver"
-msgstr ""
+msgstr "Не доставится"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:327
 msgid "Returned"
-msgstr ""
+msgstr "Возвращено"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:342
 msgid "Default"
