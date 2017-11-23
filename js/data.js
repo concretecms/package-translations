@@ -1,5 +1,5 @@
 {
-    "updated": 1511339444,
+    "updated": 1511425848,
     "packages": [
         {
             "handle": "addthis",
@@ -259,11 +259,11 @@
                     "perc": 8
                 },
                 "ru_RU": {
-                    "translated": 77,
-                    "untranslated": 593,
+                    "translated": 670,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 670,
-                    "perc": 11
+                    "perc": 100
                 },
                 "tr_TR": {
                     "translated": 75,
@@ -420,11 +420,11 @@
             "sourceURL": "https://github.com/concrete5-community-store/community_store_stripe",
             "locales": {
                 "ru_RU": {
-                    "translated": 4,
-                    "untranslated": 21,
+                    "translated": 7,
+                    "untranslated": 18,
                     "fuzzy": 0,
                     "total": 25,
-                    "perc": 16
+                    "perc": 28
                 },
                 "tr_TR": {
                     "translated": 3,
@@ -1512,11 +1512,11 @@
                     "perc": 30
                 },
                 "ru_RU": {
-                    "translated": 27,
-                    "untranslated": 56,
+                    "translated": 28,
+                    "untranslated": 55,
                     "fuzzy": 0,
                     "total": 83,
-                    "perc": 32
+                    "perc": 33
                 },
                 "tr_TR": {
                     "translated": 23,
@@ -1680,11 +1680,11 @@
                     "perc": 20
                 },
                 "ru_RU": {
-                    "translated": 6,
-                    "untranslated": 19,
+                    "translated": 8,
+                    "untranslated": 17,
                     "fuzzy": 0,
                     "total": 25,
-                    "perc": 24
+                    "perc": 32
                 },
                 "tr_TR": {
                     "translated": 6,
@@ -2730,11 +2730,11 @@
                     "perc": 26
                 },
                 "ru_RU": {
-                    "translated": 13,
-                    "untranslated": 25,
+                    "translated": 15,
+                    "untranslated": 23,
                     "fuzzy": 0,
                     "total": 38,
-                    "perc": 34
+                    "perc": 39
                 },
                 "tr_TR": {
                     "translated": 9,
@@ -3038,11 +3038,11 @@
                     "perc": 15
                 },
                 "ru_RU": {
-                    "translated": 4,
-                    "untranslated": 15,
+                    "translated": 19,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 19,
-                    "perc": 21
+                    "perc": 100
                 },
                 "tr_TR": {
                     "translated": 3,
@@ -3661,8 +3661,8 @@
                     "perc": 21
                 },
                 "ru_RU": {
-                    "translated": 92,
-                    "untranslated": 138,
+                    "translated": 93,
+                    "untranslated": 137,
                     "fuzzy": 0,
                     "total": 230,
                     "perc": 40
@@ -3829,11 +3829,11 @@
                     "perc": 16
                 },
                 "ru_RU": {
-                    "translated": 84,
-                    "untranslated": 1,
+                    "translated": 85,
+                    "untranslated": 0,
                     "fuzzy": 0,
                     "total": 85,
-                    "perc": 98
+                    "perc": 100
                 },
                 "tr_TR": {
                     "translated": 50,
