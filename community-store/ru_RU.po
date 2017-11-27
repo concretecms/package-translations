@@ -903,7 +903,7 @@ msgid ""
 "The %s Tax Class can't contain more than 1 Tax Rate if you change how the "
 "taxes are calculated"
 msgstr ""
-"Тип налогов % s не может содержать более 1 Налоговой ставки, если вы "
+"Тип налогов %s не может содержать более 1 Налоговой ставки, если вы "
 "изменяется способ расчета налогов"
 
 #: packages/community_store/controllers/single_page/dashboard/store.php:53
