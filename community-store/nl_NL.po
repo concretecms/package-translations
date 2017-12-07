@@ -5,13 +5,14 @@
 # PAMB <banis.pam@gmail.com>, 2016
 # Rob Roosen <info@swup.nl>, 2016
 # Ramon Leenders <ramon_leenders@hotmail.com>, 2016
+# Maarten Schultheiss <mfjschulth@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: community_store 1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-16T08:15:13+02:00\n"
 "PO-Revision-Date: 2017-07-16T08:15:14+02:00\n"
-"Last-Translator: Ramon Leenders <ramon_leenders@hotmail.com>, 2016\n"
+"Last-Translator: Maarten Schultheiss <mfjschulth@gmail.com>, 2017\n"
 "Language-Team: Dutch (Netherlands) (https://www.transifex.com/concrete5/teams/10374/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,11 +23,11 @@ msgstr ""
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php
 msgctxt "TemplateFileName"
 msgid "Product Breadcrumb"
-msgstr ""
+msgstr "Product broodkruimel"
 
 #: packages/community_store/controller.php:23
 msgid "Add a store to your site"
-msgstr ""
+msgstr "Winkel toevoegen aan je site"
 
 #: packages/community_store/controller.php:28
 msgid "Community Store"
@@ -38,7 +39,7 @@ msgstr "Aantal moet groter dan nul zijn"
 
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php:33
 msgid "Empty Auto-Nav Block."
-msgstr ""
+msgstr "Leeg Auto-Nav Blok"
 
 #: packages/community_store/blocks/community_product/controller.php:21
 msgid "Add a Product to the Page"
@@ -56,15 +57,15 @@ msgstr "Product"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "A selected product"
-msgstr ""
+msgstr "Een geselecteerd product"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "Product associated with this page"
-msgstr ""
+msgstr "Product geassocieerd met deze Pagina"
 
 #: packages/community_store/blocks/community_product/form.php:11
 msgid "Select Product"
-msgstr ""
+msgstr "Selecteer Product"
 
 #: packages/community_store/blocks/community_product/form.php:14
 msgid "Display Options"
@@ -100,7 +101,7 @@ msgstr "Toon \"In winkelwagen\" Knop"
 
 #: packages/community_store/blocks/community_product/form.php:65
 msgid "Show If Featured"
-msgstr ""
+msgstr "Toon als het is Aanbevolen"
 
 #: packages/community_store/blocks/community_product/form.php:71
 msgid "Show Dimensions"
@@ -108,7 +109,7 @@ msgstr "Toon Afmetingen"
 
 #: packages/community_store/blocks/community_product/form.php:77
 msgid "Show Quantity Selector"
-msgstr ""
+msgstr "Toon Hoeveelheid Keuze"
 
 #: packages/community_store/blocks/community_product/form.php:87
 msgid "Add to Cart Button Text"
@@ -116,40 +117,40 @@ msgstr "In winkelwagen Knop Text"
 
 #: packages/community_store/blocks/community_product/form.php:88
 msgid "Add To Cart"
-msgstr ""
+msgstr "Toevoegen aan Winkelwagen"
 
 #: packages/community_store/blocks/community_product/view.php:41
 #: packages/community_store/blocks/community_product/view.php:319
 msgid "On Sale: "
-msgstr ""
+msgstr "In de Verkoop"
 
 #: packages/community_store/blocks/community_product/view.php:42
 #: packages/community_store/blocks/community_product_list/view.php:110
 #: packages/community_store/blocks/community_product_list/view.php:286
 #: packages/community_store/elements/product_modal.php:118
 msgid "was"
-msgstr ""
+msgstr "was"
 
 #: packages/community_store/blocks/community_product/view.php:68
 #: packages/community_store/blocks/community_product_list/view.php:129
 msgid "Enter Other Amount"
-msgstr ""
+msgstr "Voer een ander hoeveelheid in"
 
 #: packages/community_store/blocks/community_product/view.php:70
 #: packages/community_store/blocks/community_product_list/view.php:131
 #: packages/community_store/single_pages/dashboard/store/orders.php:183
 msgid "Amount"
-msgstr ""
+msgstr "Hoeveelheid"
 
 #: packages/community_store/blocks/community_product/view.php:82
 #: packages/community_store/blocks/community_product_list/view.php:143
 msgid "minimum"
-msgstr ""
+msgstr "minimum"
 
 #: packages/community_store/blocks/community_product/view.php:89
 #: packages/community_store/blocks/community_product_list/view.php:150
 msgid "maximum"
-msgstr ""
+msgstr "maximum"
 
 #: packages/community_store/blocks/community_product/view.php:107
 msgid "Dimensions"
@@ -189,17 +190,17 @@ msgstr "Verplicht"
 #: packages/community_store/blocks/community_product/view.php:176
 #: packages/community_store/blocks/community_product_list/view.php:204
 msgid "out of stock"
-msgstr ""
+msgstr "Niet op voorraad"
 
 #: packages/community_store/blocks/community_product/view.php:205
 #: packages/community_store/blocks/community_product_list/view.php:232
 msgid "no"
-msgstr ""
+msgstr "nee"
 
 #: packages/community_store/blocks/community_product/view.php:206
 #: packages/community_store/blocks/community_product_list/view.php:233
 msgid "yes"
-msgstr ""
+msgstr "ja"
 
 #: packages/community_store/blocks/community_product/view.php:218
 #: packages/community_store/blocks/community_product_list/view.php:243
@@ -211,11 +212,11 @@ msgstr "In winkelwagen"
 #: packages/community_store/blocks/community_product_list/view.php:244
 #: packages/community_store/elements/product_modal.php:57
 msgid "Out of Stock"
-msgstr ""
+msgstr "Niet op Voorraad"
 
 #: packages/community_store/blocks/community_product/view.php:353
 msgid "Product not available"
-msgstr ""
+msgstr "Product niet beschikbaar"
 
 #: packages/community_store/blocks/community_product_list/controller.php:23
 msgid "Add a Product List for Community Store"
@@ -227,11 +228,11 @@ msgstr "Product List"
 
 #: packages/community_store/blocks/community_product_list/controller.php:228
 msgid "A page must be selected"
-msgstr ""
+msgstr "Een pagina moet geselecteerd zijn"
 
 #: packages/community_store/blocks/community_product_list/controller.php:232
 msgid "Number of Products must be a whole number"
-msgstr ""
+msgstr "Het Aantal Producten moet een heel nummer zijn"
 
 #: packages/community_store/blocks/community_product_list/form.php:8
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:31
@@ -252,7 +253,7 @@ msgstr "Producten"
 
 #: packages/community_store/blocks/community_product_list/form.php:11
 msgid "List Products"
-msgstr ""
+msgstr "Lijst Producten"
 
 #: packages/community_store/blocks/community_product_list/form.php:13
 msgid "All"
@@ -260,7 +261,7 @@ msgstr "Alles"
 
 #: packages/community_store/blocks/community_product_list/form.php:14
 msgid "Under current page"
-msgstr ""
+msgstr "Onder huidige pagina"
 
 #: packages/community_store/blocks/community_product_list/form.php:15
 msgid "Under current page and child pages"
@@ -268,7 +269,7 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product_list/form.php:16
 msgid "Under a specified page"
-msgstr ""
+msgstr "Onder een specifieke pagina"
 
 #: packages/community_store/blocks/community_product_list/form.php:17
 msgid "Under a specified page and child pages"
@@ -276,16 +277,16 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product_list/form.php:18
 msgid "Related to product displayed on this page"
-msgstr ""
+msgstr "Gerelateerd aan product getoond op deze pagina"
 
 #: packages/community_store/blocks/community_product_list/form.php:19
 msgid "Related to a specified product"
-msgstr ""
+msgstr "Gerelateerd aan een specifiek product"
 
 #: packages/community_store/blocks/community_product_list/form.php:34
 #: packages/community_store/single_pages/dashboard/store/products.php:1096
 msgid "Search for a Product"
-msgstr ""
+msgstr "Zoek een Product"
 
 #: packages/community_store/blocks/community_product_list/form.php:38
 #: packages/community_store/single_pages/dashboard/store/settings.php:128
@@ -298,7 +299,7 @@ msgstr "Alfabetisch"
 
 #: packages/community_store/blocks/community_product_list/form.php:41
 msgid "Alphabetical, reversed"
-msgstr ""
+msgstr "Alfabetisch, omgekeerd"
 
 #: packages/community_store/blocks/community_product_list/form.php:42
 #: packages/community_store/single_pages/dashboard/store/products.php:261
@@ -319,7 +320,7 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product_list/form.php:46
 msgid "Related Products Order"
-msgstr ""
+msgstr "Gerelateerde Product Volgorde"
 
 #: packages/community_store/blocks/community_product_list/form.php:47
 msgid "Category Sort Order"
@@ -335,7 +336,7 @@ msgstr ""
 
 #: packages/community_store/blocks/community_product_list/form.php:56
 msgid "Display Sort Option"
-msgstr ""
+msgstr "Toon Sorteer Optie"
 
 #: packages/community_store/blocks/community_product_list/form.php:63
 msgid "Filtering"
@@ -575,7 +576,7 @@ msgstr ""
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/attributes.php:77
 msgid "Create Product Attribute"
-msgstr ""
+msgstr "Aanmaken Product Kenmerk"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:15
 #: packages/community_store/single_pages/dashboard/store/products.php:60
@@ -584,11 +585,11 @@ msgstr "Categorieën"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:22
 msgid "Category Order Updated"
-msgstr ""
+msgstr "Categorie Volgorde Bijgewerkt"
 
 #: packages/community_store/controllers/single_page/dashboard/store/products/categories.php:40
 msgid "Manage Category: "
-msgstr ""
+msgstr "Beheer Categorie"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:56
 #: packages/community_store/controllers/single_page/dashboard/store/orders.php:64
@@ -597,7 +598,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:223
 #: packages/community_store/single_pages/dashboard/store.php:145
 msgid "Order #"
-msgstr ""
+msgstr "Bestelling #"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:57
 #: packages/community_store/single_pages/checkout.php:67
@@ -651,11 +652,11 @@ msgstr "Bestellings Datum"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:65
 msgid "Order Status"
-msgstr ""
+msgstr "Bestelling Status"
 
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:89
 msgid "Orders of %s"
-msgstr ""
+msgstr "Bestellingen van %s"
 
 #. file name for product customer exports
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:93
@@ -3018,13 +3019,13 @@ msgstr ""
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:63
 msgid "Operation aborted."
-msgstr ""
+msgstr "Handeling afgebroken"
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:74
 msgid "%d order deleted"
 msgid_plural "%d orders deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%dbestelling verwijderd"
+msgstr[1] "%d bestellingen verwijderd "
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:88
 msgid "%d product deleted"
@@ -3045,11 +3046,11 @@ msgstr ""
 
 #: packages/community_store/src/CommunityStore/Payment/Methods/Invoice/InvoicePaymentMethod.php:12
 msgid "Invoice"
-msgstr ""
+msgstr "Factuur"
 
 #: packages/community_store/src/CommunityStore/Payment/Methods/Invoice/InvoicePaymentMethod.php:43
 msgid "Processing..."
-msgstr ""
+msgstr "In behandeling... "
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:198
 msgid "Please set a Base Rate"
@@ -3066,21 +3067,23 @@ msgstr ""
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FlatRateShippingMethod.php:342
 msgid "Flat Rate"
-msgstr ""
+msgstr "Vast Bedrag"
 
 #: packages/community_store/src/CommunityStore/Shipping/Method/Types/FreeShippingShippingMethod.php:231
 msgid "Free Shipping"
-msgstr ""
+msgstr "Gratis verzenden"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:70
 msgid ""
 "The email address you have entered has already been used to create an "
 "account. Please login first or enter a different email address."
 msgstr ""
+"Het ingevoerde e-mail adres is al gebruikt voor het aanmaken van een "
+"account. Meld u eerst aan of voer een ander e-mail adres in. "
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:146
 msgid "You must enter a valid VAT Number"
-msgstr ""
+msgstr "Voer een geldig BTW-nummer in"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:236
 msgid "You must enter a valid email address"
@@ -3092,7 +3095,7 @@ msgstr "U dient een voornaam in te voeren"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:245
 msgid "Please enter a first name under 255 characters"
-msgstr ""
+msgstr "Voer een voornaam in met minder dan 255 tekens"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:248
 msgid "You must enter a Last Name"
@@ -3100,7 +3103,7 @@ msgstr "U moet een achternaam in te voeren"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:251
 msgid "Please enter a last name under 255 characters"
-msgstr ""
+msgstr "Voer een achternaam in met minder dan 255 tekens"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:254
 msgid "You must enter an address"
@@ -3108,7 +3111,7 @@ msgstr "U moet een adres in te voeren"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:257
 msgid "Please enter a street name under 255 characters"
-msgstr ""
+msgstr "Voer a.u.b. een straatnaam in met minder dan 255 tekens"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:260
 msgid "You must enter a Country"
@@ -3116,7 +3119,7 @@ msgstr "U moet een land ingeven"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:263
 msgid "You did not select a Country from the list"
-msgstr ""
+msgstr "U heeft geen Land geselecteerd uit de lijst"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:266
 msgid "You must enter a City"
@@ -3133,46 +3136,46 @@ msgstr "U moet een geldige postcode in te voeren"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:190
 msgid "Registered Customer in your store"
-msgstr ""
+msgstr "Geregistreerde Klant in uw winkel"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:203
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:254
 msgid "Store Customer Info"
-msgstr ""
+msgstr "Winkel Klant Info"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:255
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:362
 msgid "Other Customer Choices"
-msgstr ""
+msgstr "Andere Klant Keuzes"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:310
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:312
 msgid "Digital Downloads"
-msgstr ""
+msgstr "Digitale Downloads"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:322
 msgid "Awaiting Processing"
-msgstr ""
+msgstr "In Afwachting van Verwerking"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:323
 msgid "Processing"
-msgstr ""
+msgstr "In behandeling"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:324
 msgid "Shipped"
-msgstr ""
+msgstr "Verzonden"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:325
 msgid "Delivered"
-msgstr ""
+msgstr "Afgeleverd"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:326
 msgid "Will not deliver"
-msgstr ""
+msgstr "Wordt niet geleverd"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:327
 msgid "Returned"
-msgstr ""
+msgstr "Geretourneerd"
 
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:342
 msgid "Default"
