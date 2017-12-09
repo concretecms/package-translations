@@ -2349,7 +2349,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/products.php:539
 msgid "In Variations"
-msgstr ""
+msgstr "In variaties"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:561
 msgid "Add Option"
@@ -2357,11 +2357,11 @@ msgstr "Voeg optie toe"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:625
 msgid "Text Input"
-msgstr ""
+msgstr "Tekst invoer"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:626
 msgid "Text Area Input"
-msgstr ""
+msgstr "Tekstgebied invoer"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:767
 msgid "Option"
@@ -2377,12 +2377,14 @@ msgstr "Variaties"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:881
 msgid "Options have different prices, SKUs or stock levels"
-msgstr ""
+msgstr "Opties hebben verschillende prijzen, SKU's of voorraadniveaus"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:884
 msgid ""
 "After creating options add the product to configure product variations."
 msgstr ""
+"Voeg na het maken van de opties het product toe om productvarianten te "
+"configureren."
 
 #: packages/community_store/single_pages/dashboard/store/products.php:893
 msgid ""
@@ -2633,7 +2635,7 @@ msgstr "Vervullings-statussen"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:19
 msgid "Notifications and Receipts"
-msgstr ""
+msgstr "Notificaties en Ontvangbewijs"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:21
 msgid "Cart and Checkout"
@@ -3071,7 +3073,7 @@ msgstr[1] "%d kortingen verwijderd"
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:384
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:388
 msgid "off"
-msgstr ""
+msgstr "uit"
 
 #: packages/community_store/src/CommunityStore/Payment/Methods/Invoice/InvoicePaymentMethod.php:12
 msgid "Invoice"
