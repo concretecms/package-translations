@@ -1,5 +1,5 @@
 {
-    "updated": 1512721847,
+    "updated": 1512808244,
     "packages": [
         {
             "handle": "addthis",
@@ -315,11 +315,11 @@
                     "perc": 8
                 },
                 "nl_NL": {
-                    "translated": 484,
-                    "untranslated": 186,
+                    "translated": 491,
+                    "untranslated": 179,
                     "fuzzy": 0,
                     "total": 670,
-                    "perc": 72
+                    "perc": 73
                 },
                 "fa_IR": {
                     "translated": 60,
