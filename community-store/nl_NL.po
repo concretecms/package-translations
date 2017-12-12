@@ -735,35 +735,37 @@ msgstr "Succesvol verwijderd"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:91
 msgid "You need a label for this Tax Rate"
-msgstr ""
+msgstr "U heeft een label nodig voor dit belastingtarief"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:95
 msgid "Tax Rate must be a number"
-msgstr ""
+msgstr "Belastingtarief moet een getal zijn"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:98
 msgid "You need to enter a tax rate"
-msgstr ""
+msgstr "U moet een belastingtarief invoeren"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:148
 msgid "You need a name for this Tax Class"
-msgstr ""
+msgstr "U heeft een naam nodig voor deze belastingklasse"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:152
 msgid "You can only have one tax rate with your current tax settings"
 msgstr ""
+"U kunt slechts één belastingtarief hebben met uw huidige "
+"belastinginstellingen"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:166
 msgid "Tax Class removed"
-msgstr ""
+msgstr "Belastingklasse verwijderd"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:171
 msgid "Tax Class Added"
-msgstr ""
+msgstr "Belastingklasse toegevoegd"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/tax.php:177
 msgid "Tax Class updated"
-msgstr ""
+msgstr "Belastingklasse bijgewerkt"
 
 #: packages/community_store/controllers/single_page/dashboard/store/discounts.php:24
 msgid "Discount Rules"
@@ -956,7 +958,7 @@ msgstr "Basisprijs"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:17
 msgid "Rate Based On"
-msgstr ""
+msgstr "Tarief gebaseerd op"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:23
 msgid "Price per Item"
@@ -969,7 +971,7 @@ msgstr "Prijs per"
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:38
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:7
 msgid "Which Countries does this Apply to?"
-msgstr ""
+msgstr "Op welke landen is dit van toepassing?"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:39
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:8
@@ -989,29 +991,29 @@ msgstr "Als bepaalde landen, welke?"
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:57
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:26
 msgid "Minimum Purchase Amount for this rate to apply"
-msgstr ""
+msgstr "Minimum aankoopbedrag om dit tarief toe te passen"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:63
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:32
 msgid "Maximum Purchase Amount for this rate to apply"
-msgstr ""
+msgstr "Maximum aankoopbedrag om dit tarief toe te passen"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:65
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:86
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:34
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:55
 msgid "Leave at 0 for no maximum"
-msgstr ""
+msgstr "Laat op 0 voor geen maximum"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:72
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:41
 msgid "Minimum Weight Amount for this rate to apply"
-msgstr ""
+msgstr "Minimaal gewicht waarop dit tarief van toepassing is"
 
 #: packages/community_store/elements/shipping_method_types/flat_rate/dashboard_form.php:81
 #: packages/community_store/elements/shipping_method_types/free_shipping/dashboard_form.php:50
 msgid "Maximum Weight Amount for this rate to apply"
-msgstr ""
+msgstr "Maximaal gewicht waarop dit tarief van toepassing is"
 
 #: packages/community_store/elements/cart_list.php:17
 #: packages/community_store/elements/cart_modal.php:46
@@ -1033,46 +1035,48 @@ msgstr "Winkelwagen"
 
 #: packages/community_store/elements/cart_modal.php:14
 msgid "has been added to your cart"
-msgstr ""
+msgstr "is toegevoegd aan uw winkelwagen"
 
 #: packages/community_store/elements/cart_modal.php:18
 #: packages/community_store/single_pages/cart.php:13
 msgid "Your cart has been updated"
-msgstr ""
+msgstr "Uw winkelwagen is bijgewerkt"
 
 #: packages/community_store/elements/cart_modal.php:22
 #: packages/community_store/single_pages/cart.php:21
 msgid "Your cart has been cleared"
-msgstr ""
+msgstr "Uw winkelwagen is geleegd"
 
 #: packages/community_store/elements/cart_modal.php:26
 #: packages/community_store/single_pages/cart.php:25
 msgid "Item removed"
-msgstr ""
+msgstr "Item verwijderd"
 
 #: packages/community_store/elements/cart_modal.php:30
 #: packages/community_store/single_pages/cart.php:29
 msgid "Due to stock levels your quantity has been limited"
-msgstr ""
+msgstr "Vanwege voorraadniveaus is uw hoeveelheid beperkt"
 
 #: packages/community_store/elements/cart_modal.php:34
 msgid ""
 "An issue has occured adding the product to the cart. You may be missing "
 "required information."
 msgstr ""
+"Er is een probleem opgetreden bij het toevoegen van het product aan de "
+"winkelwagen. U mist mogelijk informatie die is vereist."
 
 #: packages/community_store/elements/cart_modal.php:183
 #: packages/community_store/single_pages/cart.php:204
 #: packages/community_store/single_pages/checkout.php:419
 msgid "Discount Applied"
-msgstr ""
+msgstr "Korting toegepast"
 
 #: packages/community_store/elements/cart_modal.php:183
 #: packages/community_store/single_pages/dashboard/store/orders.php:175
 #: packages/community_store/single_pages/cart.php:204
 #: packages/community_store/single_pages/checkout.php:419
 msgid "Discounts Applied"
-msgstr ""
+msgstr "Kortingen toegepast"
 
 #: packages/community_store/elements/cart_modal.php:194
 #: packages/community_store/mail/new_order_notification.php:153
@@ -1099,11 +1103,11 @@ msgstr "Totaal"
 #: packages/community_store/elements/cart_modal.php:198
 #: packages/community_store/single_pages/cart.php:227
 msgid "Your cart is empty"
-msgstr ""
+msgstr "Uw winkelwagen is leeg"
 
 #: packages/community_store/elements/cart_modal.php:203
 msgid "Continue Shopping"
-msgstr ""
+msgstr "Doorgaan met winkelen"
 
 #: packages/community_store/elements/cart_modal.php:205
 #: packages/community_store/single_pages/cart.php:151
@@ -1115,14 +1119,14 @@ msgstr "Winkelwagen opschonen"
 #: packages/community_store/mail/order_receipt.php:30
 #: packages/community_store/single_pages/dashboard/store/orders.php:22
 msgid "Order placed"
-msgstr ""
+msgstr "Bestelling geplaatst"
 
 #: packages/community_store/elements/order_slip.php:36
 #: packages/community_store/mail/order_receipt.php:204
 #: packages/community_store/single_pages/dashboard/store/orders.php:31
 #: packages/community_store/single_pages/dashboard/store/orders.php:545
 msgid "Cancelled"
-msgstr ""
+msgstr "Geannuleerd"
 
 #: packages/community_store/elements/order_slip.php:40
 #: packages/community_store/mail/order_receipt.php:207
@@ -1130,7 +1134,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:381
 #: packages/community_store/single_pages/dashboard/store/orders.php:569
 msgid "Refunded"
-msgstr ""
+msgstr "Teruggestort"
 
 #: packages/community_store/elements/order_slip.php:42
 #: packages/community_store/mail/new_order_notification.php:162
@@ -1139,7 +1143,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:354
 #: packages/community_store/single_pages/dashboard/store/orders.php:571
 msgid "Paid"
-msgstr ""
+msgstr "Betaald"
 
 #: packages/community_store/elements/order_slip.php:44
 #: packages/community_store/mail/new_order_notification.php:164
@@ -1148,7 +1152,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:337
 #: packages/community_store/single_pages/dashboard/store/orders.php:573
 msgid "Unpaid"
-msgstr ""
+msgstr "Onbetaald"
 
 #: packages/community_store/elements/order_slip.php:46
 #: packages/community_store/mail/new_order_notification.php:174
@@ -1157,12 +1161,12 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:334
 #: packages/community_store/single_pages/dashboard/store/orders.php:575
 msgid "Free Order"
-msgstr ""
+msgstr "Gratis Bestelling"
 
 #: packages/community_store/elements/order_slip.php:54
 #: packages/community_store/single_pages/dashboard/store/orders.php:49
 msgid "Customer Details"
-msgstr ""
+msgstr "Klant gegevens"
 
 #: packages/community_store/elements/order_slip.php:57
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:47
@@ -1190,7 +1194,7 @@ msgstr "Gebruiker"
 #: packages/community_store/single_pages/checkout.php:325
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:218
 msgid "VAT Number"
-msgstr ""
+msgstr "Btw-nummer"
 
 #: packages/community_store/elements/order_slip.php:93
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:55
@@ -1215,7 +1219,7 @@ msgstr "Verzendadres"
 #: packages/community_store/single_pages/checkout.php:128
 #: packages/community_store/single_pages/checkout.php:179
 msgid "Other Choices"
-msgstr ""
+msgstr "Andere keuzes"
 
 #: packages/community_store/elements/order_slip.php:132
 #: packages/community_store/single_pages/dashboard/store/orders.php:115
@@ -1272,14 +1276,14 @@ msgstr "Verzending"
 #: packages/community_store/mail/new_order_notification.php:137
 #: packages/community_store/mail/order_receipt.php:173
 msgid "Discounts"
-msgstr ""
+msgstr "Kortingen"
 
 #: packages/community_store/elements/order_slip.php:190
 #: packages/community_store/mail/new_order_notification.php:137
 #: packages/community_store/mail/order_receipt.php:173
 #: packages/community_store/single_pages/dashboard/store/discounts.php:30
 msgid "Discount"
-msgstr ""
+msgstr "Korting"
 
 #: packages/community_store/elements/order_slip.php:201
 #: packages/community_store/single_pages/dashboard/store/orders.php:222
@@ -1307,15 +1311,15 @@ msgstr "De Verzend Methode"
 #: packages/community_store/single_pages/dashboard/store/orders.php:259
 #: packages/community_store/single_pages/checkout.php:275
 msgid "Delivery Instructions"
-msgstr ""
+msgstr "Leveringsinstructies"
 
 #: packages/community_store/mail/new_order_notification.php:9
 msgid "New Order Notification #%s"
-msgstr ""
+msgstr "Nieuwe ordermelding #%s"
 
 #: packages/community_store/mail/new_order_notification.php:21
 msgid "An order has been placed"
-msgstr ""
+msgstr "Een bestelling is geplaatst"
 
 #: packages/community_store/mail/new_order_notification.php:23
 #: packages/community_store/mail/order_receipt.php:29
@@ -1352,17 +1356,17 @@ msgstr "Geen"
 #: packages/community_store/mail/order_receipt.php:217
 #: packages/community_store/single_pages/dashboard/store/orders.php:331
 msgid "Payment Status"
-msgstr ""
+msgstr "Betalingsstatus "
 
 #: packages/community_store/mail/new_order_notification.php:171
 #: packages/community_store/single_pages/dashboard/store/orders.php:228
 #: packages/community_store/single_pages/dashboard/store/orders.php:416
 msgid "Transaction Reference"
-msgstr ""
+msgstr "Transactie referentie"
 
 #: packages/community_store/mail/new_order_notification.php:178
 msgid "View this order within the Dashboard"
-msgstr ""
+msgstr "Bekijk deze bestelling in het Dashboard"
 
 #: packages/community_store/mail/new_order_notification.php:196
 msgid "Order #:"
@@ -1374,7 +1378,7 @@ msgstr "Een nieuwe bestelling is op uw website geplaatst"
 
 #: packages/community_store/mail/new_user.php:4
 msgid "account Created"
-msgstr ""
+msgstr "account aangemaakt"
 
 #: packages/community_store/mail/new_user.php:16
 #: packages/community_store/mail/new_user.php:39
@@ -1383,7 +1387,7 @@ msgstr ""
 
 #: packages/community_store/mail/order_receipt.php:8
 msgid "Order Receipt #%s"
-msgstr ""
+msgstr "Bestelling bon #%s"
 
 #: packages/community_store/mail/order_receipt.php:26
 msgid "Your Order"
@@ -1396,11 +1400,13 @@ msgstr "Uw Downloads"
 
 #: packages/community_store/single_pages/checkout/complete.php:3
 msgid "Order #%s has been placed"
-msgstr ""
+msgstr "Bestelling #%s is geplaatst"
 
 #: packages/community_store/single_pages/checkout/complete.php:5
 msgid "Thank you for your order. A receipt will be emailed to you shortly."
 msgstr ""
+"Bedankt voor uw bestelling. U ontvangt straks een ontvangstbewijs per "
+"e-mail."
 
 #: packages/community_store/single_pages/dashboard/store/orders/attributes.php:31
 #: packages/community_store/single_pages/dashboard/store/products/attributes.php:29
@@ -1409,21 +1415,21 @@ msgstr "Attribuut toevoegen"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:8
 msgid "The following pages have been used to categorise products:"
-msgstr ""
+msgstr "De volgende pagina's zijn gebruikt om producten te categoriseren:"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:10
 msgid "No pages have been used to categorise products"
-msgstr ""
+msgstr "Er zijn geen pagina's gebruikt om producten te categoriseren"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:16
 msgid "%d product"
 msgid_plural "%d products"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d product"
+msgstr[1] "%d producten"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:23
 msgid "Products within category"
-msgstr ""
+msgstr "Producten binnen categorie"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:31
 #: packages/community_store/single_pages/dashboard/store/products.php:95
@@ -1438,7 +1444,7 @@ msgstr "Annuleren"
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:48
 msgid "Save Category Product Order"
-msgstr ""
+msgstr "Opslaan categorie productvolgorde"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:15
 msgid "From"
@@ -1450,34 +1456,34 @@ msgstr "Aan"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:31
 msgid "Order By"
-msgstr ""
+msgstr "Sorteer op"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:33
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:48
 msgid "Quantity Sold"
-msgstr ""
+msgstr "Hoeveelheid verkocht"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:38
 msgid "Filter Results"
-msgstr ""
+msgstr "Filter resultaten"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:75
 msgid "Export CSV"
-msgstr ""
+msgstr "Exporteer CSV"
 
 #: packages/community_store/single_pages/dashboard/store/reports/products.php:127
 msgid "Total Quantity Sold"
-msgstr ""
+msgstr "Totale hoeveelheid verkocht"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:11
 #: packages/community_store/single_pages/dashboard/store.php:9
 msgid "Incl."
-msgstr ""
+msgstr "Incl."
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:23
 #: packages/community_store/single_pages/dashboard/store.php:26
 msgid "Today's Sales"
-msgstr ""
+msgstr "Vandaag verkocht"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:36
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:62
@@ -1495,20 +1501,20 @@ msgstr "Belasting"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:49
 msgid "Past 30 Days"
-msgstr ""
+msgstr "Afgelopen 30 dagen"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:75
 #: packages/community_store/single_pages/dashboard/store.php:52
 msgid "Year to Date"
-msgstr ""
+msgstr "Jaar tot op heden"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:183
 msgid "View Orders by Date"
-msgstr ""
+msgstr "Bekijk bestellingen op datum"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:198
 msgid "Summary"
-msgstr ""
+msgstr "Samenvatting"
 
 #: packages/community_store/single_pages/dashboard/store/reports/sales.php:206
 msgid "Export"
@@ -1526,7 +1532,7 @@ msgstr "Datum"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:26
 msgid "Method Name"
-msgstr ""
+msgstr "Methode Naam"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:32
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:100
@@ -1574,16 +1580,16 @@ msgstr "Details"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:60
 msgid "%s Shipping Method"
-msgstr ""
+msgstr "%s Verzend Methode"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:81
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:123
 msgid "General Settings"
-msgstr ""
+msgstr "Algemene instellingen"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:99
 msgid "%s Methods"
-msgstr ""
+msgstr "%s Methoden"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:101
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:133
@@ -1612,15 +1618,15 @@ msgstr "Verwijderen"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:133
 msgid "No shipping methods are configured"
-msgstr ""
+msgstr "Geen verzendingsmethodes ingesteld"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:138
 msgid "No shipping methods are currently enabled"
-msgstr ""
+msgstr "Geen verzendingsmethodes momenteel ingeschakeld"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:20
 msgid "Enable Tax Rate"
-msgstr ""
+msgstr "Activeer belastingtarief"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:26
 msgid "Tax Label"
@@ -1681,22 +1687,24 @@ msgstr "Plaatsnaam"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:92
 msgid "VAT Number Options"
-msgstr ""
+msgstr "BTW-nummer opties"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:99
 msgid "Do not apply tax if a valid VAT number is supplied"
-msgstr ""
+msgstr "Geen belasting toepassen als er een geldig btw-nummer is opgegeven"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:101
 msgid ""
 "If the customer has entered a correctly formatted VAT Number then this tax "
 "will not be applied at checkout."
 msgstr ""
+"Als de klant een correct opgemaakt BTW-nummer heeft ingevoerd, wordt deze "
+"belasting niet toegepast bij het afrekenen."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:113
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:240
 msgid "%s Tax Rate"
-msgstr ""
+msgstr "%s BTW Tarief"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:122
 msgid "Add Tax Class"
@@ -1748,16 +1756,16 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:32
 msgid "Availability"
-msgstr ""
+msgstr "Beschikbaarheid"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:47
 #: packages/community_store/single_pages/dashboard/store/discounts.php:49
 msgid "from"
-msgstr ""
+msgstr "van"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:56
 msgid "automatically"
-msgstr ""
+msgstr "Automatisch"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:59
 msgid "when single use code entered"
@@ -1777,23 +1785,23 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:63
 msgid "code"
-msgstr ""
+msgstr "Code"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:63
 msgid "codes"
-msgstr ""
+msgstr "Codes"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:63
 msgid "configured"
-msgstr ""
+msgstr "geconfigureerd"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:73
 msgid "starts"
-msgstr ""
+msgstr "start"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:77
 msgid "expires"
-msgstr ""
+msgstr "Verloopt"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:81
 msgid "always"
@@ -1806,7 +1814,7 @@ msgstr "Uit"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:102
 msgid "Manage Codes"
-msgstr ""
+msgstr "Beheer Codes"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:168
 msgid "Display Text"
