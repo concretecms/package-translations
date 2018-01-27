@@ -5,14 +5,14 @@
 # PAMB <banis.pam@gmail.com>, 2016
 # Rob Roosen <info@swup.nl>, 2016
 # Ramon Leenders <ramon_leenders@hotmail.com>, 2016
-# Maarten Schultheiss <mfjschulth@gmail.com>, 2017
+# Maarten Schultheiss, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: community_store 1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-16T08:15:13+02:00\n"
 "PO-Revision-Date: 2017-07-16T08:15:14+02:00\n"
-"Last-Translator: Maarten Schultheiss <mfjschulth@gmail.com>, 2017\n"
+"Last-Translator: Maarten Schultheiss, 2017\n"
 "Language-Team: Dutch (Netherlands) (https://www.transifex.com/concrete5/teams/10374/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

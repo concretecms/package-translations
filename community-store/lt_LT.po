@@ -3,14 +3,14 @@
 # Remo Laubacher <remo.laubacher@gmail.com>, 2016
 # Šarūnas Narkevičius <sarunas@parasparniai.lt>, 2016
 # pofka <pjasiunas@inbox.lt>, 2016
-# Vincas Dundzys <vincas.dundzys@gmail.com>, 2016
+# Vincas Dundzys, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: community_store 1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-16T08:15:13+02:00\n"
 "PO-Revision-Date: 2017-07-16T08:15:14+02:00\n"
-"Last-Translator: Vincas Dundzys <vincas.dundzys@gmail.com>, 2016\n"
+"Last-Translator: Vincas Dundzys, 2016\n"
 "Language-Team: Lithuanian (Lithuania) (https://www.transifex.com/concrete5/teams/10374/lt_LT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

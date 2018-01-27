@@ -1,14 +1,14 @@
 # Translators:
 # Michele Locati <michele@locati.it>, 2016
 # Remo Laubacher <remo.laubacher@gmail.com>, 2016
-# Maarten Schultheiss <mfjschulth@gmail.com>, 2017
+# Maarten Schultheiss, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: datetime_shifter 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-23T09:02:08+01:00\n"
 "PO-Revision-Date: 2016-12-23T09:02:09+01:00\n"
-"Last-Translator: Maarten Schultheiss <mfjschulth@gmail.com>, 2017\n"
+"Last-Translator: Maarten Schultheiss, 2017\n"
 "Language-Team: Dutch (Netherlands) (https://www.transifex.com/concrete5/teams/10374/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

@@ -1,7 +1,7 @@
 # Translators:
 # Michele Locati <michele@locati.it>, 2016
 # Remo Laubacher <remo.laubacher@gmail.com>, 2016
-# Adem Coşkuner <inactive+coskuner@transifex.com>, 2016
+# Adem Coşkuner, 2016
 # Atiksoftware Corporation <atiksoftware@gmail.com>, 2017
 msgid ""
 msgstr ""

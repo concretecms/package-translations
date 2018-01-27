@@ -1,6 +1,6 @@
 # Translators:
 # Michele Locati <michele@locati.it>, 2016
-# Heikki Ylipaavalniemi <heikki@wtfdesign.fi>, 2016
+# Heikki Ylipaavalniemi, 2016
 # Remo Laubacher <remo.laubacher@gmail.com>, 2016
 msgid ""
 msgstr ""

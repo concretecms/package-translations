@@ -1,5 +1,5 @@
 # Translators:
-# Gil Shwartz <transifex@m.hd1.org>, 2017
+# Gil Shwartz, 2017
 # Remo Laubacher <remo.laubacher@gmail.com>, 2017
 msgid ""
 msgstr ""
