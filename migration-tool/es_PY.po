@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-04T12:21:17+01:00\n"
-"PO-Revision-Date: 2017-06-20 02:42+0000\n"
+"PO-Revision-Date: 2018-01-27 17:13+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Spanish (Paraguay) (http://www.transifex.com/concrete5/concrete5-packages/language/es_PY/)\n"
 "MIME-Version: 1.0\n"
@@ -281,7 +281,7 @@ msgstr ""
 
 #: packages/migration_tool/elements/batch_content_types/page_feed.php:9
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
 #: packages/migration_tool/elements/batch_content_types/page_template.php:6
 msgid "Icon"
@@ -293,7 +293,7 @@ msgstr ""
 
 #: packages/migration_tool/elements/batch_content_types/social_link.php:5
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: packages/migration_tool/elements/batch_content_types/stack.php:8
 msgid "Stack"

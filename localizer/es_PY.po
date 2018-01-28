@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-05 12:51+0000\n"
-"PO-Revision-Date: 2017-06-20 02:42+0000\n"
+"PO-Revision-Date: 2018-01-27 17:15+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Spanish (Paraguay) (http://www.transifex.com/concrete5/concrete5-packages/language/es_PY/)\n"
 "MIME-Version: 1.0\n"
@@ -302,7 +302,7 @@ msgstr ""
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:42
 msgid "Language"
-msgstr ""
+msgstr "Lenguaje"
 
 #: packages/localizer/single_pages/dashboard/system/basics/localizer.php:69
 msgid "Options"

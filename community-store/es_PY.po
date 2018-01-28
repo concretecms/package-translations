@@ -2,13 +2,14 @@
 # Michele Locati <michele@locati.it>, 2016
 # Miguel Morel <mmorel@senatur.gov.py>, 2016
 # Edgar Missael Cabral Báez <edgarmissael@gmail.com>, 2016
+# GUILLERMO ENRIQUE TORRES <gemotorres@hotmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: community_store 1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-16T08:15:13+02:00\n"
 "PO-Revision-Date: 2017-07-16T08:15:14+02:00\n"
-"Last-Translator: Edgar Missael Cabral Báez <edgarmissael@gmail.com>, 2016\n"
+"Last-Translator: GUILLERMO ENRIQUE TORRES <gemotorres@hotmail.com>, 2018\n"
 "Language-Team: Spanish (Paraguay) (https://www.transifex.com/concrete5/teams/10374/es_PY/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2313,7 +2314,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/products.php:501
 msgid "Text Area"
-msgstr ""
+msgstr "Area de Texto"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:502
 #: packages/community_store/single_pages/dashboard/store/products.php:627

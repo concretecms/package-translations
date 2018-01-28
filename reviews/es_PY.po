@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-17 12:52+0000\n"
-"PO-Revision-Date: 2016-10-20 19:35+0000\n"
+"PO-Revision-Date: 2018-01-27 17:25+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Spanish (Paraguay) (http://www.transifex.com/concrete5/concrete5-packages/language/es_PY/)\n"
 "MIME-Version: 1.0\n"
@@ -81,7 +81,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:6
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
 #: packages/reviews/blocks/reviews/form_setup_html.php:13
 msgid "Comments Require Moderator Approval?"
@@ -138,7 +138,7 @@ msgstr ""
 
 #: packages/reviews/blocks/reviews/view.php:100
 msgid "Remove"
-msgstr ""
+msgstr "Remover"
 
 #: packages/reviews/blocks/reviews/view.php:102
 msgid "Un-Approve"

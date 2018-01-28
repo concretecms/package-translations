@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "POT-Creation-Date: 2014-03-14 16:15+0100\n"
-"PO-Revision-Date: 2016-10-20 17:09+0000\n"
+"PO-Revision-Date: 2018-01-27 17:30+0000\n"
 "Last-Translator: Michele Locati <michele@locati.it>\n"
 "Language-Team: Spanish (Paraguay) (http://www.transifex.com/concrete5/concrete5-packages/language/es_PY/)\n"
 "MIME-Version: 1.0\n"
@@ -44,7 +44,7 @@ msgstr ""
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/search.php:18
 msgid "All"
-msgstr ""
+msgstr "Todos"
 
 #: C:\Work\concrete5-pagelist-attribute/models/attribute/types/remo_page_list_attribute/type_form.php:7
 msgid "Select Options"
