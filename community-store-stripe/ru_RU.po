@@ -2,13 +2,14 @@
 # Michele Locati <michele@locati.it>, 2016
 # Anton Schepetkov <schepetkov@gmail.com>, 2016
 # Alex Borisov <linuxoidoz@gmail.com>, 2017
+# Nick Kleymenov <root@brutaldeveloper.ru>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: community_store_stripe 0.9.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-11-29T09:22:25+00:00\n"
 "PO-Revision-Date: 2016-11-29T09:22:26+00:00\n"
-"Last-Translator: Alex Borisov <linuxoidoz@gmail.com>, 2017\n"
+"Last-Translator: Nick Kleymenov <root@brutaldeveloper.ru>, 2018\n"
 "Language-Team: Russian (Russia) (https://www.transifex.com/concrete5/teams/10374/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,11 +19,11 @@ msgstr ""
 
 #: packages/community_store_stripe/controller.php:24
 msgid "Stripe Payment Method for Community Store"
-msgstr ""
+msgstr "Платежный метод Stripe для Community Store"
 
 #: packages/community_store_stripe/controller.php:29
 msgid "Stripe Payment Method"
-msgstr ""
+msgstr "Платежный метод Stripe"
 
 #: packages/community_store_stripe/controller.php:36
 msgid "This package requires that Community Store be installed"
@@ -30,7 +31,7 @@ msgstr ""
 
 #: packages/community_store_stripe/elements/community_store_stripe/checkout_form.php:13
 msgid "API Keys not entered"
-msgstr ""
+msgstr "Ключ API не указан"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:5
 msgid "Currency"
@@ -38,7 +39,7 @@ msgstr "Валюта"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:10
 msgid "Integration Type"
-msgstr ""
+msgstr "Тип интеграции"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:15
 msgid "Mode"
@@ -54,11 +55,11 @@ msgstr "Активна"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:21
 msgid "Test Secret Key"
-msgstr ""
+msgstr "Тестовый секретный ключ"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:26
 msgid "Test Publishable Key"
-msgstr ""
+msgstr "Тестовый публичный ключ"
 
 #: packages/community_store_stripe/elements/community_store_stripe/dashboard_form.php:31
 msgid "Live Secret Key"
@@ -79,7 +80,7 @@ msgstr "Завершить заказ"
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:167
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:173
 msgid "Card Number"
-msgstr ""
+msgstr "Номер карты"
 
 #: packages/community_store_stripe/elements/stripe/stripe_form.php:184
 msgid "Expiration Date"
