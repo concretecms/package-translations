@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: tr_TR\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php
 msgctxt "TemplateFileName"
@@ -1410,6 +1410,7 @@ msgstr ""
 msgid "%d product"
 msgid_plural "%d products"
 msgstr[0] ""
+msgstr[1] ""
 
 #: packages/community_store/single_pages/dashboard/store/products/categories.php:23
 msgid "Products within category"
@@ -3013,16 +3014,19 @@ msgstr ""
 msgid "%d order deleted"
 msgid_plural "%d orders deleted"
 msgstr[0] ""
+msgstr[1] ""
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:88
 msgid "%d product deleted"
 msgid_plural "%d products deleted"
 msgstr[0] ""
+msgstr[1] ""
 
 #: packages/community_store/src/CommunityStore/Console/Command/ResetCommand.php:102
 msgid "%d discount deleted"
 msgid_plural "%d discounts deleted"
 msgstr[0] ""
+msgstr[1] ""
 
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:384
 #: packages/community_store/src/CommunityStore/Discount/DiscountRule.php:388
