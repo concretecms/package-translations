@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Fred Radeff <zpartakov@akademia.ch>, 2017
+# Jean Prunneaux <jean@prunneaux.com>, 2018
 # appliculture <mikhael.minisini@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: concrete5 packages\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-26 13:55+0000\n"
-"PO-Revision-Date: 2017-01-13 16:24+0000\n"
-"Last-Translator: Fred Radeff <zpartakov@akademia.ch>\n"
+"PO-Revision-Date: 2018-06-07 11:01+0000\n"
+"Last-Translator: Jean Prunneaux <jean@prunneaux.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/concrete5/concrete5-packages/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -47,7 +48,7 @@ msgstr "Modifier le type de données"
 
 #: packages/data/controller.php:134 packages/data/controller.php:135
 msgid "Delete Data Type"
-msgstr ""
+msgstr "Supprimer le type de données"
 
 #: packages/data/controller.php:138 packages/data/controller.php:139
 msgid "Edit Data Type Permissions"

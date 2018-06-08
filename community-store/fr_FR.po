@@ -2,13 +2,14 @@
 # Remo Laubacher <remo.laubacher@gmail.com>, 2016
 # appliculture <mikhael.minisini@gmail.com>, 2016
 # Fred Radeff <zpartakov@akademia.ch>, 2017
+# Jean Prunneaux <jean@prunneaux.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: community_store 1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-16T08:15:13+02:00\n"
 "PO-Revision-Date: 2017-07-16T08:15:14+02:00\n"
-"Last-Translator: Fred Radeff <zpartakov@akademia.ch>, 2017\n"
+"Last-Translator: Jean Prunneaux <jean@prunneaux.com>, 2018\n"
 "Language-Team: French (France) (https://www.transifex.com/concrete5/teams/10374/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -141,12 +142,12 @@ msgstr "Montant"
 #: packages/community_store/blocks/community_product/view.php:82
 #: packages/community_store/blocks/community_product_list/view.php:143
 msgid "minimum"
-msgstr ""
+msgstr "minimum"
 
 #: packages/community_store/blocks/community_product/view.php:89
 #: packages/community_store/blocks/community_product_list/view.php:150
 msgid "maximum"
-msgstr ""
+msgstr "maximum"
 
 #: packages/community_store/blocks/community_product/view.php:107
 msgid "Dimensions"
@@ -191,12 +192,12 @@ msgstr ""
 #: packages/community_store/blocks/community_product/view.php:205
 #: packages/community_store/blocks/community_product_list/view.php:232
 msgid "no"
-msgstr ""
+msgstr "non"
 
 #: packages/community_store/blocks/community_product/view.php:206
 #: packages/community_store/blocks/community_product_list/view.php:233
 msgid "yes"
-msgstr ""
+msgstr "oui"
 
 #: packages/community_store/blocks/community_product/view.php:218
 #: packages/community_store/blocks/community_product_list/view.php:243
@@ -282,7 +283,7 @@ msgstr ""
 #: packages/community_store/blocks/community_product_list/form.php:34
 #: packages/community_store/single_pages/dashboard/store/products.php:1096
 msgid "Search for a Product"
-msgstr ""
+msgstr "Chercher un produit"
 
 #: packages/community_store/blocks/community_product_list/form.php:38
 #: packages/community_store/single_pages/dashboard/store/settings.php:128
@@ -295,7 +296,7 @@ msgstr "Alphabétique"
 
 #: packages/community_store/blocks/community_product_list/form.php:41
 msgid "Alphabetical, reversed"
-msgstr ""
+msgstr "Alphabétique, inversé"
 
 #: packages/community_store/blocks/community_product_list/form.php:42
 #: packages/community_store/single_pages/dashboard/store/products.php:261
@@ -440,15 +441,15 @@ msgstr "Par défaut: Plus de détails"
 
 #: packages/community_store/blocks/community_product_list/view.php:27
 msgid "Sort by"
-msgstr ""
+msgstr "Trier par"
 
 #: packages/community_store/blocks/community_product_list/view.php:31
 msgid "price, lowest to highest"
-msgstr ""
+msgstr "prix, du moins cher au plus cher"
 
 #: packages/community_store/blocks/community_product_list/view.php:32
 msgid "price, highest to lowest"
-msgstr ""
+msgstr "prix, du plus cher au moins cher"
 
 #: packages/community_store/blocks/community_product_list/view.php:163
 msgid "More Details"
@@ -1184,7 +1185,7 @@ msgstr "Utilisateur"
 #: packages/community_store/single_pages/checkout.php:325
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:218
 msgid "VAT Number"
-msgstr ""
+msgstr "Numéro de TVA"
 
 #: packages/community_store/elements/order_slip.php:93
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:55
@@ -3107,7 +3108,7 @@ msgstr ""
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:146
 msgid "You must enter a valid VAT Number"
-msgstr ""
+msgstr "Veuillez entrer un numéro de TVA valide"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:236
 msgid "You must enter a valid email address"
