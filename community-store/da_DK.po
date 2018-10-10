@@ -128,7 +128,7 @@ msgstr "før"
 #: packages/community_store/blocks/community_product/view.php:68
 #: packages/community_store/blocks/community_product_list/view.php:129
 msgid "Enter Other Amount"
-msgstr ""
+msgstr "Indtast Andet Beløb"
 
 #: packages/community_store/blocks/community_product/view.php:70
 #: packages/community_store/blocks/community_product_list/view.php:131
@@ -139,12 +139,12 @@ msgstr "Beløb"
 #: packages/community_store/blocks/community_product/view.php:82
 #: packages/community_store/blocks/community_product_list/view.php:143
 msgid "minimum"
-msgstr ""
+msgstr "minimum"
 
 #: packages/community_store/blocks/community_product/view.php:89
 #: packages/community_store/blocks/community_product_list/view.php:150
 msgid "maximum"
-msgstr ""
+msgstr "maksimum"
 
 #: packages/community_store/blocks/community_product/view.php:107
 msgid "Dimensions"
@@ -184,17 +184,17 @@ msgstr "Krævet"
 #: packages/community_store/blocks/community_product/view.php:176
 #: packages/community_store/blocks/community_product_list/view.php:204
 msgid "out of stock"
-msgstr ""
+msgstr "Ikke på lager"
 
 #: packages/community_store/blocks/community_product/view.php:205
 #: packages/community_store/blocks/community_product_list/view.php:232
 msgid "no"
-msgstr ""
+msgstr "nej"
 
 #: packages/community_store/blocks/community_product/view.php:206
 #: packages/community_store/blocks/community_product_list/view.php:233
 msgid "yes"
-msgstr ""
+msgstr "ja"
 
 #: packages/community_store/blocks/community_product/view.php:218
 #: packages/community_store/blocks/community_product_list/view.php:243
@@ -293,7 +293,7 @@ msgstr "Alfabetisk"
 
 #: packages/community_store/blocks/community_product_list/form.php:41
 msgid "Alphabetical, reversed"
-msgstr ""
+msgstr "Alfabetisk, omvendt"
 
 #: packages/community_store/blocks/community_product_list/form.php:42
 #: packages/community_store/single_pages/dashboard/store/products.php:261
@@ -330,7 +330,7 @@ msgstr "Tilfældig rækkefølge, ændre hver dag"
 
 #: packages/community_store/blocks/community_product_list/form.php:56
 msgid "Display Sort Option"
-msgstr ""
+msgstr "Vis Sorteringsfunktion"
 
 #: packages/community_store/blocks/community_product_list/form.php:63
 msgid "Filtering"
@@ -440,15 +440,15 @@ msgstr "Standard: Flere detaljer"
 
 #: packages/community_store/blocks/community_product_list/view.php:27
 msgid "Sort by"
-msgstr ""
+msgstr "Sorter efter"
 
 #: packages/community_store/blocks/community_product_list/view.php:31
 msgid "price, lowest to highest"
-msgstr ""
+msgstr "pris, laveste til højeste"
 
 #: packages/community_store/blocks/community_product_list/view.php:32
 msgid "price, highest to lowest"
-msgstr ""
+msgstr "pris, højeste til laveste"
 
 #: packages/community_store/blocks/community_product_list/view.php:163
 msgid "More Details"
@@ -692,15 +692,15 @@ msgstr "Opdater"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:44
 msgid "Shipping method created"
-msgstr ""
+msgstr "Forsendelsesmetode oprettet"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:49
 msgid "Shipping method updated"
-msgstr ""
+msgstr "Forsendelsesmetode opdateret"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:54
 msgid "Shipping method removed"
-msgstr ""
+msgstr "Forsendelsesmetode fjernet"
 
 #: packages/community_store/controllers/single_page/dashboard/store/settings/shipping.php:99
 msgid "Method Name must be set"
@@ -1187,7 +1187,7 @@ msgstr "Bruger"
 #: packages/community_store/single_pages/checkout.php:325
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:218
 msgid "VAT Number"
-msgstr ""
+msgstr "Moms Nummer"
 
 #: packages/community_store/elements/order_slip.php:93
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:55
@@ -1609,11 +1609,11 @@ msgstr "Slet"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:133
 msgid "No shipping methods are configured"
-msgstr ""
+msgstr "Ingen forsendelsesmetoder er konfigureret"
 
 #: packages/community_store/single_pages/dashboard/store/settings/shipping.php:138
 msgid "No shipping methods are currently enabled"
-msgstr ""
+msgstr "Ingen forsendelsesmetoder er i øjeblikket aktiveret"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:20
 msgid "Enable Tax Rate"
@@ -1678,17 +1678,19 @@ msgstr "By"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:92
 msgid "VAT Number Options"
-msgstr ""
+msgstr "Moms Nummer Indstillinger"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:99
 msgid "Do not apply tax if a valid VAT number is supplied"
-msgstr ""
+msgstr "Anvend ikke afgift, hvis et gyldigt momsnummer er indtastet"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:101
 msgid ""
 "If the customer has entered a correctly formatted VAT Number then this tax "
 "will not be applied at checkout."
 msgstr ""
+"Hvis kunden har indtastet et korrekt formateret momsnummer, vil denne afgift"
+" ikke blive anvendt ved checkout."
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:113
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:240
@@ -1736,7 +1738,7 @@ msgstr "Vælg Afgift Class Satser"
 
 #: packages/community_store/single_pages/dashboard/store/settings/tax.php:239
 msgid "Cancel / View Taxes"
-msgstr ""
+msgstr "Annuller / Vis Afgifter"
 
 #: packages/community_store/single_pages/dashboard/store/discounts.php:29
 msgid "Display"
@@ -1993,15 +1995,15 @@ msgstr "Automatisk"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:245
 msgid "Carrier"
-msgstr ""
+msgstr "Transportør"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:249
 msgid "Tracking Code"
-msgstr ""
+msgstr "Sporingskode"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:253
 msgid "View shipment tracking"
-msgstr ""
+msgstr "Se forsendelsessporing"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:286
 #: packages/community_store/single_pages/dashboard/store/orders.php:524
@@ -2203,11 +2205,11 @@ msgstr "Udvalgte Produkt"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:118
 msgid "Default Price"
-msgstr ""
+msgstr "Standard Pris"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:124
 msgid "No Price Set"
-msgstr ""
+msgstr "Ingen Pris Sat"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:130
 #: packages/community_store/single_pages/dashboard/store/products.php:988
@@ -2216,19 +2218,19 @@ msgstr "Tilbudspris"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:140
 msgid "Price Suggestions"
-msgstr ""
+msgstr "Pris Forslag"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:163
 msgid "Minimum Price"
-msgstr ""
+msgstr "Minimum Pris"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:175
 msgid "Maximum Price"
-msgstr ""
+msgstr "Maksimum Pris"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:190
 msgid "Allow customer to enter price"
-msgstr ""
+msgstr "Tillad kunden at indtaste prisen"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:198
 msgid "Taxable"
@@ -2325,16 +2327,16 @@ msgstr "Option Liste"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:500
 msgid "Text Field"
-msgstr ""
+msgstr "Tekstfelt"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:501
 msgid "Text Area"
-msgstr ""
+msgstr "Tekstområde"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:502
 #: packages/community_store/single_pages/dashboard/store/products.php:627
 msgid "Checkbox"
-msgstr ""
+msgstr "Afkrydsningsboks"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:503
 #: packages/community_store/single_pages/dashboard/store/products.php:628
@@ -2355,7 +2357,7 @@ msgstr "Option Handle"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:539
 msgid "In Variations"
-msgstr ""
+msgstr "I Variationer"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:561
 msgid "Add Option"
@@ -2397,6 +2399,8 @@ msgid ""
 "Warning: Product options have changed that will create different variations "
 "- any existing variation data will be lost"
 msgstr ""
+"Advarsel: Produktindstillingerne er ændret, som vil skabe forskellige "
+"variationer - alle eksisterende variationsdata vil gå tabt"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:896
 msgid ""
@@ -2453,7 +2457,7 @@ msgstr "Grund Højde"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1072
 msgid "Update the product to display variations"
-msgstr ""
+msgstr "Opdater produktet for at vise variationer"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1152
 msgid ""
@@ -2685,15 +2689,15 @@ msgstr "Ja, jeg vil indtaste produktpriser inklusive afgifter"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:63
 msgid "Enable EU VAT Number Options?"
-msgstr ""
+msgstr "Aktivér EU-Momsnummer Optioner?"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:64
 msgid "No, I don't need this"
-msgstr ""
+msgstr "Nej, jeg har ikke brug for dette"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:64
 msgid "Yes, enable VAT Number options"
-msgstr ""
+msgstr "Ja, aktiver Momsnummer Optioner"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:71
 msgid "Shipping Units"
@@ -2705,7 +2709,7 @@ msgstr "Enheder for Vægt"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:77
 msgid "oz"
-msgstr ""
+msgstr "oz"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:77
 msgid "lb"
@@ -2862,6 +2866,7 @@ msgstr "Seneste Ordrer"
 #: packages/community_store/single_pages/cart.php:17
 msgid "Your cart has been updated due to changes in stock levels"
 msgstr ""
+"Din kurv er blevet opdateret på grund af ændringer i lagerbeholdningen"
 
 #: packages/community_store/single_pages/cart.php:169
 msgid "Enter Discount Code"
@@ -2975,15 +2980,15 @@ msgstr "Vælg forsendelsesmetode"
 
 #: packages/community_store/single_pages/checkout.php:312
 msgid "VAT Number (if applicable)"
-msgstr ""
+msgstr "Momsnummer (hvis relevant)"
 
 #: packages/community_store/single_pages/checkout.php:329
 msgid "Applied VAT Number"
-msgstr ""
+msgstr "Anvendt Moms Nummer"
 
 #: packages/community_store/single_pages/checkout.php:330
 msgid "Not entered"
-msgstr ""
+msgstr "Ikke indtastet"
 
 #: packages/community_store/single_pages/checkout.php:381
 msgid "Complete Order"
@@ -3108,7 +3113,7 @@ msgstr ""
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:146
 msgid "You must enter a valid VAT Number"
-msgstr ""
+msgstr "Du skal indtaste et gyldigt Momsnummer"
 
 #: packages/community_store/src/CommunityStore/Utilities/Checkout.php:236
 msgid "You must enter a valid email address"
