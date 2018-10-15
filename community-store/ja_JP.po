@@ -4,13 +4,14 @@
 # Michele Locati <michele@locati.it>, 2016
 # suneo3476 <suneo3476@gmail.com>, 2016
 # Takuro Hishikawa <hishikawa@concrete5.co.jp>, 2016
+# Tao Sasaki <tao@xross-cube.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: community_store 1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-16T08:15:13+02:00\n"
 "PO-Revision-Date: 2017-07-16T08:15:14+02:00\n"
-"Last-Translator: Takuro Hishikawa <hishikawa@concrete5.co.jp>, 2016\n"
+"Last-Translator: Tao Sasaki <tao@xross-cube.com>, 2018\n"
 "Language-Team: Japanese (Japan) (https://www.transifex.com/concrete5/teams/10374/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,11 +22,11 @@ msgstr ""
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php
 msgctxt "TemplateFileName"
 msgid "Product Breadcrumb"
-msgstr ""
+msgstr "商品のパンくず"
 
 #: packages/community_store/controller.php:23
 msgid "Add a store to your site"
-msgstr ""
+msgstr "ストアをサイトに追加"
 
 #: packages/community_store/controller.php:28
 msgid "Community Store"
@@ -37,7 +38,7 @@ msgstr "1以上の数量を入力してください"
 
 #: packages/community_store/blocks/autonav/templates/product_breadcrumb.php:33
 msgid "Empty Auto-Nav Block."
-msgstr ""
+msgstr "オートナビが空です"
 
 #: packages/community_store/blocks/community_product/controller.php:21
 msgid "Add a Product to the Page"
@@ -55,15 +56,15 @@ msgstr "商品"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "A selected product"
-msgstr ""
+msgstr "選択された商品"
 
 #: packages/community_store/blocks/community_product/form.php:6
 msgid "Product associated with this page"
-msgstr ""
+msgstr "商品をこのページに関連づける"
 
 #: packages/community_store/blocks/community_product/form.php:11
 msgid "Select Product"
-msgstr ""
+msgstr "商品を選択"
 
 #: packages/community_store/blocks/community_product/form.php:14
 msgid "Display Options"
@@ -99,7 +100,7 @@ msgstr "「カートへ追加」ボタンを表示"
 
 #: packages/community_store/blocks/community_product/form.php:65
 msgid "Show If Featured"
-msgstr ""
+msgstr "Featuredだったら表示"
 
 #: packages/community_store/blocks/community_product/form.php:71
 msgid "Show Dimensions"
@@ -107,7 +108,7 @@ msgstr "サイズを表示"
 
 #: packages/community_store/blocks/community_product/form.php:77
 msgid "Show Quantity Selector"
-msgstr ""
+msgstr "数量選択フィールドを表示"
 
 #: packages/community_store/blocks/community_product/form.php:87
 msgid "Add to Cart Button Text"
@@ -115,12 +116,12 @@ msgstr "カートへ追加ボタンのテキスト"
 
 #: packages/community_store/blocks/community_product/form.php:88
 msgid "Add To Cart"
-msgstr ""
+msgstr "カートへ追加"
 
 #: packages/community_store/blocks/community_product/view.php:41
 #: packages/community_store/blocks/community_product/view.php:319
 msgid "On Sale: "
-msgstr ""
+msgstr "販売中: "
 
 #: packages/community_store/blocks/community_product/view.php:42
 #: packages/community_store/blocks/community_product_list/view.php:110
@@ -132,23 +133,23 @@ msgstr ""
 #: packages/community_store/blocks/community_product/view.php:68
 #: packages/community_store/blocks/community_product_list/view.php:129
 msgid "Enter Other Amount"
-msgstr ""
+msgstr "他の価格を入力"
 
 #: packages/community_store/blocks/community_product/view.php:70
 #: packages/community_store/blocks/community_product_list/view.php:131
 #: packages/community_store/single_pages/dashboard/store/orders.php:183
 msgid "Amount"
-msgstr ""
+msgstr "価格"
 
 #: packages/community_store/blocks/community_product/view.php:82
 #: packages/community_store/blocks/community_product_list/view.php:143
 msgid "minimum"
-msgstr ""
+msgstr "最小値"
 
 #: packages/community_store/blocks/community_product/view.php:89
 #: packages/community_store/blocks/community_product_list/view.php:150
 msgid "maximum"
-msgstr ""
+msgstr "最大値"
 
 #: packages/community_store/blocks/community_product/view.php:107
 msgid "Dimensions"
@@ -188,17 +189,17 @@ msgstr "必須"
 #: packages/community_store/blocks/community_product/view.php:176
 #: packages/community_store/blocks/community_product_list/view.php:204
 msgid "out of stock"
-msgstr ""
+msgstr "在庫切れ"
 
 #: packages/community_store/blocks/community_product/view.php:205
 #: packages/community_store/blocks/community_product_list/view.php:232
 msgid "no"
-msgstr ""
+msgstr "いいえ"
 
 #: packages/community_store/blocks/community_product/view.php:206
 #: packages/community_store/blocks/community_product_list/view.php:233
 msgid "yes"
-msgstr ""
+msgstr "はい"
 
 #: packages/community_store/blocks/community_product/view.php:218
 #: packages/community_store/blocks/community_product_list/view.php:243
@@ -210,11 +211,11 @@ msgstr "カートへ追加"
 #: packages/community_store/blocks/community_product_list/view.php:244
 #: packages/community_store/elements/product_modal.php:57
 msgid "Out of Stock"
-msgstr ""
+msgstr "在庫切れ"
 
 #: packages/community_store/blocks/community_product/view.php:353
 msgid "Product not available"
-msgstr ""
+msgstr "お取り扱いしていません"
 
 #: packages/community_store/blocks/community_product_list/controller.php:23
 msgid "Add a Product List for Community Store"
@@ -226,7 +227,7 @@ msgstr "商品一覧"
 
 #: packages/community_store/blocks/community_product_list/controller.php:228
 msgid "A page must be selected"
-msgstr ""
+msgstr "ページを選択してください"
 
 #: packages/community_store/blocks/community_product_list/controller.php:232
 msgid "Number of Products must be a whole number"
@@ -251,7 +252,7 @@ msgstr "商品"
 
 #: packages/community_store/blocks/community_product_list/form.php:11
 msgid "List Products"
-msgstr ""
+msgstr "商品一覧"
 
 #: packages/community_store/blocks/community_product_list/form.php:13
 msgid "All"
@@ -2020,7 +2021,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:365
 msgid "payment"
-msgstr ""
+msgstr "支払い"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:371
 msgid "Are you sure you wish to reverse this payment?"
@@ -2029,44 +2030,44 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:371
 #: packages/community_store/single_pages/dashboard/store/orders.php:394
 msgid "reverse"
-msgstr ""
+msgstr "戻す"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:394
 msgid "Are you sure you wish to reverse this refund?"
-msgstr ""
+msgstr "返品してもよろしいですか？"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:409
 msgid "Update Payment Status"
-msgstr ""
+msgstr "支払い状況を更新"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:419
 msgid "Mark Paid"
-msgstr ""
+msgstr "支払い済みにする"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:424
 msgid "Refund Reason"
-msgstr ""
+msgstr "返品理由"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:427
 msgid "Mark Refunded"
-msgstr ""
+msgstr "返品済みにする"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:439
 msgid "Resend Invoice Email"
-msgstr ""
+msgstr "請求メールを再送"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:447
 msgid "Resend Invoice"
-msgstr ""
+msgstr "請求書を再送"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:460
 #: packages/community_store/single_pages/dashboard/store/orders.php:462
 msgid "Cancel Order"
-msgstr ""
+msgstr "キャンセル"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:462
 msgid "Are you sure you wish to cancel this order?"
-msgstr ""
+msgstr "この注文をキャンセルしてもよろしいですか？"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:467
 msgid "Are you sure you wish to reverse this cancellation?"
@@ -2105,7 +2106,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:506
 msgid "Search Orders"
-msgstr ""
+msgstr "検索順"
 
 #: packages/community_store/single_pages/dashboard/store/orders.php:509
 #: packages/community_store/single_pages/dashboard/store/products.php:1338
@@ -2140,11 +2141,11 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/products.php:34
 msgid "Delete Product"
-msgstr ""
+msgstr "商品を削除"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:46
 msgid "Are you sure you want to delete this product?"
-msgstr ""
+msgstr "この商品を削除してもよろしいですか？"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:59
 msgid "Overview"
@@ -2157,7 +2158,7 @@ msgstr "画像"
 #: packages/community_store/single_pages/dashboard/store/products.php:64
 #: packages/community_store/single_pages/dashboard/store/products.php:1082
 msgid "Related Products"
-msgstr ""
+msgstr "おすすめ商品"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:65
 msgid "Attributes"
@@ -2165,7 +2166,7 @@ msgstr "属性"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:66
 msgid "Memberships and Downloads"
-msgstr ""
+msgstr "メンバーシップとダウンロード"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:67
 msgid "Detail Page"
@@ -2188,7 +2189,7 @@ msgstr "特集商品"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:118
 msgid "Default Price"
-msgstr ""
+msgstr "標準価格"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:124
 msgid "No Price Set"
@@ -2197,7 +2198,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/products.php:130
 #: packages/community_store/single_pages/dashboard/store/products.php:988
 msgid "Sale Price"
-msgstr ""
+msgstr "セール価格"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:140
 msgid "Price Suggestions"
@@ -2229,7 +2230,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/products.php:964
 #: packages/community_store/single_pages/dashboard/store/products.php:1383
 msgid "Unlimited"
-msgstr ""
+msgstr "無制限"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:247
 msgid "Allow Back Orders"
@@ -2364,11 +2365,11 @@ msgstr "隠す"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:879
 msgid "Variations"
-msgstr ""
+msgstr "バリエーション"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:881
 msgid "Options have different prices, SKUs or stock levels"
-msgstr ""
+msgstr "各オプションはそれぞれの価格と在庫/SKUを持ちます。"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:884
 msgid ""
@@ -2401,7 +2402,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/products.php:995
 msgid "Base Sale Price"
-msgstr ""
+msgstr "基本価格"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1003
 #: packages/community_store/single_pages/dashboard/store/products.php:1346
@@ -2410,31 +2411,31 @@ msgstr "メイン画像"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1019
 msgid "Base Weight"
-msgstr ""
+msgstr "基本重量"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1026
 msgid "Number of Items"
-msgstr ""
+msgstr "アイテム数"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1029
 msgid "Base Number Of Items"
-msgstr ""
+msgstr "基本アイテム数"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1038
 msgid "Base Length"
-msgstr ""
+msgstr "基本の長さ"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1050
 msgid "Base Width"
-msgstr ""
+msgstr "基本の幅"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1061
 msgid "Base Height"
-msgstr ""
+msgstr "基本の高さ"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1072
 msgid "Update the product to display variations"
-msgstr ""
+msgstr "商品表示情報を更新"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1152
 msgid ""
@@ -2444,7 +2445,7 @@ msgstr "あなたが設定した属性を割り当てることができますが
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1171
 msgid "You haven't created product attributes"
-msgstr ""
+msgstr "商品属性を作成していません"
 
 #: packages/community_store/single_pages/dashboard/store/products.php:1185
 msgid "File to download on purchase"
@@ -2591,7 +2592,7 @@ msgstr ""
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:5
 msgid "Tax Rates"
-msgstr ""
+msgstr "税率"
 
 #: packages/community_store/single_pages/dashboard/store/settings.php:14
 msgid "Currency"
