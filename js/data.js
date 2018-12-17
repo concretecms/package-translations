@@ -1,5 +1,5 @@
 {
-    "updated": 1544949021,
+    "updated": 1545035436,
     "packages": [
         {
             "handle": "addthis",
@@ -253,45 +253,45 @@
             "locales": {
                 "lt_LT": {
                     "translated": 53,
-                    "untranslated": 694,
+                    "untranslated": 713,
                     "fuzzy": 0,
-                    "total": 747,
-                    "perc": 7
+                    "total": 766,
+                    "perc": 6
                 },
                 "ru_RU": {
-                    "translated": 641,
-                    "untranslated": 106,
+                    "translated": 639,
+                    "untranslated": 127,
                     "fuzzy": 0,
-                    "total": 747,
-                    "perc": 85
+                    "total": 766,
+                    "perc": 83
                 },
                 "tr_TR": {
                     "translated": 73,
-                    "untranslated": 674,
+                    "untranslated": 693,
                     "fuzzy": 0,
-                    "total": 747,
+                    "total": 766,
                     "perc": 9
                 },
                 "sl_SI": {
                     "translated": 74,
-                    "untranslated": 673,
+                    "untranslated": 692,
                     "fuzzy": 0,
-                    "total": 747,
+                    "total": 766,
                     "perc": 9
                 },
                 "fr_FR": {
-                    "translated": 573,
-                    "untranslated": 174,
+                    "translated": 572,
+                    "untranslated": 194,
                     "fuzzy": 0,
-                    "total": 747,
-                    "perc": 76
+                    "total": 766,
+                    "perc": 74
                 },
                 "de_DE": {
-                    "translated": 631,
-                    "untranslated": 116,
+                    "translated": 630,
+                    "untranslated": 136,
                     "fuzzy": 0,
-                    "total": 747,
-                    "perc": 84
+                    "total": 766,
+                    "perc": 82
                 },
                 "ast_ES": {
                     "translated": 20,
@@ -302,38 +302,38 @@
                 },
                 "pl_PL": {
                     "translated": 73,
-                    "untranslated": 674,
+                    "untranslated": 693,
                     "fuzzy": 0,
-                    "total": 747,
+                    "total": 766,
                     "perc": 9
                 },
                 "vi_VN": {
                     "translated": 59,
-                    "untranslated": 688,
+                    "untranslated": 707,
                     "fuzzy": 0,
-                    "total": 747,
+                    "total": 766,
                     "perc": 7
                 },
                 "nl_NL": {
-                    "translated": 638,
-                    "untranslated": 109,
+                    "translated": 637,
+                    "untranslated": 129,
                     "fuzzy": 0,
-                    "total": 747,
-                    "perc": 85
+                    "total": 766,
+                    "perc": 83
                 },
                 "fa_IR": {
                     "translated": 59,
-                    "untranslated": 688,
+                    "untranslated": 707,
                     "fuzzy": 0,
-                    "total": 747,
+                    "total": 766,
                     "perc": 7
                 },
                 "it_IT": {
-                    "translated": 643,
-                    "untranslated": 104,
+                    "translated": 642,
+                    "untranslated": 124,
                     "fuzzy": 0,
-                    "total": 747,
-                    "perc": 86
+                    "total": 766,
+                    "perc": 83
                 },
                 "bg_BG": {
                     "translated": 60,
@@ -344,72 +344,72 @@
                 },
                 "ro_RO": {
                     "translated": 64,
-                    "untranslated": 683,
+                    "untranslated": 702,
                     "fuzzy": 0,
-                    "total": 747,
+                    "total": 766,
                     "perc": 8
                 },
                 "ja_JP": {
-                    "translated": 258,
-                    "untranslated": 489,
+                    "translated": 257,
+                    "untranslated": 509,
                     "fuzzy": 0,
-                    "total": 747,
-                    "perc": 34
+                    "total": 766,
+                    "perc": 33
                 },
                 "fi_FI": {
                     "translated": 77,
-                    "untranslated": 670,
+                    "untranslated": 689,
                     "fuzzy": 0,
-                    "total": 747,
+                    "total": 766,
                     "perc": 10
                 },
                 "da_DK": {
-                    "translated": 641,
-                    "untranslated": 106,
+                    "translated": 640,
+                    "untranslated": 126,
                     "fuzzy": 0,
-                    "total": 747,
-                    "perc": 85
+                    "total": 766,
+                    "perc": 83
                 },
                 "el_GR": {
-                    "translated": 643,
-                    "untranslated": 104,
+                    "translated": 641,
+                    "untranslated": 125,
                     "fuzzy": 0,
-                    "total": 747,
-                    "perc": 86
+                    "total": 766,
+                    "perc": 83
                 },
                 "he_IL": {
                     "translated": 64,
-                    "untranslated": 683,
+                    "untranslated": 702,
                     "fuzzy": 0,
-                    "total": 747,
+                    "total": 766,
                     "perc": 8
                 },
                 "es_PY": {
                     "translated": 78,
-                    "untranslated": 669,
+                    "untranslated": 688,
                     "fuzzy": 0,
-                    "total": 747,
+                    "total": 766,
                     "perc": 10
                 },
                 "pt_BR": {
                     "translated": 133,
-                    "untranslated": 614,
+                    "untranslated": 633,
                     "fuzzy": 0,
-                    "total": 747,
+                    "total": 766,
                     "perc": 17
                 },
                 "zh_TW": {
                     "translated": 66,
-                    "untranslated": 681,
+                    "untranslated": 700,
                     "fuzzy": 0,
-                    "total": 747,
+                    "total": 766,
                     "perc": 8
                 },
                 "sv_SE": {
                     "translated": 80,
-                    "untranslated": 667,
+                    "untranslated": 686,
                     "fuzzy": 0,
-                    "total": 747,
+                    "total": 766,
                     "perc": 10
                 }
             }
