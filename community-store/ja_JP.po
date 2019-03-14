@@ -2,9 +2,9 @@
 # Katz Ueno <katzueno@deerstudio.com>, 2016
 # suneo3476 <suneo3476@gmail.com>, 2016
 # Takuro Hishikawa <hishikawa@concrete5.co.jp>, 2017
-# Tao Sasaki <tao@xross-cube.com>, 2018
 # Michele Locati <michele@locati.it>, 2018
 # Remo Laubacher <remo.laubacher@gmail.com>, 2018
+# Tao Sasaki <tao@xross-cube.com>, 2019
 # 
 msgid ""
 msgstr ""
@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16T16:32:07+00:00\n"
 "PO-Revision-Date: 2016-11-29 08:59+0000\n"
-"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>, 2018\n"
+"Last-Translator: Tao Sasaki <tao@xross-cube.com>, 2019\n"
 "Language-Team: Japanese (Japan) (https://www.transifex.com/concrete5/teams/10374/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,7 +80,7 @@ msgstr "すべて"
 
 #: packages/community_store/blocks/community_product_list/form.php:14
 msgid "Under current page"
-msgstr ""
+msgstr "このページの下"
 
 #: packages/community_store/blocks/community_product_list/form.php:15
 msgid "Under current page and child pages"
@@ -106,7 +106,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/products/groups.php:93
 #: packages/community_store/single_pages/dashboard/store/products.php:1337
 msgid "Search for a Product"
-msgstr ""
+msgstr "商品を検索"
 
 #: packages/community_store/blocks/community_product_list/form.php:37
 #: packages/community_store/single_pages/dashboard/store/settings.php:140
@@ -115,11 +115,11 @@ msgstr "並び順"
 
 #: packages/community_store/blocks/community_product_list/form.php:39
 msgid "Alphabetical"
-msgstr "アルファベット順"
+msgstr "昇順"
 
 #: packages/community_store/blocks/community_product_list/form.php:40
 msgid "Alphabetical, reversed"
-msgstr ""
+msgstr "降順"
 
 #: packages/community_store/blocks/community_product_list/form.php:41
 #: packages/community_store/single_pages/dashboard/store/products.php:443
@@ -128,11 +128,11 @@ msgstr "登録日"
 
 #: packages/community_store/blocks/community_product_list/form.php:42
 msgid "Price Ascending"
-msgstr ""
+msgstr "安い順"
 
 #: packages/community_store/blocks/community_product_list/form.php:43
 msgid "Price Descending"
-msgstr ""
+msgstr "高い順"
 
 #: packages/community_store/blocks/community_product_list/form.php:44
 msgid "Best Sellers"
@@ -360,7 +360,7 @@ msgstr "在庫切れ"
 
 #: packages/community_store/blocks/community_product_list/view.php:428
 msgid "Empty Product List"
-msgstr ""
+msgstr "商品リストは空です"
 
 #: packages/community_store/blocks/community_product/controller.php:22
 msgid "Add a Product to the Page"
@@ -498,7 +498,7 @@ msgstr ""
 
 #: packages/community_store/blocks/community_utility_links/form.php:12
 msgid "Show Cart Total"
-msgstr ""
+msgstr "カート合計を表示"
 
 #: packages/community_store/blocks/community_utility_links/form.php:19
 msgid "Show Checkout Link"
@@ -514,7 +514,7 @@ msgstr ""
 
 #: packages/community_store/blocks/community_utility_links/form.php:40
 msgid "Show Sign-In Link"
-msgstr ""
+msgstr "サインインリンクを表示"
 
 #: packages/community_store/blocks/community_utility_links/form.php:46
 msgid "Cart Link Label"
@@ -543,7 +543,7 @@ msgstr "おかえりなさい"
 
 #: packages/community_store/blocks/community_utility_links/view.php:20
 msgid "Welcome back, "
-msgstr ""
+msgstr "おかえりなさい、"
 
 #: packages/community_store/blocks/community_utility_links/view.php:68
 #: packages/community_store/single_pages/cart.php:266
@@ -608,7 +608,7 @@ msgstr "電話"
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:238
 #: packages/community_store/src/CommunityStore/Utilities/Installer.php:305
 msgid "VAT Number"
-msgstr ""
+msgstr "VAT番号"
 
 #: packages/community_store/mail/new_order_notification.php:49
 #: packages/community_store/mail/order_receipt.php:54
@@ -718,7 +718,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store.php:171
 #: packages/community_store/elements/order_slip.php:189
 msgid "Discounts"
-msgstr ""
+msgstr "ディスカウント"
 
 #: packages/community_store/mail/new_order_notification.php:145
 #: packages/community_store/mail/order_receipt.php:181
@@ -726,7 +726,7 @@ msgstr ""
 #: packages/community_store/single_pages/dashboard/store/orders.php:208
 #: packages/community_store/elements/order_slip.php:189
 msgid "Discount"
-msgstr ""
+msgstr "ディスカウント"
 
 #: packages/community_store/mail/new_order_notification.php:161
 #: packages/community_store/mail/order_receipt.php:197
@@ -767,7 +767,7 @@ msgstr "支払い方法"
 #: packages/community_store/elements/order_slip.php:42
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:138
 msgid "Paid"
-msgstr ""
+msgstr "支払済"
 
 #: packages/community_store/mail/new_order_notification.php:172
 #: packages/community_store/mail/order_receipt.php:219
@@ -779,7 +779,7 @@ msgstr ""
 #: packages/community_store/elements/order_slip.php:44
 #: packages/community_store/controllers/single_page/dashboard/store/reports/products.php:140
 msgid "Unpaid"
-msgstr ""
+msgstr "未払い"
 
 #: packages/community_store/mail/new_order_notification.php:175
 #: packages/community_store/mail/order_receipt.php:225
